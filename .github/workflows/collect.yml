@@ -7,7 +7,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string : 
 #    daily,every 5 hours #m h d/m m d/w 
-    - cron:  '00 */4 * * *'
+    - cron:  '55 */4 * * *'
 #    every 2 hour
 #    - cron:  '10 */2 * * *'
 #    every month 2.nd day
@@ -42,7 +42,7 @@ jobs:
       - name: Run newsapi
         env:
             NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-        run: (python3 newsapi.py)
+        run: (python3 collect.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:

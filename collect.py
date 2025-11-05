@@ -123,8 +123,7 @@ def archiveUrl(data):
         timetravelDate = pubDate.strftime('%Y%m%d')
     #timetravelUrl = 'http://timetravel.mementoweb.org/api/json/'+timetravelDate+'/'+data['url']  #NO LONGER WORKING
     timetravelUrl = 'http://archive.org/wayback/available?url='+data['url']+'&timestamp='+timetravelDate
-    #try:
-    if(1==1):
+    try:
         print(["try request", timetravelUrl])
         page = requests.get(timetravelUrl, timeout=60)
         if page.status_code == 200:
@@ -145,8 +144,8 @@ def archiveUrl(data):
                         print(['new ts',ts,tsNew])
                         data['published'] = tsNew
                 #'closest'
-    #except:
-    #    print("not archived yet")
+    except:
+        print("not archived yet")
     return data 
 
 
