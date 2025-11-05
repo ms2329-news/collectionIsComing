@@ -39,6 +39,8 @@ githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'},
                'Emma-news/floodIsComing': {'Extreme':'Flood'},
                'liese97-news/hurricaneIsComing': {'Extreme':'Tropical Cyclone'},
                'jens-news/hurricaneIsComing': {'Extreme':'Tropical Cyclone'},
+               'MarcoL95-News25/StormIsComing': {'Extreme':'Storm'},
+               'TinoH91news/stormIsComing': {'Extreme':'Thunderstorm'},  
               }
 
 currentMonths = []
