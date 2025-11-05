@@ -19,6 +19,7 @@ from datetime import date, timedelta, datetime, timezone
 
 # pip3 install deep-translator
 from deep_translator import GoogleTranslator
+from difflib import SequenceMatcher
 
 DATA_PATH = Path.cwd()
 ts = int(time.time())
@@ -70,6 +71,9 @@ def storeCollection():
             os.mkdir(DATA_PATH / 'csv')
         df.to_csv(DATA_PATH / 'csv' / dateFile, index_label='index') 
     collectedNews = {}
+
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
 
 def removeDuplicates(df1):
     df1['md5'] = ''

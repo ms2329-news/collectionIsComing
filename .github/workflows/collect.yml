@@ -40,8 +40,6 @@ jobs:
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run newsapi
-        env:
-            NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: (python3 collect.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
