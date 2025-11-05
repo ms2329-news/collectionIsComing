@@ -35,7 +35,10 @@ githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'},
                'sonjanews/DroughtIsComing': {'Extreme':'Drought'},
                'paulski99-news/volcanoIsComing': {'Extreme':'Volcano'},
                'paularicarda-news/volcanoIsComing': {'Extreme':'Volcano'},
+               'JoPhi24-news/floodIsComing': {'Extreme':'Flood'},
+               'Emma-news/floodIsComing': {'Extreme':'Flood'},
               }
+
 currentMonths = []
 for m in [0,20,40,60]:
   month = datetime.utcfromtimestamp(ts-60*60*24*m).strftime('%Y_%m')
