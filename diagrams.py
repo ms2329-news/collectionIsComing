@@ -33,6 +33,14 @@ if(not os.path.exists(DATA_PATH / 'csv')):
     os.mkdir(DATA_PATH / 'csv')
 
 
+extremeColors = {'Thunderstorm':'#53785a', 'Flood':'#030ba1', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
+               'Tsunami':'#690191', 'Drought':'#572c03', 'Earthquake':'#870047', 'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
+               'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Snow Avalanche':'#deddd5', 'unknown':'#d60d2b', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5'  
+               }
+
+topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF00', 'Causes':'#00FFFF', 'Impacts':'#FFFF00', 'Hazard':'#FF0000'}
+
+
 def getNewsFiles():
     fileName = './csv/news_????_??.csv'
     files = glob.glob(fileName)
@@ -54,46 +62,56 @@ def getNewsDF():
     newsDF = getNewsDFbyList(files)
     return newsDF         
 
+'''
 keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
 print(topicsColorsDF)
+'''
 
 newsDf = getNewsDF()
 newsDf['title'] = newsDf['title'].fillna('')
 newsDf['description'] = newsDf['description'].fillna('')
-newsDf['quote'] = newsDf['quote'].fillna('')
-newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
+##newsDf['quote'] = newsDf['quote'].fillna('')
+#newsDf['text'] = newsDf['title'] + ' ' + newsDf['description'] 
 print(newsDf)  
+print(list(newsDf.columns.values))
 
 # Topics & Keywords
 fig = plt.figure(figsize=(12, 6), constrained_layout=True)
 gs = gridspec.GridSpec(1, 2, figure=fig)
 
 # Topics 
-newsDf2 = pd.merge(newsDf, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
-topicsDF = newsDf2.groupby('topic').count()
-topicsDF = topicsDF.drop(columns = ['topicColor'])
-topicsDF = pd.merge(topicsDF, topicsColorsDF, how='left', left_on=['topic'], right_on=['topic'])
+##newsDf2 = pd.merge(newsDf, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
+
+
+topicsDF = newsDf.groupby('topic').count()
+topicsDF['topic'] = topicsDF.index
+print(topicsDF)
+topicsDF['topicColor'] = topicsDF['topic'].apply( lambda x: topicColors[x])
+#topicsDF = topicsDF.drop(columns = ['topicColor'])
+#topicsDF = pd.merge(topicsDF, topicsColorsDF, how='left', left_on=['topic'], right_on=['topic'])
 topicsDF = topicsDF.sort_values('index', ascending=False)
 axTopics = plt.subplot(gs[0,0])
 axTopics.set_title("Topics", fontsize=24)
 plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['topicColor'], labels=topicsDF['topic'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
+
 # Keywords
-keywordsDF = newsDf.groupby('keyword').count()
+keywordsDF = newsDf.groupby('extreme').count()
+keywordsDF['extreme'] = keywordsDF.index
 keywordsDF = keywordsDF.dropna()
-keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
+keywordsDF['extremeColor'] = keywordsDF['extreme'].apply( lambda x: extremeColors[x])
+#keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
 axKeywords = plt.subplot(gs[0,1])
-axKeywords.set_title("Keywords", fontsize=24)
-plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['keywordColor'], labels=keywordsDF['keyword'],legend=False,ylabel='')
+axKeywords.set_title("Extremes", fontsize=24)
+plot = keywordsDF.plot.pie(y='index', ax=axKeywords, colors=keywordsDF['extremeColor'], labels=keywordsDF['extreme'],legend=False,ylabel='')
 #plot = topicsDF.plot(kind='pie', y='index', ax=axKeywords, colors='#'+keywordsDF['keywordColor'])
 
 
 plt.savefig(DATA_PATH / 'img' / 'keywords_pie_all.png', dpi=300)
 plt.close('all')
-
 
 #
 bayesDF = pd.DataFrame(None) 
@@ -120,6 +138,8 @@ if(not bayesDF.empty):
     bayesDF2 = bayesDF2[bayesDF2.index.notnull()]
     bayesDict = bayesDF2.to_dict('index')
 
+
+'''
 if(not bayesDF2.empty):
   fig, axes = plt.subplots(4, 5, figsize=(17, 12), sharex=True)
   axes = axes.flatten()
@@ -164,7 +184,7 @@ if(not bayesDF2.empty):
   plt.subplots_adjust(top=0.90, bottom=0.05, wspace=0.90, hspace=0.3)
   plt.savefig(DATA_PATH / "img" / ("topics_bayes" + ".png"), dpi=300)
   plt.close('all')
-
+'''
 
 def extractColors(words):
     summary = {}
@@ -173,8 +193,9 @@ def extractColors(words):
     maxTopicColor = '#000000'
     maxTopicName = 'None'
     #for topic in colorsTopics:
-    for index2, column2 in topicsColorsDF.iterrows():
-        topic = column2['topic']
+    ##for index2, column2 in topicsColorsDF.iterrows():
+    for top in topicColors:
+        topic = top
         summary[topic] = 0.0
     for word in words:
         wordColor = '#000000'
@@ -183,12 +204,13 @@ def extractColors(words):
         if(word in bayesDict):
             bayes = bayesDict[word]
             #for topic in colorsTopics:  
-            for index2, column2 in topicsColorsDF.iterrows():
-              topic = column2['topic']
+            ##for index2, column2 in topicsColorsDF.iterrows():
+            for top in topicColors: 
+              topic = top
               if(topic in bayes):
                 if(bayes[topic] > wordValue):
                     wordValue = bayes[topic]
-                    wordColor = column2['topicColor']
+                    wordColor = topicColors[top]
                 if (weighted):
                   summary[topic] += bayes[topic]*wordWeight
                 else:
@@ -196,20 +218,29 @@ def extractColors(words):
         wordColors.append(wordColor)
     ##for topic in colorsTopics: 
     if(not bayesDF2.empty):
-     for index2, column2 in topicsColorsDF.iterrows():
-        topic = column2['topic'] 
+     ##for index2, column2 in topicsColorsDF.iterrows():
+     for top in topicColors: 
+        topic = top
         if(summary[topic] > maxTopicValue):
             maxTopicValue = summary[topic]
-            maxTopicColor = column2['topicColor'] ##colorsTopics[topic]
+            maxTopicColor = topicColors[top]
   
             maxTopicName = topic
     return {'topic':maxTopicName, 'color':maxTopicColor, 'colors': wordColors}
 
-
+'''
 legendHandles = []
 ##for topic in colorsTopics:
 for index2, column2 in topicsColorsDF.iterrows():
     patch = mpatches.Patch(color=column2['topicColor'], label=column2['topic'])
+    legendHandles.append(patch)
+legendHandles.reverse()   
+'''
+
+
+legendHandles = []
+for topic in topicColors:
+    patch = mpatches.Patch(color=topicColors[topic], label=topic)
     legendHandles.append(patch)
 legendHandles.reverse()   
 
@@ -256,7 +287,7 @@ def plot_top_words(model, feature_names, n_top_words, title, filename='topics'):
 tfidf_vectorizer = TfidfVectorizer(
     max_df=0.95, min_df=2, max_features=n_features, stop_words=german_stop_words, ngram_range=(1, 1), lowercase=lowercase
 )
-tfidf = tfidf_vectorizer.fit_transform(newsDf.text)
+tfidf = tfidf_vectorizer.fit_transform(newsDf.en)
 
 
 tfidf_feature_names = tfidf_vectorizer.get_feature_names_out()
@@ -278,14 +309,14 @@ plot_top_words(
     tfidf_feature_names,
     n_top_words,
     "Topics in NMF model",
-    "topics_nmf.png"
+    "topics_nmf_en.png"
 )
 
 
 tf_vectorizer = CountVectorizer(
     max_df=0.95, min_df=2, max_features=n_features, stop_words=german_stop_words, lowercase=lowercase
 )
-tf = tf_vectorizer.fit_transform(newsDf.text)
+tf = tf_vectorizer.fit_transform(newsDf.en)
 
 lda = LatentDirichletAllocation(
     n_components=n_components,
@@ -297,7 +328,7 @@ lda = LatentDirichletAllocation(
 lda.fit(tf)
 
 tf_feature_names = tf_vectorizer.get_feature_names_out()
-plot_top_words(lda, tf_feature_names, n_top_words, "Topics in LDA model", "topics_lda.png")
+plot_top_words(lda, tf_feature_names, n_top_words, "Topics in LDA model", "topics_lda_en.png")
 
 #Sentiments, Counts, Entities
 
@@ -437,24 +468,34 @@ for index, column in newsDf.iterrows():
     dayDate = getDay(column.published)
     if(not dayDate in indexTopics):
         indexTopics[dayDate] = {}
-        for index2, column2 in topicsColorsDF.iterrows():
-           indexTopics[dayDate][column2['topic']] = 0
-    quote = str(column.text)
+        ##for index2, column2 in topicsColorsDF.iterrows():
+        for top in topicColors:
+           indexTopics[dayDate][top] = 0
+    quote = str(column.en)
     foundTopics = {}
-    for index2, column2 in topicsColorsDF.iterrows():
-       foundTopics[column2['topic']] = False
+    ##for index2, column2 in topicsColorsDF.iterrows():
+    for top in topicColors:   
+       foundTopics[top] = False
 
+    foundTopics[column['topic']] = True
+    '''
     for index3, column3 in keywordsColorsDF.iterrows():
         #if(not column3['topic'] in indexTopics[dayDate]):
         #    indexTopic[dayDate][column3['topic']] = 0
         keyword = column3['keyword'].strip("'") 
         if(keyword in quote):
             foundTopics[column3['topic']] = True
-    for index2, column2 in topicsColorsDF.iterrows():
-        if(foundTopics[column2['topic']]):
-            indexTopics[dayDate][column2['topic']] += 1
+    '''
 
-indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(topicsColorsDF['topic']))
+    ##for index2, column2 in topicsColorsDF.iterrows():
+    for top in topicColors:
+        if(foundTopics[top]):
+            indexTopics[dayDate][top] += 1
+
+print(indexTopics)
+print(list(topicColors.keys()))
+
+indexTopicsDF = pd.DataFrame.from_dict(indexTopics, orient='index', columns=list(topicColors.keys()))
 indexTopicsDF.to_csv(DATA_PATH / 'csv' / "topics_date.csv", index=True)
 
 
@@ -471,13 +512,14 @@ ca = []
 for idx, column in germanTopicsDate.iterrows():
     p = 0
     #for topic in colorsTopics:
-    for index2, column2 in topicsColorsDF.iterrows():
+    ##for index2, column2 in topicsColorsDF.iterrows():
+    for top in topicColors:
         xa.append(idx) 
         xl.append(column['Unnamed: 0'])
         ya.append(p)  
-        yl.append(column2['topic'])
-        za.append(column[column2['topic']])
-        ca.append(column2['topicColor'])
+        yl.append(top)
+        za.append(column[top])
+        ca.append(topicColors[top])
         p += 1
 fig = plt.figure(figsize=(30, 20))
 ## ax = Axes3D(fig)
@@ -486,8 +528,8 @@ ax = fig.add_subplot(projection='3d')
 #fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
 ticksx = germanTopicsDate.index.values.tolist()
 plt.xticks(ticksx, germanTopicsDate['Unnamed: 0'],rotation=63, fontsize=18)
-ticksy = np.arange(1, len(topicsColorsDF)+1, 1)
-plt.yticks(ticksy, list(topicsColorsDF['topic']), rotation=-4, fontsize=18, horizontalalignment='left')
+ticksy = np.arange(1, len(topicColors)+1, 1)
+plt.yticks(ticksy, list(topicColors.keys()), rotation=-4, fontsize=18, horizontalalignment='left')
 ax.tick_params(axis='z', labelsize=18, pad=20)
 ax.tick_params(axis='y', pad=20)
 ax.set_title("Number of Newspaper Articles covering Topics", fontsize=36, y=0.65, pad=-14)
@@ -495,9 +537,9 @@ ax.bar3d(xa, ya, 0, 0.8, 0.8, za, color=ca, alpha=0.6)
 ax.view_init(elev=30, azim=-70)
 plt.gca().xaxis.set_major_locator(mdates.DayLocator(interval=7))
 ax.get_proj = lambda: np.dot(Axes3D.get_proj(ax), np.diag([1.0, 0.7, 0.4, 1]))
-colorLeg = list(topicsColorsDF['topicColor'])
+colorLeg = list(topicColors.values())
 colorLeg.reverse()
-labelLeg = list(topicsColorsDF['topic'])
+labelLeg = list(topicColors.keys())
 labelLeg.reverse()
 custom_lines = [plt.Line2D([],[], ls="", marker='.', 
                 mec='k', mfc=c, mew=.1, ms=30) for c in colorLeg]
