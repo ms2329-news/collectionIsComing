@@ -1,607 +1,164 @@
 ,phrase,label,sentiment,subjectivity,language,count
-"Link
-","Link
-",MISC,,,de,55
-deutsche,deutsche,MISC,,,de,28
-Deutsche,Deutsche,MISC,,,de,13
-“,“,MISC,-0.7,0.0,de,12
-Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,11
-deutschen,deutschen,MISC,,,de,11
-Schweizer,Schweizer,MISC,,,de,8
-Deutscher,Deutscher,MISC,,,de,8
-Hurrikan,Hurrikan,MISC,1.133333333333333,0.0,de,7
-Super-Taifun,Super-Taifun,MISC,,,de,7
+Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,38
+“,“,MISC,-2.6,0.0,de,20
+Hurrikan,Hurrikan,MISC,-0.44166666666666665,0.25,de,18
+deutsche,deutsche,MISC,,,de,18
+Deutsche,Deutsche,MISC,,,de,10
 Bualoi“,Bualoi“,MISC,,,de,6
-flooding set off by the storm,flooding set off by the storm,MISC,,,en,5
-Zahl der Toten,Zahl der Toten,MISC,,,de,5
-The death toll,The death toll,MISC,,,en,5
-Canada were associated with wildfire smoke pollution as climate change takes,Canada were associated with wildfire smoke pollution as climate change takes,MISC,,,en,4
-We are not responsible for them in any way,We are not responsible for them in any way,MISC,,,en,4
-O…,O…,MISC,,,de,4
-…,…,MISC,0.0,0.0,de,3
-"This may be due to a browser
- extension","This may be due to a browser
- extension",MISC,,,en,3
-jamaikanische,jamaikanische,MISC,,,de,3
-A required part of this site couldnt load,A required part of this site couldnt load,MISC,,,en,3
-"Please check your
- connection","Please check your
- connection",MISC,,,en,3
-The death toll from a week of flooding and record rains,The death toll from a week of flooding and record rains,MISC,,,en,3
-lm-deluge,lm-deluge,MISC,,,en,3
-Gletsc…,Gletsc…,MISC,,,de,3
+Deutscher,Deutscher,MISC,,,de,6
+Super-Taifun,Super-Taifun,MISC,,,de,5
+jamaikanischen,jamaikanischen,MISC,,,de,5
+deutschen,deutschen,MISC,,,de,5
+Schweizer,Schweizer,MISC,,,de,4
+Jamaikanische,Jamaikanische,MISC,,,de,4
+jamaikanische,jamaikanische,MISC,,,de,4
+Zahl der Toten,Zahl der Toten,MISC,,,de,4
 Sturm und Schnee,Sturm und Schnee,MISC,,,de,3
-Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,3
-Category 5,Category 5,MISC,,,en,3
-officials said,officials said,MISC,,,en,3
-Typhoon Kalmaegi,Typhoon Kalmaegi,MISC,,,en,2
-trapping people on their roofs and submerging cars,trapping people on their roofs and submerging cars,MISC,,,en,2
-It landed on Netflix for its general release after a limited run,It landed on Netflix for its general release after a limited run,MISC,,,en,2
-much more than last year and well above the province's,much more than last year and well above the province's,MISC,,,en,2
-according to the police chief for the worst-affected area,according to the police chief for the worst-affected area,MISC,,,en,2
-new video showing the catastrophic damage,new video showing the catastrophic damage,MISC,,,en,2
-With the opening of temporary tracks on several flood-damaged sections of the BP Highway,With the opening of temporary tracks on several flood-damaged sections of the BP Highway,MISC,,,en,2
-repair work has now commenced,repair work has now commenced,MISC,,,en,2
-At least 46 people,At least 46 people,MISC,,,en,2
-Vietnam flood death toll hits 40 as,Vietnam flood death toll hits 40 as,MISC,,,en,2
-the strongest storm ever to strike Jamaica as a Category 5,the strongest storm ever to strike Jamaica as a Category 5,MISC,,,en,2
-central Vietnam rose to 40 on Tuesday,central Vietnam rose to 40 on Tuesday,MISC,0.15000000000000002,0.0,en,2
-Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,2
-Already,Already,MISC,,,en,2
-Typhoon Kalmaegi slammed into the Philippines with heavy rains and strong winds,Typhoon Kalmaegi slammed into the Philippines with heavy rains and strong winds,MISC,,,en,2
-more than two dozen Floridians,more than two dozen Floridians,MISC,,,en,2
-rose to 47 on Sunday as the fallout mounted from flooding and landslides,rose to 47 on Sunday as the fallout mounted from flooding and landslides,MISC,,,en,2
-Sets record as most intense hurricane to make landfall,Sets record as most intense hurricane to make landfall,MISC,,,en,2
-Ontario this wildfire season,Ontario this wildfire season,MISC,,,en,2
-"The Ministry of Natural Resources says nearly 6,000 square","The Ministry of Natural Resources says nearly 6,000 square",MISC,,,en,2
-Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,2
-From Storm To Solidarity,From Storm To Solidarity,MISC,,,en,2
-Jamaica Still Cut Off as Death Toll ClimbsThe New York Times,Jamaica Still Cut Off as Death Toll ClimbsThe New York Times,MISC,,,en,2
-Oct,Oct,MISC,0.0,0.0,en,2
-Hurricane Melissa death toll rises to 28,Hurricane Melissa death toll rises to 28,MISC,,,en,2
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,2
-stern+,stern+,MISC,,,de,2
-stern+statt,stern+statt,MISC,,,de,2
-Bergsteiger-Gruppe,Bergsteiger-Gruppe,MISC,,,de,2
-inches,inches,MISC,,,en,2
-Außenwelt,Außenwelt,MISC,,,de,2
-Palmetto Publishing presents insights from Thomas Pandola,Palmetto Publishing presents insights from Thomas Pandola,MISC,,,en,2
-Fiat 126,Fiat 126,MISC,,,en,2
-acquired by Volcano Restoration Project,acquired by Volcano Restoration Project,MISC,,,en,2
-Purple paint is complemented by a floral-patterned,Purple paint is complemented by a floral-patterned,MISC,,,en,2
-Deutschen,Deutschen,MISC,,,de,2
-’s,’s,MISC,,,en,2
-Caribbean,Caribbean,MISC,,,en,2
-italienische,italienische,MISC,,,de,2
-this eerie scene is no longer rare,this eerie scene is no longer rare,MISC,,,en,2
-For millions of Americans,For millions of Americans,MISC,,,en,2
-The sun dims behind a thick veil of smoke,The sun dims behind a thick veil of smoke,MISC,,,en,2
-The sky turns a rusty orange,The sky turns a rusty orange,MISC,,,en,2
-Melissa,Melissa,MISC,-0.3333333333333333,0.3333333333333333,de,2
-WATCH,WATCH,MISC,,,en,2
-intense Category,intense Category,MISC,,,en,2
-Kriegsbeginn,Kriegsbeginn,MISC,,,de,2
-threatened to bring catastrophic winds,threatened to bring catastrophic winds,MISC,,,en,2
-Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,2
-meteorologists warn residents to stay vigilant as warm,meteorologists warn residents to stay vigilant as warm,MISC,,,en,2
-different states around the country,different states around the country,MISC,,,en,2
-Betroffenen im Jahr 2024,Betroffenen im Jahr 2024,MISC,,,de,2
-Jamaica after hurricane,Jamaica after hurricane,MISC,,,en,2
-CO2-Emissionen,CO2-Emissionen,MISC,,,de,2
+Der Taifun,Der Taifun,MISC,,,de,3
+Todesopfer bei Überschwemmungen,Todesopfer bei Überschwemmungen,MISC,,,de,2
+Der Monstersturm,Der Monstersturm,MISC,,,de,2
+Jamaikas,Jamaikas,MISC,0.0,0.0,de,2
 spanische,spanische,MISC,,,de,2
-Freistaat,Freistaat,MISC,,,de,2
-the hope of finding bottled water or other supplies,the hope of finding bottled water or other supplies,MISC,,,en,2
-US-amerikanischen,US-amerikanischen,MISC,,,de,2
-active volcano,active volcano,MISC,,,en,2
-hovering over,hovering over,MISC,,,en,2
-place for the second-longest ever duration,place for the second-longest ever duration,MISC,,,en,2
-eclipsing storm Mangkhut but falling short of,eclipsing storm Mangkhut but falling short of,MISC,,,en,2
-"killing more than 800 and injuring 2,500","killing more than 800 and injuring 2,500",MISC,,,en,2
-Nine states across the southern Plains are under the threat of severe thunderstorms,Nine states across the southern Plains are under the threat of severe thunderstorms,MISC,,,en,2
-all-out record,all-out record,MISC,,,en,2
-which barrelled across the central part of the country on Tuesday,which barrelled across the central part of the country on Tuesday,MISC,,,en,2
-takes hold,takes hold,MISC,,,en,2
-Scavenging for food,Scavenging for food,MISC,,,en,2
 Ryder Cup,Ryder Cup,MISC,,,de,2
-with certain communities,with certain communities,MISC,,,en,2
-Experts weigh,Experts weigh,MISC,,,en,2
-this week,this week,MISC,,,en,2
-Jamaica from Hurricane Melissa,Jamaica from Hurricane Melissa,MISC,,,en,2
-with parts of ,with parts of ,MISC,,,en,2
-Others jump into damaged,Others jump into damaged,MISC,,,en,2
-a super volcano outside of Naples is stirring,a super volcano outside of Naples is stirring,MISC,,,en,2
-total darkness,total darkness,MISC,,,en,2
-Zeit,Zeit,MISC,,,de,2
-according to,according to,MISC,,,en,2
-Jamaica after Hurricane Melissa could rise,Jamaica after Hurricane Melissa could rise,MISC,,,en,2
-After Hurricane Melissa,After Hurricane Melissa,MISC,,,en,2
-the staggering reality of the devastation is sinking in with satellite images showing the island,the staggering reality of the devastation is sinking in with satellite images showing the island,MISC,,,en,2
-the climate crisis,the climate crisis,MISC,,,en,2
-leaving survivors,leaving survivors,MISC,,,en,2
-a way it hasn't for centuries,a way it hasn't for centuries,MISC,,,en,2
-arrested,arrested,MISC,,,en,1
-according to officials,according to officials,MISC,,,en,1
-The road from Jamaicas,The road from Jamaicas,MISC,,,en,1
-"Michigan
-","Michigan
-",MISC,,,en,1
-"deaths of Robert De Niro's grandson and Chris Stein's daughter
-</li><li","deaths of Robert De Niro's grandson and Chris Stein's daughter
-</li><li",MISC,,,en,1
-Entire communities have been devastated or isolated after taking a direct hit form the powerful storm,Entire communities have been devastated or isolated after taking a direct hit form the powerful storm,MISC,,,en,1
-known for its lush bamboo forest that formed a natural tunnel and glowed green in the bright sun,known for its lush bamboo forest that formed a natural tunnel and glowed green in the bright sun,MISC,,,en,1
-its wake in the no,its wake in the no,MISC,,,en,1
-Aerial footage from Elgeyo-Marakwet County shows,Aerial footage from Elgeyo-Marakwet County shows,MISC,,,en,1
-Don't try to outweird me,Don't try to outweird me,MISC,,,en,1
-J…,J…,MISC,,,de,1
-capital to the seaside town of Black River,capital to the seaside town of Black River,MISC,,,en,1
-französischen,französischen,MISC,,,de,1
-norditalienischen,norditalienischen,MISC,,,de,1
-Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,1
-Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,Hurricane Melissa Death Toll Rises as Extent of Damage Emerges,MISC,,,en,1
-Lawinenunglück,Lawinenunglück,MISC,0.0,0.0,de,1
-Zwei Menschen sterben bei Überschwemmung,Zwei Menschen sterben bei Überschwemmung,MISC,,,de,1
-Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1
-Ortler-Gebirge,Ortler-Gebirge,MISC,-0.11666666666666665,0.0,de,1
-JamaicaAP News Hurricane Me… The Fine Print,JamaicaAP News Hurricane Me… The Fine Print,MISC,,,en,1
-Rift Valley leave 21 dead,Rift Valley leave 21 dead,MISC,,,en,1
-From Hurricane Melissa as Many Communities Remain Cut offThe New York Times Aid efforts struggle to bring relief to parts of hurricane-stricken,From Hurricane Melissa as Many Communities Remain Cut offThe New York Times Aid efforts struggle to bring relief to parts of hurricane-stricken,MISC,,,en,1
-Jamaica that Hurricane Melissa demolished,Jamaica that Hurricane Melissa demolished,MISC,,,en,1
-italienischen,italienischen,MISC,,,de,1
-The road from Jamaica’s capital to the seaside town of Black River,The road from Jamaica’s capital to the seaside town of Black River,MISC,,,en,1
-known for its lush bamboo forest that formed a natural tunnel and glowed green in the ...,known for its lush bamboo forest that formed a natural tunnel and glowed green in the ...,MISC,,,en,1
-JamaicaBBC Hurricane Melissa kills at least 30,JamaicaBBC Hurricane Melissa kills at least 30,MISC,,,en,1
-S…,S…,MISC,,,de,1
-the Caribbean as it crosses the BahamasCNN,the Caribbean as it crosses the BahamasCNN,MISC,,,en,1
-Die tragische Bi…,Die tragische Bi…,MISC,,,de,1
-"Deadly storm hits Northeast
-</li><li","Deadly storm hits Northeast
-</li><li",MISC,,,en,1
-and expected to…,and expected to…,MISC,,,en,1
-Landslides in Kenya,Landslides in Kenya,MISC,,,en,1
-Hithiker's Guide to the Galaxy,Hithiker's Guide to the Galaxy,MISC,,,en,1
-residents of Black …,residents of Black …,MISC,,,en,1
-The communitie… The Fine Print,The communitie… The Fine Print,MISC,,,en,1
-like the wilderness here now',like the wilderness here now',MISC,,,en,1
-’ Black River residents assess damage after Hurricane MelissaThe Guardian,’ Black River residents assess damage after Hurricane MelissaThe Guardian,MISC,,,en,1
-’ Black River residents assess damage after Hurricane Melissa,’ Black River residents assess damage after Hurricane Melissa,MISC,,,en,1
-began to dissi…,began to dissi…,MISC,,,en,1
-one of the strongest storms on record to make landfall in the Caribbean,one of the strongest storms on record to make landfall in the Caribbean,MISC,,,en,1
-"increase significantly
-Melissa","increase significantly
-Melissa",MISC,,,en,1
-Tödlicher Wirbelsturm“,Tödlicher Wirbelsturm“,MISC,,,de,1
+Taifun,Taifun,MISC,,,de,2
+Todesopfer in Jamaika,Todesopfer in Jamaika,MISC,,,de,2
+The Perfect Neighbor“,The Perfect Neighbor“,MISC,,,de,2
+lm-deluge,lm-deluge,MISC,,,de,2
+Taifun Kalmaegi,Taifun Kalmaegi,MISC,,,de,2
+Gefährlicher Wirbelsturm,Gefährlicher Wirbelsturm,MISC,,,de,2
+Hurrikan Kurs,Hurrikan Kurs,MISC,,,de,2
+Stunde-Null-Dürre,Stunde-Null-Dürre,MISC,,,de,2
+Ein Sturm,Ein Sturm,MISC,,,de,2
+Kalmaegi“,Kalmaegi“,MISC,,,de,2
+Zwei Jahre nach dem verheerenden Hochwasser entlang der Glan,Zwei Jahre nach dem verheerenden Hochwasser entlang der Glan,MISC,,,de,1
+NordatlantiksYale Climate Connections,NordatlantiksYale Climate Connections,MISC,,,de,1
+Yale Climate Connections Hurrikan Melissa,Yale Climate Connections Hurrikan Melissa,MISC,,,de,1
+Hurrikan MelissaThe Guardian,Hurrikan MelissaThe Guardian,MISC,,,de,1
+Gefährlicher Wirbelsturm“,Gefährlicher Wirbelsturm“,MISC,,,de,1
+Wie bauen Sie,Wie bauen Sie,MISC,,,de,1
+The Guardian,The Guardian,MISC,,,de,1
+Wildnis“,Wildnis“,MISC,,,de,1
 Limit“,Limit“,MISC,,,de,1
-One of the stronges…,One of the stronges…,MISC,,,en,1
-this number,this number,MISC,,,en,1
-like the wilderness,like the wilderness,MISC,,,en,1
-The communities shredded and still stranded by Hurricane Melissa,The communities shredded and still stranded by Hurricane Melissa,MISC,,,en,1
-Death toll across region now stands at 50 but there are,Death toll across region now stands at 50 but there are,MISC,,,en,1
-cutting off communities,cutting off communities,MISC,,,en,1
-began to dissipate yesterday after sowing devastation across much of Jamaica,began to dissipate yesterday after sowing devastation across much of Jamaica,MISC,,,en,1
-chaos left after Hurricane Melissa,chaos left after Hurricane Melissa,MISC,,,en,1
-Jamaicans struggling,Jamaicans struggling,MISC,,,en,1
-It’s,It’s,MISC,,,en,1
-over the cold waters of the North Atlantic,over the cold waters of the North Atlantic,MISC,,,en,1
-As the death toll rises,As the death toll rises,MISC,,,en,1
-People walk along muddied roads scavenging the wreckage for food,People walk along muddied roads scavenging the wreckage for food,MISC,,,en,1
-Yale Climate Connections,Yale Climate Connections,MISC,,,en,1
-death toll expected to rise,death toll expected to rise,MISC,,,en,1
-Jamaica after Hurricane,Jamaica after Hurricane,MISC,,,en,1
-and that death toll is expected to rise,and that death toll is expected to rise,MISC,,,en,1
-Judge blocks Trump order requiring voters prove citizenship,Judge blocks Trump order requiring voters prove citizenship,MISC,,,en,1
-the death toll from Hurricane Melissa has climbed to at least 50 people across Haiti and Jamaica,the death toll from Hurricane Melissa has climbed to at least 50 people across Haiti and Jamaica,MISC,,,en,1
-the death toll from Hurricane Melissa has climbed to at least 50 peop…,the death toll from Hurricane Melissa has climbed to at least 50 peop…,MISC,,,en,1
-with the death toll numbering at least 50 across the Caribbean,with the death toll numbering at least 50 across the Caribbean,MISC,,,en,1
-with the death toll numbering at least ...,with the death toll numbering at least ...,MISC,,,en,1
-Essential relief su,Essential relief su,MISC,,,en,1
-Aid efforts,Aid efforts,MISC,,,en,1
-officials sai…,officials sai…,MISC,,,en,1
-"Jamaica 
-People walk along muddied roads scavenging the wreckage for food","Jamaica 
-People walk along muddied roads scavenging the wreckage for food",MISC,,,en,1
-Fünf Deutsche,Fünf Deutsche,MISC,,,de,1
-Tragödie in Südtirol,Tragödie in Südtirol,MISC,,,de,1
-from Hurricane Melissa,from Hurricane Melissa,MISC,,,en,1
-You'll throw them out because your house,You'll throw them out because your house,MISC,,,en,1
-you're going to get computers as prizes,you're going to get computers as prizes,MISC,,,en,1
-Caribbean damage…,Caribbean damage…,MISC,,,en,1
-over the cold waters of the North AtlanticYale Climate Connections,over the cold waters of the North AtlanticYale Climate Connections,MISC,,,en,1
-three-eyes,three-eyes,MISC,,,en,1
-More than 800 dead as 6.0 earthquake flattens,More than 800 dead as 6.0 earthquake flattens,MISC,,,en,1
-the Caribbean as it crosses the BahamasCNN …,the Caribbean as it crosses the BahamasCNN …,MISC,,,en,1
-meteorologists are tracking c… While the Atlantic hurricane season nears its end,meteorologists are tracking c… While the Atlantic hurricane season nears its end,MISC,,,en,1
-Dozens died,Dozens died,MISC,,,en,1
-At least 26 dead after Typhoon Kalmaegi barrels through Philippines,At least 26 dead after Typhoon Kalmaegi barrels through Philippines,MISC,,,en,1
-The deaths were as a result of drowning and people,The deaths were as a result of drowning and people,MISC,,,en,1
-a local government official has said,a local government official has said,MISC,,,en,1
-At least 26 people have been killed and hundreds of thousands displaced as rains driven by Typhoon Kalmaegi,At least 26 people have been killed and hundreds of thousands displaced as rains driven by Typhoon Kalmaegi,MISC,,,en,1
-Typhoon flooding kills 26,Typhoon flooding kills 26,MISC,,,en,1
-which barreled across the centr,which barreled across the centr,MISC,,,en,1
-"Associated Press
-MANILA","Associated Press
-MANILA",MISC,,,en,1
-By JIM GOMEZ,By JIM GOMEZ,MISC,,,en,1
-Officials said Tuesday that most of the victims were killed,Officials said Tuesday that most of the victims were killed,MISC,,,en,1
-people trapped on roofs and cars submerged,people trapped on roofs and cars submerged,MISC,,,en,1
-griechischen,griechischen,MISC,,,de,1
-"a late-season system
-With roughly four weeks remaining in…","a late-season system
-With roughly four weeks remaining in…",MISC,,,en,1
-the Atlantic hurricane season,the Atlantic hurricane season,MISC,,,en,1
-You stay here,You stay here,MISC,,,en,1
-While the Atlantic hurricane season nears its end,While the Atlantic hurricane season nears its end,MISC,,,en,1
-Many of th…,Many of th…,MISC,,,en,1
-Typhoon Kalmaegi killed,Typhoon Kalmaegi killed,MISC,,,en,1
-Cebu province where residents were trapp…,Cebu province where residents were trapp…,MISC,,,en,1
-Many of the fatalities were,Many of the fatalities were,MISC,,,en,1
-Typhoon Kalmaegi killed 21,Typhoon Kalmaegi killed 21,MISC,,,en,1
-Typhoon Kalmaegi Kills 21 as It Pummels Central Philippines,Typhoon Kalmaegi Kills 21 as It Pummels Central Philippines,MISC,,,en,1
-At least 46 killed after typhoon,At least 46 killed after typhoon,MISC,,,en,1
-with some re… The death toll from a week of flooding and record rains,with some re… The death toll from a week of flooding and record rains,MISC,,,en,1
-reeling from the past week's extreme weather,reeling from the past week's extreme weather,MISC,,,en,1
-Verite News,Verite News,MISC,,,en,1
-It was produced by ,It was produced by ,MISC,,,en,1
-lucrative world of disaster response and recovery,lucrative world of disaster response and recovery,MISC,,,en,1
-including the crew of a military helicopter,including the crew of a military helicopter,MISC,,,en,1
-The number includes the six crew members of a…,The number includes the six crew members of a…,MISC,,,en,1
-hessische,hessische,MISC,,,de,1
-F.A.Z.-Leser,F.A.Z.-Leser,MISC,,,de,1
-Supertaifun,Supertaifun,MISC,,,de,1
-Taifun,Taifun,MISC,0.0,0.0,de,1
-The geography of a storm,The geography of a storm,MISC,,,en,1
-the P…,the P…,MISC,,,en,1
-"TANGCAWAN
-The death toll","TANGCAWAN
-The death toll",MISC,,,en,1
-carry a resident past cars washed away by floods at the height of Typhoon Kalmaegi,carry a resident past cars washed away by floods at the height of Typhoon Kalmaegi,MISC,,,en,1
-recent memory,recent memory,MISC,,,en,1
-the Philippines climbed to 66 on Wednesday as residents of hardest-hit Cebu province began picking through homes and businesses devastated by the worst flooding,the Philippines climbed to 66 on Wednesday as residents of hardest-hit Cebu province began picking through homes and businesses devastated by the worst flooding,MISC,,,en,1
-Typhoon death toll climbs to 66,Typhoon death toll climbs to 66,MISC,,,en,1
-a glowing object flies over the v…,a glowing object flies over the v…,MISC,,,en,1
-In the footage,In the footage,MISC,,,en,1
-UFO Caught On Video Hovering Over Active Volcano Before Disappearing,UFO Caught On Video Hovering Over Active Volcano Before Disappearing,MISC,,,en,1
-and the Dominican Republic with sustained,and the Dominican Republic with sustained,MISC,,,en,1
-Cuba,Cuba,MISC,0.0,0.0,en,1
-The scale of Melissa which bombarded Jamaica,The scale of Melissa which bombarded Jamaica,MISC,,,en,1
-recorded history,recorded history,MISC,,,en,1
-The Caribbean just suffered one of the largest Hurricanes,The Caribbean just suffered one of the largest Hurricanes,MISC,,,en,1
-This will be,This will be,MISC,,,en,1
-Than Football Fields” Goes Viral,Than Football Fields” Goes Viral,MISC,,,en,1
-Experts Alarmed as AI Image of Hurricane Melissa Featuring Birds “,Experts Alarmed as AI Image of Hurricane Melissa Featuring Birds “,MISC,,,en,1
-Entire towns on the island of Cebu were inund…,Entire towns on the island of Cebu were inund…,MISC,,,en,1
-More than 40 people have died and hundreds of thousands are displaced after rains driven by Typhoon Kalmaegi,More than 40 people have died and hundreds of thousands are displaced after rains driven by Typhoon Kalmaegi,MISC,,,en,1
-More than 40 people are dead and hundreds of thousands displaced after rains from Typhoon Kalmaegi flooded the central Philippines,More than 40 people are dead and hundreds of thousands displaced after rains from Typhoon Kalmaegi flooded the central Philippines,MISC,,,en,1
-which barreled across the central part of the country on Tuesday,which barreled across the central part of the country on Tuesday,MISC,,,en,1
-Philippines Typhoon Kalmaegi has left at least 26 people dead,Philippines Typhoon Kalmaegi has left at least 26 people dead,MISC,,,en,1
-disaster response officials said,disaster response officials said,MISC,,,en,1
-which barreled across the central part of the country,which barreled across the central part of the country,MISC,,,en,1
-a Grist series exploring the often chaotic,a Grist series exploring the often chaotic,MISC,,,en,1
-This story is part of The Disaster Economy,This story is part of The Disaster Economy,MISC,,,en,1
-what's changed,what's changed,MISC,,,en,1
-Jamaica last week,Jamaica last week,MISC,,,en,1
-The Extreme Event Solutions group at Verisk,The Extreme Event Solutions group at Verisk,MISC,,,en,1
-BOSTON,BOSTON,MISC,,,en,1
-Haiti reported the highest number of deaths following catastrophic flooding from hurricane rains,Haiti reported the highest number of deaths following catastrophic flooding from hurricane rains,MISC,,,en,1
-Ein Stein im Ausmaß,Ein Stein im Ausmaß,MISC,,,de,1
-Here t,Here t,MISC,,,en,1
-Today we’re mainly going to focus on one major story from last week,Today we’re mainly going to focus on one major story from last week,MISC,,,en,1
-I’m Rachel Feltman,I’m Rachel Feltman,MISC,,,en,1
-For Scientific American’s Science Quickly,For Scientific American’s Science Quickly,MISC,,,en,1
-a warming world,a warming world,MISC,,,en,1
-Hurricane Melissa,Hurricane Melissa,MISC,,,en,1
-Why Hurricane Melissa Was One of the Most Powerful Atlantic Storms,Why Hurricane Melissa Was One of the Most Powerful Atlantic Storms,MISC,,,en,1
-being lit on fire on his land,being lit on fire on his land,MISC,,,en,1
-May 2023 with no idea that a tire,May 2023 with no idea that a tire,MISC,,,en,1
-take years for his land to get back to what it used to be like,take years for his land to get back to what it used to be like,MISC,,,en,1
-Perry says,Perry says,MISC,,,en,1
-set on land owned by Mervyn Perry,set on land owned by Mervyn Perry,MISC,,,en,1
-revealed the fire,revealed the fire,MISC,,,en,1
-charged under the Forests Act,charged under the Forests Act,MISC,,,en,1
-Court documents from last month’s,Court documents from last month’s,MISC,,,en,1
-Fire that grew to become part of Nova Scotia’s largest wildfire started on this man,Fire that grew to become part of Nova Scotia’s largest wildfire started on this man,MISC,,,en,1
-Nearly 50,Nearly 50,MISC,,,en,1
-A week after Typhoon Halong passed through Japan,A week after Typhoon Halong passed through Japan,MISC,,,en,1
-it laid bare how centuries-old policies made Native,it laid bare how centuries-old policies made Native,MISC,,,en,1
-Then a typhoon hit,Then a typhoon hit,MISC,,,en,1
-Jamaica Maya Angelou once penned words that thunder across generationsa defiant proclamation that no,Jamaica Maya Angelou once penned words that thunder across generationsa defiant proclamation that no,MISC,,,en,1
-from _Little Shop Of Horrors,from _Little Shop Of Horrors,MISC,,,en,1
-this is between me and the vegetable!,this is between me and the vegetable!,MISC,,,en,1
-The Category 5,The Category 5,MISC,,,en,1
-from Hurricane Melissa’s strike on Jamaica are expected to range between,from Hurricane Melissa’s strike on Jamaica are expected to range between,MISC,,,en,1
-More than four years later,More than four years later,MISC,,,en,1
-according to estimates from data analytics firm Verisk,according to estimates from data analytics firm Verisk,MISC,,,en,1
-They survived the hurricane,They survived the hurricane,MISC,,,en,1
-Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1
-according to the national disa,according to the national disa,MISC,,,en,1
-killing at least two people,killing at least two people,MISC,,,en,1
-Two dead as Typhoon Kalmaegi brings,Two dead as Typhoon Kalmaegi brings,MISC,,,en,1
-"Dagenham 
-London's emergency services have spent more than","Dagenham 
-London's emergency services have spent more than",MISC,,,en,1
-"City Hall
-Firefighters are having to tackle large fires like this at Beam Park","City Hall
-Firefighters are having to tackle large fires like this at Beam Park",MISC,,,en,1
-Wildfires and floods cost emergency services,Wildfires and floods cost emergency services,MISC,,,en,1
->Wildfire smoke significantly increases the risk of premature birth.</li><li,>Wildfire smoke significantly increases the risk of premature birth.</li><li,MISC,,,en,1
-The risk is most severe,The risk is most severe,MISC,,,en,1
-Exposure during,Exposure during,MISC,,,en,1
-Wildfire smoke significantly increases the risk of premature birth,Wildfire smoke significantly increases the risk of premature birth,MISC,,,en,1
-pregnancy significantly increases preterm birth risk,pregnancy significantly increases preterm birth risk,MISC,,,en,1
-Inselst…,Inselst…,MISC,,,de,1
-left entire com…,left entire com…,MISC,,,en,1
-The storm demolished thousands of homes,The storm demolished thousands of homes,MISC,,,en,1
-Jamaica UNRECOGNIZABLE a week after Hurricane Melissa,Jamaica UNRECOGNIZABLE a week after Hurricane Melissa,MISC,,,en,1
-HORRIFIC’,HORRIFIC’,MISC,,,en,1
-The ministry,The ministry,MISC,,,en,1
-ministry,ministry,MISC,,,en,1
-"Wildfires burned nearly 6,000","Wildfires burned nearly 6,000",MISC,,,en,1
-Herr Winter,Herr Winter,MISC,,,de,1
-hit by floods that were the country’s deadliest natural disaster,hit by floods that were the country’s deadliest natural disaster,MISC,,,en,1
-a year after the area,a year after the area,MISC,,,en,1
-the leader said The heavily criticised leader of Spain’s Valencia region said on Monday he was stepping down,the leader said The heavily criticised leader of Spain’s Valencia region said on Monday he was stepping down,MISC,,,en,1
-I know I made mistakes,I know I made mistakes,MISC,,,en,1
-The Category,The Category,MISC,,,en,1
-although that figure is expected to rise as search and rescue operations continue across the trail of destruction the storm left,although that figure is expected to rise as search and rescue operations continue across the trail of destruction the storm left,MISC,,,en,1
-were destroyed by wildfires,were destroyed by wildfires,MISC,,,en,1
-with many still missing,with many still missing,MISC,,,en,1
-Abkommen bereits…,Abkommen bereits…,MISC,,,de,1
-APS settles with Volcano Vista student maimed by sword,APS settles with Volcano Vista student maimed by sword,MISC,,,en,1
-a global study has estimated,a global study has estimated,MISC,,,en,1
-with Uttar Pradesh being the most impacted region,with Uttar Pradesh being the most impacted region,MISC,,,en,1
-India were affected due to wildfires,India were affected due to wildfires,MISC,,,en,1
-Around 15 million people,Around 15 million people,MISC,,,en,1
-This catastrophic wildfire season triggered hazardous air pollution,This catastrophic wildfire season triggered hazardous air pollution,MISC,,,en,1
-with Uttar Pradesh bearing the brunt of the devastation,with Uttar Pradesh bearing the brunt of the devastation,MISC,,,en,1
-India during the 2024,India during the 2024,MISC,,,en,1
-India affected by 2024,India affected by 2024,MISC,,,en,1
-Global analysis finds,Global analysis finds,MISC,,,en,1
-norwegische,norwegische,MISC,,,de,1
-a…,a…,MISC,,,de,1
-Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1
-World Weather Attribution,World Weather Attribution,MISC,,,de,1
-We Are Not Helpless to Fight Back,We Are Not Helpless to Fight Back,MISC,,,en,1
-"Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 peo…","Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 peo…",MISC,,,en,1
-"Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 people driven from their homes","Rain and wind were forecast Wednesday along the Alaska coast where two villages were devastated by the remnants of Typhoon Halong and officials were scrambling to find shelter for more than 1,500 people driven from their homes",MISC,,,en,1
-Alaska storms drive,Alaska storms drive,MISC,,,en,1
-Youth advocate calls for more supports for children impacted by Manitoba wildfires,Youth advocate calls for more supports for children impacted by Manitoba wildfires,MISC,,,en,1
-At least 49 communit…,At least 49 communit…,MISC,,,en,1
-western Alaska after the remnants of Typhoon Halong hit the state with hurricane-force winds and severe coastal flooding,western Alaska after the remnants of Typhoon Halong hit the state with hurricane-force winds and severe coastal flooding,MISC,,,en,1
-At least one person is dead and two are still,At least one person is dead and two are still,MISC,,,en,1
-Trump Mad About His Time Magazine Vagina-Neck,Trump Mad About His Time Magazine Vagina-Neck,MISC,,,en,1
-Western Alaska Hit By Deadly Typhoon,Western Alaska Hit By Deadly Typhoon,MISC,,,en,1
-Vo…,Vo…,MISC,,,de,1
-Sterbefälle,Sterbefälle,MISC,-0.7,0.0,de,1
-look for missing people and try to clean… The death toll from Mexicos ,look for missing people and try to clean… The death toll from Mexicos ,MISC,,,en,1
-Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
-chemistry class,chemistry class,MISC,,,en,1
-16—Albuquerque Public Schools has agreed to pay more than,16—Albuquerque Public Schools has agreed to pay more than,MISC,,,en,1
-a sword-fighting incident at Volcano Vista High,a sword-fighting incident at Volcano Vista High,MISC,,,en,1
-16Albuquerque Public Schools has agreed to pay more than,16Albuquerque Public Schools has agreed to pay more than,MISC,,,en,1
-Sturm ,Sturm ,MISC,,,de,1
-Wetter“,Wetter“,MISC,,,de,1
-What to know,What to know,MISC,,,en,1
-The supply deluge,The supply deluge,MISC,,,en,1
-Outpacing USD,Outpacing USD,MISC,,,en,1
-Extreme wildfires have,Extreme wildfires have,MISC,,,en,1
-and t…,and t…,MISC,,,en,1
-Extreme wildfires have doubled,Extreme wildfires have doubled,MISC,,,en,1
-The Clean Air Act Is Making Our Air Dirtier,The Clean Air Act Is Making Our Air Dirtier,MISC,,,en,1
-"Rainham have affected people's physical and mental health
-A perennially burning area of land","Rainham have affected people's physical and mental health
-A perennially burning area of land",MISC,,,en,1
-Following a judicial review the site's designation,Following a judicial review the site's designation,MISC,,,en,1
-Potenzial wä…,Potenzial wä…,MISC,,,de,1
-EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1
-EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1
-The int,The int,MISC,,,en,1
-LLM,LLM,MISC,,,en,1
-to incorporate the Doubao large language model,to incorporate the Doubao large language model,MISC,,,en,1
-SunCar enters AI cooperation,SunCar enters AI cooperation,MISC,,,en,1
-… The Perfect Neighbor is,… The Perfect Neighbor is,MISC,,,en,1
-"and landing...
-Read more","and landing...
-Read more",MISC,,,en,1
-Documentary Directing Award,Documentary Directing Award,MISC,,,en,1
-The Perfect Neighbor is,The Perfect Neighbor is,MISC,,,en,1
-Netflix's ‘The Perfect Neighbor’ Is Hard to Watch,Netflix's ‘The Perfect Neighbor’ Is Hard to Watch,MISC,,,en,1
-Regenausfall,Regenausfall,MISC,,,de,1
-Schweizer Alpen-Dorfes,Schweizer Alpen-Dorfes,MISC,,,de,1
-Horror-Lawine,Horror-Lawine,MISC,,,de,1
-a sword-fighting incident at Volcano Vista High School,a sword-fighting incident at Volcano Vista High School,MISC,,,en,1
-prompting President,prompting President,MISC,,,en,1
-The death toll from Mexico's torrential rains rose to 44 on Sunday as the fallout,The death toll from Mexico's torrential rains rose to 44 on Sunday as the fallout,MISC,,,en,1
-Many residents face water and el…,Many residents face water and el…,MISC,,,en,1
-Goldener Herbst,Goldener Herbst,MISC,,,de,1
-Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1
-philippinische,philippinische,MISC,,,de,1
-Super-Taifun Ragasa,Super-Taifun Ragasa,MISC,,,de,1
-Hohe Temperaturen,Hohe Temperaturen,MISC,,,de,1
-Grünes Wissen to go,Grünes Wissen to go,MISC,,,de,1
-Fa…,Fa…,MISC,,,de,1
-An Angel,An Angel,MISC,,,de,1
-Over The Hump,Over The Hump,MISC,,,de,1
-Orkan Daria,Orkan Daria,MISC,,,de,1
-Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
-… Super Typhoon Ragasa’s fierce winds have kept Hong Kong’s most severe storm warning,… Super Typhoon Ragasa’s fierce winds have kept Hong Kong’s most severe storm warning,MISC,,,en,1
-The city,The city,MISC,,,en,1
-Super Typhoon Ragasa’s,Super Typhoon Ragasa’s,MISC,,,en,1
-Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
-Tempo 200,Tempo 200,MISC,,,de,1
-Kampfmittelbes…,Kampfmittelbes…,MISC,,,de,1
-Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
-Sachsen,Sachsen,MISC,0.0,0.0,de,1
-Jetzt knallt der Herbst,Jetzt knallt der Herbst,MISC,,,de,1
-Hawaii,Hawaii,MISC,0.0,0.0,en,1
-Hawaii’s,Hawaii’s,MISC,,,en,1
-What to know about its dramatic lava displays,What to know about its dramatic lava displays,MISC,,,en,1
-official death,official death,MISC,,,en,1
-study suggests,study suggests,MISC,,,en,1
-’t capture true toll,’t capture true toll,MISC,,,en,1
-Official death count of 2023,Official death count of 2023,MISC,,,en,1
-blocking rescue …,blocking rescue …,MISC,,,en,1
-Men…,Men…,MISC,,,de,1
-Live-Karten,Live-Karten,MISC,,,de,1
-Torrential rains have claimed,Torrential rains have claimed,MISC,,,en,1
-Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1
-Mexico's president convenes governors as death toll from torrential rains rises to 44,Mexico's president convenes governors as death toll from torrential rains rises to 44,MISC,,,en,1
-The Division Road,The Division Road,MISC,,,en,1
-officially reopened on Saturday morning,officially reopened on Saturday morning,MISC,,,en,1
-Repairs begin as temporary tracks open on BP Highway,Repairs begin as temporary tracks open on BP Highway,MISC,,,en,1
-RSF,RSF,MISC,,,de,1
-investi…,investi…,MISC,,,de,1
-südeuropäische,südeuropäische,MISC,,,de,1
-Frankfurter,Frankfurter,MISC,,,de,1
-Schneesturm“,Schneesturm“,MISC,,,de,1
-Hause,Hause,MISC,,,de,1
-amerikanische,amerikanische,MISC,,,de,1
-Liebe in Zeiten der Dürre,Liebe in Zeiten der Dürre,MISC,,,de,1
-No Way Home“,No Way Home“,MISC,,,de,1
-Boyles Roman,Boyles Roman,MISC,,,de,1
-Obe…,Obe…,MISC,,,de,1
-brasilianischen,brasilianischen,MISC,,,de,1
-Gra…,Gra…,MISC,,,de,1
-TTS Player,TTS Player,MISC,,,de,1
-Kühles Wetter,Kühles Wetter,MISC,,,de,1
-Temperaturen rauschen,Temperaturen rauschen,MISC,,,de,1
-Boden-Frost,Boden-Frost,MISC,,,de,1
-Umweltkrise,Umweltkrise,MISC,,,de,1
-EU-Bericht,EU-Bericht,MISC,,,de,1
-europäischen Teams,europäischen Teams,MISC,,,de,1
-Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1
-MV,MV,MISC,0.0,0.0,de,1
-Grundwas…,Grundwas…,MISC,,,de,1
-California's Wildfire Crisis,California's Wildfire Crisis,MISC,,,en,1
-emphasizing that Californ… Charleston,emphasizing that Californ… Charleston,MISC,,,en,1
-Death toll from Hurricane Melissa climbs to 49,Death toll from Hurricane Melissa climbs to 49,MISC,,,en,1
-has now,has now,MISC,,,en,1
-a few months after entire blocks of Altadena,a few months after entire blocks of Altadena,MISC,,,en,1
-On a gloomy Saturday morning this past May,On a gloomy Saturday morning this past May,MISC,,,en,1
-according to a conspiracy theory expert,according to a conspiracy theory expert,MISC,,,en,1
-What it,What it,MISC,,,en,1
-the strongest on …,the strongest on …,MISC,,,en,1
-The hurricane at Category 5,The hurricane at Category 5,MISC,,,en,1
-People across the northern Caribbean are reeling from the devastation of Hurricane Melissa as dozens of deaths are reported,People across the northern Caribbean are reeling from the devastation of Hurricane Melissa as dozens of deaths are reported,MISC,,,en,1
-Erwärmung der Erde,Erwärmung der Erde,MISC,,,de,1
-What makes Melissa,What makes Melissa,MISC,,,en,1
-bringing record-breaking wind and torrential rain to Jamaica the island's first ever category 5,bringing record-breaking wind and torrential rain to Jamaica the island's first ever category 5,MISC,,,en,1
-the island's first ever category 5 landfall,the island's first ever category 5 landfall,MISC,,,en,1
-bringing record-breaking wind and torrential rain to Jamaica,bringing record-breaking wind and torrential rain to Jamaica,MISC,,,en,1
-How Record-Breaking Hurricane Melissa Became a Monster Overnight,How Record-Breaking Hurricane Melissa Became a Monster Overnight,MISC,,,en,1
-with sustained winds reaching 185 mph,with sustained winds reaching 185 mph,MISC,,,en,1
-solving the wildfire crisis,solving the wildfire crisis,MISC,,,en,1
-What began as one of the strongest hurricanes on record,What began as one of the strongest hurricanes on record,MISC,,,en,1
-The impacts of the record-breaking Hurricane Melissa continue to be felt across the Caribbean,The impacts of the record-breaking Hurricane Melissa continue to be felt across the Caribbean,MISC,,,en,1
-with Cuba bracing,with Cuba bracing,MISC,,,en,1
-has caused at least 32 fatalities and widespread damage across the Caribbean,has caused at least 32 fatalities and widespread damage across the Caribbean,MISC,,,en,1
-Death toll mounts,Death toll mounts,MISC,,,en,1
-The best way to help Hurricane Melissa,The best way to help Hurricane Melissa,MISC,,,en,1
-kubanischen,kubanischen,MISC,,,de,1
-Torrential downpours,Torrential downpours,MISC,,,en,1
-before making a second landfall,before making a second landfall,MISC,,,en,1
-the early afternoon,the early afternoon,MISC,,,en,1
-Where Melissa places in the top 10,Where Melissa places in the top 10,MISC,,,en,1
-What is the strongest hurricane ever recorded,What is the strongest hurricane ever recorded,MISC,,,en,1
-you can see the roof of Sangster International Airport comp,you can see the roof of Sangster International Airport comp,MISC,,,en,1
-California,California,MISC,0.0,0.0,en,1
-As I sat there list…,As I sat there list…,MISC,,,en,1
-many claimed that they received no warning to evacuate,many claimed that they received no warning to evacuate,MISC,,,en,1
-saw no first responders battling the blazes,saw no first responders battling the blazes,MISC,,,en,1
+Richter,Richter,MISC,,,de,1
+Yup’ik-Leben,Yup’ik-Leben,MISC,,,de,1
+US-amerikanischen,US-amerikanischen,MISC,,,de,1
+Britische,Britische,MISC,,,de,1
 KI Stürme,KI Stürme,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
 Hurrikan des Jahres,Hurrikan des Jahres,MISC,,,de,1
 NZZ QUANTENSPRUNG,NZZ QUANTENSPRUNG,MISC,,,de,1
 PODCAST,PODCAST,MISC,,,de,1
-Cuba The rumble of large machinery,Cuba The rumble of large machinery,MISC,,,en,1
-SANTIAGO DE CUBA,SANTIAGO DE CUBA,MISC,,,en,1
-power or communication,power or communication,MISC,,,en,1
-The storm has left many without homes,The storm has left many without homes,MISC,,,en,1
-Communities across the northern Caribbean are dealing with the aftermath of Hurricane Melissa,Communities across the northern Caribbean are dealing with the aftermath of Hurricane Melissa,MISC,,,en,1
-Jamaica and Cuba pick up the pieces after Melissa's destruction,Jamaica and Cuba pick up the pieces after Melissa's destruction,MISC,,,en,1
-The port on the southwest of the island nation bore th,The port on the southwest of the island nation bore th,MISC,,,en,1
-Jamaica's,Jamaica's,MISC,,,en,1
-winds on Tuesday,winds on Tuesday,MISC,,,en,1
-Assessing hurricane damage,Assessing hurricane damage,MISC,,,en,1
-Jamaica's 'ground zero',Jamaica's 'ground zero',MISC,,,en,1
-Perhaps up to,Perhaps up to,MISC,,,en,1
-Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1
-The scale of devastation left by Hurricane Melissa is becoming clear after the,The scale of devastation left by Hurricane Melissa is becoming clear after the,MISC,,,en,1
-"Jamaica and 
-","Jamaica and 
-",MISC,,,en,1
-The storm has been downgraded from a Category 5 to a Category 1 storm but is gathering speed,The storm has been downgraded from a Category 5 to a Category 1 storm but is gathering speed,MISC,,,en,1
-changeCBS News ^,changeCBS News ^,MISC,,,en,1
-on shelter,on shelter,MISC,,,en,1
-area that will be sheltered from some of the worst impacts,area that will be sheltered from some of the worst impacts,MISC,,,en,1
-As the climate changes,As the climate changes,MISC,,,en,1
-on shelter from climate change,on shelter from climate change,MISC,,,en,1
-Klimawan…,Klimawan…,MISC,,,de,1
-and had little interaction with official personnel,and had little interaction with official personnel,MISC,,,en,1
-you can see the roof of Sangster International Airport completely caved,you can see the roof of Sangster International Airport completely caved,MISC,,,en,1
-Video Shows,Video Shows,MISC,,,en,1
-Jamaican Airport Roof & Interior,Jamaican Airport Roof & Interior,MISC,,,en,1
-multiple cruise lines charted new courses for ships sailing,multiple cruise lines charted new courses for ships sailing,MISC,,,en,1
-extremely dangerous Category,extremely dangerous Category,MISC,,,en,1
-Hurricane Melissa has turned into,Hurricane Melissa has turned into,MISC,,,en,1
-the northern Caribbean with even stronger winds,the northern Caribbean with even stronger winds,MISC,,,en,1
-Monday morning,Monday morning,MISC,,,en,1
-Here's a look at where it's headed and whether it will impact Jacksonville,Here's a look at where it's headed and whether it will impact Jacksonville,MISC,,,en,1
-Melissa developed into a deadly Category 5 hurricane on Monday,Melissa developed into a deadly Category 5 hurricane on Monday,MISC,,,en,1
-As reported by the Orlando…,As reported by the Orlando…,MISC,,,en,1
-One hurricane hits this community and it's over,One hurricane hits this community and it's over,MISC,,,en,1
-surpassing the damage from Hurricane Gilbert,surpassing the damage from Hurricane Gilbert,MISC,,,en,1
-it is poised to be the worst storm to ever hit the Caribbean island,it is poised to be the worst storm to ever hit the Caribbean island,MISC,,,en,1
-As Category 5 hurricane Melissa bears down on Jamaica,As Category 5 hurricane Melissa bears down on Jamaica,MISC,,,en,1
-Why Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,Why Hurricane Melissa Could Be the Worst Storm to Ever Hit Jamaica,MISC,,,en,1
-Hundreds of shelters have been opened across the country and airports have been closed as t,Hundreds of shelters have been opened across the country and airports have been closed as t,MISC,,,en,1
-Hundreds of shelters have been opened across the ... Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,Hundreds of shelters have been opened across the ... Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,MISC,,,en,1
-Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,Jamaican Prime Minister Andrew Holness has urged residents to prepare for the arrival of Hurricane Melissa,MISC,,,en,1
-recent years,recent years,MISC,,,en,1
-Reducing the risk of wildfires is a growing concern for some woodlot owners,Reducing the risk of wildfires is a growing concern for some woodlot owners,MISC,,,en,1
-decreasing the potential of wildfires spreading through their prop…,decreasing the potential of wildfires spreading through their prop…,MISC,,,en,1
-woodlots owners after devastating fires,woodlots owners after devastating fires,MISC,,,en,1
-Addressing wildfire risk ‘top of mind’ for some N.S.,Addressing wildfire risk ‘top of mind’ for some N.S.,MISC,,,en,1
-chinesischen,chinesischen,MISC,,,de,1
-There’s just,There’s just,MISC,,,en,1
-You can catch us celebrating the holidays at Disney World or Universal Orlando,You can catch us celebrating the holidays at Disney World or Universal Orlando,MISC,,,en,1
-Some people like to be home for the holidays,Some people like to be home for the holidays,MISC,,,en,1
-Bay Is Set To Close on 12 New Dates first appeared on the disney food blog,Bay Is Set To Close on 12 New Dates first appeared on the disney food blog,MISC,,,en,1
-The post,The post,MISC,,,en,1
-These words from author Thomas Pandola encapsulate the essence of his first solo bo,These words from author Thomas Pandola encapsulate the essence of his first solo bo,MISC,,,en,1
-As powerful Hurricane Melissa intensified on a path toward Jamaica and on through the Caribbean,As powerful Hurricane Melissa intensified on a path toward Jamaica and on through the Caribbean,MISC,,,en,1
-the region this week,the region this week,MISC,,,en,1
-Euro,Euro,MISC,,,de,1
-Now a Category 5,Now a Category 5,MISC,,,en,1
-Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1
-increasing toll on the count…,increasing toll on the count…,MISC,,,en,1
-increasing toll,increasing toll,MISC,,,en,1
-ePaper,ePaper,MISC,,,de,1
-Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,MISC,-0.2833333333333333,0.16666666666666666,de,1
-increasing toll on the coun,increasing toll on the coun,MISC,,,en,1
-The Lancet Countdown on health and climate ch…,The Lancet Countdown on health and climate ch…,MISC,,,en,1
-increasing toll on the country,increasing toll on the country,MISC,,,en,1
-report says,report says,MISC,,,en,1
-"About 1,400 annual deaths linked to wildfire smoke","About 1,400 annual deaths linked to wildfire smoke",MISC,,,en,1
-Ausm…,Ausm…,MISC,,,de,1
-Gefährlicher Wirbelsturm“,Gefährlicher Wirbelsturm“,MISC,,,de,1
-What to know about Hurricane Melissa,What to know about Hurricane Melissa,MISC,,,en,1
 Hurrikan ,Hurrikan ,MISC,,,de,1
-Melissa is set to bring catastrophic winds,Melissa is set to bring catastrophic winds,MISC,,,en,1
-Auswi…,Auswi…,MISC,,,de,1
+Der jüngste Sturm,Der jüngste Sturm,MISC,,,de,1
+Der Hurrikan,Der Hurrikan,MISC,,,de,1
+Melissa,Melissa,MISC,-0.10625,0.0,de,1
+Zwei Menschen sterben bei Überschwemmung Wassermassen,Zwei Menschen sterben bei Überschwemmung Wassermassen,MISC,,,de,1
+Bergsteiger-Gruppe,Bergsteiger-Gruppe,MISC,,,de,1
+Tragödie in Südtirol,Tragödie in Südtirol,MISC,,,de,1
+Taifuns Kalmaegi,Taifuns Kalmaegi,MISC,,,de,1
+Expeditions-Unternehmen,Expeditions-Unternehmen,MISC,,,de,1
+Todesopfer nach einer Woche,Todesopfer nach einer Woche,MISC,,,de,1
+griechischen,griechischen,MISC,,,de,1
+CBC-Meteorologin,CBC-Meteorologin,MISC,,,de,1
+hessische,hessische,MISC,,,de,1
+F.A.Z.-Leser,F.A.Z.-Leser,MISC,,,de,1
+Atlantiks,Atlantiks,MISC,,,de,1
+Fünf Deutsche,Fünf Deutsche,MISC,,,de,1
+Todesopfer durch den Taifun auf den Philippinen,Todesopfer durch den Taifun auf den Philippinen,MISC,,,de,1
+Todesopfer durch den Taifun,Todesopfer durch den Taifun,MISC,,,de,1
+Zeit,Zeit,MISC,,,de,1
+Der Sturm Kalmaegi,Der Sturm Kalmaegi,MISC,,,de,1
+COP30,COP30,MISC,,,de,1
+Supertaifun,Supertaifun,MISC,,,de,1
+Deutschen,Deutschen,MISC,,,de,1
+Londoner,Londoner,MISC,,,de,1
+Plazenta,Plazenta,MISC,,,de,1
+Schwangere Frauen,Schwangere Frauen,MISC,,,de,1
+Aufzeichnungen im Jahr 1851,Aufzeichnungen im Jahr 1851,MISC,,,de,1
+Forests Act,Forests Act,MISC,,,de,1
+Vom Sturm,Vom Sturm,MISC,,,de,1
+SchlagAP,SchlagAP,MISC,,,de,1
+zurückgelassenUSA Today Jamaikanische Farmen,zurückgelassenUSA Today Jamaikanische Farmen,MISC,,,de,1
+norditalienischen,norditalienischen,MISC,,,de,1
+Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1
 Klimaflucht,Klimaflucht,MISC,,,de,1
-With wind speeds of up to 175mph,With wind speeds of up to 175mph,MISC,,,en,1
-"Footage taken by a US Air Force Reserve crew known as the ""Hurricane Hunters","Footage taken by a US Air Force Reserve crew known as the ""Hurricane Hunters",MISC,,,en,1
-Storm chasers fly inside the eye of Hurricane Melissa,Storm chasers fly inside the eye of Hurricane Melissa,MISC,,,en,1
-This 1979 Fiat 126,This 1979 Fiat 126,MISC,,,en,1
-Jolly-Style,Jolly-Style,MISC,,,en,1
-"The Coming AI Debt Deluge
-Authord by MBI Deep DivesOne of the core differences of the current AI revolution from the earlier bubble periods","The Coming AI Debt Deluge
-Authord by MBI Deep DivesOne of the core differences of the current AI revolution from the earlier bubble periods",MISC,,,en,1
-OCF,OCF,MISC,,,en,1
-"The Coming AI Debt Deluge
- 
-","The Coming AI Debt Deluge
- 
-",MISC,,,en,1
-The Coming AI Debt Deluge,The Coming AI Debt Deluge,MISC,,,en,1
-Slow-moving storm dumps as much rain as a hurricane,Slow-moving storm dumps as much rain as a hurricane,MISC,,,en,1
+Der Kaffeeverbrauch der Welt,Der Kaffeeverbrauch der Welt,MISC,,,de,1
+Außenwelt,Außenwelt,MISC,,,de,1
+bringenAP News Hurrikan Me…,bringenAP News Hurrikan Me…,MISC,,,de,1
+Sky News Hurrikan Melissa,Sky News Hurrikan Melissa,MISC,,,de,1
+Ein Schneebrett,Ein Schneebrett,MISC,,,de,1
+Die Karibikinsel,Die Karibikinsel,MISC,,,de,1
+afghanische,afghanische,MISC,,,de,1
+Hurricane Hunters“,Hurricane Hunters“,MISC,,,de,1
+amerikanische,amerikanische,MISC,,,de,1
+Boden-Frost,Boden-Frost,MISC,,,de,1
+Freistaat,Freistaat,MISC,,,de,1
+CO2-Emissionen,CO2-Emissionen,MISC,,,de,1
+Boyles Roman,Boyles Roman,MISC,,,de,1
+No Way Home“,No Way Home“,MISC,,,de,1
+Liebe in Zeiten der Dürre Kammerspiel,Liebe in Zeiten der Dürre Kammerspiel,MISC,,,de,1
+Hause den Wasserverbrauch,Hause den Wasserverbrauch,MISC,,,de,1
+EU-Bericht,EU-Bericht,MISC,,,de,1
+Frankfurter,Frankfurter,MISC,,,de,1
+südeuropäische,südeuropäische,MISC,,,de,1
+Betroffenen im Jahr 2024,Betroffenen im Jahr 2024,MISC,,,de,1
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,1
+RSF,RSF,MISC,,,de,1
+Division Road …,Division Road …,MISC,,,de,1
+Umweltkrise,Umweltkrise,MISC,,,de,1
+Der Tropensturm «Bualoi,Der Tropensturm «Bualoi,MISC,,,de,1
+Ein Jahr „ohne Dürre“,Ein Jahr „ohne Dürre“,MISC,,,de,1
+Hongkongs Wild Weather Run,Hongkongs Wild Weather Run,MISC,,,de,1
+Hawaii im Jahr 2023,Hawaii im Jahr 2023,MISC,,,de,1
+Tornados,Tornados,MISC,,,de,1
+Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1
+Sachsen,Sachsen,MISC,0.0,1.0,de,1
+Kampfmittelbeseitiger,Kampfmittelbeseitiger,MISC,,,de,1
+Tote und Vermisste,Tote und Vermisste,MISC,,,de,1
+Sturm Mangkhut,Sturm Mangkhut,MISC,,,de,1
+Grundwas…,Grundwas…,MISC,,,de,1
+Baumbestand in Deutschland,Baumbestand in Deutschland,MISC,,,de,1
+Orkan Daria,Orkan Daria,MISC,,,de,1
+Kühles Herbstwetter,Kühles Herbstwetter,MISC,,,de,1
+Goldener Herbst,Goldener Herbst,MISC,,,de,1
+Live-Karten,Live-Karten,MISC,,,de,1
+Gefährlicher Trend,Gefährlicher Trend,MISC,,,de,1
+Todesopfer durch sintflutartige Regenfälle,Todesopfer durch sintflutartige Regenfälle,MISC,,,de,1
+Todesopfer durch die sintflutartigen Regenfälle,Todesopfer durch die sintflutartigen Regenfälle,MISC,,,de,1
+Volcano Restoration Project,Volcano Restoration Project,MISC,,,de,1
+Ein grausames Fehlverhalten“,Ein grausames Fehlverhalten“,MISC,,,de,1
+Burn-Mechanismus,Burn-Mechanismus,MISC,,,de,1
+Stablecoin-Emittent Paxos,Stablecoin-Emittent Paxos,MISC,,,de,1
+PYUSD-Stablecoin,PYUSD-Stablecoin,MISC,,,de,1
+Sturm ,Sturm ,MISC,,,de,1
+chinesischen,chinesischen,MISC,,,de,1
+Hurrikan Gilbert,Hurrikan Gilbert,MISC,,,de,1
+Ein Hurrikan,Ein Hurrikan,MISC,,,de,1
+Rainham-Vulkan“,Rainham-Vulkan“,MISC,,,de,1
+Todesopfer bei den Waldbränden,Todesopfer bei den Waldbränden,MISC,,,de,1
+Spaghetti-Modelle,Spaghetti-Modelle,MISC,,,de,1
+Jacksonville-Prognose,Jacksonville-Prognose,MISC,,,de,1
+"MBI Deep Dives
+","MBI Deep Dives
+",MISC,,,de,1
+Jolly-Style,Jolly-Style,MISC,,,de,1
+Fiat 126,Fiat 126,MISC,,,de,1
+Clean Air Act,Clean Air Act,MISC,,,de,1
+EVP-geführte Mehrheit,EVP-geführte Mehrheit,MISC,,,de,1
+Die Zahl der Sterbefälle,Die Zahl der Sterbefälle,MISC,,,de,1
+UP,UP,MISC,,,de,1
+West-Alaska,West-Alaska,MISC,,,de,1
+Trump,Trump,MISC,,,de,1
+Aktivist für Kinder und Jugendliche,Aktivist für Kinder und Jugendliche,MISC,,,de,1
+Regen und Wind,Regen und Wind,MISC,,,de,1
+Historische Parkanlage“,Historische Parkanlage“,MISC,,,de,1
+norwegische,norwegische,MISC,,,de,1
+Horror-Lawine,Horror-Lawine,MISC,,,de,1
+EU-Waldgesetz,EU-Waldgesetz,MISC,,,de,1
+Regenausfall,Regenausfall,MISC,,,de,1
+Netflix,Netflix,MISC,0.0,0.0,de,1
+Documentary Directing Award,Documentary Directing Award,MISC,,,de,1
+SunCar,SunCar,MISC,,,de,1
+Volcano Engine,Volcano Engine,MISC,,,de,1
+ByteDance,ByteDance,MISC,,,de,1
 Fung-Wong“,Fung-Wong“,MISC,,,de,1

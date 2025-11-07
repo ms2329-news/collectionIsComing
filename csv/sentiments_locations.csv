@@ -1,358 +1,308 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Jamaika,Jamaika,LOC,-0.12905405405405404,0.060810810810810814,de,74
-Philippinen,Philippinen,LOC,-0.03962264150943395,0.0,de,53
-Südtirol,Südtirol,LOC,-0.23076923076923078,0.08974358974358974,de,39
-Vietnam,Vietnam,LOC,-0.02799999999999999,0.0,de,25
-Südostasien,Südostasien,LOC,-0.175,0.0,de,16
-Taiwan,Taiwan,LOC,0.13999999999999999,0.0,de,15
-Mount Everest,Mount Everest,LOC,0.0,0.0,de,15
-Karibik,Karibik,LOC,0.02692307692307692,0.15384615384615385,de,13
-Bayern,Bayern,LOC,-0.1846153846153846,0.0,de,13
-Karibikinsel,Karibikinsel,LOC,-0.05833333333333333,0.16666666666666666,de,12
-Kuba,Kuba,LOC,-0.031818181818181815,0.0,de,11
-China,China,LOC,-0.13999999999999999,0.0,de,10
-Himalaya,Himalaya,LOC,0.06666666666666668,0.0,de,9
-Spanien,Spanien,LOC,0.11666666666666664,0.16666666666666666,de,9
-Deutschland,Deutschland,LOC,-0.1259259259259259,0.0,de,9
-Jamaica,Jamaica,LOC,0.14285714285714285,0.0,en,7
-Bualoi,Bualoi,LOC,-0.09999999999999999,0.0,de,7
-Bergen,Bergen,LOC,-0.05714285714285713,0.14285714285714285,de,7
-Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.29999999999999993,0.0,de,7
-Alpen,Alpen,LOC,0.19999999999999998,0.0,de,7
-Italien,Italien,LOC,-0.35714285714285715,0.07142857142857142,de,7
-Ortler-Gebirge,Ortler-Gebirge,LOC,-0.16666666666666666,0.0,de,6
-…,…,LOC,-0.08333333333333333,0.08333333333333333,de,6
-Allgäu,Allgäu,LOC,-0.09166666666666666,0.0,de,6
-Saarland,Saarland,LOC,-0.27999999999999997,0.0,de,5
-Asien,Asien,LOC,-0.030000000000000006,0.0,de,5
-Böen,Böen,LOC,0.0,0.0,de,5
-central Philippines,central Philippines,LOC,0.0,0.0,en,5
-Haiti,Haiti,LOC,-0.10999999999999999,0.0,de,5
+Jamaika,Jamaika,LOC,-0.17749999999999996,0.058888888888888886,de,90
+Philippinen,Philippinen,LOC,-0.049999999999999996,0.021739130434782608,de,46
+Südtirol,Südtirol,LOC,-0.5291666666666667,0.041666666666666664,de,24
+Karibik,Karibik,LOC,0.03174603174603175,0.0380952380952381,de,21
+Vietnam,Vietnam,LOC,0.10588235294117646,0.0,de,17
+Kuba,Kuba,LOC,0.2642857142857143,0.0,de,14
+Südostasien,Südostasien,LOC,0.0,0.07692307692307693,de,13
+Mount Everest,Mount Everest,LOC,0.09090909090909091,0.0,de,11
+Taiwan,Taiwan,LOC,0.13999999999999999,0.0,de,10
+Bayern,Bayern,LOC,-0.2,0.0,de,10
+Melissa,Melissa,LOC,-0.39375000000000004,0.0,de,8
+Mexiko,Mexiko,LOC,0.16428571428571428,0.2857142857142857,de,7
+Karibikinsel,Karibikinsel,LOC,-0.2857142857142857,0.14285714285714285,de,7
+Deutschland,Deutschland,LOC,0.09999999999999999,0.0,de,7
+Haiti,Haiti,LOC,-0.09999999999999999,0.0,de,7
+Waldbränden,Waldbränden,LOC,-0.08333333333333333,0.25,de,6
+Landes,Landes,LOC,-0.47500000000000003,0.0,de,6
+China,China,LOC,0.0,0.16666666666666666,de,6
+Hurrikan,Hurrikan,LOC,-0.16666666666666666,0.0,de,6
+Himalaya,Himalaya,LOC,-0.16666666666666666,0.0,de,6
+Jamaikas,Jamaikas,LOC,-0.06666666666666667,0.0,de,5
+Land,Land,LOC,-0.26666666666666666,0.0,de,5
+Italien,Italien,LOC,-0.3,0.1,de,5
 Sturm,Sturm,LOC,-0.2,0.0,de,5
-Bahamas,Bahamas,LOC,-0.5,0.0,de,5
-Baden-Württemberg,Baden-Württemberg,LOC,-0.425,0.0,de,4
-Europa,Europa,LOC,-0.18333333333333335,0.0,de,4
-Osthangs,Osthangs,LOC,0.0,0.0,de,4
-Atlantik,Atlantik,LOC,-0.25,0.0,de,4
-Toten,Toten,LOC,-0.7,0.0,de,4
-Vietnams,Vietnams,LOC,0.5249999999999999,0.0,de,4
-Trab,Trab,LOC,-0.175,0.0,de,4
-Tibet,Tibet,LOC,0.0,0.0,de,4
-Himalaya-Region,Himalaya-Region,LOC,0.0,0.0,de,4
-Niedersachsen,Niedersachsen,LOC,0.175,0.0,de,4
-Oberbayern,Oberbayern,LOC,-0.175,0.0,de,4
-Rubihorn,Rubihorn,LOC,-0.4625,0.0,de,4
-Elbe,Elbe,LOC,-0.0875,0.625,de,4
-Bozen,Bozen,LOC,0.0,0.0,de,3
-Türkei,Türkei,LOC,-0.2222222222222222,0.4444444444444444,de,3
-Philippines,Philippines,LOC,0.0,0.0,en,3
-Madagaskar,Madagaskar,LOC,0.0,0.0,de,3
-Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,3
-Anmarsch,Anmarsch,LOC,0.0,0.0,de,3
+Alpen,Alpen,LOC,-0.06000000000000001,0.0,de,5
+Ortler-Gebirge,Ortler-Gebirge,LOC,-0.6,0.0,de,5
+Spanien,Spanien,LOC,0.13999999999999999,0.4,de,5
+Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.25,0.0,de,4
+Black River,Black River,LOC,0.175,0.0,de,4
+Atlantik,Atlantik,LOC,-0.425,0.0,de,4
+Bahamas,Bahamas,LOC,-0.38749999999999996,0.0,de,4
+Asien,Asien,LOC,0.0,0.0,de,4
+Kanada,Kanada,LOC,-0.75,0.0,de,4
+Bergen,Bergen,LOC,0.0,0.0,de,4
+Allgäu,Allgäu,LOC,0.0,0.0,de,3
+Kenia,Kenia,LOC,-0.4666666666666666,0.0,de,3
+Vietnams,Vietnams,LOC,0.2333333333333333,0.0,de,3
+Rekordtempo,Rekordtempo,LOC,-0.07777777777777777,0.6666666666666666,de,3
+Saarland,Saarland,LOC,-0.3333333333333333,0.0,de,3
+Bewohner,Bewohner,LOC,-0.6666666666666666,0.0,de,3
+Anmarsch,Anmarsch,LOC,-0.05000000000000001,0.0,de,3
 Kaltfront,Kaltfront,LOC,0.0,0.0,de,3
-Lawinen-Drama,Lawinen-Drama,LOC,-0.6666666666666666,0.0,de,3
-Thailand,Thailand,LOC,0.4666666666666666,0.0,de,3
-Behördenangaben,Behördenangaben,LOC,-0.6666666666666666,0.0,de,3
-Berlin,Berlin,LOC,0.11666666666666665,0.16666666666666666,de,3
-Bäume,Bäume,LOC,-0.2333333333333333,0.0,de,3
-Ortlergebirge,Ortlergebirge,LOC,-0.2333333333333333,0.6666666666666666,de,3
-Russland,Russland,LOC,-0.6666666666666666,0.0,de,3
 Park Wechselburg,Park Wechselburg,LOC,0.0,0.0,de,3
-Mexico,Mexico,LOC,0.0,0.0,en,3
-Bermuda,Bermuda,LOC,-0.5,0.0,de,3
-Ukraine,Ukraine,LOC,-0.6666666666666666,0.0,de,3
-Sahara,Sahara,LOC,-0.2333333333333333,0.3333333333333333,de,3
-Nord-,Nord-,LOC,0.0,0.0,de,3
-Ostsee,Ostsee,LOC,0.0,0.0,de,3
-Sudan,Sudan,LOC,-0.2333333333333333,0.0,de,3
-Flughafen Hongkong,Flughafen Hongkong,LOC,-0.2333333333333333,0.0,de,3
-Oberstdorf,Oberstdorf,LOC,0.0,0.0,de,3
-Hongkong,Hongkong,LOC,-0.2333333333333333,0.0,de,3
-Notunterkünften,Notunterkünften,LOC,0.0,0.0,de,3
-Mexiko,Mexiko,LOC,-0.2333333333333333,0.3333333333333333,de,3
-NRW,NRW,LOC,-0.4666666666666666,0.0,de,3
-Karibikstaat,Karibikstaat,LOC,0.6999999999999998,0.0,de,3
-Lawinenunglück,Lawinenunglück,LOC,0.0,0.0,de,3
-Melissa,Melissa,LOC,-0.3333333333333333,0.0,de,3
-Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.2833333333333333,0.0,de,3
-Frankreich,Frankreich,LOC,-0.8555555555555555,0.1111111111111111,de,3
-Hurrikan,Hurrikan,LOC,0.0,0.0,de,3
-the Philippines,the Philippines,LOC,0.0,0.0,en,3
-Al-Faschir,Al-Faschir,LOC,0.0,0.0,de,2
-Kenia,Kenia,LOC,0.0,0.0,de,2
-The highway,The highway,LOC,0.0,0.0,en,2
-Trentino,Trentino,LOC,-0.35,0.0,de,2
-Schlosspark Wechselburg,Schlosspark Wechselburg,LOC,0.0,0.5,de,2
-Hurricane-Ravaged,Hurricane-Ravaged,LOC,1.0,0.0,en,2
-Herbstferien,Herbstferien,LOC,-0.35,0.0,de,2
-Herausforderungen,Herausforderungen,LOC,0.0,0.0,de,2
-Österreich,Österreich,LOC,0.7749999999999999,0.0,de,2
-Kena,Kena,LOC,-0.7,0.0,de,2
-Rift Valley,Rift Valley,LOC,-0.35,0.5,de,2
-Erdbeben in Afghanistan,Erdbeben in Afghanistan,LOC,0.0,0.0,de,2
-Erdrutsch,Erdrutsch,LOC,0.0,0.0,de,2
-Pischeldorf,Pischeldorf,LOC,-0.35,0.0,de,2
-Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.85,0.0,de,2
-its wake,its wake,LOC,0.0,0.0,en,2
-Poppichl,Poppichl,LOC,-0.5,0.0,de,2
-Glan,Glan,LOC,-0.5,0.0,de,2
-Windböen,Windböen,LOC,0.0,0.0,de,2
-Staaten,Staaten,LOC,0.15000000000000002,0.0,de,2
-Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,LOC,-0.5,0.5,de,2
-Nutella,Nutella,LOC,-1.0,0.0,de,2
-Canada,Canada,LOC,0.0,0.0,en,2
-Dächer,Dächer,LOC,-0.35,0.0,de,2
-southwestern,southwestern,LOC,0.0,0.0,en,2
-New Yorker,New Yorker,LOC,-0.175,0.25,de,2
-streets,streets,LOC,1.0,0.0,en,2
-Black River haven't seen any aid and told the BBC,Black River haven't seen any aid and told the BBC,LOC,0.0,0.0,en,2
-Jamaikas,Jamaikas,LOC,0.0,0.0,de,2
-Mali,Mali,LOC,-0.35,0.0,de,2
-Insel,Insel,LOC,0.0,0.0,de,2
-Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,2
-Inselstaates,Inselstaates,LOC,0.0,0.0,de,2
-Gaza,Gaza,LOC,-0.175,0.25,de,2
-Irak,Irak,LOC,0.0,0.0,de,2
-Universität Innsbruck,Universität Innsbruck,LOC,0.0,0.0,de,2
-Regierungsangaben,Regierungsangaben,LOC,0.0,0.0,de,2
-bergen,bergen,LOC,0.0,0.0,de,2
-Hessen,Hessen,LOC,0.0,0.0,de,2
-Mandeln,Mandeln,LOC,-0.35,0.0,de,2
-Brückl,Brückl,LOC,-0.35,0.0,de,2
-Sicily,Sicily,LOC,0.5,0.0,en,2
-Krisengebieten,Krisengebieten,LOC,0.0,0.0,de,2
-Unfälle,Unfälle,LOC,-0.5,0.0,de,2
-Ozeane,Ozeane,LOC,0.0,0.0,de,2
-Rolwalingtal,Rolwalingtal,LOC,0.0,0.0,de,2
-Ragasa,Ragasa,LOC,0.0,0.0,de,2
-Monstersturm,Monstersturm,LOC,0.0,0.0,de,2
-Tropensturm,Tropensturm,LOC,0.35,0.0,de,2
-Salzburg,Salzburg,LOC,0.35,0.0,de,2
-Großen Schmiedinger,Großen Schmiedinger,LOC,0.7,0.0,de,2
-Waldfläche,Waldfläche,LOC,0.0,0.0,de,2
-Arzberg,Arzberg,LOC,-0.175,0.75,de,2
-Hochgebirge,Hochgebirge,LOC,-0.35,0.0,de,2
-Rajoelina,Rajoelina,LOC,0.0,0.0,de,2
-Brandenburg,Brandenburg,LOC,0.425,0.0,de,2
-Himalaya-Gebirge,Himalaya-Gebirge,LOC,-0.5,0.0,de,2
-Nepal,Nepal,LOC,0.0,0.0,de,2
-made landfall near Montego Bay,made landfall near Montego Bay,LOC,0.0,0.0,en,2
-Italy,Italy,LOC,0.0,0.0,en,2
-Häfen,Häfen,LOC,-0.175,0.75,de,2
-Küste,Küste,LOC,-0.35,0.0,de,2
-Stundenkilometern,Stundenkilometern,LOC,-0.35,0.0,de,2
-Tropensturm Bualoi,Tropensturm Bualoi,LOC,-0.7,0.0,de,2
-central Vietnam rose to 40 on Tuesday,central Vietnam rose to 40 on Tuesday,LOC,1.0,0.0,en,2
-Wetterkarten,Wetterkarten,LOC,0.0,0.0,de,2
-Samar,Samar,LOC,0.0,0.0,de,2
-Felssturz am Rubihorn,Felssturz am Rubihorn,LOC,0.0,0.0,de,2
-Madrid,Madrid,LOC,0.7,0.0,de,2
-Sachsen,Sachsen,LOC,-0.175,0.75,de,2
-Offenbach,Offenbach,LOC,0.0,0.0,de,2
-Bursa,Bursa,LOC,-0.3333333333333333,0.6666666666666666,de,2
-Hawaii,Hawaii,LOC,0.5,0.0,en,2
-Forbach,Forbach,LOC,-0.35,0.0,de,2
-Schneesturm,Schneesturm,LOC,0.0,0.0,de,2
+Lawinen-Drama,Lawinen-Drama,LOC,-0.6666666666666666,0.0,de,3
+Gange,Gange,LOC,-0.5666666666666667,0.0,de,3
+Bermuda,Bermuda,LOC,-0.5166666666666666,0.0,de,3
+Himalaya-Region,Himalaya-Region,LOC,0.0,0.0,de,2
+Volcano Bay,Volcano Bay,LOC,0.35,0.0,de,2
+Türkei,Türkei,LOC,-0.3333333333333333,0.6666666666666666,de,2
+Alaska,Alaska,LOC,0.0,0.0,de,2
+Manitoba,Manitoba,LOC,-0.2833333333333333,0.6666666666666666,de,2
 Osttirol,Osttirol,LOC,0.0,0.0,de,2
-eastern Afghanistan flattened villages,eastern Afghanistan flattened villages,LOC,0.0,0.0,en,2
-Rettungsaktion,Rettungsaktion,LOC,1.0,0.0,de,2
-Peking,Peking,LOC,0.0,0.0,de,2
-Gartenliebhaber,Gartenliebhaber,LOC,-1.0,0.0,de,2
-Dürre,Dürre,LOC,0.35,0.0,de,2
-Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.7,0.0,de,2
-Mornos-Stausee,Mornos-Stausee,LOC,0.0,0.0,de,1
-Neubrandenburg,Neubrandenburg,LOC,0.0,0.0,de,1
-Wetter-App,Wetter-App,LOC,0.15000000000000002,0.0,de,1
-Typhoon Kalmaegi leaves 26 dead,Typhoon Kalmaegi leaves 26 dead,LOC,0.0,0.0,en,1
-flooding,flooding,LOC,0.0,0.0,en,1
-Landkreis Mecklenburgische Seenplatte,Landkreis Mecklenburgische Seenplatte,LOC,0.0,0.0,de,1
-Landkreis Mecklenburgische,Landkreis Mecklenburgische,LOC,0.0,0.0,de,1
-Cuba,Cuba,LOC,0.0,0.0,en,1
-Sambias,Sambias,LOC,0.0,0.0,de,1
-Bezirken,Bezirken,LOC,0.0,1.0,de,1
-Cebu,Cebu,LOC,0.7,0.0,de,1
-Florida,Florida,LOC,0.0,0.0,de,1
-Nordatlantik,Nordatlantik,LOC,0.7,0.0,de,1
-Sturm Kalmaegi,Sturm Kalmaegi,LOC,0.7,0.0,de,1
-Taifun,Taifun,LOC,0.0,0.0,de,1
+Lawinenunglück,Lawinenunglück,LOC,-0.5,0.0,de,2
+Risiko,Risiko,LOC,0.175,0.25,de,2
+Briten,Briten,LOC,-1.0,0.0,de,2
+Nahrungsmitteln,Nahrungsmitteln,LOC,0.0,0.0,de,2
+Oberbayern,Oberbayern,LOC,0.0,0.0,de,2
+Trab,Trab,LOC,0.0,0.0,de,2
+Sudan,Sudan,LOC,-0.7,0.0,de,2
+Baden-Württemberg,Baden-Württemberg,LOC,-1.0,0.0,de,2
+Niedersachsen,Niedersachsen,LOC,0.35,0.0,de,2
+Ukraine,Ukraine,LOC,-1.0,0.0,de,2
+Russland,Russland,LOC,-1.0,0.0,de,2
+Bäume,Bäume,LOC,-0.575,0.0,de,2
+Frankreich,Frankreich,LOC,-1.0,0.0,de,2
+Taifun Halong,Taifun Halong,LOC,-0.35,0.0,de,2
+Schneesturm,Schneesturm,LOC,0.0,0.0,de,2
+Neapel,Neapel,LOC,0.25,0.25,de,2
+Sangster International Airport,Sangster International Airport,LOC,-1.0,0.0,de,2
+Salzburg,Salzburg,LOC,0.35,0.0,de,2
+Zentralvietnam,Zentralvietnam,LOC,0.7,0.0,de,2
+Katastrophenschutzbeamte,Katastrophenschutzbeamte,LOC,0.0,0.0,de,2
+Irak,Irak,LOC,0.0,0.0,de,2
+Großen Seen,Großen Seen,LOC,0.35,0.0,de,2
+Chicago,Chicago,LOC,0.35,0.0,de,2
+Provinz Cebu,Provinz Cebu,LOC,-0.35,0.5,de,2
+Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,2
+Kalifornien,Kalifornien,LOC,0.0,0.0,de,2
+Elbe,Elbe,LOC,0.0,1.0,de,2
+Hongkong,Hongkong,LOC,0.0,0.0,de,2
+Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.425,0.0,de,2
+Flughafen Hongkong,Flughafen Hongkong,LOC,0.0,0.0,de,2
+Notunterkünften,Notunterkünften,LOC,0.0,0.0,de,2
+Sahara,Sahara,LOC,0.0,1.0,de,2
+Ostsee,Ostsee,LOC,0.0,0.0,de,2
+Nord-,Nord-,LOC,0.0,0.0,de,2
+Nutella,Nutella,LOC,-1.0,0.0,de,2
+Nuss-Nougat-Aufstrichs,Nuss-Nougat-Aufstrichs,LOC,-0.5,0.5,de,2
+Häfen,Häfen,LOC,-0.175,0.75,de,2
+Indien,Indien,LOC,0.0,0.0,de,2
+Berlin,Berlin,LOC,0.2333333333333333,0.16666666666666666,de,2
+Oberstdorf,Oberstdorf,LOC,0.0,0.0,de,2
+Küste,Küste,LOC,0.0,0.0,de,2
+Europa,Europa,LOC,-0.15000000000000002,0.0,de,2
+Ontario,Ontario,LOC,-0.4666666666666666,0.3333333333333333,de,2
+Thailand,Thailand,LOC,0.7,0.0,de,2
+Unfälle,Unfälle,LOC,-0.5,0.0,de,2
+Rubihorn,Rubihorn,LOC,-0.5,0.0,de,2
+Stundenkilometern,Stundenkilometern,LOC,-0.5,0.0,de,2
+Felssturz am Rubihorn,Felssturz am Rubihorn,LOC,-0.5,0.0,de,2
+Madagaskar,Madagaskar,LOC,0.0,0.0,de,2
+Zentrum der Philippinen,Zentrum der Philippinen,LOC,-1.0,0.0,de,2
+d…,d…,LOC,-0.85,0.0,de,1
+Trümmer,Trümmer,LOC,0.0,0.0,de,1
+Hurrikanschäden,Hurrikanschäden,LOC,0.0,0.0,de,1
+Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-1.0,0.0,de,1
+St. Elizabeth …,St. Elizabeth …,LOC,0.0,0.0,de,1
+Landkreis Mecklenburgische Seenplatte,Landkreis Mecklenburgische Seenplatte,LOC,-1.0,0.0,de,1
+karibischen Inseln,karibischen Inseln,LOC,-1.0,0.0,de,1
+müssenBBC,müssenBBC,LOC,-1.0,0.0,de,1
 Bermuda-Inselgruppe,Bermuda-Inselgruppe,LOC,0.7,0.0,de,1
+Virginia,Virginia,LOC,0.0,0.0,de,1
+Altadena,Altadena,LOC,0.0,0.0,de,1
+Nordatlantiks,Nordatlantiks,LOC,-0.7999999999999999,0.0,de,1
+Tropensturm,Tropensturm,LOC,0.7,0.0,de,1
+Nordatlantik,Nordatlantik,LOC,0.7,0.0,de,1
+Ohio,Ohio,LOC,0.0,0.0,de,1
+Kingston,Kingston,LOC,-0.7,0.0,de,1
+Straße von Jamaikas,Straße von Jamaikas,LOC,0.7,0.0,de,1
+New Yorker,New Yorker,LOC,0.0,0.0,de,1
+Chicagoland,Chicagoland,LOC,0.0,0.0,de,1
+Golfküste,Golfküste,LOC,0.0,0.0,de,1
 New York City,New York City,LOC,0.0,0.0,de,1
-Athen,Athen,LOC,0.0,0.0,de,1
-Black River,Black River,LOC,0.0,0.0,en,1
-the Philippines' Cebu City,the Philippines' Cebu City,LOC,1.0,0.0,en,1
-Sturm Kurs,Sturm Kurs,LOC,0.0,0.0,de,1
-Alaska that casts light on early Yup’ik life ravaged by ex-Typhoon Halong,Alaska that casts light on early Yup’ik life ravaged by ex-Typhoon Halong,LOC,0.0,0.0,en,1
-Atlantiks,Atlantiks,LOC,0.0,0.0,de,1
-meteorology textbooks,meteorology textbooks,LOC,0.0,0.0,en,1
-Garten,Garten,LOC,0.0,0.0,de,1
-flooding rain,flooding rain,LOC,0.0,0.0,en,1
-Philippines after floods ravage central region,Philippines after floods ravage central region,LOC,0.0,0.0,en,1
-Typhoon Kalmaegi leaves at least 26 dead,Typhoon Kalmaegi leaves at least 26 dead,LOC,0.0,0.0,en,1
-Wi…,Wi…,LOC,0.0,0.0,de,1
-Bermudas,Bermudas,LOC,0.0,0.0,de,1
-Brandon Drenonin Black River,Brandon Drenonin Black River,LOC,0.0,0.0,en,1
-Barrington,Barrington,LOC,0.0,0.0,en,1
-drenching Haiti and leaving at least 50 dead,drenching Haiti and leaving at least 50 dead,LOC,0.0,0.0,en,1
+Staaten,Staaten,LOC,0.15000000000000002,0.0,de,1
+Todesfällen,Todesfällen,LOC,-1.0,0.0,de,1
+Archäologische Stätte,Archäologische Stätte,LOC,0.0,0.0,de,1
+Erdbeben in Afghanistan,Erdbeben in Afghanistan,LOC,-1.0,0.0,de,1
+Elgeyo-Marakwet,Elgeyo-Marakwet,LOC,0.0,0.0,de,1
+Hurrikanrisiko,Hurrikanrisiko,LOC,-1.0,0.0,de,1
 Saisonbeginn,Saisonbeginn,LOC,0.0,0.0,de,1
-Sch…,Sch…,LOC,-0.35,0.5,de,1
-Ri,Ri,LOC,-1.0,0.0,de,1
-noc…,noc…,LOC,0.0,0.0,de,1
-Garmisch,Garmisch,LOC,0.0,0.0,de,1
-Lawinenabgang,Lawinenabgang,LOC,0.0,0.0,de,1
-Mitternacht,Mitternacht,LOC,0.0,0.0,de,1
-Vertainspitze,Vertainspitze,LOC,-0.7,0.0,de,1
-Wohnhaus,Wohnhaus,LOC,0.0,0.0,de,1
-Italiens,Italiens,LOC,0.0,0.0,de,1
-Samstagnachmi…,Samstagnachmi…,LOC,0.0,0.0,de,1
-Ital…,Ital…,LOC,0.0,0.0,de,1
-Lärchen,Lärchen,LOC,0.0,0.0,de,1
-Ortler-Massiv,Ortler-Massiv,LOC,-1.0,0.0,de,1
-Sa…,Sa…,LOC,0.0,0.0,de,1
-Fels,Fels,LOC,0.0,0.0,de,1
-Hurricane-Ravaged Jamaica Still Cut Off as Death Toll ClimbsThe New York Times,Hurricane-Ravaged Jamaica Still Cut Off as Death Toll ClimbsThe New York Times,LOC,1.0,0.0,en,1
-History,History,LOC,0.0,0.0,en,1
-südostasiatischen Land,südostasiatischen Land,LOC,0.0,0.0,de,1
-early October,early October,LOC,0.0,0.0,en,1
-Lawinendrama,Lawinendrama,LOC,-0.35,0.5,de,1
 Lawinenseminar,Lawinenseminar,LOC,0.0,0.0,de,1
-Kallio,Kallio,LOC,0.0,0.0,de,1
-Tours,Tours,LOC,1.0,0.0,de,1
-Italiener,Italiener,LOC,-0.7,0.0,de,1
-the Western United State…,the Western United State…,LOC,0.0,0.0,en,1
-Südtiroler Alpen,Südtiroler Alpen,LOC,-1.0,0.0,de,1
-unleashing catastrophic damage across the island as winds peaked at,unleashing catastrophic damage across the island as winds peaked at,LOC,0.0,0.0,en,1
-aftermath of Hurricane Melissa,aftermath of Hurricane Melissa,LOC,0.0,0.0,en,1
-Kenyas western Rift Valley region,Kenyas western Rift Valley region,LOC,0.0,0.0,en,1
-"killing at least 21 people and destroying more than 1,000 homes","killing at least 21 people and destroying more than 1,000 homes",LOC,0.0,0.0,en,1
-Hurrikan-Katastrophe,Hurrikan-Katastrophe,LOC,0.0,0.0,de,1
-Hilfsgüter,Hilfsgüter,LOC,-0.2333333333333333,0.6666666666666666,de,1
-Notfälle,Notfälle,LOC,0.0,0.0,de,1
-Ontario this year,Ontario this year,LOC,0.0,0.0,en,1
-Bergwacht,Bergwacht,LOC,0.0,1.0,de,1
-Kitzsteinhorn-Gebiet,Kitzsteinhorn-Gebiet,LOC,0.7,0.0,de,1
-Pinz…,Pinz…,LOC,0.7,0.0,de,1
-Tirol,Tirol,LOC,0.0,0.0,de,1
+Großen Schmiedinger,Großen Schmiedinger,LOC,0.7,0.0,de,1
 Niedernsill,Niedernsill,LOC,0.7,0.0,de,1
-lhe,lhe,LOC,0.0,0.0,de,1
+Pinz…,Pinz…,LOC,0.7,0.0,de,1
+Montego Bay,Montego Bay,LOC,-1.0,0.0,de,1
+Gemeinden,Gemeinden,LOC,0.0,0.0,de,1
+Frühgeburtsrisiko,Frühgeburtsrisiko,LOC,0.7,0.0,de,1
+Vereinigten Staaten,Vereinigten Staaten,LOC,0.0,0.0,de,1
+Insel Cebu,Insel Cebu,LOC,0.0,0.0,de,1
+hinwegfegte,hinwegfegte,LOC,0.7,0.0,de,1
+Italiener,Italiener,LOC,0.0,0.0,de,1
+Zentralphilippinen,Zentralphilippinen,LOC,0.0,0.0,de,1
+Kallio,Kallio,LOC,0.0,0.0,de,1
+Rolwalingtal,Rolwalingtal,LOC,0.0,0.0,de,1
+Athen,Athen,LOC,0.0,0.0,de,1
+Mornos-Stausee,Mornos-Stausee,LOC,0.0,0.0,de,1
+Zentral-Philippinen,Zentral-Philippinen,LOC,-1.0,0.0,de,1
+Nepal,Nepal,LOC,-1.0,0.0,de,1
+Himalaya-Gebirge,Himalaya-Gebirge,LOC,-1.0,0.0,de,1
+St. Mary’s Bay,St. Mary’s Bay,LOC,-0.7,0.0,de,1
+Placentia Bay,Placentia Bay,LOC,-0.7,0.0,de,1
+Sambias,Sambias,LOC,0.7,0.0,de,1
+Meteorologie-Lehrbüchern,Meteorologie-Lehrbüchern,LOC,0.0,0.0,de,1
+Cebu,Cebu,LOC,0.7,0.0,de,1
+Imperiums,Imperiums,LOC,0.0,0.0,de,1
+Sturm Kurs,Sturm Kurs,LOC,0.0,0.0,de,1
+Viet…,Viet…,LOC,0.0,0.0,de,1
+Ri,Ri,LOC,-1.0,0.0,de,1
+Karibik…,Karibik…,LOC,0.0,0.0,de,1
+Hurrikan-Katastrophe,Hurrikan-Katastrophe,LOC,0.0,0.0,de,1
+Herbstferien Sonne,Herbstferien Sonne,LOC,0.0,0.0,de,1
+Hilfsgüter,Hilfsgüter,LOC,-0.2333333333333333,0.6666666666666666,de,1
+Notfälle,Notfälle,LOC,-1.0,0.0,de,1
+Bergwacht,Bergwacht,LOC,0.0,1.0,de,1
+Tirol,Tirol,LOC,0.0,0.0,de,1
+bleibenDie New York Times,bleibenDie New York Times,LOC,0.0,1.0,de,1
+bergen,bergen,LOC,0.0,0.0,de,1
+Hessen,Hessen,LOC,0.0,0.0,de,1
+Ortlergebirge,Ortlergebirge,LOC,-0.5,0.5,de,1
 Produktionsbetriebe,Produktionsbetriebe,LOC,-1.0,0.0,de,1
-Nestlé-Pflanzenlabor,Nestlé-Pflanzenlabor,LOC,1.0,0.0,de,1
-unleashing catastrophic damage across the island as winds peaked at 185 m,unleashing catastrophic damage across the island as winds peaked at 185 m,LOC,0.0,0.0,en,1
-Universal's,Universal's,LOC,0.0,0.0,en,1
-the southwestern parish of St Elizabeth,the southwestern parish of St Elizabeth,LOC,0.0,0.0,en,1
+Tal Lawinendrama,Tal Lawinendrama,LOC,0.0,0.0,de,1
+Kena,Kena,LOC,-0.7,0.0,de,1
+Österreich,Österreich,LOC,0.82,0.0,de,1
+Garmisch,Garmisch,LOC,0.0,0.0,de,1
+Herbstferien,Herbstferien,LOC,0.0,0.0,de,1
+Datenanalyseunternehmens Verisk,Datenanalyseunternehmens Verisk,LOC,0.0,0.0,de,1
+Lawinenabgang,Lawinenabgang,LOC,0.0,0.0,de,1
+Klagenfurt,Klagenfurt,LOC,-1.0,0.0,de,1
+Trentino,Trentino,LOC,0.0,0.0,de,1
+Italiens,Italiens,LOC,0.0,0.0,de,1
+Ortler-Massiv,Ortler-Massiv,LOC,-1.0,0.0,de,1
+Erdrutsch,Erdrutsch,LOC,0.0,0.0,de,1
+Rift Valley,Rift Valley,LOC,0.0,0.0,de,1
+südostasiatischen Land,südostasiatischen Land,LOC,0.0,0.0,de,1
+Ureinwohner Alaskas,Ureinwohner Alaskas,LOC,0.0,0.0,de,1
+Westalaska,Westalaska,LOC,-0.7,0.0,de,1
+Ureinwohner,Ureinwohner,LOC,-0.7,0.0,de,1
+Nova Scotia,Nova Scotia,LOC,0.0,0.0,de,1
+Verisk,Verisk,LOC,0.0,0.0,de,1
+Vertainspitze,Vertainspitze,LOC,0.0,0.0,de,1
+lnw,lnw,LOC,-0.15000000000000002,0.0,de,1
+Poppichl,Poppichl,LOC,-1.0,0.0,de,1
 Klimaziele,Klimaziele,LOC,0.0,0.0,de,1
-Reifenwechsel,Reifenwechsel,LOC,1.0,0.0,de,1
-Balkon,Balkon,LOC,0.7,0.0,de,1
-Nebel,Nebel,LOC,-1.0,0.0,de,1
-London,London,LOC,0.7,0.0,de,1
-Tokio,Tokio,LOC,0.7,0.0,de,1
-Brasilien,Brasilien,LOC,0.0,0.0,de,1
-Gletscher-Sterben,Gletscher-Sterben,LOC,-0.2333333333333333,0.0,de,1
+Balkon,Balkon,LOC,0.0,0.0,de,1
+Brandenburg,Brandenburg,LOC,0.4666666666666666,0.3333333333333333,de,1
+Rajoelina,Rajoelina,LOC,0.0,0.0,de,1
+Hochgebirge,Hochgebirge,LOC,0.0,0.0,de,1
+London,London,LOC,0.35,0.5,de,1
+Tokio,Tokio,LOC,0.35,0.5,de,1
+Brasilien,Brasilien,LOC,-1.0,0.0,de,1
 Senklöcher,Senklöcher,LOC,-1.0,0.0,de,1
 Schweiz,Schweiz,LOC,0.0,1.0,de,1
 Gestein,Gestein,LOC,0.0,0.0,de,1
 Bregenz,Bregenz,LOC,0.0,0.0,de,1
-Österreichs,Österreichs,LOC,0.0,0.0,de,1
+Madrid,Madrid,LOC,0.7,0.0,de,1
+Ozeane,Ozeane,LOC,0.0,0.0,de,1
+Windböen,Windböen,LOC,0.0,0.0,de,1
+Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.7,0.0,de,1
 Älpler,Älpler,LOC,0.0,0.0,de,1
-Österreichs Staatsfläche,Österreichs Staatsfläche,LOC,0.0,0.0,de,1
-US-Präsident,US-Präsident,LOC,-1.0,0.0,de,1
+Hubschrauber-Übungen,Hubschrauber-Übungen,LOC,0.0,0.0,de,1
 Orkanböen,Orkanböen,LOC,-1.0,0.0,de,1
 Schneemassen,Schneemassen,LOC,-0.35,0.5,de,1
-Mount-Everest-Gebiet,Mount-Everest-Gebiet,LOC,0.0,0.0,de,1
+Forbach,Forbach,LOC,0.0,0.0,de,1
+Rettungsaktion,Rettungsaktion,LOC,1.0,0.0,de,1
 Schneesturm am,Schneesturm am,LOC,0.0,0.0,de,1
 Provinzen,Provinzen,LOC,0.0,0.0,de,1
-Gaza-Stadt,Gaza-Stadt,LOC,-0.15000000000000002,0.0,de,1
-Katastrophenfonds,Katastrophenfonds,LOC,0.0,0.0,de,1
-Niederösterreich,Niederösterreich,LOC,0.0,0.0,de,1
-Unwetter,Unwetter,LOC,0.0,1.0,de,1
-Risiko,Risiko,LOC,0.35,0.5,de,1
-Dauerregen,Dauerregen,LOC,0.0,0.0,de,1
-Sonnenschein,Sonnenschein,LOC,0.0,0.0,de,1
-Europas,Europas,LOC,0.0,0.0,de,1
-Hurricane leaves trail of destruction across Caribbean,Hurricane leaves trail of destruction across Caribbean,LOC,0.0,0.0,en,1
-Dresden,Dresden,LOC,0.0,1.0,de,1
-Bachtar,Bachtar,LOC,0.0,0.0,de,1
-had seen,had seen,LOC,0.0,0.0,en,1
-a century tore through Lāhainā,a century tore through Lāhainā,LOC,0.0,0.0,en,1
-Maui,Maui,LOC,0.0,0.0,en,1
-Bundesamtes für Seeschifffahrt und Hydrographie,Bundesamtes für Seeschifffahrt und Hydrographie,LOC,0.0,0.0,de,1
-Mittelmeerraum,Mittelmeerraum,LOC,0.0,0.0,de,1
+Peking,Peking,LOC,0.0,0.0,de,1
+Osthangs,Osthangs,LOC,0.0,0.0,de,1
+Tibet,Tibet,LOC,0.0,0.0,de,1
+Reifenwechsel,Reifenwechsel,LOC,1.0,0.0,de,1
+Bualoi,Bualoi,LOC,0.0,0.0,de,1
+Toten,Toten,LOC,-0.7,0.0,de,1
+Wetterkarten,Wetterkarten,LOC,0.0,0.0,de,1
+Erdbeben der Stärke,Erdbeben der Stärke,LOC,0.0,1.0,de,1
+Ostafghanistan,Ostafghanistan,LOC,0.0,1.0,de,1
+Hawaii,Hawaii,LOC,0.0,0.0,de,1
 Wetterexperten,Wetterexperten,LOC,0.0,0.0,de,1
+Arkansas,Arkansas,LOC,0.0,0.0,de,1
+Oklahoma,Oklahoma,LOC,0.0,0.0,de,1
+Ragasa,Ragasa,LOC,0.0,0.0,de,1
+Bombenfunden,Bombenfunden,LOC,0.0,1.0,de,1
+Sachsen,Sachsen,LOC,0.0,1.0,de,1
 aufgestauter See,aufgestauter See,LOC,0.0,0.0,de,1
 Sturm China,Sturm China,LOC,0.0,0.0,de,1
-Typhoon Ragasa Eclipses Mangkhut,Typhoon Ragasa Eclipses Mangkhut,LOC,-1.0,0.0,en,1
-Hong Kong’s Wild Weather Run,Hong Kong’s Wild Weather Run,LOC,-1.0,0.0,en,1
-Nordsachsen,Nordsachsen,LOC,0.0,1.0,de,1
+Hongkongs,Hongkongs,LOC,1.0,0.0,de,1
+…,…,LOC,0.0,0.0,de,1
+Waldfläche,Waldfläche,LOC,0.0,0.0,de,1
+Nordsachsen Dresden,Nordsachsen Dresden,LOC,0.0,1.0,de,1
 sn,sn,LOC,0.0,1.0,de,1
-Artensterben,Artensterben,LOC,-0.43333333333333335,0.0,de,1
+Arzberg,Arzberg,LOC,0.0,1.0,de,1
 Landkreis Nordsachsen,Landkreis Nordsachsen,LOC,0.0,1.0,de,1
 Band-Geheimnis,Band-Geheimnis,LOC,0.0,0.0,de,1
-Kelly Family,Kelly Family,LOC,0.0,0.0,de,1
+Kelly Family Patricia Kelly,Kelly Family Patricia Kelly,LOC,0.0,0.0,de,1
 Amsterdam,Amsterdam,LOC,0.0,0.0,de,1
-Sean OKelley,Sean OKelley,LOC,0.0,0.0,de,1
 Warnungen,Warnungen,LOC,0.0,0.0,de,1
-Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1
-lrs,lrs,LOC,0.0,0.0,de,1
-Polizeipräsidiums Schwaben Sü…,Polizeipräsidiums Schwaben Sü…,LOC,0.0,0.0,de,1
-München,München,LOC,0.0,0.0,de,1
-MV,MV,LOC,0.0,0.0,de,1
-Hanoi,Hanoi,LOC,-0.7,0.0,de,1
-Herbsternte,Herbsternte,LOC,0.0,0.0,de,1
-Linz,Linz,LOC,0.7,0.0,de,1
-Landwirtschaftskammer Oberösterreich,Landwirtschaftskammer Oberösterreich,LOC,0.5,0.5,de,1
-Jamaica as a Category 5,Jamaica as a Category 5,LOC,0.0,0.0,en,1
-Kreis Bergstraße,Kreis Bergstraße,LOC,0.0,0.0,de,1
-Bewohner,Bewohner,LOC,0.0,0.0,de,1
-Bridgewater,Bridgewater,LOC,0.0,0.0,en,1
-Nova Scotia after devastating blazes across the province,Nova Scotia after devastating blazes across the province,LOC,0.0,0.0,en,1
-Intense rains that stalled over Central Florida unleashed,Intense rains that stalled over Central Florida unleashed,LOC,0.0,0.0,en,1
-Meteorologen,Meteorologen,LOC,0.0,0.0,de,1
-Kingston,Kingston,LOC,0.0,0.0,de,1
-US-Hurrikanzentr…,US-Hurrikanzentr…,LOC,0.0,0.0,de,1
-Bil…,Bil…,LOC,0.0,0.0,de,1
-Miami,Miami,LOC,0.0,0.0,de,1
-Land,Land,LOC,0.0,0.0,de,1
-jamaikanische Küste,jamaikanische Küste,LOC,0.0,0.0,de,1
-place,place,LOC,0.0,0.0,en,1
-Sterbefälle,Sterbefälle,LOC,0.0,0.0,de,1
-Sizilien,Sizilien,LOC,0.0,0.0,de,1
-Piemont,Piemont,LOC,0.0,0.0,de,1
-Klagenfurt,Klagenfurt,LOC,-1.0,0.0,de,1
-Maria Saal,Maria Saal,LOC,0.0,0.0,de,1
-Bezirk Klagenfurt-…,Bezirk Klagenfurt-…,LOC,0.0,0.0,de,1
-Jamaica and Cuba,Jamaica and Cuba,LOC,0.0,0.0,en,1
-Cuba early Wednesday,Cuba early Wednesday,LOC,0.0,0.0,en,1
-Oct,Oct,LOC,0.0,0.0,en,1
-Wirbelsturm Melissa,Wirbelsturm Melissa,LOC,0.0,0.0,de,1
-Kubas,Kubas,LOC,0.0,0.0,de,1
-at least 23 people have di…,at least 23 people have di…,LOC,0.0,0.0,en,1
-Cuba and Haiti,Cuba and Haiti,LOC,0.0,0.0,en,1
-Landkreis Fulda,Landkreis Fulda,LOC,0.0,0.0,de,1
-Landkreis Bergstraße,Landkreis Bergstraße,LOC,-0.7,0.0,de,1
-lnw,lnw,LOC,-0.15000000000000002,0.0,de,1
-Düsseldorf,Düsseldorf,LOC,-0.15000000000000002,0.0,de,1
-Hitzewelle,Hitzewelle,LOC,0.0,0.0,de,1
-Statistische Bundesamt am Dienstag,Statistische Bundesamt am Dienstag,LOC,0.0,0.0,de,1
-Priorities,Priorities,LOC,0.0,0.0,en,1
-Pariser,Pariser,LOC,0.0,0.0,de,1
-Klimaabkommens,Klimaabkommens,LOC,0.0,0.0,de,1
-Tulpenbaum,Tulpenbaum,LOC,0.7,0.0,de,1
-Trompetenbaum,Trompetenbaum,LOC,0.7,0.0,de,1
-Kuchenbaum,Kuchenbaum,LOC,0.7,0.0,de,1
-Rätsel,Rätsel,LOC,0.0,0.0,de,1
-Westsibirien,Westsibirien,LOC,-1.0,0.0,de,1
-Sibirien,Sibirien,LOC,0.15000000000000002,0.0,de,1
-New Delhi,New Delhi,LOC,0.0,0.0,en,1
-Wallis,Wallis,LOC,0.0,0.0,de,1
-Alpendorf,Alpendorf,LOC,0.0,0.0,de,1
-Bad Eisenkappel,Bad Eisenkappel,LOC,0.0,0.0,de,1
-Schädlingen,Schädlingen,LOC,0.0,0.0,de,1
-Waldbränden,Waldbränden,LOC,0.0,0.0,de,1
-Sauerkirschen,Sauerkirschen,LOC,0.0,0.0,de,1
-east London has been officially declared contaminated following a judicial review,east London has been officially declared contaminated following a judicial review,LOC,0.0,0.0,en,1
-frequency and intensity,frequency and intensity,LOC,0.0,1.0,en,1
-worth of PayPal Holdings,worth of PayPal Holdings,LOC,0.0,0.0,en,1
+NRW,NRW,LOC,-0.7,0.0,de,1
+Offenbach,Offenbach,LOC,-1.0,0.0,de,1
+lrs,lrs,LOC,-1.0,0.0,de,1
+Dürre,Dürre,LOC,0.7,0.0,de,1
+Krisengebieten,Krisengebieten,LOC,0.0,0.0,de,1
+Gaza-Stadt,Gaza-Stadt,LOC,-0.07500000000000001,0.0,de,1
+Amerikaner,Amerikaner,LOC,-0.5,0.5,de,1
+Blockchain,Blockchain,LOC,0.7,0.0,de,1
 “,“,LOC,0.0,0.0,de,1
 Schneeflocken,Schneeflocken,LOC,0.0,0.0,de,1
-Alpengipfeln,Alpengipfeln,LOC,0.0,0.0,de,1
-California,California,LOC,0.0,0.0,en,1
-Provinz Cebu …,Provinz Cebu …,LOC,0.0,0.0,de,1
+Sturmböen,Sturmböen,LOC,-0.15000000000000002,0.0,de,1
+Regen,Regen,LOC,-0.15000000000000002,0.0,de,1
+Kaliforniens,Kaliforniens,LOC,-0.325,0.0,de,1
+NRW Düsseldorf,NRW Düsseldorf,LOC,-0.15000000000000002,0.0,de,1
+Behördenangaben,Behördenangaben,LOC,-1.0,0.0,de,1
+Landkreis Bergstraße,Landkreis Bergstraße,LOC,-0.7,0.0,de,1
+Landkreis Fulda,Landkreis Fulda,LOC,0.0,0.0,de,1
+Universal,Universal,LOC,0.0,0.0,de,1
+Universität Innsbruck,Universität Innsbruck,LOC,0.0,0.0,de,1
+Bridgewater,Bridgewater,LOC,0.0,0.0,de,1
+New South Wales,New South Wales,LOC,0.0,0.0,de,1
+Jacksonville,Jacksonville,LOC,0.0,0.0,de,1
+Zentralfloridas,Zentralfloridas,LOC,-0.35,0.5,de,1
+Zentralflorida,Zentralflorida,LOC,-1.0,0.0,de,1
+Sizilien,Sizilien,LOC,0.0,0.0,de,1
+Inselstaates,Inselstaates,LOC,0.0,0.0,de,1
+Meteorologen,Meteorologen,LOC,0.0,0.0,de,1
+Insel,Insel,LOC,0.0,0.0,de,1
+Karibikstaat,Karibikstaat,LOC,0.7,0.0,de,1
+Mali,Mali,LOC,0.0,0.0,de,1
+jamaikanische Küste,jamaikanische Küste,LOC,0.0,0.0,de,1
+Dächer,Dächer,LOC,-1.0,0.0,de,1
+Ethereum,Ethereum,LOC,0.7,0.0,de,1
+Mandeln,Mandeln,LOC,0.0,0.0,de,1
+Gaza,Gaza,LOC,-0.07500000000000001,0.0,de,1
+Netflix,Netflix,LOC,-0.7,0.0,de,1
+Katastrophenfonds,Katastrophenfonds,LOC,0.0,0.0,de,1
+Al-Faschir,Al-Faschir,LOC,0.0,0.0,de,1
+BP,BP,LOC,0.0,0.0,de,1
+BP Highway,BP Highway,LOC,0.0,0.0,de,1
+Samstagmorgen,Samstagmorgen,LOC,0.0,0.0,de,1
+Unwetter,Unwetter,LOC,0.0,1.0,de,1
+Niedersachsens Umweltministerium,Niedersachsens Umweltministerium,LOC,0.0,0.0,de,1
+Linz,Linz,LOC,0.7,0.0,de,1
+Sterbefälle,Sterbefälle,LOC,0.0,0.0,de,1
+Hitzewelle,Hitzewelle,LOC,0.0,0.0,de,1
+Statistische Bundesamt am Dienstag,Statistische Bundesamt am Dienstag,LOC,0.0,0.0,de,1
+Alaskas,Alaskas,LOC,-0.5,0.5,de,1
+Taifuns Halong,Taifuns Halong,LOC,-0.5,0.5,de,1
+Herausforderungen,Herausforderungen,LOC,0.0,0.0,de,1
+Rätsel,Rätsel,LOC,-1.0,0.0,de,1
+Westsibirien,Westsibirien,LOC,-1.0,0.0,de,1
+Waldbränden 2024–2025,Waldbränden 2024–2025,LOC,0.0,0.0,de,1
+Uttar Pradesh,Uttar Pradesh,LOC,0.0,0.0,de,1
+Neu-Delhi,Neu-Delhi,LOC,-1.0,0.0,de,1
+Chemieunterricht,Chemieunterricht,LOC,-0.5666666666666667,0.3333333333333333,de,1
+Wallis,Wallis,LOC,0.0,0.0,de,1
+Alpendorf,Alpendorf,LOC,0.0,0.0,de,1
+Pischeldorf,Pischeldorf,LOC,-0.7,0.0,de,1
+Brückl,Brückl,LOC,-0.7,0.0,de,1
+Bad Eisenkappel,Bad Eisenkappel,LOC,0.0,0.0,de,1
+Gartenliebhaber,Gartenliebhaber,LOC,-1.0,0.0,de,1

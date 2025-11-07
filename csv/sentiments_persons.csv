@@ -1,82 +1,41 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Hurricane Melissa,Hurricane Melissa,PER,0.1875,0.0,en,16
-"Sturm ""Bualoi","Sturm ""Bualoi",PER,0.0,0.0,de,5
-Hurrikan Melissa,Hurrikan Melissa,PER,0.0,0.0,de,4
-widespread flooding,widespread flooding,PER,0.0,0.0,en,2
-Aid struggles,Aid struggles,PER,0.5,0.0,en,2
-Hurricane Melissa leaves,Hurricane Melissa leaves,PER,0.5,0.0,en,2
-Verisk Estimates,Verisk Estimates,PER,0.0,0.0,en,2
-Masterplan Wasser,Masterplan Wasser,PER,0.0,0.0,de,2
-"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,2
-Jamaican farms reel from Hurricane Melissa,Jamaican farms reel from Hurricane Melissa,PER,0.5,0.0,en,2
-flooded swathes of the central Philippines,flooded swathes of the central Philippines,PER,0.0,0.0,en,2
-Andrew Holness,Andrew Holness,PER,0.0,0.0,de,2
-Oscar contender hiding,Oscar contender hiding,PER,0.0,0.0,en,2
-Nick Davis,Nick Davis,PER,0.0,0.0,en,1
-Jamaican towns devastated by hurricane,Jamaican towns devastated by hurricane,PER,0.0,0.0,en,1
-Nebelmaschine anwirft,Nebelmaschine anwirft,PER,0.7,0.0,de,1
-Tag trüb,Tag trüb,PER,0.15000000000000002,0.0,de,1
-Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1
-David Yeomans,David Yeomans,PER,0.0,0.0,en,1
-Dana M,Dana M,PER,0.0,0.0,de,1
-NBCs George Sol,NBCs George Sol,PER,0.0,0.0,en,1
-Hurricane Melissa plowed,Hurricane Melissa plowed,PER,0.0,0.0,en,1
-from Hurricane Melissa,from Hurricane Melissa,PER,1.0,0.0,en,1
-Kenyan Cabinet Secretary for the,Kenyan Cabinet Secretary for the,PER,0.0,0.0,en,1
-Miguel Díaz-Canel,Miguel Díaz-Canel,PER,1.0,0.0,de,1
-Taliban k,Taliban k,PER,0.0,0.0,de,1
-Jamaican towns devastated by hurricaneBBC Communities,Jamaican towns devastated by hurricaneBBC Communities,PER,1.0,0.0,en,1
-Zaphod Beeblebrox,Zaphod Beeblebrox,PER,0.0,0.0,en,1
-Wirbelsturm Melissa,Wirbelsturm Melissa,PER,0.0,0.0,de,1
-Typhoon Kalamaegi leaves dozens dead,Typhoon Kalamaegi leaves dozens dead,PER,0.0,0.0,en,1
-Edwin Hamweemba,Edwin Hamweemba,PER,1.0,0.0,de,1
-Peninsula to the southern Avalon Pen,Peninsula to the southern Avalon Pen,PER,0.0,0.0,en,1
-Ashley Brauweiler,Ashley Brauweiler,PER,-0.7,0.0,en,1
-Typhoon Kalmaegi,Typhoon Kalmaegi,PER,0.0,0.0,en,1
-Rain-soaked residents sought refuge on rooftops,Rain-soaked residents sought refuge on rooftops,PER,0.0,0.0,en,1
-Kumail JafferLocal,Kumail JafferLocal,PER,0.0,0.0,en,1
-On October 28,On October 28,PER,0.0,0.0,en,1
-Stefan Winter,Stefan Winter,PER,0.0,0.0,de,1
-Insured losses from Hurricane Melissa,Insured losses from Hurricane Melissa,PER,0.0,0.0,en,1
-Insured Losses From Hurricane Melissa Could Reach,Insured Losses From Hurricane Melissa Could Reach,PER,0.0,0.0,en,1
-Rachel Feltman,Rachel Feltman,PER,0.0,0.0,en,1
-Mervyn Perry recalls,Mervyn Perry recalls,PER,0.0,0.0,en,1
-Hurricane Melissa Destroys,Hurricane Melissa Destroys,PER,0.0,0.0,en,1
+Hurrikan Melissa,Hurrikan Melissa,PER,-0.15138888888888888,0.09583333333333333,de,24
+"Sturm ""Bualoi","Sturm ""Bualoi",PER,0.0,0.0,de,4
+Thomas Pandola,Thomas Pandola,PER,-0.1625,0.0,de,2
+Melissa Melissa,Melissa Melissa,PER,0.0,0.0,de,1
+Melissa kr,Melissa kr,PER,0.0,0.0,de,1
 Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1
-Windgeschwindigkeiten vo,Windgeschwindigkeiten vo,PER,0.0,0.0,de,1
-Experten erwart,Experten erwart,PER,0.0,0.0,de,1
-Jamaica Tuesday,Jamaica Tuesday,PER,0.0,0.0,en,1
-Claudia Sheinbaum,Claudia Sheinbaum,PER,1.0,0.0,en,1
-President Claudia Sheinbaum,President Claudia Sheinbaum,PER,0.0,0.0,en,1
-Friedhart Knolle,Friedhart Knolle,PER,0.0,0.0,de,1
-Arbeiterkammer si,Arbeiterkammer si,PER,0.0,0.0,de,1
-Ministerin Behrens,Ministerin Behrens,PER,0.7,0.0,de,1
-beliebtestem Zaungewächs,beliebtestem Zaungewächs,PER,0.0,1.0,de,1
-Heftiger Sturm,Heftiger Sturm,PER,0.0,0.0,de,1
-Donald Trump,Donald Trump,PER,-1.0,0.0,de,1
-Europas Wohlstand,Europas Wohlstand,PER,0.0,0.0,de,1
-Luke Donald,Luke Donald,PER,1.0,0.0,de,1
-Sturm „Bualoi“,Sturm „Bualoi“,PER,0.0,0.0,de,1
-Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1
+Haiti Hurrikan,Haiti Hurrikan,PER,1.0,0.0,de,1
+Miguel Díaz-Canel,Miguel Díaz-Canel,PER,1.0,0.0,de,1
+Melissa Dächer,Melissa Dächer,PER,-1.0,0.0,de,1
+Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1
+George Solis,George Solis,PER,0.0,0.0,de,1
+Jamaika hinwegfegte,Jamaika hinwegfegte,PER,0.0,1.0,de,1
+Langsamer Sturm,Langsamer Sturm,PER,-0.35,0.5,de,1
+Jamaika hinwegfegteSky,Jamaika hinwegfegteSky,PER,0.0,1.0,de,1
+Dalton Stewart,Dalton Stewart,PER,-1.0,0.0,de,1
+Mervyn Perry,Mervyn Perry,PER,-1.0,0.0,de,1
+Spaniens Regionalchef,Spaniens Regionalchef,PER,0.0,0.0,de,1
+Stefan Winter,Stefan Winter,PER,0.0,0.0,de,1
+Hurrikan Ida,Hurrikan Ida,PER,-1.0,0.0,de,1
+Gefahr von Überschwemmungen an der Küste,Gefahr von Überschwemmungen an der Küste,PER,0.7,0.0,de,1
+Madi Keita,Madi Keita,PER,0.0,0.0,de,1
+"Supertaifun ""Ragasa","Supertaifun ""Ragasa",PER,0.0,0.0,de,1
+Waldverlust Dürre,Waldverlust Dürre,PER,0.7,0.0,de,1
+Andrew Holness,Andrew Holness,PER,0.0,0.0,de,1
 Kelly Family,Kelly Family,PER,0.0,0.0,de,1
-Patricia Kelly,Patricia Kelly,PER,0.0,0.0,de,1
-Tuesday afternoon,Tuesday afternoon,PER,0.0,0.0,en,1
+Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1
+"Sturm ""Bualoi"" Hanoi","Sturm ""Bualoi"" Hanoi",PER,-0.7,0.0,de,1
+Sturm „Bualoi“,Sturm „Bualoi“,PER,0.0,0.0,de,1
+Europas Wohlstand,Europas Wohlstand,PER,-1.0,0.0,de,1
+"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,1
+Campi Flegrei,Campi Flegrei,PER,0.0,0.0,de,1
+beliebtestem Zaungewächs,beliebtestem Zaungewächs,PER,0.35,0.5,de,1
+Katastrophenschutz Waldbrände,Katastrophenschutz Waldbrände,PER,0.35,0.5,de,1
+Ministerin Behrens,Ministerin Behrens,PER,0.7,0.0,de,1
+Masterplan Wasser,Masterplan Wasser,PER,0.0,0.0,de,1
+Friedhart Knolle,Friedhart Knolle,PER,0.0,0.0,de,1
+Claudia Sheinbaum,Claudia Sheinbaum,PER,0.0,0.0,de,1
 Franz Waldenberger,Franz Waldenberger,PER,0.7,0.0,de,1
 Helmut Feitzlmayr,Helmut Feitzlmayr,PER,0.7,0.0,de,1
-Mexico searches for missing people after torrential rains,Mexico searches for missing people after torrential rains,PER,0.0,0.0,en,1
-Michael Bahn,Michael Bahn,PER,0.0,0.0,de,1
-trapped under rubble,trapped under rubble,PER,0.0,0.0,en,1
-nan Hurrikan Melissa,nan Hurrikan Melissa,PER,0.0,0.0,de,1
-Madi Keita,Madi Keita,PER,0.0,0.0,de,1
-Neighbors suffer relentless,Neighbors suffer relentless,PER,0.0,0.0,en,1
-Hurricane Gilbert,Hurricane Gilbert,PER,-0.7,0.0,en,1
-Jamaica Prepares,Jamaica Prepares,PER,0.0,0.0,en,1
-Orlando Reveals,Orlando Reveals,PER,0.0,0.0,en,1
-Sherry Gott,Sherry Gott,PER,0.0,0.0,en,1
-Paxos accidentally minted,Paxos accidentally minted,PER,0.0,0.0,en,1
-stablecoin issuer,stablecoin issuer,PER,0.0,0.0,en,1
-On Wednesday,On Wednesday,PER,0.0,0.0,en,1
-Paxos Fat-Fingers,Paxos Fat-Fingers,PER,0.0,0.0,en,1
-Rainham Volcano,Rainham Volcano,PER,0.0,0.0,en,1
-Peter Schwalbach,Peter Schwalbach,PER,0.0,0.0,de,1
-Hurricane Melissa struck J,Hurricane Melissa struck J,PER,0.0,0.0,en,1
+Ashley Brauweiler,Ashley Brauweiler,PER,-0.7,0.0,de,1

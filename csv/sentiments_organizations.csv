@@ -1,284 +1,79 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.16666666666666666,0.0,de,6
-Lawine,Lawine,ORG,0.0,0.0,de,5
-authorities said,authorities said,ORG,0.575,0.0,en,4
-The following comments are owned by whoever posted them,The following comments are owned by whoever posted them,ORG,0.5,0.0,en,4
-Rescuers and aid workers fanned out across Jamaica on Saturday to distribute food and water and reach communities,Rescuers and aid workers fanned out across Jamaica on Saturday to distribute food and water and reach communities,ORG,0.0,0.0,en,4
-the Philippines,the Philippines,ORG,0.3333333333333333,0.0,en,3
-UN-Ziel,UN-Ziel,ORG,0.5499999999999999,0.0,de,3
-A new global health,A new global health,ORG,1.0,0.0,en,3
-Typhoon Kalmaegi,Typhoon Kalmaegi,ORG,0.0,0.0,en,3
-italienischen Bergwacht,italienischen Bergwacht,ORG,-0.2333333333333333,0.0,de,3
-One Jamaican Town,One Jamaican Town,ORG,0.3333333333333333,0.0,en,3
-BBC,BBC,ORG,0.3333333333333333,0.0,en,3
-AP,AP,ORG,0.0,0.0,en,3
-Python utility for using LLM,Python utility for using LLM,ORG,0.0,0.0,en,3
-network issues,network issues,ORG,0.0,0.0,en,3
-or browser settings,or browser settings,ORG,0.0,0.0,en,3
-or try using a diffe…,or try using a diffe…,ORG,0.0,0.0,en,3
-Hurricane Melissa Left Behind Floodwaters and Dead LivestockThe New York Times,Hurricane Melissa Left Behind Floodwaters and Dead LivestockThe New York Times,ORG,0.3333333333333333,0.0,en,3
-as another powerful storm bore down on the battered region,as another powerful storm bore down on the battered region,ORG,0.15000000000000002,0.0,en,2
-Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,2
-Landwirtschaftsministerium in Paris,Landwirtschaftsministerium in Paris,ORG,0.0,0.0,de,2
-heavy rainfall,heavy rainfall,ORG,0.0,0.0,en,2
-flash floods and landslides as it tracked through the northern Caribbean and made landfall,flash floods and landslides as it tracked through the northern Caribbean and made landfall,ORG,0.0,0.0,en,2
-Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,-0.35,0.0,de,2
-RKI,RKI,ORG,-0.35,0.0,de,2
-HANOI,HANOI,ORG,0.15000000000000002,0.0,en,2
-And hundreds of thousands of people live right by it,And hundreds of thousands of people live right by it,ORG,0.0,0.0,en,2
-UK aid for Hurricane Melissa,UK aid for Hurricane Melissa,ORG,0.0,0.0,en,2
-N.S.,N.S.,ORG,0.0,0.0,en,2
-GEO,GEO,ORG,1.0,0.0,de,2
-Kommunistische Partei,Kommunistische Partei,ORG,0.0,0.0,de,2
-As Jamaica slowly recovers from the most catastrophic,As Jamaica slowly recovers from the most catastrophic,ORG,0.0,0.0,en,2
-The Manitoba advocate for children and youth says the provincial government must do more to reduce the harm caused to young people from wildfires,The Manitoba advocate for children and youth says the provincial government must do more to reduce the harm caused to young people from wildfires,ORG,0.0,0.0,en,2
-GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.0,0.0,en,2
-quickly reversed with burn mechanism,quickly reversed with burn mechanism,ORG,0.0,0.0,en,2
+BBC,BBC,ORG,-0.4,0.0,de,5
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.3333333333333333,0.0,de,3
+Lawine,Lawine,ORG,0.0,0.0,de,3
+abgeschnittenThe New York Times,abgeschnittenThe New York Times,ORG,-0.5,0.0,de,2
+italienischen Bergwacht,italienischen Bergwacht,ORG,0.0,0.0,de,2
+Gletscherschwund,Gletscherschwund,ORG,0.0,0.5,de,2
 Toyota Brasil,Toyota Brasil,ORG,-1.0,0.0,de,2
-even ones far from wildfire-prone lands,even ones far from wildfire-prone lands,ORG,0.0,0.0,en,2
-the region,the region,ORG,0.5,0.0,en,2
-Alien fanatics are,Alien fanatics are,ORG,0.0,0.0,en,2
-according to officials and local media,according to officials and local media,ORG,0.0,0.0,en,2
-leaving death and devastation,leaving death and devastation,ORG,0.0,0.0,en,2
-Are Chicago and the Great Lakes a climate haven,Are Chicago and the Great Lakes a climate haven,ORG,0.0,0.0,en,2
-flooding hospitals,flooding hospitals,ORG,0.0,0.0,en,2
-Shallow tremors,Shallow tremors,ORG,0.0,0.0,en,2
-officials say,officials say,ORG,0.0,0.0,en,2
-Jamaica,Jamaica,ORG,0.0,0.0,en,2
-aftershocks,aftershocks,ORG,0.0,0.0,en,2
-On Tuesday,On Tuesday,ORG,0.5,0.0,en,2
-as another powerful storm threatened the battered region,as another powerful storm threatened the battered region,ORG,1.0,0.0,en,2
-and killing dozens of people,and killing dozens of people,ORG,0.0,0.0,en,2
-Herbst!,Herbst!,ORG,0.0,0.0,de,2
-Nineteen people are confirmed dead,Nineteen people are confirmed dead,ORG,0.5,0.0,en,2
-from Hurricane Melissa,from Hurricane Melissa,ORG,0.0,0.0,en,1
-News Wrap,News Wrap,ORG,0.0,0.0,en,1
-Essential relief supplies are now rolling into hurricane-stricken St. Elizabeth … Rescuers and aid workers fanned out across Jamaica on Saturday to distribute food and water and reach communities,Essential relief supplies are now rolling into hurricane-stricken St. Elizabeth … Rescuers and aid workers fanned out across Jamaica on Saturday to distribute food and water and reach communities,ORG,0.0,0.0,en,1
-Alaska,Alaska,ORG,0.0,0.0,en,1
-50 dead as Caribbean digs,50 dead as Caribbean digs,ORG,0.0,0.0,en,1
-The southwest of the island bore the full force Hurricane Melissa,The southwest of the island bore the full force Hurricane Melissa,ORG,0.0,0.0,en,1
-Jamaican officials announced plans Saturday to set up multiple field hospitals as it recovers from Hurricane Melissa,Jamaican officials announced plans Saturday to set up multiple field hospitals as it recovers from Hurricane Melissa,ORG,1.0,0.0,en,1
-"Associated Press
-JUNEAU","Associated Press
-JUNEAU",ORG,0.0,0.0,en,1
-Jamaica relief efforts continue,Jamaica relief efforts continue,ORG,0.0,0.0,en,1
-Heavy rains have triggered landslides,Heavy rains have triggered landslides,ORG,0.0,0.0,en,1
-se…,se…,ORG,0.0,0.0,de,1
-whine of chain saws and chopping of machetes,whine of chain saws and chopping of machetes,ORG,0.0,0.0,en,1
-National Hurricane Centers,National Hurricane Centers,ORG,0.0,0.0,de,1
-mv,mv,ORG,0.0,0.0,de,1
-Sky News,Sky News,ORG,0.0,0.0,en,1
-we…,we…,ORG,0.0,0.0,de,1
-hi…,hi…,ORG,-0.7,0.0,de,1
-henrygunthersamuel/…,henrygunthersamuel/…,ORG,0.0,0.0,de,1
-NZZ,NZZ,ORG,0.0,0.0,de,1
-Devastating aftermath of Hurricane Melissa,Devastating aftermath of Hurricane Melissa,ORG,0.0,0.0,en,1
-Ohio and Virginia are moving cl…,Ohio and Virginia are moving cl…,ORG,1.0,0.0,en,1
-Zu…,Zu…,ORG,1.0,0.0,de,1
-a federal judge is blocking the Trump administration from requiring that voters prove their citizenship,a federal judge is blocking the Trump administration from requiring that voters prove their citizenship,ORG,1.0,0.0,en,1
-no water...,no water...,ORG,0.0,0.0,en,1
-one of the strongest storms on record to make landfall in the Caribbean,one of the strongest storms on record to make landfall in the Caribbean,ORG,0.0,0.0,en,1
-The Guardian,The Guardian,ORG,0.0,0.0,en,1
-FBI,FBI,ORG,0.0,0.0,en,1
-breakfast cereals,breakfast cereals,ORG,1.0,0.0,en,1
-We…,We…,ORG,0.0,0.0,de,1
-BLACK RIVER,BLACK RIVER,ORG,0.0,0.0,en,1
-Rescuers and aid workers,Rescuers and aid workers,ORG,0.0,0.0,en,1
-Rescuers and aid workers have spread across Jamaica to deliver food and water after Hurricane Melissa ravaged the island KINGSTON,Rescuers and aid workers have spread across Jamaica to deliver food and water after Hurricane Melissa ravaged the island KINGSTON,ORG,0.0,0.0,en,1
-Minister…,Minister…,ORG,0.0,0.0,en,1
-KameraOne,KameraOne,ORG,0.0,0.0,de,1
-NBC,NBC,ORG,0.0,0.0,en,1
-Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1
+New York Times,New York Times,ORG,-0.5,0.0,de,2
+Universal Orlando,Universal Orlando,ORG,0.35,0.0,de,2
+Palmetto Publishing,Palmetto Publishing,ORG,-0.1625,0.0,de,2
+UN-Ziel,UN-Ziel,ORG,0.10000000000000002,0.16666666666666666,de,2
+NS-Staaten,NS-Staaten,ORG,0.0,0.0,de,1
+Western Woodlot Services Cooperative,Western Woodlot Services Cooperative,ORG,0.0,0.0,de,1
+KI-Revolution,KI-Revolution,ORG,0.0,0.0,de,1
+OCF,OCF,ORG,0.0,0.0,de,1
+NBC,NBC,ORG,0.0,0.0,de,1
+Fiat,Fiat,ORG,0.0,0.0,de,1
+US-Luftwaffe,US-Luftwaffe,ORG,0.0,0.0,de,1
+Kommunistische Partei,Kommunistische Partei,ORG,0.0,0.0,de,1
+Kalifornien…,Kalifornien…,ORG,0.0,0.0,de,1
+Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,1
+zw…,zw…,ORG,0.0,0.0,de,1
+PayPal Holdings Inc,PayPal Holdings Inc,ORG,0.0,0.0,de,1
+Liste …,Liste …,ORG,0.0,0.0,de,1
 Taliban,Taliban,ORG,-1.0,0.0,de,1
-I get stranger things than you free,I get stranger things than you free,ORG,0.0,0.0,en,1
-berei…,berei…,ORG,0.0,0.0,de,1
-italieni…,italieni…,ORG,0.0,0.0,de,1
-and cars floated through,and cars floated through,ORG,0.0,0.0,en,1
-Vietnam's central belt has been deluged by torrential rains,Vietnam's central belt has been deluged by torrential rains,ORG,0.15000000000000002,0.0,en,1
-turning …,turning …,ORG,0.15000000000000002,0.0,en,1
-Winds and rain lash central Philippines,Winds and rain lash central Philippines,ORG,0.0,0.0,en,1
-The typhoon,The typhoon,ORG,0.0,0.0,en,1
-locally known as Tino,locally known as Tino,ORG,0.0,0.0,en,1
-Their insurance company didn’t,Their insurance company didn’t,ORG,0.0,0.0,en,1
-Hurricane Ida revealed a fragile insurance industry,Hurricane Ida revealed a fragile insurance industry,ORG,0.0,0.0,en,1
-The dead inclu…,The dead inclu…,ORG,0.0,0.0,en,1
-Florida braces as,Florida braces as,ORG,0.0,0.0,en,1
-Philippines,Philippines,ORG,0.0,0.0,en,1
-Typhoon Kalmaegi has left at least 26 people dead,Typhoon Kalmaegi has left at least 26 people dead,ORG,0.0,0.0,en,1
-Risk of coastal flooding,Risk of coastal flooding,ORG,-0.7,0.0,en,1
-big waves as storm heads for parts of,big waves as storm heads for parts of,ORG,-0.7,0.0,en,1
-CBC,CBC,ORG,-0.7,0.0,en,1
-bringing with it rain,bringing with it rain,ORG,0.0,0.0,en,1
-strong winds and the risk of coastal flooding along the eastern,strong winds and the risk of coastal flooding along the eastern,ORG,0.0,0.0,en,1
-disaster response officials said,disaster response officials said,ORG,0.0,0.0,en,1
-disaster response off…,disaster response off…,ORG,0.0,0.0,en,1
-Typhoon Kalmaegi kills scores,Typhoon Kalmaegi kills scores,ORG,0.0,0.0,en,1
-Nabaanda Primary School,Nabaanda Primary School,ORG,0.7,0.0,de,1
-MANILA,MANILA,ORG,0.0,0.0,en,1
-sweeping away trucks and shipping containers,sweeping away trucks and shipping containers,ORG,0.0,0.0,en,1
-Floodwaters described as unprecedented h,Floodwaters described as unprecedented h,ORG,1.0,0.0,en,1
-…,…,ORG,0.0,0.0,de,1
-Opf…,Opf…,ORG,0.0,0.0,de,1
-University of Illinois Chicago könnt…,University of Illinois Chicago könnt…,ORG,0.0,0.0,de,1
-Last week,Last week,ORG,0.0,0.0,en,1
-Phi…,Phi…,ORG,0.0,0.0,de,1
-Calls are being made by London Fire Brigade for more investment,Calls are being made by London Fire Brigade for more investment,ORG,0.0,0.0,en,1
-Pregnant women are a uniquely vulnerable group to this danger,Pregnant women are a uniquely vulnerable group to this danger,ORG,0.0,0.0,en,1
-major study finds,major study finds,ORG,0.0,0.0,en,1
-AP News,AP News,ORG,0.0,0.0,en,1
-Or…,Or…,ORG,0.5,0.0,de,1
-fueling fears of food,fueling fears of food,ORG,1.0,0.0,en,1
-Aww,Aww,ORG,1.0,0.0,en,1
-if you make me cry anymore,if you make me cry anymore,ORG,1.0,0.0,en,1
-you'll fog up my helmet,you'll fog up my helmet,ORG,1.0,0.0,en,1
-Die Lawine,Die Lawine,ORG,0.0,0.0,de,1
-Mandeville,Mandeville,ORG,0.0,0.0,en,1
-fueling fears of food shortages,fueling fears of food shortages,ORG,0.0,0.0,en,1
-Reuters,Reuters,ORG,0.0,0.0,en,1
-fueling fears of food shortagesReuters Communities,fueling fears of food shortagesReuters Communities,ORG,1.0,0.0,en,1
-no food,no food,ORG,1.0,0.0,en,1
-no water',no water',ORG,1.0,0.0,en,1
-Aid struggles to reach,Aid struggles to reach,ORG,1.0,0.0,en,1
-Audrey,Audrey,ORG,1.0,0.0,en,1
-Wildfire smoke exposure,Wildfire smoke exposure,ORG,0.0,0.0,en,1
-As Typhoon Halong swept through western Alaska,As Typhoon Halong swept through western Alaska,ORG,0.0,0.0,en,1
-its remnants crossed the Pacific and struck western Alaska,its remnants crossed the Pacific and struck western Alaska,ORG,0.0,0.0,en,1
-and that the flame would grow to be part,and that the flame would grow to be part,ORG,0.0,0.0,en,1
-Happy Monday,Happy Monday,ORG,0.0,0.0,en,1
-listeners!,listeners!,ORG,0.0,0.0,en,1
+News Wrap,News Wrap,ORG,0.0,0.0,de,1
+Wählern,Wählern,ORG,0.0,0.0,de,1
+Havering Council,Havering Council,ORG,0.0,0.0,de,1
+Ortler-Alpen,Ortler-Alpen,ORG,0.0,0.0,de,1
+hi…,hi…,ORG,-0.7,0.0,de,1
+Zu…,Zu…,ORG,0.0,0.0,de,1
+Samstagnachmi…,Samstagnachmi…,ORG,0.0,0.0,de,1
+Die Lawine,Die Lawine,ORG,-1.0,0.0,de,1
+erreichenBBC-Gemeinschaften,erreichenBBC-Gemeinschaften,ORG,-1.0,0.0,de,1
+steigtThe New York Times,steigtThe New York Times,ORG,-1.0,0.0,de,1
 Windschutzscheibe,Windschutzscheibe,ORG,0.0,0.0,de,1
-Nasdaq,Nasdaq,ORG,0.0,0.0,en,1
-VRSK,VRSK,ORG,0.0,0.0,en,1
-the Caribb…,the Caribb…,ORG,0.0,0.0,en,1
-I acknowledge them and I will live with them all my life,I acknowledge them and I will live with them all my life,ORG,-0.7,0.0,en,1
 Deutschen Alpenverein,Deutschen Alpenverein,ORG,0.0,0.0,de,1
-Y…,Y…,ORG,-1.0,0.0,de,1
-Global Tipping Points Report,Global Tipping Points Report,ORG,0.35,0.0,de,1
-the impact,the impact,ORG,0.0,0.0,en,1
-the damage,the damage,ORG,0.0,0.0,en,1
-Chicagoland seems like a safe place to … Skip to comments,Chicagoland seems like a safe place to … Skip to comments,ORG,0.0,0.0,en,1
-Rheinische Post,Rheinische Post,ORG,-0.7,0.0,de,1
-Kleing…,Kleing…,ORG,0.0,0.0,de,1
-Berlin/Potsdam,Berlin/Potsdam,ORG,0.35,0.0,de,1
-junge Welt,junge Welt,ORG,0.0,0.0,de,1
-Alpendörf…,Alpendörf…,ORG,-0.7,0.0,de,1
-Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1
-Innsbruck Universität a…,Innsbruck Universität a…,ORG,0.0,0.0,de,1
+UNWIEDERERKENNBAR,UNWIEDERERKENNBAR,ORG,0.0,0.0,de,1
+HANOI,HANOI,ORG,0.7,0.0,de,1
+Dreamers…,Dreamers…,ORG,0.0,0.0,de,1
+Paxos,Paxos,ORG,1.0,0.0,de,1
+Doubao,Doubao,ORG,1.0,0.0,de,1
+Europaparlament,Europaparlament,ORG,1.0,0.0,de,1
+Supertaifuns Ragasa,Supertaifuns Ragasa,ORG,1.0,0.0,de,1
+Landwirtschaftsministerium in Paris,Landwirtschaftsministerium in Paris,ORG,0.0,0.0,de,1
 Klimaziele,Klimaziele,ORG,-1.0,0.0,de,1
-Einsatzk…,Einsatzk…,ORG,-0.5,0.0,de,1
-Ac…,Ac…,ORG,1.0,0.0,de,1
-Ha…,Ha…,ORG,0.0,0.0,de,1
-diesjä…,diesjä…,ORG,0.0,0.0,de,1
-EnBW,EnBW,ORG,0.0,0.0,de,1
-Energievers…,Energievers…,ORG,0.0,0.0,de,1
-Thousands are,Thousands are,ORG,0.0,0.0,en,1
-Far from Gulf Coast hurricanes and California wildfires,Far from Gulf Coast hurricanes and California wildfires,ORG,0.0,0.0,en,1
-Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1
-F…,F…,ORG,1.0,0.0,de,1
-AK für besseren Versicherungsschutz,AK für besseren Versicherungsschutz,ORG,0.0,0.0,de,1
-KAVREPALANCHOWK,KAVREPALANCHOWK,ORG,0.0,0.0,en,1
-Niedersachsens Umweltministerium,Niedersachsens Umweltministerium,ORG,0.0,0.0,de,1
-BUND Niedersachsen,BUND Niedersachsen,ORG,0.0,0.0,de,1
-Flooding and landslides,Flooding and landslides,ORG,0.0,0.0,en,1
-Rescue operations are underway,Rescue operations are underway,ORG,0.0,0.0,en,1
-affected areas,affected areas,ORG,0.0,0.0,en,1
-from flooding and landslides across the country,from flooding and landslides across the country,ORG,1.0,0.0,en,1
-LK OÖ,LK OÖ,ORG,0.5,0.0,de,1
-Proz…,Proz…,ORG,0.0,0.0,de,1
-at least 47 dead,at least 47 dead,ORG,0.0,0.0,en,1
+Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1
+bb,bb,ORG,0.4666666666666666,0.0,de,1
 ADAC,ADAC,ORG,1.0,0.0,de,1
 Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,1
-Pe…,Pe…,ORG,0.0,0.0,de,1
-Windgeschwindigke…,Windgeschwindigke…,ORG,0.0,0.0,de,1
-and floods worsened,and floods worsened,ORG,0.0,0.0,en,1
-Beyond the blaze,Beyond the blaze,ORG,0.0,0.0,en,1
-wildfires can have rippling effects on a community’s health and the land,wildfires can have rippling effects on a community’s health and the land,ORG,0.0,0.0,en,1
-the deadliest fires the U.S.,the deadliest fires the U.S.,ORG,0.0,0.0,en,1
-devastating the town and taking the lives of between 100 and 102 people,devastating the town and taking the lives of between 100 and 102 people,ORG,0.0,0.0,en,1
-Kilauea's,Kilauea's,ORG,0.0,0.0,en,1
-delighting residents,delighting residents,ORG,0.0,0.0,en,1
-visitors and online viewers alike with a firehose of m…,visitors and online viewers alike with a firehose of m…,ORG,0.0,0.0,en,1
-BSH,BSH,ORG,0.0,0.0,de,1
-Spätsommer-Hoffnung,Spätsommer-Hoffnung,ORG,0.0,0.0,de,1
-Severe storms threaten southern states,Severe storms threaten southern states,ORG,0.0,0.0,en,1
-risk of strong tornadoes,risk of strong tornadoes,ORG,0.0,0.0,en,1
-signal No,signal No,ORG,1.0,0.0,en,1
-Th…,Th…,ORG,0.0,0.0,en,1
-Kelly Family,Kelly Family,ORG,0.0,0.0,de,1
-Hi…,Hi…,ORG,0.0,0.0,de,1
-dpa,dpa,ORG,0.0,0.0,de,1
-Univers…,Univers…,ORG,0.0,0.0,de,1
-Schocktober!,Schocktober!,ORG,0.0,0.0,de,1
-Ab Mittwoch,Ab Mittwoch,ORG,0.0,0.0,de,1
-Son…,Son…,ORG,0.0,0.0,de,1
-Team Europa,Team Europa,ORG,0.0,0.0,de,1
+Herbst!,Herbst!,ORG,0.0,0.0,de,1
+Todesop…,Todesop…,ORG,0.0,0.0,de,1
+Biodiversitä…,Biodiversitä…,ORG,0.7,0.0,de,1
 USA,USA,ORG,0.0,0.0,de,1
-Black …,Black …,ORG,0.0,0.0,de,1
-EU-Bericht,EU-Bericht,ORG,-1.0,0.0,de,1
-Biodiversitä…,Biodiversitä…,ORG,-0.43333333333333335,0.0,de,1
-Deutsc…,Deutsc…,ORG,0.0,0.0,de,1
-as the authorities were rushing to help affected residents,as the authorities were rushing to help affected residents,ORG,1.0,0.0,en,1
-as the authorities were rushing to help a…,as the authorities were rushing to help a…,ORG,1.0,0.0,en,1
-Kl…,Kl…,ORG,0.7,0.0,de,1
-"A US Air Force Reserve crew known as the ""Hurricane Hunters","A US Air Force Reserve crew known as the ""Hurricane Hunters",ORG,0.0,0.0,en,1
-Behörd…,Behörd…,ORG,0.0,0.0,de,1
-US-Hurrikanzentrum NHC,US-Hurrikanzentrum NHC,ORG,0.0,0.0,de,1
-US-Hurrikanwarnzentrum,US-Hurrikanwarnzentrum,ORG,0.0,0.0,de,1
-NHC,NHC,ORG,0.0,0.0,de,1
-Hurricane Melissa has made landfall,Hurricane Melissa has made landfall,ORG,0.0,0.0,en,1
-rain,rain,ORG,0.0,0.0,en,1
-flooding and storm surge to Jamaica,flooding and storm surge to Jamaica,ORG,0.0,0.0,en,1
-where residents and tourists are sheltering,where residents and tourists are sheltering,ORG,0.0,0.0,en,1
-zerstör…,zerstör…,ORG,0.0,0.0,de,1
-D…,D…,ORG,0.0,0.0,de,1
-https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1
-climate and health,climate and health,ORG,0.0,0.0,en,1
-as one of the strongest hurricanes to ever make landfall,as one of the strongest hurricanes to ever make landfall,ORG,0.0,0.0,en,1
-zw…,zw…,ORG,0.15000000000000002,0.0,de,1
-"Link
-","Link
-",ORG,0.15000000000000002,0.0,de,1
-knocking out power lines,knocking out power lines,ORG,0.0,0.0,en,1
-one of the strongest hurricanes on record,one of the strongest hurricanes on record,ORG,0.0,0.0,en,1
-alarming isn't jus,alarming isn't jus,ORG,0.0,0.0,en,1
-Imperial…,Imperial…,ORG,0.0,0.0,de,1
-Recovery efforts are under way across Jamaica after Melissa rips off roofs,Recovery efforts are under way across Jamaica after Melissa rips off roofs,ORG,0.0,0.0,en,1
-cuts electricity and unleashes floodwaters,cuts electricity and unleashes floodwaters,ORG,0.0,0.0,en,1
-several dozen survivors met at a local church to vent their built-up frustration,several dozen survivors met at a local church to vent their built-up frustration,ORG,0.0,0.0,en,1
-anger,anger,ORG,0.0,0.0,en,1
-blame,blame,ORG,0.0,0.0,en,1
-and anguish,and anguish,ORG,0.0,0.0,en,1
-Most were simply left to fen…,Most were simply left to fen…,ORG,0.0,0.0,en,1
-"Chicago and the Great Lakes are sometimes referred to as a ""climate haven","Chicago and the Great Lakes are sometimes referred to as a ""climate haven",ORG,0.0,0.0,en,1
-Groß…,Groß…,ORG,0.0,0.0,de,1
-See spaghetti models and Jacksonville forecast,See spaghetti models and Jacksonville forecast,ORG,0.0,0.0,en,1
-Permafrost,Permafrost,ORG,0.0,0.0,de,1
-organization that represents t,organization that represents t,ORG,0.0,0.0,en,1
-UP most impacted,UP most impacted,ORG,0.0,0.0,en,1
-Uttar Pradesh,Uttar Pradesh,ORG,0.0,0.0,en,1
-The incident,The incident,ORG,0.0,0.0,en,1
-which earned,which earned,ORG,0.0,0.0,en,1
-Fachjournal Science,Fachjournal Science,ORG,0.0,0.0,de,1
-ve…,ve…,ORG,0.0,0.0,de,1
-By merging SunCar's AI with Doubao's LLM,By merging SunCar's AI with Doubao's LLM,ORG,0.7,0.0,en,1
-the company,the company,ORG,0.7,0.0,en,1
-a subsidiary of ByteDance,a subsidiary of ByteDance,ORG,0.0,0.0,en,1
-Europaparlament,Europaparlament,ORG,1.0,0.0,de,1
-Europäische Kommission,Europäische Kommission,ORG,0.0,0.0,de,1
-Ongoing fires,Ongoing fires,ORG,0.0,0.0,en,1
-recent decades,recent decades,ORG,0.0,0.0,en,1
-quickly reversed with burn mechanism.</l…,quickly reversed with burn mechanism.</l…,ORG,0.0,0.0,en,1
-DWD,DWD,ORG,0.0,0.0,de,1
-nä…,nä…,ORG,0.0,0.0,de,1
-emphasizing that Californians can combat the wildfire crisis through informed action and a new management paradigm,emphasizing that Californians can combat the wildfire crisis through informed action and a new management paradigm,ORG,0.0,0.0,en,1
-SC,SC,ORG,0.0,0.0,en,1
-Oct,Oct,ORG,0.0,0.0,en,1
-We are not helpless,We are not helpless,ORG,0.0,0.0,en,1
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.7,0.0,de,1
-Universal Orlando Reveals,Universal Orlando Reveals,ORG,0.0,0.0,en,1
-Bay Is Set To Close on 12 New Dates,Bay Is Set To Close on 12 New Dates,ORG,0.0,0.0,en,1
-NOT US,NOT US,ORG,0.0,0.0,en,1
-The Western Woodlot Services Cooperative organized a wildfire prevention conference,The Western Woodlot Services Cooperative organized a wildfire prevention conference,ORG,0.0,0.0,en,1
-on Saturday,on Saturday,ORG,0.0,0.0,en,1
-where dozens of owners,where dozens of owners,ORG,0.0,0.0,en,1
-di…,di…,ORG,-0.7,0.0,de,1
+Team Europa,Team Europa,ORG,0.0,0.0,de,1
+MV,MV,ORG,-1.0,0.0,de,1
+Ab Mittwoch,Ab Mittwoch,ORG,0.0,0.0,de,1
+Schocktober!,Schocktober!,ORG,0.0,0.0,de,1
+Hi…,Hi…,ORG,0.0,0.0,de,1
+EnBW,EnBW,ORG,0.0,0.0,de,1
+Robert-Koch-Instituts,Robert-Koch-Instituts,ORG,0.0,0.0,de,1
+RKI,RKI,ORG,0.0,0.0,de,1
+Volcano Vista-Schüler,Volcano Vista-Schüler,ORG,-0.5666666666666667,0.0,de,1
+LLM,LLM,ORG,1.0,0.0,de,1
+SunCar,SunCar,ORG,1.0,0.0,de,1
+KI-Kooperationsvereinbarung,KI-Kooperationsvereinbarung,ORG,0.0,0.0,de,1
+Wass…,Wass…,ORG,0.0,0.0,de,1
+Volcano Vista High School,Volcano Vista High School,ORG,-0.5666666666666667,0.0,de,1
+Albuquerque Public Schools,Albuquerque Public Schools,ORG,-0.5666666666666667,0.0,de,1
+APS,APS,ORG,-0.5666666666666667,0.0,de,1
+Rheinische Post,Rheinische Post,ORG,0.0,0.0,de,1
+Permafrost,Permafrost,ORG,-1.0,0.0,de,1
+Time Magazine,Time Magazine,ORG,-1.0,0.0,de,1
+BUND Niedersachsen,BUND Niedersachsen,ORG,0.0,0.0,de,1
+KAVREPALANCHOWK,KAVREPALANCHOWK,ORG,0.0,0.0,de,1
+AK für besseren Versicherungsschutz,AK für besseren Versicherungsschutz,ORG,-1.0,0.0,de,1
+Medizinischen Universität Innsbruck,Medizinischen Universität Innsbruck,ORG,1.0,0.0,de,1
+Florida,Florida,ORG,-1.0,0.0,de,1
