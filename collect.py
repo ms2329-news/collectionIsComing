@@ -49,7 +49,14 @@ githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'},
                'Leoniews/fogIsComing': {'Extreme':'Fog'},
                'picawe-news/AvalancheIsComing': {'Extreme':'Snow Avalanche'},
                'hannak555-news/heatIsComing': {'Extreme':'Heat Wave'},
+               #'hb219-news/wetSpellIsComing': {'Extreme':'Wet Spell'},
+               #'hb219-news/droughtIsComing': {'Extreme':'Drought'},         
+               #'magaliekathrin-news/HeatIsComing': {'Extreme':'Heat Wave'},     
+               #'jannikdo28-news/RainIsComing': {'Extreme':'Precipitation'},  
               }
+
+
+           
 
 currentMonths = []
 for m in [0,20,40,60]:
@@ -217,6 +224,7 @@ for repo in repos:
         newsDf = newsDf.dropna(subset=['topic'])
         newsDf = newsDf.drop(newsDf[newsDf.valid < 0.5].index)      ## LATER ALLOW ALL
         if(existingDict and not newsDf.empty):
+            ## later update valid flag for existing ones!
             newsDf.index = newsDf['hash']  #!!
             for ha in list(existingDict.keys()):
                newsDf = newsDf.drop(index=ha, errors='ignore')

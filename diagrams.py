@@ -33,7 +33,7 @@ if(not os.path.exists(DATA_PATH / 'csv')):
     os.mkdir(DATA_PATH / 'csv')
 
 
-extremeColors = {'unknown':'#d60d2b', 'Thunderstorm':'#53785a', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
+extremeColors = {'unknown':'#ffffff', 'Thunderstorm':'#53785a', 'Storm':'#222222', 'Storm Surge':'#834fa1', 'Flash Flood':'#0245d8', 'Precipitation':'#608D3A',
                'Tsunami':'#690191',  'Landslide':'#1C4840', 'Cold Wave':'#a7e9fa', 'Heat Wave':'#d85212', 'Iceberg':'#02b5b8',
                  'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047'  
                }
@@ -541,7 +541,7 @@ labelLeg.reverse()
 custom_lines = [plt.Line2D([],[], ls="", marker='.', 
                 mec='k', mfc=c, mew=.1, ms=30) for c in colorLeg]
 leg = ax.legend(custom_lines, labelLeg, 
-          loc='center left', fontsize=16, bbox_to_anchor=(0.75, .48))
+          loc='center left', fontsize=16, bbox_to_anchor=(0.85, .48))
 leg.set_title("Topics", prop = {'size':20})            
 plt.savefig(DATA_PATH / 'img' / 'dates_topics_article_count.png', dpi=300)
 plt.close('all')
@@ -628,7 +628,7 @@ labelLeg.reverse()
 custom_lines = [plt.Line2D([],[], ls="", marker='.', 
                 mec='k', mfc=c, mew=.1, ms=30) for c in colorLeg]
 leg = ax.legend(custom_lines, labelLeg, 
-          loc='center left', fontsize=16, bbox_to_anchor=(0.85, .58))
+          loc='center left', fontsize=16, bbox_to_anchor=(0.85, .38))
 leg.set_title("Topics", prop = {'size':20})            
 plt.savefig(DATA_PATH / 'img' / 'dates_extremes_article_count.png', dpi=300)
 plt.close('all')
