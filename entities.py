@@ -139,8 +139,8 @@ for index, column in objNewsDF.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column.title)+'. ' +str(column.description)+' '+str(column.content)
-    lang = column.language 
+    quote = str(column.de)
+    lang = 'de'  #column.language 
     #quote = str(column.title)+'. ' +str(column.description)
     blob = TextBlobDE(quote)
     for sentence in blob.sentences:
