@@ -53,6 +53,8 @@ githubRepos = {'MarcoL95-news/earthquakeIsComing': {'Extreme':'Earthquake'},
                'hb219-news/droughtIsComing': {'Extreme':'Drought'},         
                'magaliekathrin-news/HeatIsComing': {'Extreme':'Heat Wave'},     
                'jannikdo28-news/RainIsComing': {'Extreme':'Precipitation'},  
+               'mizilett-news/snowIsComing': {'Extreme':'Snow&Ice'},
+               'JW-news/coldIsComing': {'Extreme':'Cold Wave'},
               }
 
 
@@ -188,11 +190,11 @@ def archiveUrl(data):
 
 def translateData(data):
    if('de'==data['language']):
-       data['de'] = str(data['title']) + ' ' + str(data['description'])
+       data['de'] = str(data['title']) + '. ' + str(data['description'])
        data['en'] = GoogleTranslator(source='de', target='en').translate(text=data['de'])
        data['la'] = GoogleTranslator(source='de', target='la').translate(text=data['de'])
    if('en'==data['language']):
-       data['en'] = str(data['title']) + ' ' + str(data['description'])
+       data['en'] = str(data['title']) + '. ' + str(data['description'])
        data['de'] = GoogleTranslator(source='en', target='de').translate(text=data['en'])
        data['la'] = GoogleTranslator(source='en', target='la').translate(text=data['en'])
    return(data) 
@@ -222,13 +224,13 @@ for repo in repos:
         newsDf['hash'] = newsDf.index 
         newsDf = pd.merge(newsDf, keysDf, how='left', left_on=['keyword'], right_on=['keyword'])
         newsDf = newsDf.dropna(subset=['topic'])
-        newsDf = newsDf.drop(newsDf[newsDf.valid < 0.5].index)      ## LATER ALLOW ALL
-        ## newsDf[newsDf.valid < 0.5].extreme = 'invalid'
+        newsDf = newsDf.drop(newsDf[newsDf.valid < 0.5].index)      ## LATER ALLOW ALL, update current status!
         if(existingDict and not newsDf.empty):
             ## later update valid flag for existing ones!
             newsDf.index = newsDf['hash']  #!!
             for ha in list(existingDict.keys()):
                newsDf = newsDf.drop(index=ha, errors='ignore')
+        ## newsDf[newsDf.valid < 0.5].extreme = 'invalid'
         #if(allExtremesDf.empty):
         #    allExtremesDf = newsDf
         #else:
