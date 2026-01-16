@@ -1,598 +1,1303 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Berlin,Berlin,LOC,0.13106603,0.03579952,de,167.6,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Cold Wave
-1,Glatteis,Glatteis,LOC,0.03330116,0.03861004,de,103.6,,0,,,,,,,Cold Wave
-2,Brandenburg,Brandenburg,LOC,0.05533918,0.03894839,de,102.7,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Cold Wave
-3,Deutschland,Deutschland,LOC,-0.01607901,0.097127,de,102.1,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Cold Wave
-4,Bayern,Bayern,LOC,-0.01358913,0.05995204,de,83.4,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Cold Wave
-5,Deutschlands,Deutschlands,LOC,-0.22943723,0.0487013,de,30.8,,0,,,,,,,Cold Wave
-6,Schnee,Schnee,LOC,0.11363636,0.0,de,30.8,,2837468,T,50.72938,8.54329,EUROPE,Germany,WCE,Cold Wave
-7,Hessen,Hessen,LOC,0.0119863,0.0,de,29.2,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Cold Wave
-8,Saarland,Saarland,LOC,-0.24455611,0.0,de,19.9,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE,Cold Wave
-9,Baden-Württemberg,Baden-Württemberg,LOC,-0.15500864,0.10362694,de,19.3,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Cold Wave
-10,Niedersachsen,Niedersachsen,LOC,0.06315789,0.05263158,de,19.0,4042226-4,2862926,A,52.83333,9.16667,EUROPE,Germany,WCE,Cold Wave
-11,NRW,NRW,LOC,0.12675439,0.0,de,19.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Cold Wave
-12,Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.29298246,0.0,de,19.0,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Cold Wave
-13,Sachsen,Sachsen,LOC,-0.33747412,0.0,de,16.1,4051181-9,2842565,A,52.0,11.7333,EUROPE,Germany,WCE,Cold Wave
-14,Hamburg,Hamburg,LOC,-0.12012987,0.0,de,15.4,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Cold Wave
-15,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.14453125,0.0,de,12.8,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Cold Wave
-16,Berlins,Berlins,LOC,0.16535433,0.0,de,12.7,,2193381,T,-41.9,171.83333,OCEANIA,New Zealand,NZ,Cold Wave
-17,…,…,LOC,-0.01260504,0.0,de,11.9,,0,,,,,,,Cold Wave
-18,Erzgebirge,Erzgebirge,LOC,-0.24717514,0.04237288,de,11.8,4015476-2,2929226,T,50.5,13.16667,EUROPE,Czechia,WCE,Cold Wave
-19,Offenbach,Offenbach,LOC,-0.44036697,0.0,de,10.9,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Cold Wave
-20,Bremen,Bremen,LOC,0.13761468,0.0,de,10.9,4090044-7,2944388,P,53.07582,8.80717,EUROPE,Germany,NEU,Cold Wave
-21,Bayerns,Bayerns,LOC,0.09174312,0.09174312,de,10.9,,0,,,,,,,Cold Wave
-22,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,0.0,0.0,de,10.2,4242861-0,2872567,A,53.83333,12.5,EUROPE,Germany,WCE,Cold Wave
-23,Freistaat,Freistaat,LOC,0.44554455,0.0,de,10.1,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Cold Wave
-24,Thüringen,Thüringen,LOC,-0.09333333,0.0,de,10.0,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Cold Wave
-25,Europa,Europa,LOC,-0.265,0.05,de,10.0,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Cold Wave
-26,Alpen,Alpen,LOC,0.07954545,0.0,de,8.8,4001328-5,682673,T,45.5,24.25,EUROPE,Romania,WCE,Cold Wave
-30,Meteorologen,Meteorologen,LOC,0.25609756,0.12195122,de,8.2,,0,,,,,,,Cold Wave
-32,Regen,Regen,LOC,-0.32926829,0.0,de,8.2,4048975-9,2849495,P,48.9719,13.12824,EUROPE,Germany,WCE,Cold Wave
-31,Harz,Harz,LOC,0.04878049,0.0,de,8.2,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Cold Wave
-27,Frost,Frost,LOC,-0.20731707,0.0,de,8.2,,5027530,P,43.58634,-93.92662,NORTH-AMERICA,United States,CNA,Cold Wave
-29,“,“,LOC,-0.08536585,0.0,de,8.2,,0,,,,,,,Cold Wave
-28,Stadt,Stadt,LOC,-0.04878049,0.0,de,8.2,,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Cold Wave
-33,Nebel,Nebel,LOC,-0.18421053,0.0,de,7.6,,12152659,S,56.37689,107.07058,ASIA,Russia,ESB,Cold Wave
-34,Ukraine,Ukraine,LOC,-0.26666667,0.0,de,7.5,4061496-7,690791,A,49.0,32.0,EUROPE,Ukraine,WCE,Cold Wave
-39,Brand,Brand,LOC,0.50684932,0.0,de,7.3,4278589-3,2945341,P,50.86643,13.32285,EUROPE,Germany,WCE,Cold Wave
-42,Unfälle,Unfälle,LOC,-0.19178082,0.0,de,7.3,,0,,,,,,,Cold Wave
-41,Oberpfalz,Oberpfalz,LOC,-0.08219178,0.0,de,7.3,4041837-6,2864549,P,49.28028,11.46278,EUROPE,Germany,WCE,Cold Wave
-40,Warnungen,Warnungen,LOC,0.0,0.0,de,7.3,,0,,,,,,,Cold Wave
-43,Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.19178082,0.0,de,7.3,4036934-1,2874545,P,52.12773,11.62916,EUROPE,Germany,WCE,Cold Wave
-38,Ostsee,Ostsee,LOC,-0.45205479,0.06849315,de,7.3,4021328-6,2919765,P,54.83503,9.55218,EUROPE,Germany,NEU,Cold Wave
-37,Schleswig-Holstein,Schleswig-Holstein,LOC,-0.09589041,0.0,de,7.3,4052692-6,2838632,A,54.2,9.75,EUROPE,Germany,NEU,Cold Wave
-36,Landes,Landes,LOC,-0.19178082,0.0,de,7.3,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Cold Wave
-35,Wochenmitte,Wochenmitte,LOC,0.02054795,0.0,de,7.3,,0,,,,,,,Cold Wave
-44,Russland,Russland,LOC,-0.43181818,0.0,de,6.6,4076899-5,2017370,A,60.0,100.0,ASIA,Russia,ESB,Cold Wave
-45,Bergen,Bergen,LOC,-0.32307692,0.15384615,de,6.5,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Cold Wave
-46,Wintereinbruch,Wintereinbruch,LOC,0.4375,0.0,de,6.4,,0,,,,,,,Cold Wave
-47,München,München,LOC,0.0234375,0.0,de,6.4,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Cold Wave
-48,Schneetreiben,Schneetreiben,LOC,0.328125,0.0,de,6.4,,0,,,,,,,Cold Wave
-49,Winterdienste,Winterdienste,LOC,0.15625,0.625,de,6.4,,0,,,,,,,Cold Wave
-50,Österreich,Österreich,LOC,0.47413793,0.0,de,5.8,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Cold Wave
-55,Europas,Europas,LOC,0.12727273,0.0,de,5.5,,0,,,,,,,Cold Wave
-58,Schneeregen,Schneeregen,LOC,0.0,0.0,de,5.5,,0,,,,,,,Cold Wave
-57,Niederbayern,Niederbayern,LOC,0.00909091,0.27272727,de,5.5,4034367-4,2881485,P,48.52961,12.16179,EUROPE,Germany,WCE,Cold Wave
-56,Brandenburgs,Brandenburgs,LOC,0.38181818,0.36363636,de,5.5,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Cold Wave
-54,Dauereinsatz,Dauereinsatz,LOC,0.0,0.72727273,de,5.5,,0,,,,,,,Cold Wave
-53,Silvesternacht,Silvesternacht,LOC,0.0,0.0,de,5.5,,0,,,,,,,Cold Wave
-52,Norddeutschland,Norddeutschland,LOC,0.50909091,0.0,de,5.5,4075454-6,11978817,T,51.47087,6.56787,EUROPE,Germany,WCE,Cold Wave
-51,Halle,Halle,LOC,0.0,0.0,de,5.5,4023027-2,2911522,P,51.48158,11.97947,EUROPE,Germany,WCE,Cold Wave
-59,Mount Everest,Mount Everest,LOC,0.0,0.0,de,5.0,4040417-1,1283416,T,27.98791,86.92529,ASIA,China,TIB,Cold Wave
-63,Frankfurt,Frankfurt,LOC,0.04347826,0.10869565,de,4.6,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Cold Wave
-66,Autobahn 93,Autobahn 93,LOC,-0.2173913,0.0,de,4.6,,0,,,,,,,Cold Wave
-65,Amsterdam,Amsterdam,LOC,0.0,0.2173913,de,4.6,4001783-7,2759794,P,52.37403,4.88969,EUROPE,The Netherlands,NEU,Cold Wave
-67,New York,New York,LOC,-0.18478261,0.2173913,de,4.6,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Cold Wave
-62,Schneeschauer,Schneeschauer,LOC,0.2173913,0.0,de,4.6,,0,,,,,,,Cold Wave
-61,USA,USA,LOC,-0.2173913,0.0,de,4.6,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Cold Wave
-60,Dauerfrost,Dauerfrost,LOC,0.0,0.2173913,de,4.6,,0,,,,,,,Cold Wave
-64,Steiermark,Steiermark,LOC,0.30434783,0.0,de,4.6,4057092-7,2764581,A,47.25,15.16667,EUROPE,Austria,WCE,Cold Wave
-68,Temperatursturz,Temperatursturz,LOC,0.28205128,0.0,de,3.9,,0,,,,,,,Cold Wave
-69,Tirol,Tirol,LOC,-0.18421053,0.0,de,3.8,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Cold Wave
-70,Hessens,Hessens,LOC,-0.67105263,0.0,de,3.8,,0,,,,,,,Cold Wave
-83,Autobahn 1,Autobahn 1,LOC,-1.08108108,0.0,de,3.7,,0,,,,,,,Cold Wave
-81,Stuttgart,Stuttgart,LOC,0.0,0.0,de,3.7,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Cold Wave
-82,Saale,Saale,LOC,0.0,0.0,de,3.7,4051087-6,2842688,P,50.64826,11.36536,EUROPE,Germany,WCE,Cold Wave
-84,Nordpol,Nordpol,LOC,0.0,0.0,de,3.7,4117914-6,6942237,T,90.0,0.0,ARCTIC,,ARO,Cold Wave
-85,A1,A1,LOC,-0.37837838,0.0,de,3.7,,3239262,A,46.62722,16.04833,EUROPE,Slovenia,WCE,Cold Wave
-79,Potsdam,Potsdam,LOC,0.41891892,0.0,de,3.7,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Cold Wave
-80,Sonne am Tag,Sonne am Tag,LOC,0.0,0.0,de,3.7,,0,,,,,,,Cold Wave
-77,A93,A93,LOC,0.0,0.0,de,3.7,,0,,,,,,,Cold Wave
-78,Erbeskopf,Erbeskopf,LOC,0.0,0.0,de,3.7,4625265-4,2929768,T,49.73046,7.0907,EUROPE,Germany,WCE,Cold Wave
-71,A7,A7,LOC,1.08108108,0.0,de,3.7,,3239234,A,46.24667,15.62944,EUROPE,Slovenia,WCE,Cold Wave
-76,Streusalz,Streusalz,LOC,0.0,0.27027027,de,3.7,,0,,,,,,,Cold Wave
-75,Maxhütte-Haidhof,Maxhütte-Haidhof,LOC,-0.27027027,0.0,de,3.7,4038071-3,2872670,P,49.19963,12.09229,EUROPE,Germany,WCE,Cold Wave
-74,Winterwetter,Winterwetter,LOC,0.18918919,0.0,de,3.7,,0,,,,,,,Cold Wave
-73,Schneeverwehungen,Schneeverwehungen,LOC,0.0,0.54054054,de,3.7,,0,,,,,,,Cold Wave
-72,Flughafen,Flughafen,LOC,-0.40540541,0.40540541,de,3.7,,3208399,S,48.35378,11.78609,EUROPE,Germany,WCE,Cold Wave
-86,Nordsee,Nordsee,LOC,0.0,0.0,de,3.0,4042579-4,2960848,H,55.33333,3.0,EUROPE,,NEU,Cold Wave
-87,Schneesturm,Schneesturm,LOC,0.15555556,0.11111111,de,3.0,,0,,,,,,,Cold Wave
-88,Niedersachsens,Niedersachsens,LOC,0.0,0.68965517,de,2.9,,0,,,,,,,Cold Wave
-119,Hochlagen,Hochlagen,LOC,0.71428571,0.0,de,2.8,,0,,,,,,,Cold Wave
-111,Glätte,Glätte,LOC,0.0,0.0,de,2.8,,9645262,L,47.27827,10.08314,EUROPE,Austria,WCE,Cold Wave
-112,Oberbayern,Oberbayern,LOC,0.125,0.17857143,de,2.8,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Cold Wave
-113,Mittelhessen,Mittelhessen,LOC,-0.25,0.0,de,2.8,4039686-1,12076828,L,50.57609,8.55804,EUROPE,Germany,WCE,Cold Wave
-114,Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,2.8,,3205650,A,47.71022,8.09118,EUROPE,Germany,WCE,Cold Wave
-115,Unfallkrankenhaus,Unfallkrankenhaus,LOC,0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
-116,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.96428571,0.0,de,2.8,,0,,,,,,,Cold Wave
-117,Innsbruck,Innsbruck,LOC,-0.46428571,0.0,de,2.8,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Cold Wave
-118,Unfällen,Unfällen,LOC,-0.05357143,0.0,de,2.8,,0,,,,,,,Cold Wave
-109,sn,sn,LOC,-0.08333333,0.0,de,2.8,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Cold Wave
-120,Sturm,Sturm,LOC,0.0,0.0,de,2.8,,6626207,T,-71.05,162.96667,POLAR,Antarctica,EAN,Cold Wave
-121,Gl…,Gl…,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
-122,Leer,Leer,LOC,-1.03571429,0.0,de,2.8,,371466,P,8.30306,30.14056,AFRICA,South Sudan,NEAF,Cold Wave
-123,Sonntag Glatteis,Sonntag Glatteis,LOC,-0.71428571,0.0,de,2.8,,0,,,,,,,Cold Wave
-124,Oberkärnten,Oberkärnten,LOC,0.0,0.71428571,de,2.8,4200656-9,7289657,L,46.72574,13.76759,EUROPE,Austria,WCE,Cold Wave
-125,Landkreis Heidenheim,Landkreis Heidenheim,LOC,0.35714286,0.0,de,2.8,4024007-1,2907851,P,48.67798,10.15162,EUROPE,Germany,WCE,Cold Wave
-126,Polarwirbels,Polarwirbels,LOC,-0.5,0.0,de,2.8,,0,,,,,,,Cold Wave
-127,Liveblog,Liveblog,LOC,-0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
-110,Holland,Holland,LOC,0.0,0.67857143,de,2.8,4042203-3,2750405,A,52.25,5.75,EUROPE,The Netherlands,NEU,Cold Wave
-91,Ibiza,Ibiza,LOC,0.0,0.0,de,2.8,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Cold Wave
-108,Bayerischen Wald,Bayerischen Wald,LOC,-0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
-98,Freitagvormittag,Freitagvormittag,LOC,-0.71428571,0.0,de,2.8,,0,,,,,,,Cold Wave
-89,Hochtouren,Hochtouren,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
-90,Blitzeis,Blitzeis,LOC,0.75,0.0,de,2.8,,0,,,,,,,Cold Wave
-107,Mitteldeutschland,Mitteldeutschland,LOC,0.15178571,0.35714286,de,2.8,,0,,,,,,,Cold Wave
-92,Notstand,Notstand,LOC,-0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
-93,Schüssen,Schüssen,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
-94,Ludwigsburg,Ludwigsburg,LOC,0.0,0.0,de,2.8,4036469-0,2875392,P,48.89731,9.19161,EUROPE,Germany,WCE,Cold Wave
-95,Emsland,Emsland,LOC,-0.25,0.0,de,2.8,4044521-5,2855525,P,53.07738,7.40444,EUROPE,Germany,NEU,Cold Wave
-97,Speranza,Speranza,LOC,0.0,0.0,de,2.8,,8968123,P,45.63443,9.74905,EUROPE,Italy,WCE,Cold Wave
-96,Glatteisgefahr,Glatteisgefahr,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
-99,Tiroler,Tiroler,LOC,0.0,0.0,de,2.8,,2783037,H,47.85,12.5,EUROPE,Germany,WCE,Cold Wave
-100,Schnees,Schnees,LOC,0.0,1.07142857,de,2.8,,0,,,,,,,Cold Wave
-101,Tag,Tag,LOC,-0.60714286,0.0,de,2.8,,3045616,L,47.11667,17.48333,EUROPE,Hungary,WCE,Cold Wave
-102,Glättegefahr,Glättegefahr,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
-103,Florida,Florida,LOC,-0.35714286,0.0,de,2.8,4017585-6,12217087,L,26.5,-81.0,NORTH-AMERICA,United States,ENA,Cold Wave
-104,Flughafen Berlin Brandenburg,Flughafen Berlin Brandenburg,LOC,0.0,0.0,de,2.8,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Cold Wave
-105,"Sturmtief ""Elli","Sturmtief ""Elli",LOC,0.0,0.35714286,de,2.8,,0,,,,,,,Cold Wave
-106,Bodensee,Bodensee,LOC,0.0,0.0,de,2.8,4007403-1,11919717,L,47.61495,9.39765,EUROPE,,WCE,Cold Wave
-133,Wasserkuppe,Wasserkuppe,LOC,-0.25,0.25,de,2.0,4064748-1,2813735,T,50.4982,9.93739,EUROPE,Germany,WCE,Cold Wave
-138,Sonnenschein,Sonnenschein,LOC,0.0,0.0,de,2.0,,2831137,T,54.08202,10.7591,EUROPE,Germany,NEU,Cold Wave
-137,Kaltfront,Kaltfront,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
-136,Ost-,Ost-,LOC,0.0,0.0,de,2.0,,400741,A,0.0,38.0,AFRICA,Kenya,SEAF,Cold Wave
-135,Landeshälfte,Landeshälfte,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
-134,Anmarsch,Anmarsch,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
-131,Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
-130,Oleander,Oleander,LOC,0.35,0.0,de,2.0,,8159876,L,-34.81379,138.72324,OCEANIA,Australia,SAU,Cold Wave
-129,Wochenanfang,Wochenanfang,LOC,-0.7,0.0,de,2.0,,0,,,,,,,Cold Wave
-128,Korsika,Korsika,LOC,-0.25,0.25,de,2.0,4212951-5,3038334,P,41.91886,8.73812,EUROPE-AFRICA,France,MED,Cold Wave
-132,Hochgebirge,Hochgebirge,LOC,-0.35,0.0,de,2.0,4252330-8,2768175,P,47.63333,15.93333,EUROPE,Austria,WCE,Cold Wave
-205,Sturmböen,Sturmböen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-195,Arbeitsplatz,Arbeitsplatz,LOC,1.26315789,0.0,de,1.9,,0,,,,,,,Cold Wave
-203,Krankenhäuser,Krankenhäuser,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
-202,Alb,Alb,LOC,0.36842105,0.0,de,1.9,4037694-1,2995469,P,43.29695,5.38107,EUROPE-AFRICA,France,MED,Cold Wave
-201,Baden-Württembergs,Baden-Württembergs,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
-200,Weihnachtsmarkt-Wetter,Weihnachtsmarkt-Wetter,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-199,Alten Donau,Alten Donau,LOC,0.0,0.52631579,de,1.9,,0,,,,,,,Cold Wave
-198,Vorarlberg,Vorarlberg,LOC,0.0,0.0,de,1.9,4063944-7,2762300,A,47.25,9.91667,EUROPE,Austria,WCE,Cold Wave
-197,Landkreis Hameln-Pyrmont Mülltonnen,Landkreis Hameln-Pyrmont Mülltonnen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-196,Iberische Halbinsel,Iberische Halbinsel,LOC,0.0,0.0,de,1.9,4047912-2,2267430,T,40.0,-5.0,EUROPE-AFRICA,Spain,MED,Cold Wave
-192,Razzia,Razzia,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-194,Potsdam/Berlin,Potsdam/Berlin,LOC,0.0,0.0,de,1.9,,6691055,P,52.50888,13.37852,EUROPE,Germany,WCE,Cold Wave
-193,Privacy Center,Privacy Center,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-185,Patsch,Patsch,LOC,-1.05263158,0.0,de,1.9,4115868-4,7873613,A,47.20494,11.42699,EUROPE,Austria,WCE,Cold Wave
-191,Pongau,Pongau,LOC,0.0,0.0,de,1.9,4046758-2,2766642,A,47.3,13.3,EUROPE,Austria,WCE,Cold Wave
-190,Gartenliebhaber,Gartenliebhaber,LOC,-1.05263158,0.0,de,1.9,,0,,,,,,,Cold Wave
-189,Terminalbetreiber Eurogate,Terminalbetreiber Eurogate,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-188,Eiskratzer,Eiskratzer,LOC,-0.18421053,0.78947368,de,1.9,,0,,,,,,,Cold Wave
-187,lsw,lsw,LOC,0.0,0.0,de,1.9,,1214658,P,5.1801,97.1507,ASIA,Indonesia,SEA,Cold Wave
-186,der Schweiz,der Schweiz,LOC,0.0,0.0,de,1.9,,2661324,P,47.14035,7.37175,EUROPE,Switzerland,WCE,Cold Wave
-204,Streusalz-Alternativen,Streusalz-Alternativen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-221,Rekordkälte an der Ostküste,Rekordkälte an der Ostküste,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-206,Hövelhof,Hövelhof,LOC,0.24561404,0.1754386,de,1.9,4025447-1,2898364,P,51.81667,8.65,EUROPE,Germany,WCE,Cold Wave
-207,Fichtelberg,Fichtelberg,LOC,-0.36842105,0.0,de,1.9,1216981-X,2926982,T,50.42858,12.95371,EUROPE,Germany,WCE,Cold Wave
-183,Staus,Staus,LOC,-0.60526316,0.0,de,1.9,,13263429,P,29.09167,-110.99497,CENTRAL-AMERICA,Mexico,NCA,Cold Wave
-227,Nässe,Nässe,LOC,0.36842105,0.0,de,1.9,,12060664,P,63.18374,17.11035,EUROPE,Sweden,NEU,Cold Wave
-226,Sprühregen,Sprühregen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-225,Windbands,Windbands,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-224,Dienstag,Dienstag,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
-223,Dreikönigstag,Dreikönigstag,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-222,Minusgrade,Minusgrade,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-220,Schwäbischen Alb,Schwäbischen Alb,LOC,-0.09210526,0.13157895,de,1.9,,0,,,,,,,Cold Wave
-219,St…,St…,LOC,0.73684211,0.0,de,1.9,,0,,,,,,,Cold Wave
-218,Großbritannien,Großbritannien,LOC,0.0,0.0,de,1.9,4022153-2,2635167,A,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Cold Wave
-217,Flughafen BER,Flughafen BER,LOC,-0.52631579,0.0,de,1.9,,3208171,S,53.0475,8.78667,EUROPE,Germany,NEU,Cold Wave
-216,Paris,Paris,LOC,0.18421053,0.26315789,de,1.9,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Cold Wave
-215,Schockstarre,Schockstarre,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
-214,Pinzgau,Pinzgau,LOC,0.0,0.0,de,1.9,4046112-9,2762000,P,47.24643,12.22731,EUROPE,Austria,WCE,Cold Wave
-213,Nordseehäfen,Nordseehäfen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
-212,Hiddensee,Hiddensee,LOC,-1.0,0.0,de,1.9,4024834-3,2904885,T,54.54063,13.10123,EUROPE,Germany,NEU,Cold Wave
-211,Rhein-Main-Liveblog,Rhein-Main-Liveblog,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-210,Usedom,Usedom,LOC,-1.0,0.0,de,1.9,4119322-2,2818108,T,53.93333,14.08333,EUROPE,Germany,WCE,Cold Wave
-209,Rhein-Main,Rhein-Main,LOC,-0.15789474,0.0,de,1.9,,2847616,L,50.0,8.66667,EUROPE,Germany,WCE,Cold Wave
-184,Dresden,Dresden,LOC,-0.44736842,0.0,de,1.9,4012995-0,2935022,P,51.05089,13.73832,EUROPE,Germany,WCE,Cold Wave
-208,Eisregen,Eisregen,LOC,0.24561404,0.1754386,de,1.9,,0,,,,,,,Cold Wave
-182,Kaltfront Brandenburg,Kaltfront Brandenburg,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-159,winterlich-kalt,winterlich-kalt,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-157,Niederlanden,Niederlanden,LOC,0.71052632,0.26315789,de,1.9,,0,,,,,,,Cold Wave
-156,Glatteis-Sturz am Bahnübergang,Glatteis-Sturz am Bahnübergang,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-155,Land,Land,LOC,-0.36842105,0.0,de,1.9,,3421288,L,81.9,-56.75,POLAR,Greenland,GIC,Cold Wave
-154,Franken,Franken,LOC,-0.73684211,0.0,de,1.9,4018093-1,2803465,L,50.0,9.0,EUROPE,Germany,WCE,Cold Wave
-153,Nordamerika,Nordamerika,LOC,0.0,0.0,de,1.9,4042483-2,6255149,L,46.07323,-100.54688,NORTH-AMERICA,United States,CNA,Cold Wave
-152,Wochenende,Wochenende,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-151,Mittelgebirgen,Mittelgebirgen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
-150,Tübingen,Tübingen,LOC,0.0,0.0,de,1.9,4061147-4,2820860,P,48.52266,9.05222,EUROPE,Germany,WCE,Cold Wave
-149,Berlin-Moabit,Berlin-Moabit,LOC,0.0,0.0,de,1.9,1292404396,2870310,P,52.52635,13.33903,EUROPE,Germany,WCE,Cold Wave
-148,Glatteises,Glatteises,LOC,0.0,1.05263158,de,1.9,,0,,,,,,,Cold Wave
-147,Spätherbst,Spätherbst,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-146,Straße,Straße,LOC,0.0,0.0,de,1.9,4057131-2,2828871,P,50.31401,9.46335,EUROPE,Germany,WCE,Cold Wave
-145,Wind,Wind,LOC,0.0,0.0,de,1.9,,8335343,L,31.29,18.03,EUROPE-AFRICA,,MED,Cold Wave
-144,Tiroler Brennerautobahn,Tiroler Brennerautobahn,LOC,-1.05263158,0.0,de,1.9,,0,,,,,,,Cold Wave
-143,A13,A13,LOC,-1.05263158,0.0,de,1.9,,1677884,P,25.0362,121.62347,ASIA,Taiwan,EAS,Cold Wave
-142,Feldberg,Feldberg,LOC,-0.26315789,0.26315789,de,1.9,,2927445,T,47.87399,8.00371,EUROPE,Germany,WCE,Cold Wave
-141,Brenner,Brenner,LOC,-1.05263158,0.0,de,1.9,10151007-X,2781423,T,47.00528,11.50836,EUROPE,Austria,WCE,Cold Wave
-140,Einschränkungen,Einschränkungen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-181,Kürten,Kürten,LOC,0.36842105,0.0,de,1.9,4098791-7,2882318,P,51.05,7.26667,EUROPE,Germany,WCE,Cold Wave
-158,Niederlande,Niederlande,LOC,1.05263158,0.0,de,1.9,4042203-3,2750405,A,52.25,5.75,EUROPE,The Netherlands,NEU,Cold Wave
-139,Windböen,Windböen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-160,lrs,lrs,LOC,-0.42105263,0.0,de,1.9,,5880061,S,70.13395,-143.58045,NORTH-AMERICA,United States,NWN,Cold Wave
-170,gefrierender Regen,gefrierender Regen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-180,Kältebus München,Kältebus München,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-179,Notunterkünfte,Notunterkünfte,LOC,-0.92105263,0.0,de,1.9,,0,,,,,,,Cold Wave
-178,Gießener,Gießener,LOC,0.0,0.0,de,1.9,,2778575,S,47.0,13.33333,EUROPE,Austria,WCE,Cold Wave
-177,New Jersey,New Jersey,LOC,0.0,0.0,de,1.9,4442932-0,5099836,P,40.72816,-74.07764,NORTH-AMERICA,United States,ENA,Cold Wave
-176,Neuschnee,Neuschnee,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
-175,Reich von Russlands,Reich von Russlands,LOC,0.28947368,0.0,de,1.9,,0,,,,,,,Cold Wave
-174,Wiesbaden,Wiesbaden,LOC,-0.36842105,0.0,de,1.9,4066043-6,2809346,P,50.08601,8.24435,EUROPE,Germany,WCE,Cold Wave
-173,Salzburg,Salzburg,LOC,0.36842105,0.0,de,1.9,4076982-3,2766824,P,47.79941,13.04399,EUROPE,Austria,WCE,Cold Wave
-171,Kreml,Kreml,LOC,0.0,0.0,de,1.9,,2116480,T,59.29103,162.17127,ASIA,Russia,RFE,Cold Wave
-172,Achtung Glätte,Achtung Glätte,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-169,Wetterexperten,Wetterexperten,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-168,Erfurt,Erfurt,LOC,0.0,0.0,de,1.9,4015240-6,2929670,P,50.97734,11.03536,EUROPE,Germany,WCE,Cold Wave
-167,Tiefdruckeinfluss,Tiefdruckeinfluss,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-166,Rutschpartien,Rutschpartien,LOC,-0.15789474,0.0,de,1.9,,0,,,,,,,Cold Wave
-165,Tramuntana-Gebirge,Tramuntana-Gebirge,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-164,Sonntagnachmittag,Sonntagnachmittag,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-163,Mainz,Mainz,LOC,0.0,0.0,de,1.9,4037124-4,2874225,P,49.98419,8.2791,EUROPE,Germany,WCE,Cold Wave
-162,Flugausfälle,Flugausfälle,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
-161,Temperaturen,Temperaturen,LOC,-0.52631579,0.0,de,1.9,,0,,,,,,,Cold Wave
-228,Hessisch Lichtenau,Hessisch Lichtenau,LOC,-0.94444444,0.0,de,1.8,4095178-9,2905293,P,51.19954,9.71857,EUROPE,Germany,WCE,Cold Wave
-229,Schulgesetz,Schulgesetz,LOC,0.0,2.30769231,de,1.3,,0,,,,,,,Cold Wave
-230,Uber Arena,Uber Arena,LOC,0.41666667,0.41666667,de,1.2,,0,,,,,,,Cold Wave
-234,Willingen,Willingen,LOC,0.0,0.0,de,1.1,5350718-6,2808544,P,51.29418,8.6091,EUROPE,Germany,WCE,Cold Wave
-235,Kärntner,Kärntner,LOC,0.63636364,0.0,de,1.1,,3217862,P,46.44913,14.11135,EUROPE,Slovenia,WCE,Cold Wave
-231,Ballermann,Ballermann,LOC,0.63636364,0.90909091,de,1.1,,6947339,L,39.5156,2.74506,EUROPE-AFRICA,Spain,MED,Cold Wave
-233,Friedrichshain,Friedrichshain,LOC,0.45454545,0.45454545,de,1.1,,2924573,P,52.51559,13.45482,EUROPE,Germany,WCE,Cold Wave
-232,Playa de Palma,Playa de Palma,LOC,0.0,0.0,de,1.1,,3545094,T,22.86667,-83.46667,CENTRAL-AMERICA,Cuba,CAR,Cold Wave
-464,freundliches Wetter,freundliches Wetter,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-475,Oberwiesenthal,Oberwiesenthal,LOC,0.0,0.0,de,1.0,4043017-0,2882332,P,50.41943,12.96836,EUROPE,Czechia,WCE,Cold Wave
-462,Millionär,Millionär,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-481,Home-Office,Home-Office,LOC,0.0,0.0,de,1.0,,7201835,S,44.94528,-85.28028,NORTH-AMERICA,United States,ENA,Cold Wave
-504,Heizölpreise,Heizölpreise,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-480,The Sinking City 2,The Sinking City 2,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-479,Biathlon-Weltverband,Biathlon-Weltverband,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-478,Sequel The Sinking City 2,Sequel The Sinking City 2,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-477,Schneeflocken,Schneeflocken,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-476,dpa/sn,dpa/sn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-474,Erzgebirgskreis,Erzgebirgskreis,LOC,0.0,0.0,de,1.0,4109065-2,2803798,P,50.74818,13.07691,EUROPE,Germany,WCE,Cold Wave
-465,Annaberg-Buchholz,Annaberg-Buchholz,LOC,-0.23333333,0.0,de,1.0,4085813-3,2956005,P,50.57953,13.00627,EUROPE,Germany,WCE,Cold Wave
-482,Skirollerskates,Skirollerskates,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-472,Dagebüll,Dagebüll,LOC,0.0,0.0,de,1.0,4104277-3,2939489,P,54.72928,8.70083,EUROPE,Germany,NEU,Cold Wave
-471,Hitze,Hitze,LOC,0.0,1.0,de,1.0,,2903464,S,50.36667,12.0,EUROPE,Germany,WCE,Cold Wave
-470,Schneefallgrenze,Schneefallgrenze,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-469,Gebirgsregionen,Gebirgsregionen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-468,Nord-,Nord-,LOC,0.0,0.0,de,1.0,,12089031,L,45.41224,11.54639,EUROPE,Italy,WCE,Cold Wave
-467,d…,d…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-466,Olympiapark Wettkämpfe,Olympiapark Wettkämpfe,LOC,0.0,3.0,de,1.0,,0,,,,,,,Cold Wave
-473,Schneereg…,Schneereg…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-483,Kernelement,Kernelement,LOC,-2.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-484,Tag am See,Tag am See,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-495,Offenbach vorhers…,Offenbach vorhers…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-503,Salzburgs,Salzburgs,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-502,Tennengau,Tennengau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-501,Pinzgauer Straße,Pinzgauer Straße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-500,B311,B311,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-499,Bischofshofen,Bischofshofen,LOC,0.0,0.0,de,1.0,4225515-6,2781735,P,47.41667,13.21667,EUROPE,Austria,WCE,Cold Wave
-498,Saalfelden,Saalfelden,LOC,0.0,0.0,de,1.0,4051088-8,2766922,P,47.42681,12.848,EUROPE,Austria,WCE,Cold Wave
-497,Fahrbahn,Fahrbahn,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-496,Garmisch-Partenkirchen,Garmisch-Partenkirchen,LOC,0.5,0.5,de,1.0,4019275-1,2922530,P,47.49209,11.09576,EUROPE,Germany,WCE,Cold Wave
-494,Glatteisrisiko,Glatteisrisiko,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-485,Burgenland,Burgenland,LOC,0.0,0.0,de,1.0,4009114-4,2781194,A,47.5,16.41667,EUROPE,Austria,WCE,Cold Wave
-493,Gehwegen,Gehwegen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-492,Eiskratzen am Morgen,Eiskratzen am Morgen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-491,Wetter-Achterbahn,Wetter-Achterbahn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-490,Landkreisen,Landkreisen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-489,Olympiapark,Olympiapark,LOC,0.7,1.0,de,1.0,,2857262,L,48.17347,11.55006,EUROPE,Germany,WCE,Cold Wave
-488,Klimawandels,Klimawandels,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-487,Bürgergeld,Bürgergeld,LOC,0.0,0.9,de,1.0,,0,,,,,,,Cold Wave
-486,Staat,Staat,LOC,0.0,0.9,de,1.0,,6691831,P,41.90268,12.45414,EUROPE-AFRICA,Vatican,MED,Cold Wave
-463,Reifenwechsel,Reifenwechsel,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-437,Montagnachmittag,Montagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-461,Safety-Modus,Safety-Modus,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-438,Offenbach/Poppenhausen,Offenbach/Poppenhausen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-436,Klagenfurt,Klagenfurt,LOC,0.0,0.0,de,1.0,4030921-6,2774326,P,46.62472,14.30528,EUROPE,Austria,WCE,Cold Wave
-435,Winterjacke,Winterjacke,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-434,Übergangsmantel,Übergangsmantel,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-433,Schal,Schal,LOC,-1.0,0.0,de,1.0,,2840605,T,50.82317,8.21891,EUROPE,Germany,WCE,Cold Wave
-432,Sonnenbrille,Sonnenbrille,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-431,Schwarzenberg,Schwarzenberg,LOC,0.0,0.0,de,1.0,4053786-9,2834978,P,50.53791,12.78522,EUROPE,Germany,WCE,Cold Wave
-430,Lauterbach,Lauterbach,LOC,0.0,1.0,de,1.0,4034771-0,2879929,P,50.63558,9.39777,EUROPE,Germany,WCE,Cold Wave
-429,Deu…,Deu…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-428,Löwen,Löwen,LOC,0.0,0.0,de,1.0,4074300-7,2792482,P,50.87959,4.70093,EUROPE,Belgium,WCE,Cold Wave
-427,Bodennähe,Bodennähe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-426,feucht-kühl,feucht-kühl,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-425,st…,st…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-424,Diesel-Fahrer,Diesel-Fahrer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-423,Winterdiesel,Winterdiesel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-422,Karacho,Karacho,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-421,Würzburg,Würzburg,LOC,0.0,0.0,de,1.0,4067037-5,2805615,P,49.79391,9.95121,EUROPE,Germany,WCE,Cold Wave
-420,den Niederlanden,den Niederlanden,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-419,Baden-Württemberg w…,Baden-Württemberg w…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-418,Mittelgebirgsraum,Mittelgebirgsraum,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-506,Frankenwald,Frankenwald,LOC,0.0,0.0,de,1.0,4018117-0,2925544,T,50.30595,11.57675,EUROPE,Germany,WCE,Cold Wave
-439,Sölden,Sölden,LOC,2.0,0.0,de,1.0,4208193-2,2761569,T,46.7979,10.7261,EUROPE,Italy,WCE,Cold Wave
-460,Balkon,Balkon,LOC,0.7,0.0,de,1.0,,579412,T,68.10194,37.20917,EUROPE,Russia,NEU,Cold Wave
-440,Gewehe,Gewehe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-459,Berglandes,Berglandes,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-458,Dauerregen,Dauerregen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-457,Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-456,China,China,LOC,0.7,0.0,de,1.0,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Cold Wave
-455,Osthangs,Osthangs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-454,Tibet,Tibet,LOC,0.0,0.0,de,1.0,4111286-6,1280737,P,29.65,91.1,ASIA,China,TIB,Cold Wave
-453,Subpolarwirbel,Subpolarwirbel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-452,Nordatlantik,Nordatlantik,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-451,Kältefront,Kältefront,LOC,-0.5,0.5,de,1.0,,0,,,,,,,Cold Wave
-450,Sardinien,Sardinien,LOC,0.0,0.0,de,1.0,4051686-6,2523227,T,40.0,9.0,EUROPE-AFRICA,Italy,MED,Cold Wave
-449,Sonne,Sonne,LOC,0.0,0.0,de,1.0,1236963652,2078227,U,-22.0,110.28333,OCEANIA,,CAU,Cold Wave
-448,Strand,Strand,LOC,0.0,0.0,de,1.0,,3423511,L,82.5,-21.76667,POLAR,Greenland,GIC,Cold Wave
-447,Meer,Meer,LOC,0.0,0.0,de,1.0,,1627362,H,-3.33333,133.8,ASIA,Indonesia,SEA,Cold Wave
-446,Sa…,Sa…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-445,BGH,BGH,LOC,0.0,0.0,de,1.0,,1147577,P,33.41381,69.46539,ASIA,Afghanistan,WCA,Cold Wave
-444,Eisglätte,Eisglätte,LOC,0.5,0.0,de,1.0,,0,,,,,,,Cold Wave
-443,Wetter-Mix,Wetter-Mix,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-442,Hoch Sieglinde,Hoch Sieglinde,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-441,Südosteuropa,Südosteuropa,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-505,Oberpfälzer Wald,Oberpfälzer Wald,LOC,0.0,0.0,de,1.0,4042959-3,2859443,T,49.40062,12.4948,EUROPE,Germany,WCE,Cold Wave
-532,Fichtelberg …,Fichtelberg …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-507,Immobilieneigentümern,Immobilieneigentümern,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-575,Oberpfalz sta,Oberpfalz sta,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-573,Cuxhaven,Cuxhaven,LOC,-0.7,0.0,de,1.0,4010793-0,2939658,P,53.86828,8.69902,EUROPE,Germany,NEU,Cold Wave
-572,Hoffenheim,Hoffenheim,LOC,0.0,0.0,de,1.0,4815169-5,2902584,P,49.272,8.84099,EUROPE,Germany,WCE,Cold Wave
-571,Puig Major,Puig Major,LOC,0.0,0.0,de,1.0,7847917-4,2513992,T,39.80768,2.7943,EUROPE-AFRICA,Spain,MED,Cold Wave
-570,Bucht vom Purt de Sóller,Bucht vom Purt de Sóller,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-569,Dresden/Magdeburg/Erfurt,Dresden/Magdeburg/Erfurt,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-568,Metern,Metern,LOC,0.0,0.0,de,1.0,,2994168,P,50.73333,2.7,EUROPE,France,WCE,Cold Wave
-567,Infrastrukturministeriums,Infrastrukturministeriums,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-566,Sachsen-Anhalts,Sachsen-Anhalts,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-565,Reschenstraße,Reschenstraße,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
-564,Kajetansbrücke,Kajetansbrücke,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-563,Finstermünz,Finstermünz,LOC,-1.0,0.0,de,1.0,4757486-0,2660769,T,46.91667,10.5,EUROPE,Austria,WCE,Cold Wave
-562,Donnerstagfrüh,Donnerstagfrüh,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-561,Martinsbruck,Martinsbruck,LOC,0.0,0.0,de,1.0,,2659747,P,46.88457,10.46322,EUROPE,Switzerland,WCE,Cold Wave
-560,Oberösterreichs,Oberösterreichs,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-559,Innviertel,Innviertel,LOC,0.0,0.0,de,1.0,4027101-8,2775213,L,48.25,13.25,EUROPE,Austria,WCE,Cold Wave
-558,Lambrechten,Lambrechten,LOC,0.0,0.0,de,1.0,4460797-0,7873184,A,48.31762,13.51396,EUROPE,Austria,WCE,Cold Wave
-557,Bezirk R…,Bezirk R…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-556,Thalfang,Thalfang,LOC,0.0,0.0,de,1.0,4355486-6,3204961,P,49.75,7.0,EUROPE,Germany,WCE,Cold Wave
-555,Passauer,Passauer,LOC,0.7,0.0,de,1.0,,12501015,S,48.57447,13.46566,EUROPE,Germany,WCE,Cold Wave
-574,Oldenburg/Bremen,Oldenburg/Bremen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-576,Gefährliche Glätte,Gefährliche Glätte,LOC,-0.5,0.5,de,1.0,,0,,,,,,,Cold Wave
-508,Energieversorgers Gasag,Energieversorgers Gasag,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-577,gefrierenden Regen,gefrierenden Regen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-416,Schmitten,Schmitten,LOC,-0.5,0.5,de,1.0,,2658718,P,46.8575,7.25031,EUROPE,Switzerland,WCE,Cold Wave
-595,Glatteis-Sturz,Glatteis-Sturz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-594,Land…,Land…,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-593,Was,Was,LOC,0.0,0.0,de,1.0,4057127-0,3044310,P,47.23088,16.62155,EUROPE,Hungary,WCE,Cold Wave
-592,Oberhausen,Oberhausen,LOC,-1.0,0.0,de,1.0,4042927-1,2860410,P,51.47805,6.8625,EUROPE,Germany,WCE,Cold Wave
-591,Obertshausen,Obertshausen,LOC,-1.0,0.0,de,1.0,4101953-2,2858763,P,50.07139,8.85123,EUROPE,Germany,WCE,Cold Wave
-590,Kreis Offenbach,Kreis Offenbach,LOC,-1.0,0.0,de,1.0,4043360-2,2857806,P,50.69878,8.41548,EUROPE,Germany,WCE,Cold Wave
-589,Samstagabend,Samstagabend,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-588,Ulm,Ulm,LOC,0.0,0.0,de,1.0,4061529-7,2820256,P,48.39841,9.99155,EUROPE,Germany,WCE,Cold Wave
-587,Oder,Oder,LOC,0.0,0.0,de,1.0,4018122-4,2925535,P,52.34714,14.55062,EUROPE,Germany,WCE,Cold Wave
-586,Morgenstunden,Morgenstunden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-585,Wirtschaftskammer Tirol,Wirtschaftskammer Tirol,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-584,Polizeidienststellen,Polizeidienststellen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-583,Jever,Jever,LOC,-0.7,0.0,de,1.0,4028611-3,2894897,P,53.57343,7.90039,EUROPE,Germany,NEU,Cold Wave
-582,Di…,Di…,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-581,DeutschlandsGlatte,DeutschlandsGlatte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-580,Magdeburg/Halle,Magdeburg/Halle,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-579,Befürchtetes Glättechaos,Befürchtetes Glättechaos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-578,Schnee“,Schnee“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-554,Stunden am Morgen,Stunden am Morgen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-553,Berufsverkehrs,Berufsverkehrs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-552,Hei…,Hei…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-551,Graz,Graz,LOC,0.7,0.0,de,1.0,4021912-4,2778067,P,47.06733,15.44197,EUROPE,Austria,WCE,Cold Wave
-527,Celsius,Celsius,LOC,0.0,0.0,de,1.0,,3424134,T,73.11667,-23.25,POLAR,Greenland,GIC,Cold Wave
-526,Frühlingsgefühle,Frühlingsgefühle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-525,sch…,sch…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-524,Wien,Wien,LOC,0.0,0.0,de,1.0,4066009-6,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE,Cold Wave
-523,Falschparkens,Falschparkens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-522,Notquartiere,Notquartiere,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-521,Wintersportsaison,Wintersportsaison,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-520,Schmerzensgeld,Schmerzensgeld,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-519,Sturmböen an der Nordsee,Sturmböen an der Nordsee,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-518,Alpenrand,Alpenrand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-517,besond…,besond…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-516,Stürzens</li><li,Stürzens</li><li,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-515,Regensburg,Regensburg,LOC,0.0,0.0,de,1.0,4048989-9,2849483,P,49.01513,12.10161,EUROPE,Germany,WCE,Cold Wave
-514,tiefwinterlich,tiefwinterlich,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-513,Österreichs,Österreichs,LOC,0.0,0.0,de,1.0,,13513071,S,48.2043,16.37016,EUROPE,Austria,WCE,Cold Wave
-512,Fünf-Minuten-Weg,Fünf-Minuten-Weg,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-511,Spiegelglatte,Spiegelglatte,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-510,Orthopäden,Orthopäden,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
-509,Unfallchirurgen,Unfallchirurgen,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
-528,Illinois,Illinois,LOC,0.0,0.0,de,1.0,4109206-5,4896861,A,40.00032,-89.25037,NORTH-AMERICA,United States,ENA,Cold Wave
-529,Polarwirbel,Polarwirbel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-530,Amtsgerichts München,Amtsgerichts München,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-542,Rügen,Rügen,LOC,-0.9,0.0,de,1.0,4050875-4,2843325,T,54.41667,13.4,EUROPE,Germany,NEU,Cold Wave
-550,Caritas-Winter-Notschlafstelle Graz,Caritas-Winter-Notschlafstelle Graz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-549,Sonntag Schnee,Sonntag Schnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-548,Temperaturen absacken,Temperaturen absacken,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-547,Mallorca,Mallorca,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Cold Wave
-546,Schneechaos,Schneechaos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-545,Winters,Winters,LOC,0.0,0.0,de,1.0,,5410125,P,38.52491,-121.9708,NORTH-AMERICA,United States,WNA,Cold Wave
-544,A3,A3,LOC,0.0,0.0,de,1.0,,7628316,A,56.65139,23.92806,EUROPE,Latvia,WCE,Cold Wave
-543,Folge</li><li,Folge</li><li,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-541,Steilufer,Steilufer,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-531,Och,Och,LOC,0.0,0.0,de,1.0,4204803-5,1527534,P,40.52828,72.7985,ASIA,Kyrgyzstan,WCA,Cold Wave
-540,Poseck,Poseck,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-539,Hessen Offenbach,Hessen Offenbach,LOC,-1.0,0.0,de,1.0,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Cold Wave
-538,GIeßen,GIeßen,LOC,0.0,0.0,de,1.0,4020989-1,2920512,P,50.58727,8.67554,EUROPE,Germany,WCE,Cold Wave
-537,Balearen,Balearen,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Cold Wave
-536,Alpengebiet,Alpengebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-535,Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,1.0,4003191-3,2955272,P,49.97704,9.15214,EUROPE,Germany,WCE,Cold Wave
-534,Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1.0,4005574-7,2950881,P,47.63236,13.00187,EUROPE,Germany,WCE,Cold Wave
-533,SZ,SZ,LOC,0.0,0.0,de,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Cold Wave
-417,Hessens Bergen,Hessens Bergen,LOC,-0.5,0.5,de,1.0,,0,,,,,,,Cold Wave
-298,Verkehrsbetriebe,Verkehrsbetriebe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-415,Hessen ge,Hessen ge,LOC,0.0,0.0,de,1.0,4018510-2,2924802,P,50.33739,8.75591,EUROPE,Germany,WCE,Cold Wave
-302,Grachten,Grachten,LOC,0.0,1.0,de,1.0,,2799197,P,50.95946,2.82183,EUROPE,Belgium,WCE,Cold Wave
-300,Bergepanzer,Bergepanzer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-299,Kommunen,Kommunen,LOC,0.0,0.0,de,1.0,4115052-1,2994935,P,48.30337,-0.61383,EUROPE,France,WCE,Cold Wave
-297,WELT-Reporter,WELT-Reporter,LOC,0.46666667,0.33333333,de,1.0,,0,,,,,,,Cold Wave
-296,Schulausfälle,Schulausfälle,LOC,0.46666667,0.33333333,de,1.0,,0,,,,,,,Cold Wave
-295,Liveblog Minusgrade,Liveblog Minusgrade,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-294,Berliner Unfallkrankenhaus,Berliner Unfallkrankenhaus,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-293,Glatteis-Unfällen,Glatteis-Unfällen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-292,Knochenbrüchen,Knochenbrüchen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-291,Platzwunden am Kopf,Platzwunden am Kopf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-290,Schädelhirntraumata,Schädelhirntraumata,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-289,Flughafen …,Flughafen …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-288,Flügen,Flügen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-287,Starkschnee,Starkschnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-286,Kre…,Kre…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-285,Rodelspaß,Rodelspaß,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-284,Packgebiet,Packgebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-283,China-Route,China-Route,LOC,-0.7,0.0,de,1.0,,3008971,P,49.57122,0.9108,EUROPE,France,WCE,Cold Wave
-282,Wolkenfelder,Wolkenfelder,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-281,lhe,lhe,LOC,0.8,0.0,de,1.0,4034107-0,1172451,P,31.558,74.35071,ASIA,Pakistan,WCA,Cold Wave
-301,Kanälen,Kanälen,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-303,Neuschnees,Neuschnees,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-414,Allgäu,Allgäu,LOC,0.0,0.0,de,1.0,4030234-9,2891621,P,47.72674,10.31389,EUROPE,Germany,WCE,Cold Wave
-304,Hannover,Hannover,LOC,-1.0,0.0,de,1.0,4023349-2,2910831,P,52.37052,9.73322,EUROPE,Germany,WCE,Cold Wave
-323,Wintersturmfront Elli,Wintersturmfront Elli,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-322,Spielplatz,Spielplatz,LOC,0.7,0.0,de,1.0,,6944079,L,46.63742,14.30476,EUROPE,Austria,WCE,Cold Wave
-321,Straße zur akuten Gefahr,Straße zur akuten Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-320,Moskau,Moskau,LOC,0.0,0.0,de,1.0,4074987-3,524901,P,55.75204,37.61781,EUROPE,Russia,WCE,Cold Wave
-319,Frankfurt am Main,Frankfurt am Main,LOC,0.0,0.0,de,1.0,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Cold Wave
-318,Stadt Frankfurt,Stadt Frankfurt,LOC,0.0,0.0,de,1.0,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Cold Wave
-317,Hinweisportal,Hinweisportal,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-316,Ostseeküste,Ostseeküste,LOC,0.0,0.0,de,1.0,4075760-2,12076808,L,54.21464,12.22235,EUROPE,Germany,NEU,Cold Wave
-315,Elli,Elli,LOC,-0.7,0.0,de,1.0,,145486,T,38.09663,55.93333,ASIA,Turkmenistan,WCA,Cold Wave
-314,Süddeutschland,Süddeutschland,LOC,-0.7,0.0,de,1.0,4078022-3,12909096,L,48.58781,10.71652,EUROPE,Germany,WCE,Cold Wave
-313,Schwarzwald,Schwarzwald,LOC,-0.15,0.0,de,1.0,4034109-4,2881885,P,48.34042,7.86886,EUROPE,Germany,WCE,Cold Wave
-312,Republik,Republik,LOC,0.0,1.0,de,1.0,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Cold Wave
-311,Moabit,Moabit,LOC,1.0,0.0,de,1.0,1292404396,2870310,P,52.52635,13.33903,EUROPE,Germany,WCE,Cold Wave
-310,Grundsatz,Grundsatz,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-309,Blitz-Eis,Blitz-Eis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-308,Altpapier,Altpapier,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-307,Lauf-Alternativen,Lauf-Alternativen,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-306,Wienern,Wienern,LOC,0.0,0.0,de,1.0,,2761355,P,48.15881,13.14832,EUROPE,Austria,WCE,Cold Wave
-305,Donau,Donau,LOC,0.0,0.0,de,1.0,4041719-0,2866070,P,48.73218,11.18709,EUROPE,Germany,WCE,Cold Wave
-280,Bussen,Bussen,LOC,0.0,0.0,de,1.0,4009216-1,3336865,T,60.46861,19.85444,EUROPE,Åland,NEU,Cold Wave
-279,St. Johannes Baptist,St. Johannes Baptist,LOC,0.0,0.0,de,1.0,,11283230,S,48.79987,9.79698,EUROPE,Germany,WCE,Cold Wave
-278,Oberschwaben Schnee,Oberschwaben Schnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-277,Kältehilfe,Kältehilfe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-254,NRWs örtl,NRWs örtl,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-253,Verkehrsunfällen,Verkehrsunfällen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-252,Niederschläge,Niederschläge,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-251,Ausrüstungen,Ausrüstungen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-250,Formentera,Formentera,LOC,0.0,0.0,de,1.0,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Cold Wave
-249,Täle…,Täle…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-248,Ski-Looks,Ski-Looks,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-247,Heiligabend,Heiligabend,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-246,Frankreich,Frankreich,LOC,0.7,0.0,de,1.0,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Cold Wave
-245,Arktis,Arktis,LOC,-0.7,0.0,de,1.0,4002924-4,1511391,T,81.27105,95.78463,ASIA,Russia,RAR,Cold Wave
-244,Mittelmeer,Mittelmeer,LOC,0.7,0.0,de,1.0,4074895-9,363196,H,35.0,20.0,EUROPE-AFRICA,,MED,Cold Wave
-243,Frost-Fest,Frost-Fest,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-242,’s,’s,LOC,0.0,0.0,de,1.0,4518159-7,3576022,P,17.12096,-61.84329,CENTRAL-AMERICA,Antigua and Barbuda,CAR,Cold Wave
-241,Nordostküste,Nordostküste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-240,Winteranfang,Winteranfang,LOC,0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
-239,CSU-Chef,CSU-Chef,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
-238,Eisalarm,Eisalarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-237,Ostwestfalen-Lippe,Ostwestfalen-Lippe,LOC,0.7,0.0,de,1.0,,2937935,A,51.9666,8.78333,EUROPE,Germany,WCE,Cold Wave
-236,Glatteis-Crash,Glatteis-Crash,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-255,ARD-aktuell,ARD-aktuell,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
-256,Nieselregen,Nieselregen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-257,Minusgraden,Minusgraden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-268,Straße im Winter,Straße im Winter,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-276,Stadt überlastet</li><li,Stadt überlastet</li><li,LOC,0.0,0.5,de,1.0,,0,,,,,,,Cold Wave
-275,Carité,Carité,LOC,0.0,0.5,de,1.0,,7268344,A,18.08064,-66.09583,CENTRAL-AMERICA,Puerto Rico,CAR,Cold Wave
-274,Modriach,Modriach,LOC,0.0,0.0,de,1.0,7701410-8,7873547,A,46.94269,15.06961,EUROPE,Austria,WCE,Cold Wave
-273,Virchow-Klinikum,Virchow-Klinikum,LOC,0.0,0.5,de,1.0,,0,,,,,,,Cold Wave
-272,A1 krachen,A1 krachen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-271,Unfälle</li><li,Unfälle</li><li,LOC,0.0,0.5,de,1.0,,0,,,,,,,Cold Wave
-270,Vereinigten Staaten,Vereinigten Staaten,LOC,0.0,0.0,de,1.0,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA,Cold Wave
-269,Ski-Saison,Ski-Saison,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-267,Evangelischen Waldkrankenhaus Spandau,Evangelischen Waldkrankenhaus Spandau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-258,Frieda,Frieda,LOC,0.8,0.0,de,1.0,3011980-7,8298995,S,-4.61048,141.95984,ASIA,Papua New Guinea,SEA,Cold Wave
-266,Gespräche,Gespräche,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
-265,Hauptstadtflughafen BER,Hauptstadtflughafen BER,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-264,Nord-Osten,Nord-Osten,LOC,0.7,0.0,de,1.0,,607197,T,79.8,22.4,ARCTIC,Svalbard and Jan Mayen,ARO,Cold Wave
-263,Weihnachten,Weihnachten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-262,Hohenschönhausen,Hohenschönhausen,LOC,0.0,0.0,de,1.0,5024251-9,8334622,P,52.56681,13.51255,EUROPE,Germany,WCE,Cold Wave
-261,Deutschlands</li><li,Deutschlands</li><li,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-260,Verbrenner-Aus,Verbrenner-Aus,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
-259,Ladezustand,Ladezustand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-324,Wintersturmfront „Elli“,Wintersturmfront „Elli“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-325,Landkreis Dingolfing-Landau,Landkreis Dingolfing-Landau,LOC,0.0,0.0,de,1.0,4247447-4,2881650,P,48.67249,12.69316,EUROPE,Germany,WCE,Cold Wave
-326,Nato-Gebiet,Nato-Gebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-371,Glatteis-Gefahr,Glatteis-Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-391,Mitreden,Mitreden,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-390,Warme Getränke,Warme Getränke,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-389,Schlafsäcke,Schlafsäcke,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-388,Lienz,Lienz,LOC,0.0,0.0,de,1.0,4035690-5,2772505,P,46.8289,12.76903,EUROPE,Austria,WCE,Cold Wave
-387,Chile,Chile,LOC,0.0,0.0,de,1.0,4009929-5,3895114,A,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Cold Wave
-386,Garten,Garten,LOC,0.0,0.0,de,1.0,,7535595,S,52.50717,13.33189,EUROPE,Germany,WCE,Cold Wave
-385,Loser,Loser,LOC,0.7,0.0,de,1.0,4543808-0,6702252,T,3.7564,97.1737,ASIA,Indonesia,SEA,Cold Wave
-384,Mittelfranken,Mittelfranken,LOC,0.0,0.0,de,1.0,4039681-2,2870736,A,49.33333,10.83333,EUROPE,Germany,WCE,Cold Wave
-383,Wintersporthandel,Wintersporthandel,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-382,Winterferien,Winterferien,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-381,Wintereinbruc…,Wintereinbruc…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-380,Kärnten,Kärnten,LOC,0.0,0.0,de,1.0,4029175-3,2774686,A,46.75,13.83333,EUROPE,Austria,WCE,Cold Wave
-379,Geosphere Austria am Sonntag,Geosphere Austria am Sonntag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-378,Nordtirol,Nordtirol,LOC,0.0,0.0,de,1.0,4440212-0,2775541,P,47.4498,12.15659,EUROPE,Austria,WCE,Cold Wave
-377,Zwönitz,Zwönitz,LOC,-1.0,0.0,de,1.0,4249275-0,2803476,P,50.63027,12.80999,EUROPE,Germany,WCE,Cold Wave
-376,Obersteiermark,Obersteiermark,LOC,0.0,0.0,de,1.0,4105325-4,2766495,P,47.33839,15.01784,EUROPE,Austria,WCE,Cold Wave
-375,Zentrum,Zentrum,LOC,0.0,0.0,de,1.0,,6291660,P,47.43076,8.46898,EUROPE,Switzerland,WCE,Cold Wave
-374,Flughafen laufe,Flughafen laufe,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-373,Planai,Planai,LOC,0.7,0.0,de,1.0,,2768723,T,47.37276,13.72384,EUROPE,Austria,WCE,Cold Wave
-392,BVG,BVG,LOC,0.0,0.0,de,1.0,,6296729,S,70.871,29.02944,EUROPE,Norway,NEU,Cold Wave
-393,Energiesparmodus,Energiesparmodus,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-394,Reichensteuer,Reichensteuer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-405,Tirols Bergen,Tirols Bergen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-413,Botanischen Garten,Botanischen Garten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-412,Tauplitz,Tauplitz,LOC,0.7,0.0,de,1.0,4375051-5,7873508,A,47.58876,14.01444,EUROPE,Austria,WCE,Cold Wave
-411,Wolken-Nebel-Mix,Wolken-Nebel-Mix,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-410,Bietigheim-Bissingen,Bietigheim-Bissingen,LOC,0.0,0.0,de,1.0,4006554-6,2949012,P,48.94407,9.11755,EUROPE,Germany,WCE,Cold Wave
-409,Hochfügenerstraße,Hochfügenerstraße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-408,Zillertal,Zillertal,LOC,0.0,0.0,de,1.0,4109019-6,7602524,L,47.24321,12.0249,EUROPE,Austria,WCE,Cold Wave
-407,Bezirk Schwaz,Bezirk Schwaz,LOC,0.0,0.0,de,1.0,4053811-4,2765389,A,47.26667,11.76667,EUROPE,Austria,WCE,Cold Wave
-406,Tirols,Tirols,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-404,Hahntennjoch,Hahntennjoch,LOC,0.7,0.0,de,1.0,,2777043,T,47.28333,10.65,EUROPE,Austria,WCE,Cold Wave
-395,Arlberg,Arlberg,LOC,-0.7,0.0,de,1.0,4196372-6,2766757,P,47.1275,10.26372,EUROPE,Austria,WCE,Cold Wave
-403,Imst,Imst,LOC,0.7,0.0,de,1.0,4026692-8,2775307,P,47.24504,10.73974,EUROPE,Austria,WCE,Cold Wave
-402,Reutte,Reutte,LOC,0.0,0.0,de,1.0,4049661-2,2767510,A,47.41667,10.55,EUROPE,Austria,WCE,Cold Wave
-401,Winterpaket,Winterpaket,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-400,Wiener Bezirken,Wiener Bezirken,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-399,Skipiste,Skipiste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-398,Deutsch…,Deutsch…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-397,H5N1,H5N1,LOC,-0.35,0.5,de,1.0,,0,,,,,,,Cold Wave
-396,New Yorker,New Yorker,LOC,0.0,0.0,de,1.0,,5225847,T,41.52566,-71.53784,NORTH-AMERICA,United States,ENA,Cold Wave
-372,Dreikönigstag winterlich,Dreikönigstag winterlich,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-370,Kaninchenmantel,Kaninchenmantel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-327,Ukraine beka…,Ukraine beka…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-369,Pelze,Pelze,LOC,1.0,0.0,de,1.0,,2854988,H,51.87263,12.26025,EUROPE,Germany,WCE,Cold Wave
-346,Rettungsstelle,Rettungsstelle,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-345,Sü…,Sü…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-344,Lehrter Straße,Lehrter Straße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-343,Mi…,Mi…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-342,Alkoholtest,Alkoholtest,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-341,Winter-Wetter,Winter-Wetter,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-340,Kältebus,Kältebus,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-339,Brandstifter,Brandstifter,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-338,Flughafen Schiphol,Flughafen Schiphol,LOC,-1.0,0.0,de,1.0,,6296680,S,52.3103,4.76028,EUROPE,The Netherlands,NEU,Cold Wave
-337,Hameln,Hameln,LOC,0.0,0.0,de,1.0,4023145-8,2911271,P,52.10397,9.35623,EUROPE,Germany,WCE,Cold Wave
-336,Müllabfuhr,Müllabfuhr,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-335,Restmüll,Restmüll,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-334,Bioabfall,Bioabfall,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-333,Schulen,Schulen,LOC,0.0,0.0,de,1.0,,2786913,P,50.95972,5.1901,EUROPE,Belgium,WCE,Cold Wave
-332,Online-Unterricht,Online-Unterricht,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-331,Termine,Termine,LOC,0.0,0.0,de,1.0,,11999890,T,46.57415,8.7553,EUROPE,Switzerland,WCE,Cold Wave
-330,Unheilig-Auftritte,Unheilig-Auftritte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-329,Hamburg-Konzerte,Hamburg-Konzerte,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
-328,Oreschnik-Einsatz,Oreschnik-Einsatz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-347,Großeinsatz,Großeinsatz,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-348,Party,Party,LOC,0.7,0.0,de,1.0,,6626290,T,-85.45,-147.55,POLAR,Antarctica,EAN,Cold Wave
-349,Parkplätze,Parkplätze,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-360,Lkw Autobahnen,Lkw Autobahnen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-368,Kaninchenfell,Kaninchenfell,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-367,Vorschein,Vorschein,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-366,Schulausfällen,Schulausfällen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-365,Super-Kälte,Super-Kälte,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-364,Stau,Stau,LOC,0.35,0.5,de,1.0,,11814005,H,53.82412,24.24836,EUROPE,Belarus,WCE,Cold Wave
-363,Straßennetzes,Straßennetzes,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-362,Mittelbaden,Mittelbaden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-361,Brandenburg im Winterwunderland,Brandenburg im Winterwunderland,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-359,Strich,Strich,LOC,0.0,1.0,de,1.0,,10355037,T,47.09885,9.61567,EUROPE,Liechtenstein,WCE,Cold Wave
-350,Torfhaus,Torfhaus,LOC,0.0,0.0,de,1.0,1139848631,2821823,P,51.55925,12.7456,EUROPE,Germany,WCE,Cold Wave
-358,Obdachlosen-Versorgung,Obdachlosen-Versorgung,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
-357,Tausalzgemisch…,Tausalzgemisch…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-356,Kältebusse,Kältebusse,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
-355,Böen,Böen,LOC,-1.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Cold Wave
-354,Winterkeule,Winterkeule,LOC,0.35,0.5,de,1.0,,0,,,,,,,Cold Wave
-353,Mainz/Offenbach,Mainz/Offenbach,LOC,-0.23333333,0.0,de,1.0,,0,,,,,,,Cold Wave
-352,D…,D…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
-351,Braunlage,Braunlage,LOC,0.0,0.0,de,1.0,4008060-2,2945055,P,51.72651,10.6109,EUROPE,Germany,WCE,Cold Wave
-596,Verkehrsunfälle,Verkehrsunfälle,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
+0,Florida,Florida,GPE,-0.01033907,0.46210805,en,585.7,,0,,,,,,,Tropical Cyclone
+1,Atlantic,Atlantic,LOC,0.05484941,0.47944198,en,511.2,,0,,,,,,,Tropical Cyclone
+2,Caribbean,Caribbean,LOC,-0.01777255,0.57241859,en,328.2,,0,,,,,,,Tropical Cyclone
+3,Jamaica,Jamaica,GPE,-0.03461345,0.61365025,en,309.6,,0,,,,,,,Tropical Cyclone
+4,Philippines,Philippines,GPE,-0.02943045,0.44591325,en,307.6,,0,,,,,,,Tropical Cyclone
+5,China,China,GPE,0.05860323,0.45868754,en,200.3,,0,,,,,,,Tropical Cyclone
+6,U.S.,U.S.,GPE,-0.0282826,0.54777986,en,174.8,,0,,,,,,,Tropical Cyclone
+7,Hong Kong,Hong Kong,GPE,0.13384306,0.49198297,en,173.1,,0,,,,,,,Tropical Cyclone
+8,Taiwan,Taiwan,GPE,0.04104763,0.45641769,en,139.6,,0,,,,,,,Tropical Cyclone
+9,Mexico,Mexico,GPE,-0.02034905,0.40090662,en,138.8,,0,,,,,,,Tropical Cyclone
+10,US,US,GPE,-0.02654061,0.45742091,en,127.3,,0,,,,,,,Tropical Cyclone
+11,Australia,Australia,GPE,0.00379039,0.49086494,en,107.1,,0,,,,,,,Tropical Cyclone
+12,Cuba,Cuba,GPE,-0.00141163,0.45511225,en,105.1,,0,,,,,,,Tropical Cyclone
+13,North Carolina,North Carolina,GPE,-0.0575461,0.57159969,en,101.9,,0,,,,,,,Tropical Cyclone
+14,the Atlantic Ocean,the Atlantic Ocean,LOC,0.04711443,0.5376285,en,101.1,,0,,,,,,,Tropical Cyclone
+15,California,California,GPE,0.02810419,0.36570154,en,100.6,,0,,,,,,,Tropical Cyclone
+16,Vietnam,Vietnam,GPE,-0.02564426,0.37347269,en,100.1,,0,,,,,,,Tropical Cyclone
+17,New England,New England,LOC,0.04274265,0.66171025,en,98.1,,0,,,,,,,Tropical Cyclone
+18,Myanmar,Myanmar,GPE,-0.05839987,0.41829721,en,96.4,,0,,,,,,,Tropical Cyclone
+19,the Gulf of Mexico,the Gulf of Mexico,LOC,0.01506273,0.46557454,en,84.6,,0,,,,,,,Tropical Cyclone
+20,Texas,Texas,GPE,0.05705376,0.40315917,en,69.0,,0,,,,,,,Tropical Cyclone
+21,Fla.,Fla.,GPE,-0.01829104,0.4552904,en,68.6,,0,,,,,,,Tropical Cyclone
+22,the East Coast,the East Coast,LOC,-0.01977423,0.63104074,en,55.6,,0,,,,,,,Tropical Cyclone
+23,East Coast,East Coast,LOC,-0.05109516,0.59438481,en,52.1,,0,,,,,,,Tropical Cyclone
+24,Puerto Rico,Puerto Rico,GPE,-0.01212721,0.59937971,en,51.4,,0,,,,,,,Tropical Cyclone
+25,Canada,Canada,GPE,0.01624061,0.57382191,en,50.1,,0,,,,,,,Tropical Cyclone
+26,Miami,Miami,GPE,0.11177253,0.3800419,en,49.9,,0,,,,,,,Tropical Cyclone
+27,Maine,Maine,GPE,-0.00539998,0.42711369,en,47.9,4114929-4,4971068,A,45.50032,-69.24977,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+28,Hurricane Milton,Hurricane Milton,GPE,-0.01505221,0.47601811,en,47.3,,0,,,,,,,Tropical Cyclone
+29,the United States,the United States,GPE,0.11677054,0.60870298,en,44.2,,0,,,,,,,Tropical Cyclone
+30,Queensland,Queensland,GPE,0.06153285,0.55275059,en,40.8,,0,,,,,,,Tropical Cyclone
+31,Madagascar,Madagascar,GPE,-0.07216265,0.18254623,en,37.3,,0,,,,,,,Tropical Cyclone
+32,Mayotte,Mayotte,GPE,-0.09069156,0.37630659,en,35.7,,0,,,,,,,Tropical Cyclone
+33,Georgia,Georgia,GPE,0.04694684,0.47331973,en,35.0,,0,,,,,,,Tropical Cyclone
+34,Hawaii,Hawaii,GPE,0.03713817,0.39088354,en,33.8,,0,,,,,,,Tropical Cyclone
+35,Haiti,Haiti,GPE,-0.09890561,0.57670092,en,32.1,,0,,,,,,,Tropical Cyclone
+36,India,India,GPE,-0.02561771,0.4344911,en,31.4,,0,,,,,,,Tropical Cyclone
+37,Indian Ocean,Indian Ocean,LOC,-0.02283654,0.2788239,en,31.2,,0,,,,,,,Tropical Cyclone
+38,United States,United States,GPE,-0.02920443,0.46002368,en,31.0,,0,,,,,,,Tropical Cyclone
+39,Pacific,Pacific,LOC,0.07154626,0.47792779,en,30.3,,0,,,,,,,Tropical Cyclone
+40,Southern California,Southern California,LOC,-0.01521393,0.28406176,en,30.2,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+41,ORLANDO,ORLANDO,GPE,0.02194241,0.4013094,en,29.8,,0,,,,,,,Tropical Cyclone
+42,Gulf Coast,Gulf Coast,LOC,0.01204637,0.42229946,en,29.1,,0,,,,,,,Tropical Cyclone
+43,SAN JUAN,SAN JUAN,GPE,0.02997752,0.68041857,en,29.1,,0,,,,,,,Tropical Cyclone
+44,Japan,Japan,GPE,0.12273557,0.57505957,en,28.2,,0,,,,,,,Tropical Cyclone
+45,Beijing,Beijing,GPE,-0.00922626,0.41849217,en,25.4,4075971-4,1816670,P,39.9075,116.39723,ASIA,China,EAS,Tropical Cyclone
+46,Tampa,Tampa,GPE,-0.17872566,0.5308886,en,25.3,,0,,,,,,,Tropical Cyclone
+47,Tulsa,Tulsa,GPE,0.27602639,0.48978844,en,24.8,4117261-9,4553433,P,36.15398,-95.99277,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+49,Nova Scotia,Nova Scotia,GPE,-0.08247985,0.32003153,en,24.6,,0,,,,,,,Tropical Cyclone
+48,Bahamas,Bahamas,GPE,-0.00902712,0.44175267,en,24.6,,0,,,,,,,Tropical Cyclone
+50,Baja,Baja,GPE,-0.03237705,0.26379781,en,24.4,,0,,,,,,,Tropical Cyclone
+51,Bermuda,Bermuda,LOC,0.00853884,0.83091738,en,22.8,,0,,,,,,,Tropical Cyclone
+52,Africa,Africa,LOC,0.02530349,0.41714535,en,22.5,,0,,,,,,,Tropical Cyclone
+53,Southeast Asia,Southeast Asia,LOC,-0.04275999,0.53596419,en,22.0,,0,,,,,,,Tropical Cyclone
+54,Tampa Bay,Tampa Bay,LOC,0.05483323,0.58501082,en,22.0,,0,,,,,,,Tropical Cyclone
+55,Gulf,Gulf,LOC,0.02473705,0.34611515,en,21.8,,0,,,,,,,Tropical Cyclone
+56,Guangdong,Guangdong,GPE,0.11010205,0.4318333,en,21.6,,0,,,,,,,Tropical Cyclone
+57,the Pacific Ocean,the Pacific Ocean,LOC,0.0497881,0.37720589,en,21.4,,0,,,,,,,Tropical Cyclone
+58,America,America,GPE,0.19010766,0.55963317,en,20.9,,0,,,,,,,Tropical Cyclone
+59,Asia,Asia,LOC,-0.05877118,0.56627175,en,20.8,,0,,,,,,,Tropical Cyclone
+60,UK,UK,GPE,0.15841727,0.47820857,en,20.5,,0,,,,,,,Tropical Cyclone
+61,Typhoon Yagi,Typhoon Yagi,LOC,-0.01310892,0.5952381,en,20.3,,0,,,,,,,Tropical Cyclone
+62,Laos,Laos,GPE,-0.02289858,0.28966804,en,19.9,,0,,,,,,,Tropical Cyclone
+63,Southeast,Southeast,LOC,-0.01748481,0.49536225,en,19.7,,0,,,,,,,Tropical Cyclone
+64,Acapulco,Acapulco,GPE,-0.04416233,0.38194444,en,19.2,,0,,,,,,,Tropical Cyclone
+66,Alaska,Alaska,GPE,-0.03122355,0.97957549,en,19.0,,0,,,,,,,Tropical Cyclone
+65,Indonesia,Indonesia,GPE,-0.06898126,0.55055954,en,19.0,,0,,,,,,,Tropical Cyclone
+67,Shenzhen,Shenzhen,GPE,0.10289729,0.44569495,en,18.4,,0,,,,,,,Tropical Cyclone
+68,Coral Springs,Coral Springs,GPE,-0.18669251,0.30975452,en,17.2,,0,,,,,,,Tropical Cyclone
+69,Mauritius,Mauritius,GPE,-0.09610454,0.51740631,en,16.9,,0,,,,,,,Tropical Cyclone
+70,Atlantic Ocean,Atlantic Ocean,LOC,0.06013502,0.53570777,en,16.6,,0,,,,,,,Tropical Cyclone
+71,the Caribbean Sea,the Caribbean Sea,LOC,-0.07026515,0.68585859,en,16.5,,0,,,,,,,Tropical Cyclone
+72,Virginia,Virginia,GPE,-0.09246525,0.67260056,en,16.1,,0,,,,,,,Tropical Cyclone
+73,Orlando,Orlando,GPE,0.00457198,0.58032654,en,15.9,,0,,,,,,,Tropical Cyclone
+74,Zelia,Zelia,GPE,-0.12262279,0.47298592,en,15.9,,0,,,,,,,Tropical Cyclone
+75,South Carolina,South Carolina,GPE,-0.0326656,0.40005342,en,15.6,,0,,,,,,,Tropical Cyclone
+76,South Florida,South Florida,GPE,-0.10443723,0.34848485,en,15.4,,0,,,,,,,Tropical Cyclone
+77,Northern Territory,Northern Territory,LOC,-0.08169935,0.52832244,en,15.3,,0,,,,,,,Tropical Cyclone
+78,Maui,Maui,GPE,0.09413626,0.4979067,en,15.2,4263812-4,5847411,P,20.88953,-156.47432,PACIFIC,United States,NPO,Tropical Cyclone
+79,HONG KONG,HONG KONG,GPE,0.22233201,0.54522751,en,15.0,,0,,,,,,,Tropical Cyclone
+80,the Indian Ocean,the Indian Ocean,LOC,-0.03843254,0.57222884,en,15.0,,0,,,,,,,Tropical Cyclone
+81,MIAMI,MIAMI,GPE,-0.05739028,0.58105538,en,14.5,,0,,,,,,,Tropical Cyclone
+82,Pacific Ocean,Pacific Ocean,LOC,0.00224599,0.49319766,en,14.4,,0,,,,,,,Tropical Cyclone
+83,Barbados,Barbados,GPE,-0.10481221,0.31150235,en,14.2,,0,,,,,,,Tropical Cyclone
+84,the National Oceanic,the National Oceanic,LOC,0.02491747,0.22968093,en,13.9,,0,,,,,,,Tropical Cyclone
+85,Pacific coast,Pacific coast,LOC,-0.04182308,0.15823775,en,13.7,,0,,,,,,,Tropical Cyclone
+86,MANILA,MANILA,GPE,-0.09252439,0.40395228,en,13.7,,0,,,,,,,Tropical Cyclone
+87,Tanzania,Tanzania,GPE,-0.1140029,0.43797678,en,13.4,,0,,,,,,,Tropical Cyclone
+88,Western Australia's,Western Australia's,LOC,-0.00960735,0.39657477,en,13.3,,0,,,,,,,Tropical Cyclone
+89,Earth,Earth,LOC,0.04495721,0.72335184,en,13.1,,0,,,,,,,Tropical Cyclone
+90,Houston,Houston,GPE,0.10715295,0.56587504,en,13.1,,0,,,,,,,Tropical Cyclone
+91,the Gulf Coast,the Gulf Coast,LOC,-0.06864772,0.48906115,en,12.9,,0,,,,,,,Tropical Cyclone
+92,Caribbean Sea,Caribbean Sea,LOC,0.00640452,0.45298126,en,12.8,,0,,,,,,,Tropical Cyclone
+93,Oklahoma,Oklahoma,GPE,0.27419355,0.46774194,en,12.4,,0,,,,,,,Tropical Cyclone
+94,Los Cabos,Los Cabos,GPE,0.03952641,0.35159381,en,12.2,7688128-3,6299871,S,23.15185,-109.72104,CENTRAL-AMERICA,Mexico,NCA,Tropical Cyclone
+95,Gulf of Mexico,Gulf of Mexico,LOC,0.04079132,0.43207283,en,11.9,,0,,,,,,,Tropical Cyclone
+96,Sarasota,Sarasota,GPE,0.0928494,0.67901758,en,11.8,,0,,,,,,,Tropical Cyclone
+98,Louisiana,Louisiana,GPE,-0.03812308,0.42713603,en,11.5,,0,,,,,,,Tropical Cyclone
+99,Cebu,Cebu,LOC,-0.38841897,0.6969057,en,11.5,,0,,,,,,,Tropical Cyclone
+97,Western Australia,Western Australia,LOC,0.02947147,0.31013343,en,11.5,,0,,,,,,,Tropical Cyclone
+100,the Cayman Islands,the Cayman Islands,GPE,-0.02339181,0.25852827,en,11.4,,0,,,,,,,Tropical Cyclone
+101,the Leeward Islands,the Leeward Islands,LOC,0.04214861,0.55166847,en,11.2,,0,,,,,,,Tropical Cyclone
+102,MEXICO CITY,MEXICO CITY,GPE,-0.01123286,0.46953914,en,11.2,,0,,,,,,,Tropical Cyclone
+103,Atlantic Canada,Atlantic Canada,LOC,0.05354093,0.48498131,en,11.0,,12831378,L,53.33688,-62.62281,NORTH-AMERICA,Canada,NEN,Tropical Cyclone
+104,Europe,Europe,LOC,-0.18543578,0.52991845,en,10.9,,0,,,,,,,Tropical Cyclone
+105,Massachusetts,Massachusetts,GPE,-0.03322213,0.37447873,en,10.9,4037858-5,6254926,A,42.36565,-71.10832,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+106,the Dominican Republic,the Dominican Republic,GPE,-0.14068917,0.60179118,en,10.9,,0,,,,,,,Tropical Cyclone
+107,FORT LAUDERDALE,FORT LAUDERDALE,GPE,-0.01183128,0.54243827,en,10.8,,0,,,,,,,Tropical Cyclone
+108,the South Pacific,the South Pacific,LOC,0.14953271,0.74766355,en,10.7,,0,,,,,,,Tropical Cyclone
+109,the North Atlantic,the North Atlantic,LOC,0.15742726,0.61733052,en,10.5,,0,,,,,,,Tropical Cyclone
+110,Black River,Black River,LOC,-0.17590444,0.66368867,en,10.3,,0,,,,,,,Tropical Cyclone
+111,Malaysia,Malaysia,GPE,0.04887372,0.65105626,en,10.2,,0,,,,,,,Tropical Cyclone
+112,the Coral Sea,the Coral Sea,LOC,0.07252475,0.59042904,en,10.1,,235616,H,27.0,51.0,ASIA,,ARP,Tropical Cyclone
+113,Vermont,Vermont,GPE,0.10519802,0.18722497,en,10.1,4063093-6,5242283,A,44.00034,-72.74983,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+114,Turkey,Turkey,GPE,0.02392739,0.40717822,en,10.1,,0,,,,,,,Tropical Cyclone
+115,Fort Lauderdale,Fort Lauderdale,GPE,-0.245,0.395,en,10.0,,0,,,,,,,Tropical Cyclone
+116,TAMPA,TAMPA,GPE,-0.11477655,0.63587389,en,9.9,,0,,,,,,,Tropical Cyclone
+117,SYDNEY,SYDNEY,GPE,-0.00736961,0.48582766,en,9.8,,0,,,,,,,Tropical Cyclone
+118,South,South,LOC,-0.10716796,0.68306556,en,9.7,,0,,,,,,,Tropical Cyclone
+119,Reunion,Reunion,LOC,0.02233677,0.34707904,en,9.7,4049639-9,935317,A,-21.1,55.6,INDIAN,Reunion,SIO,Tropical Cyclone
+120,Lahaina,Lahaina,GPE,0.07094907,0.43975694,en,9.6,4348392-6,5849996,P,20.87526,-156.67982,PACIFIC,United States,NPO,Tropical Cyclone
+121,Kenya,Kenya,GPE,-0.28172515,0.51637427,en,9.5,,0,,,,,,,Tropical Cyclone
+122,Israel,Israel,GPE,-0.14441489,0.46799645,en,9.4,,0,,,,,,,Tropical Cyclone
+123,Bangladesh,Bangladesh,GPE,-0.15203901,0.27836879,en,9.4,,0,,,,,,,Tropical Cyclone
+124,Northeast,Northeast,LOC,0.06326708,0.86999022,en,9.3,,0,,,,,,,Tropical Cyclone
+125,Typhoon Halong,Typhoon Halong,GPE,0.14080645,0.88625448,en,9.3,,0,,,,,,,Tropical Cyclone
+126,France,France,GPE,-0.2794422,0.57047755,en,9.2,,0,,,,,,,Tropical Cyclone
+127,Sri Lanka,Sri Lanka,GPE,0.06763834,0.61096838,en,9.2,,0,,,,,,,Tropical Cyclone
+128,west coast,west coast,LOC,-0.15250305,0.56871184,en,9.1,,0,,,,,,,Tropical Cyclone
+129,Salt Typhoon,Salt Typhoon,GPE,0.04342593,0.54268519,en,9.0,,0,,,,,,,Tropical Cyclone
+130,Kimberley,Kimberley,GPE,-0.05925926,0.21851852,en,9.0,,0,,,,,,,Tropical Cyclone
+131,Mozambique,Mozambique,GPE,-0.07089506,0.51496914,en,9.0,,0,,,,,,,Tropical Cyclone
+134,N.C.,N.C.,GPE,0.01109814,0.45754698,en,8.9,,0,,,,,,,Tropical Cyclone
+132,Germany,Germany,GPE,0.21659006,0.6252128,en,8.9,,0,,,,,,,Tropical Cyclone
+133,the 2024 Atlantic,the 2024 Atlantic,LOC,0.0696161,0.50923845,en,8.9,,0,,,,,,,Tropical Cyclone
+137,Typhoon Haikui,Typhoon Haikui,GPE,0.04342273,0.31992337,en,8.7,,0,,,,,,,Tropical Cyclone
+135,Grenada,Grenada,GPE,-0.15766284,0.41762452,en,8.7,,0,,,,,,,Tropical Cyclone
+136,the Tiwi Islands,the Tiwi Islands,LOC,0.12356322,0.51101533,en,8.7,,0,,,,,,,Tropical Cyclone
+138,Galveston,Galveston,GPE,-0.01675485,0.44268078,en,8.4,,0,,,,,,,Tropical Cyclone
+139,U.S,U.S,GPE,0.08259705,0.41378849,en,8.3,,0,,,,,,,Tropical Cyclone
+140,El Niño,El Niño,GPE,0.05312918,0.21879183,en,8.3,,0,,,,,,,Tropical Cyclone
+141,Washington,Washington,GPE,0.24191653,0.5906714,en,8.3,,0,,,,,,,Tropical Cyclone
+142,Typhoon Lagoon,Typhoon Lagoon,LOC,0.24353949,0.94882404,en,8.2,,6620642,L,28.36584,-81.52961,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+143,PETERSBURG,PETERSBURG,GPE,0.00609756,0.32926829,en,8.2,,0,,,,,,,Tropical Cyclone
+144,Hurricanes,Hurricanes,GPE,0.00729167,0.32520833,en,8.0,,6520375,S,24.5526,-81.8057,CENTRAL-AMERICA,United States,CAR,Tropical Cyclone
+145,Thailand,Thailand,GPE,0.1725437,0.59579064,en,7.9,,0,,,,,,,Tropical Cyclone
+146,Pakistan,Pakistan,GPE,0.07056962,0.92531646,en,7.9,,0,,,,,,,Tropical Cyclone
+147,Floridas Gulf Coast,Floridas Gulf Coast,LOC,-0.15942982,0.61885965,en,7.6,,0,,,,,,,Tropical Cyclone
+148,North Carolina's,North Carolina's,GPE,0.11444444,0.57111111,en,7.5,,0,,,,,,,Tropical Cyclone
+149,Yucatan Peninsula,Yucatan Peninsula,LOC,0.09009009,0.55405405,en,7.4,,0,,,,,,,Tropical Cyclone
+150,Tallahassee,Tallahassee,GPE,0.0259009,0.3996997,en,7.4,,0,,,,,,,Tropical Cyclone
+151,North Atlantic,North Atlantic,LOC,0.05878995,0.61472603,en,7.3,,0,,,,,,,Tropical Cyclone
+152,Jacksonville,Jacksonville,GPE,0.03981481,0.28117284,en,7.2,,0,,,,,,,Tropical Cyclone
+153,the South China Sea,the South China Sea,LOC,-0.08920188,0.32300469,en,7.1,,0,,,,,,,Tropical Cyclone
+154,Luzon,Luzon,LOC,0.02484351,0.52327856,en,7.1,,0,,,,,,,Tropical Cyclone
+155,New Jersey,New Jersey,GPE,0.22419793,0.80007335,en,7.0,,0,,,,,,,Tropical Cyclone
+156,Maryland,Maryland,GPE,-0.0603556,0.83748956,en,7.0,,0,,,,,,,Tropical Cyclone
+157,New York,New York,GPE,0.21404298,0.6706308,en,7.0,,0,,,,,,,Tropical Cyclone
+158,the Windward Islands,the Windward Islands,LOC,-0.04390097,0.49130435,en,6.9,,0,,,,,,,Tropical Cyclone
+159,Md.,Md.,GPE,-0.05392157,0.09803922,en,6.8,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Tropical Cyclone
+160,Carolinas,Carolinas,GPE,-0.17989639,0.62920566,en,6.8,,0,,,,,,,Tropical Cyclone
+161,east coast,east coast,LOC,0.23888593,0.93343106,en,6.7,,0,,,,,,,Tropical Cyclone
+162,Floridas,Floridas,GPE,0.01691542,0.71094527,en,6.7,,0,,,,,,,Tropical Cyclone
+163,Central Florida,Central Florida,LOC,-0.08462894,0.45107794,en,6.7,,0,,,,,,,Tropical Cyclone
+164,Russia,Russia,GPE,0.12089646,0.40940657,en,6.6,4076899-5,2017370,A,60.0,100.0,ASIA,Russia,ESB,Tropical Cyclone
+165,the Atlantic basin,the Atlantic basin,LOC,0.02020202,0.16414141,en,6.6,,0,,,,,,,Tropical Cyclone
+166,WASHINGTON,WASHINGTON,GPE,-0.03761574,0.45538721,en,6.6,,0,,,,,,,Tropical Cyclone
+167,Bacolod,Bacolod,GPE,0.13076923,0.29230769,en,6.5,,0,,,,,,,Tropical Cyclone
+168,Pilbara,Pilbara,GPE,-0.09052373,0.3103588,en,6.4,,0,,,,,,,Tropical Cyclone
+169,Colorado,Colorado,GPE,0.21374008,0.62239583,en,6.4,4010406-0,5417618,A,39.00027,-105.50083,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+170,ST.,ST.,GPE,0.00819672,0.36065574,en,6.1,,0,,,,,,,Tropical Cyclone
+171,the Virgin Islands,the Virgin Islands,GPE,-0.03649493,0.63739266,en,6.1,,0,,,,,,,Tropical Cyclone
+172,GENEVA,GENEVA,GPE,-0.40965278,0.79421296,en,6.0,,0,,,,,,,Tropical Cyclone
+173,Azores,Azores,LOC,0.00388889,0.30490741,en,6.0,,0,,,,,,,Tropical Cyclone
+176,Delaware,Delaware,GPE,-0.05642151,0.71466404,en,5.9,4085407-3,4142224,A,39.00039,-75.49992,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+177,San Diego,San Diego,GPE,0.08474576,0.5480226,en,5.9,4269521-1,5391811,P,32.71571,-117.16472,CENTRAL-AMERICA,United States,NCA,Tropical Cyclone
+175,South Africa,South Africa,GPE,-0.15851777,0.50049377,en,5.9,,0,,,,,,,Tropical Cyclone
+174,New Brunswick,New Brunswick,GPE,0.14991012,0.58228043,en,5.9,4101158-2,6087430,A,46.5001,-65.99878,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+178,BRISBANE,BRISBANE,GPE,-0.06206897,0.40344828,en,5.8,4212528-5,2174003,P,-27.46794,153.02809,OCEANIA,Australia,EAU,Tropical Cyclone
+179,Typhoon Fung-wong,Typhoon Fung-wong,GPE,0.10969388,0.2372449,en,5.6,,0,,,,,,,Tropical Cyclone
+180,BOSTON,BOSTON,GPE,0.04793388,0.63415978,en,5.5,,0,,,,,,,Tropical Cyclone
+181,the east coast,the east coast,LOC,0.00833333,0.48257576,en,5.5,,0,,,,,,,Tropical Cyclone
+182,ANNAPOLIS,ANNAPOLIS,GPE,-0.08333333,0.22222222,en,5.4,4079793-4,4347242,P,38.97859,-76.49184,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+187,New York City,New York City,GPE,0.04891956,0.6729351,en,5.3,,0,,,,,,,Tropical Cyclone
+189,Hong Kong's,Hong Kong's,GPE,0.15353774,0.43333333,en,5.3,,0,,,,,,,Tropical Cyclone
+188,the 2025 Atlantic,the 2025 Atlantic,LOC,0.1235119,0.47609689,en,5.3,,0,,,,,,,Tropical Cyclone
+184,Pacific beach,Pacific beach,LOC,0.03419811,0.48113208,en,5.3,,4169014,P,26.23786,-80.12477,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+186,The United States,The United States,GPE,0.10036688,0.5956499,en,5.3,,0,,,,,,,Tropical Cyclone
+185,Southern China,Southern China,LOC,0.03616352,0.22484277,en,5.3,,0,,,,,,,Tropical Cyclone
+183,East,East,LOC,0.01403659,0.61827711,en,5.3,,0,,,,,,,Tropical Cyclone
+190,Malawi,Malawi,GPE,0.01923077,0.59615385,en,5.2,4074495-4,927384,A,-13.5,34.0,AFRICA,Malawi,ESAF,Tropical Cyclone
+191,Cisco,Cisco,GPE,0.03571429,0.32669414,en,5.2,,4681521,P,32.38819,-98.97923,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+192,Brisbane,Brisbane,GPE,0.04700855,0.54594017,en,5.2,4212528-5,2174003,P,-27.46794,153.02809,OCEANIA,Australia,EAU,Tropical Cyclone
+193,St. Vincent,St. Vincent,GPE,-0.01262019,0.39823718,en,5.2,2034200-7,498817,P,59.93863,30.31413,EUROPE,Russia,NEU,Tropical Cyclone
+194,New Orleans,New Orleans,GPE,0.23651218,0.80376454,en,5.1,,0,,,,,,,Tropical Cyclone
+195,Sumatra,Sumatra,GPE,0.13428571,0.4552381,en,5.0,,0,,,,,,,Tropical Cyclone
+196,eastern coast,eastern coast,LOC,-0.05102041,0.9047619,en,4.9,,0,,,,,,,Tropical Cyclone
+197,Kentucky,Kentucky,GPE,-0.00843254,0.33333333,en,4.8,,0,,,,,,,Tropical Cyclone
+198,Verisk,Verisk,GPE,-0.01444129,0.65340909,en,4.8,,0,,,,,,,Tropical Cyclone
+201,the Northern Territory's,the Northern Territory's,LOC,0.17996454,0.78841608,en,4.7,,5868589,T,63.06933,-151.00609,NORTH-AMERICA,United States,NWN,Tropical Cyclone
+199,Macau,Macau,GPE,0.08244681,0.46542553,en,4.7,,0,,,,,,,Tropical Cyclone
+200,Dare County,Dare County,GPE,-0.02659574,0.18617021,en,4.7,,0,,,,,,,Tropical Cyclone
+203,TAIPEI,TAIPEI,GPE,0.05395963,0.63703416,en,4.6,,0,,,,,,,Tropical Cyclone
+204,Hainan,Hainan,GPE,0.06576087,0.35942029,en,4.6,,0,,,,,,,Tropical Cyclone
+205,BACOLOD CITY,BACOLOD CITY,GPE,0.06832298,0.35714286,en,4.6,,0,,,,,,,Tropical Cyclone
+206,North Queensland,North Queensland,GPE,0.07300725,0.77028986,en,4.6,,11523972,L,-16.56884,142.4846,OCEANIA,Australia,NAU,Tropical Cyclone
+202,Baja California Peninsula,Baja California Peninsula,LOC,0.03478261,0.26666667,en,4.6,,4017701,T,28.0,-113.5,CENTRAL-AMERICA,Mexico,NCA,Tropical Cyclone
+207,the Sunshine State,the Sunshine State,LOC,0.2462963,0.49259259,en,4.5,,0,,,,,,,Tropical Cyclone
+208,Chinas,Chinas,GPE,-0.06679012,0.4462963,en,4.5,,0,,,,,,,Tropical Cyclone
+209,Angola,Angola,GPE,0.19444444,0.25925926,en,4.5,4002050-2,3351879,A,-12.5,18.5,AFRICA,Angola,WSAF,Tropical Cyclone
+210,Far North Queensland,Far North Queensland,LOC,-0.00763374,0.7749177,en,4.5,,11184542,S,-16.87839,145.62515,OCEANIA,Australia,NAU,Tropical Cyclone
+211,Asheville,Asheville,GPE,0.08556999,0.59223986,en,4.5,4352239-7,4453066,P,35.60095,-82.55402,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+212,Southwest,Southwest,LOC,-0.02193696,0.55884774,en,4.5,,12503510,A,-0.87125,131.28162,ASIA,Indonesia,SEA,Tropical Cyclone
+213,WGA,WGA,GPE,-0.10123457,0.18024691,en,4.5,,4568533,P,18.44439,-66.38767,CENTRAL-AMERICA,Puerto Rico,CAR,Tropical Cyclone
+214,eastern Africa,eastern Africa,LOC,0.08888889,0.65185185,en,4.5,,7729889,L,-0.52734,36.51855,AFRICA,Kenya,SEAF,Tropical Cyclone
+216,Hanoi,Hanoi,GPE,0.16893939,0.68996212,en,4.4,,0,,,,,,,Tropical Cyclone
+215,New South Wales,New South Wales,GPE,0.28394333,0.85719205,en,4.4,4058708-3,2147714,P,-33.86785,151.20732,OCEANIA,Australia,EAU,Tropical Cyclone
+217,Tropical Storm Idalia,Tropical Storm Idalia,LOC,0.02034884,0.63275194,en,4.3,,0,,,,,,,Tropical Cyclone
+218,Hispaniola,Hispaniola,GPE,-0.41157946,1.22286822,en,4.3,,0,,,,,,,Tropical Cyclone
+219,Michigan,Michigan,GPE,0.05135659,0.4496124,en,4.3,,0,,,,,,,Tropical Cyclone
+220,Perth,Perth,GPE,-0.00178571,0.46309524,en,4.2,4232458-0,2063523,P,-31.95224,115.8614,OCEANIA,Australia,SAU,Tropical Cyclone
+221,NJ,NJ,GPE,-0.35518128,0.63419913,en,4.2,,12213808,L,40.77331,-73.87989,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+222,Los Angeles,Los Angeles,GPE,-0.12219143,0.59648928,en,4.1,,0,,,,,,,Tropical Cyclone
+223,the Central Atlantic,the Central Atlantic,LOC,-0.0125,0.36875,en,4.0,,4847395,S,41.40721,-95.04666,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+224,Chivirico,Chivirico,GPE,0.08333333,0.32916667,en,4.0,,0,,,,,,,Tropical Cyclone
+225,PARIS,PARIS,GPE,-0.10576923,0.23183761,en,3.9,,0,,,,,,,Tropical Cyclone
+234,Emerald Isle,Emerald Isle,LOC,-0.11208577,0.65740741,en,3.8,,5948529,T,76.80325,-114.104,NORTH-AMERICA,Canada,NWN,Tropical Cyclone
+233,AUGUSTA,AUGUSTA,GPE,0.27192982,0.76315789,en,3.8,7669249-8,4957003,P,44.31062,-69.77949,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+230,BANGKOK,BANGKOK,GPE,-0.20175439,1.52631579,en,3.8,,0,,,,,,,Tropical Cyclone
+231,Typhoon Krathon,Typhoon Krathon,LOC,-0.12280702,0.22807018,en,3.8,,0,,,,,,,Tropical Cyclone
+232,Barbuda,Barbuda,GPE,-0.01315789,0.06578947,en,3.8,,3576390,A,17.63333,-61.8,CENTRAL-AMERICA,Antigua and Barbuda,CAR,Tropical Cyclone
+229,earth,earth,LOC,-0.0745614,0.37719298,en,3.8,,0,,,,,,,Tropical Cyclone
+227,Magic Kingdom,Magic Kingdom,GPE,0.46052632,1.12828947,en,3.8,,6620640,L,28.41875,-81.58123,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+226,NEW YORK,NEW YORK,GPE,0.19637161,0.65639952,en,3.8,,0,,,,,,,Tropical Cyclone
+228,ARLINGTON,ARLINGTON,GPE,0.42105263,0.78947368,en,3.8,4193566-4,4744709,P,38.88101,-77.10428,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+241,Aurora,Aurora,GPE,0.16516517,0.87087087,en,3.7,,0,,,,,,,Tropical Cyclone
+246,Bengal,Bengal,GPE,0.0,0.35135135,en,3.7,,0,,,,,,,Tropical Cyclone
+245,Brazil,Brazil,GPE,0.0,0.32432432,en,3.7,,0,,,,,,,Tropical Cyclone
+244,the Caroline Islands,the Caroline Islands,LOC,-0.03603604,0.36036036,en,3.7,,0,,,,,,,Tropical Cyclone
+243,the Northern Hemisphere,the Northern Hemisphere,LOC,-0.03690446,0.28875453,en,3.7,,0,,,,,,,Tropical Cyclone
+242,Ukraine,Ukraine,GPE,0.17117117,1.12912913,en,3.7,,0,,,,,,,Tropical Cyclone
+240,Windward Islands,Windward Islands,LOC,0.02195946,0.23873874,en,3.7,,0,,,,,,,Tropical Cyclone
+239,AUSTRALIA,AUSTRALIA,GPE,-0.08108108,0.52702703,en,3.7,,0,,,,,,,Tropical Cyclone
+238,Fujian province,Fujian province,GPE,-0.45720721,0.62387387,en,3.7,4220847-6,1811017,A,26.25,118.0,ASIA,China,EAS,Tropical Cyclone
+237,Terengganu,Terengganu,GPE,0.01435811,0.51970721,en,3.7,,0,,,,,,,Tropical Cyclone
+236,South Texas,South Texas,LOC,-0.5,0.81981982,en,3.7,,0,,,,,,,Tropical Cyclone
+235,Ottawa,Ottawa,GPE,0.06756757,0.09009009,en,3.7,4122012-2,6094817,P,45.41117,-75.69812,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+249,Southeast coast,Southeast coast,LOC,-0.0,0.52314815,en,3.6,,0,,,,,,,Tropical Cyclone
+250,Rhode Island,Rhode Island,GPE,0.11798541,0.52960157,en,3.6,,0,,,,,,,Tropical Cyclone
+247,Hong Kong’s,Hong Kong’s,GPE,0.06481481,0.30061728,en,3.6,,0,,,,,,,Tropical Cyclone
+248,Townsville,Townsville,GPE,-0.08731996,0.42605453,en,3.6,,0,,,,,,,Tropical Cyclone
+251,North America,North America,LOC,0.06845238,0.73392857,en,3.5,,0,,,,,,,Tropical Cyclone
+252,Milton,Milton,GPE,0.01258503,0.42517007,en,3.5,,0,,,,,,,Tropical Cyclone
+253,Big Island,Big Island,LOC,-0.01449351,0.43397403,en,3.5,,2186716,T,-47.15,167.4,OCEANIA,New Zealand,NZ,Tropical Cyclone
+254,Manila,Manila,GPE,-0.04285714,0.2797619,en,3.5,,0,,,,,,,Tropical Cyclone
+255,Arctic,Arctic,LOC,0.062886,0.46147186,en,3.5,,0,,,,,,,Tropical Cyclone
+256,the Eastern Seaboard,the Eastern Seaboard,LOC,-0.03214286,0.60714286,en,3.5,,0,,,,,,,Tropical Cyclone
+265,the US South,the US South,LOC,-0.24204545,0.32121212,en,3.3,,0,,,,,,,Tropical Cyclone
+271,The Atlantic Ocean,The Atlantic Ocean,LOC,-0.04545455,0.04545455,en,3.3,,0,,,,,,,Tropical Cyclone
+270,Mississippi,Mississippi,GPE,-0.09407713,0.23464187,en,3.3,,0,,,,,,,Tropical Cyclone
+269,Central America,Central America,LOC,-0.13920455,0.51136364,en,3.3,,0,,,,,,,Tropical Cyclone
+268,Typhoon Ragasa,Typhoon Ragasa,GPE,-0.08802309,0.33694084,en,3.3,,0,,,,,,,Tropical Cyclone
+267,Zhuhai,Zhuhai,GPE,0.04250842,0.28619529,en,3.3,,0,,,,,,,Tropical Cyclone
+266,TALLAHASSEE,TALLAHASSEE,GPE,-0.01262626,0.03787879,en,3.3,,0,,,,,,,Tropical Cyclone
+260,GALVESTON,GALVESTON,GPE,0.08529742,0.5342312,en,3.3,,0,,,,,,,Tropical Cyclone
+264,ATLANTA,ATLANTA,GPE,0.12121212,0.48484848,en,3.3,4086063-2,4180439,P,33.749,-84.38798,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+262,Charleston,Charleston,GPE,0.3030303,0.72727273,en,3.3,4217693-1,4574324,P,32.77632,-79.93275,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+261,USA,USA,GPE,0.18434343,0.55411255,en,3.3,,0,,,,,,,Tropical Cyclone
+257,Libya,Libya,GPE,0.06666667,0.38787879,en,3.3,4035589-5,2215636,A,28.0,17.0,AFRICA,Libya,SAH,Tropical Cyclone
+259,Mexicos Pacific coast,Mexicos Pacific coast,LOC,-0.06902357,0.33973064,en,3.3,,0,,,,,,,Tropical Cyclone
+258,Mediterranean,Mediterranean,LOC,0.23232323,0.76262626,en,3.3,,0,,,,,,,Tropical Cyclone
+263,Bacolod City,Bacolod City,GPE,0.34201389,0.70391414,en,3.3,,0,,,,,,,Tropical Cyclone
+272,the Pacific Coast,the Pacific Coast,LOC,-0.04119318,0.48352273,en,3.2,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+273,Dominican Republic,Dominican Republic,GPE,-0.0625,0.15625,en,3.2,,0,,,,,,,Tropical Cyclone
+278,the West Coast,the West Coast,LOC,-0.34677419,0.74193548,en,3.1,,12492673,L,39.28,-155.26,PACIFIC,United States,NPO,Tropical Cyclone
+282,Austria,Austria,GPE,0.23753666,0.48533724,en,3.1,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Tropical Cyclone
+281,Tropical Storm Dexter,Tropical Storm Dexter,LOC,0.01612903,0.77956989,en,3.1,,0,,,,,,,Tropical Cyclone
+279,NYC,NYC,GPE,-0.18876941,0.66547192,en,3.1,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+280,Denver,Denver,GPE,0.29032258,0.48387097,en,3.1,4085412-7,5419384,P,39.73915,-104.9847,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+277,ASHEVILLE,ASHEVILLE,GPE,-0.09101382,0.49635177,en,3.1,4352239-7,4453066,P,35.60095,-82.55402,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+276,the Northern Territory,the Northern Territory,LOC,-0.11109482,0.67609971,en,3.1,,4714582,P,29.59412,-95.68078,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+275,Dallas,Dallas,GPE,0.14400922,0.3953533,en,3.1,4085382-2,4684888,P,32.78306,-96.80667,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+274,Hurricane Melissa,Hurricane Melissa,GPE,0.03116999,0.43964414,en,3.1,,0,,,,,,,Tropical Cyclone
+283,East Asia,East Asia,LOC,-0.00738916,0.76970443,en,2.9,,12200097,L,32.62857,51.6314,ASIA,Iran,WCA,Tropical Cyclone
+284,The National Oceanic,The National Oceanic,LOC,0.12380268,0.33836207,en,2.9,,0,,,,,,,Tropical Cyclone
+295,HOUSTON,HOUSTON,GPE,0.125,0.63690476,en,2.8,,0,,,,,,,Tropical Cyclone
+304,NEW DELHI,NEW DELHI,GPE,-0.15662202,0.59268707,en,2.8,,0,,,,,,,Tropical Cyclone
+303,North Carolina Beach,North Carolina Beach,GPE,-0.10164786,0.62314471,en,2.8,,0,,,,,,,Tropical Cyclone
+302,San Francisco,San Francisco,GPE,0.03571429,0.53571429,en,2.8,4344631-0,3600949,P,14.0818,-87.20681,CENTRAL-AMERICA,Honduras,SCA,Tropical Cyclone
+301,Veracruz,Veracruz,GPE,-0.11160714,0.3125,en,2.8,,0,,,,,,,Tropical Cyclone
+300,Eastern Seaboard,Eastern Seaboard,LOC,-0.05372024,0.39563492,en,2.8,,0,,,,,,,Tropical Cyclone
+299,Yangjiang,Yangjiang,GPE,0.15714286,0.41964286,en,2.8,,0,,,,,,,Tropical Cyclone
+298,CORAL SPRINGS,CORAL SPRINGS,GPE,-0.26785714,0.42857143,en,2.8,,0,,,,,,,Tropical Cyclone
+297,the United States National Hurricane Center,the United States National Hurricane Center,GPE,-0.04464286,0.14880952,en,2.8,,0,,,,,,,Tropical Cyclone
+296,South Dakota,South Dakota,GPE,-0.04464286,0.35714286,en,2.8,4442891-1,5231851,P,43.54997,-96.70033,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+305,eastern Canada,eastern Canada,LOC,-0.18912338,0.69994589,en,2.8,,194530,L,-1.94166,38.12774,AFRICA,Kenya,SEAF,Tropical Cyclone
+294,Atlantic Canada',Atlantic Canada',LOC,0.04805871,0.58603896,en,2.8,,12831378,L,53.33688,-62.62281,NORTH-AMERICA,Canada,NEN,Tropical Cyclone
+288,Eastport,Eastport,GPE,-0.07142857,0.375,en,2.8,,12874451,A,48.66456,-53.76803,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+285,Marystown,Marystown,GPE,-0.08928571,0.16666667,en,2.8,,0,,,,,,,Tropical Cyclone
+286,West Bengal,West Bengal,LOC,-0.39583333,0.52083333,en,2.8,,0,,,,,,,Tropical Cyclone
+287,Mexicos,Mexicos,GPE,0.13095238,0.28571429,en,2.8,,0,,,,,,,Tropical Cyclone
+293,Cape Cod,Cape Cod,GPE,-0.08571429,0.55,en,2.8,,4933508,T,41.6862,-70.24308,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+289,Uwan,Uwan,GPE,0.07930308,0.42981151,en,2.8,,0,,,,,,,Tropical Cyclone
+290,the Yucatan Peninsula,the Yucatan Peninsula,LOC,0.0,0.35714286,en,2.8,,0,,,,,,,Tropical Cyclone
+291,Guangdong province,Guangdong province,GPE,0.17261905,0.4702381,en,2.8,,0,,,,,,,Tropical Cyclone
+292,St. Pete Beach,St. Pete Beach,GPE,0.07440476,0.15178571,en,2.8,,0,,,,,,,Tropical Cyclone
+306,Wisconsin,Wisconsin,GPE,0.14814815,0.39351852,en,2.7,,0,,,,,,,Tropical Cyclone
+308,Appalachia,Appalachia,LOC,-0.37037037,0.43209877,en,2.7,,0,,,,,,,Tropical Cyclone
+309,Ohio,Ohio,GPE,-0.09259259,0.60493827,en,2.7,,0,,,,,,,Tropical Cyclone
+310,Maritimes,Maritimes,GPE,0.21863075,0.86621773,en,2.7,4075416-9,2990440,P,43.70313,7.26608,EUROPE-AFRICA,France,MED,Tropical Cyclone
+307,CAPE TOWN,CAPE TOWN,GPE,-0.32509438,0.52793082,en,2.7,,0,,,,,,,Tropical Cyclone
+319,Gaza,Gaza,GPE,-0.08814103,0.39262821,en,2.6,,0,,,,,,,Tropical Cyclone
+326,Bradenton,Bradenton,GPE,0.0,0.0,en,2.6,,0,,,,,,,Tropical Cyclone
+325,Baja California,Baja California,LOC,-0.05769231,0.46153846,en,2.6,4230553-6,3981609,P,32.5027,-117.00371,CENTRAL-AMERICA,Mexico,NCA,Tropical Cyclone
+324,Northern Australia,Northern Australia,LOC,-0.31538462,0.46153846,en,2.6,,0,,,,,,,Tropical Cyclone
+323,NY,NY,GPE,-0.01923077,0.74679487,en,2.6,,0,,,,,,,Tropical Cyclone
+322,Tropical,Tropical,LOC,-0.03846154,0.42307692,en,2.6,,11523972,L,-16.56884,142.4846,OCEANIA,Australia,NAU,Tropical Cyclone
+321,Shanghai,Shanghai,GPE,0.07692308,0.37179487,en,2.6,,0,,,,,,,Tropical Cyclone
+320,Tennessee,Tennessee,GPE,0.09581044,0.96153846,en,2.6,,0,,,,,,,Tropical Cyclone
+318,US East Coast,US East Coast,LOC,-0.15865385,0.28365385,en,2.6,,0,,,,,,,Tropical Cyclone
+316,Comoros,Comoros,GPE,-0.00480769,0.20192308,en,2.6,,0,,,,,,,Tropical Cyclone
+315,South East Asia,South East Asia,LOC,0.05897436,0.68461538,en,2.6,,0,,,,,,,Tropical Cyclone
+314,Chennai,Chennai,GPE,-0.24074074,0.39031339,en,2.6,5351481-6,1264527,P,13.08784,80.27847,ASIA,India,SAS,Tropical Cyclone
+313,Tamil Nadu,Tamil Nadu,GPE,0.01602564,0.36858974,en,2.6,,0,,,,,,,Tropical Cyclone
+312,Carib,Carib,GPE,-0.02564103,0.72435897,en,2.6,,0,,,,,,,Tropical Cyclone
+311,Horseshoe Beach,Horseshoe Beach,GPE,-0.01282051,0.19230769,en,2.6,,0,,,,,,,Tropical Cyclone
+317,North Carolinas,North Carolinas,GPE,-0.21794872,0.35897436,en,2.6,,0,,,,,,,Tropical Cyclone
+329,South-East Asia,South-East Asia,LOC,0.07619048,0.69904762,en,2.5,,0,,,,,,,Tropical Cyclone
+328,Gujarat,Gujarat,GPE,0.01818182,0.79393939,en,2.5,4058659-5,1255364,P,21.19594,72.83023,ASIA,India,SAS,Tropical Cyclone
+327,Venezuela,Venezuela,GPE,0.02450794,0.31530159,en,2.5,,0,,,,,,,Tropical Cyclone
+354,Ankara,Ankara,GPE,-0.17724116,0.65398779,en,2.4,,0,,,,,,,Tropical Cyclone
+348,North,North,GPE,-0.16458333,0.45208333,en,2.4,,12110879,L,42.74936,-96.39971,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+349,Volt Typhoon,Volt Typhoon,LOC,-0.04166667,0.23263889,en,2.4,,0,,,,,,,Tropical Cyclone
+350,the Tampa Bay,the Tampa Bay,LOC,0.02604167,0.20833333,en,2.4,,6955101,L,27.87307,-82.51007,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+351,Osaka,Osaka,GPE,0.01944444,0.52569444,en,2.4,4043961-6,1853909,P,34.69379,135.50107,ASIA,Japan,EAS,Tropical Cyclone
+352,Hurricane Milton's,Hurricane Milton's,GPE,-0.83333333,0.93055556,en,2.4,,0,,,,,,,Tropical Cyclone
+353,Singapore,Singapore,GPE,0.29861111,0.84722222,en,2.4,4055089-8,1880252,P,1.28967,103.85007,ASIA,Singapore,SEA,Tropical Cyclone
+359,a Tropical Storm,a Tropical Storm,LOC,0.44444444,1.02083333,en,2.4,,0,,,,,,,Tropical Cyclone
+355,D.C.,D.C.,GPE,-0.19444444,0.7037037,en,2.4,4007557-6,3688689,P,4.60971,-74.08175,SOUTH-AMERICA,Colombia,NWS,Tropical Cyclone
+356,Tropical Storm,Tropical Storm,LOC,0.08680556,0.52430556,en,2.4,,0,,,,,,,Tropical Cyclone
+357,the Gulf of Maine,the Gulf of Maine,LOC,0.14046717,0.56313131,en,2.4,,4966107,T,43.22216,-70.61014,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+358,Iowa,Iowa,GPE,0.0,0.0,en,2.4,4109226-0,4862182,A,42.00027,-93.50049,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+360,Reunion Island,Reunion Island,LOC,-0.32627866,0.59744268,en,2.4,,935316,T,-21.11429,55.54756,INDIAN,Reunion,SIO,Tropical Cyclone
+346,Cagayan,Cagayan,GPE,-0.04166667,0.58333333,en,2.4,4085111-4,1680932,P,17.61577,121.72285,ASIA,Philippines,SEA,Tropical Cyclone
+347,Luftwaffe,Luftwaffe,GPE,0.21006944,0.84027778,en,2.4,,12166692,R,65.88409,29.3428,EUROPE,Finland,NEU,Tropical Cyclone
+342,Asia-Pacific,Asia-Pacific,LOC,-0.14496528,0.75,en,2.4,,0,,,,,,,Tropical Cyclone
+345,North Carolina’s,North Carolina’s,GPE,0.0,0.0,en,2.4,,0,,,,,,,Tropical Cyclone
+337,Typhoon Wipha,Typhoon Wipha,LOC,0.05237269,0.43518519,en,2.4,,0,,,,,,,Tropical Cyclone
+344,Gulf coast,Gulf coast,LOC,0.03240741,0.5162037,en,2.4,,12212749,L,30.3314,-89.73221,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+332,Blizzard Beach,Blizzard Beach,GPE,0.375,0.65277778,en,2.4,,11128333,L,28.35192,-81.57501,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+333,Prague,Prague,GPE,0.04545455,0.14109848,en,2.4,4076310-9,3067696,P,50.08804,14.42076,EUROPE,Czechia,WCE,Tropical Cyclone
+334,BARNET,BARNET,GPE,0.10416667,0.13194444,en,2.4,,2656295,P,51.65,-0.2,EUROPE,United Kingdom,NEU,Tropical Cyclone
+335,Vt,Vt,GPE,0.13020833,0.17100694,en,2.4,4350641-0,1651944,P,17.96667,102.6,ASIA,Laos,SEA,Tropical Cyclone
+336,Macao,Macao,GPE,0.2025463,0.54398148,en,2.4,4036791-5,1821274,P,22.20056,113.54611,ASIA,Macao,EAS,Tropical Cyclone
+331,Calif.,Calif.,GPE,0.33333333,0.58333333,en,2.4,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+338,Spain,Spain,GPE,0.09027778,0.11805556,en,2.4,4055964-6,2510769,A,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Tropical Cyclone
+340,Midwest,Midwest,LOC,-0.20023148,0.65162037,en,2.4,,0,,,,,,,Tropical Cyclone
+341,Kwigillingok,Kwigillingok,GPE,-0.25,0.51041667,en,2.4,,0,,,,,,,Tropical Cyclone
+330,HORSESHOE BEACH,HORSESHOE BEACH,GPE,-0.01388889,0.20833333,en,2.4,,4159207,P,29.44135,-83.28736,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+343,the Middle East,the Middle East,LOC,0.10729167,0.38055556,en,2.4,,12217091,L,35.8,-86.5,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+339,Virgin Islands,Virgin Islands,GPE,-0.10416667,0.35416667,en,2.4,4229389-3,4796512,P,17.72751,-64.74698,CENTRAL-AMERICA,U.S. Virgin Islands,CAR,Tropical Cyclone
+361,Kutch,Kutch,LOC,0.02066116,0.90220386,en,2.2,4767141-5,1268731,A,23.58333,70.0,ASIA,India,SAS,Tropical Cyclone
+362,South Asia,South Asia,LOC,0.28977273,0.73295455,en,2.2,,7729896,L,6.83917,116.45508,ASIA,,SEA,Tropical Cyclone
+363,the Arabian Sea,the Arabian Sea,LOC,0.10454545,0.38030303,en,2.2,,235616,H,27.0,51.0,ASIA,,ARP,Tropical Cyclone
+367,HANOI,HANOI,GPE,0.25536449,1.39961787,en,2.1,,0,,,,,,,Tropical Cyclone
+368,Carolina,Carolina,GPE,-0.07407407,0.13756614,en,2.1,,4563243,P,18.38078,-65.95739,CENTRAL-AMERICA,Puerto Rico,CAR,Tropical Cyclone
+364,the East Pacific,the East Pacific,LOC,-0.19047619,0.47619048,en,2.1,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+366,East Pacific,East Pacific,LOC,0.04695767,0.22222222,en,2.1,,0,,,,,,,Tropical Cyclone
+365,Brevard,Brevard,GPE,-0.11904762,0.23809524,en,2.1,,0,,,,,,,Tropical Cyclone
+374,Miami Hurricanes,Miami Hurricanes,GPE,-0.0875,0.25,en,2.0,,0,,,,,,,Tropical Cyclone
+378,Liloan,Liloan,GPE,-0.16166667,0.31166667,en,2.0,,0,,,,,,,Tropical Cyclone
+377,"Typhoon Lagoon
+","Typhoon Lagoon
+",LOC,0.275,0.48125,en,2.0,,6620642,L,28.36584,-81.52961,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+376,L.A.,L.A.,GPE,0.0,0.0,en,2.0,4036729-0,2960316,P,49.60982,6.13268,EUROPE,Luxembourg,WCE,Tropical Cyclone
+375,Montego Bay,Montego Bay,LOC,0.06666667,0.37083333,en,2.0,,0,,,,,,,Tropical Cyclone
+372,Nairobi,Nairobi,GPE,-0.76770833,1.04166667,en,2.0,,0,,,,,,,Tropical Cyclone
+373,CUBA,CUBA,GPE,0.27470238,0.68690476,en,2.0,,0,,,,,,,Tropical Cyclone
+371,UNICEF,UNICEF,GPE,0.0,0.0,en,2.0,,10626187,L,42.35061,13.40565,EUROPE-AFRICA,Italy,MED,Tropical Cyclone
+370,Jamaicas,Jamaicas,GPE,-0.09,0.355,en,2.0,,0,,,,,,,Tropical Cyclone
+369,Atlantic Basin,Atlantic Basin,LOC,0.24114583,0.76458333,en,2.0,,0,,,,,,,Tropical Cyclone
+433,Colo.,Colo.,GPE,0.86842105,0.85526316,en,1.9,,0,,,,,,,Tropical Cyclone
+440,the Florida Peninsula,the Florida Peninsula,LOC,-0.01644737,0.57017544,en,1.9,,0,,,,,,,Tropical Cyclone
+439,Seroja,Seroja,LOC,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+438,Zhejiang Province,Zhejiang Province,GPE,-0.03508772,0.24561404,en,1.9,,0,,,,,,,Tropical Cyclone
+437,Wyoming,Wyoming,GPE,0.0,0.32894737,en,1.9,4067130-6,5843591,A,43.00024,-107.5009,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+423,Indonesias Sumatra,Indonesias Sumatra,GPE,-0.01052632,0.34035088,en,1.9,,0,,,,,,,Tropical Cyclone
+436,La Castellana,La Castellana,GPE,-0.09774436,0.12781955,en,1.9,4090455-6,3178595,P,42.29304,12.40885,EUROPE-AFRICA,Italy,MED,Tropical Cyclone
+435,Malacañang,Malacañang,GPE,-0.09774436,0.12781955,en,1.9,,1703287,P,15.46143,121.09313,ASIA,Philippines,SEA,Tropical Cyclone
+434,Carriacou Island,Carriacou Island,LOC,-0.06578947,0.52631579,en,1.9,,0,,,,,,,Tropical Cyclone
+431,INDIAN ROCKS BEACH,INDIAN ROCKS BEACH,LOC,0.03508772,0.06432749,en,1.9,,0,,,,,,,Tropical Cyclone
+432,South Australia,South Australia,GPE,-0.42105263,0.89473684,en,1.9,,0,,,,,,,Tropical Cyclone
+442,the Pacific Coast of Central America,the Pacific Coast of Central America,LOC,0.13157895,0.54824561,en,1.9,,12217076,L,34.60739,-86.97977,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+430,Sydney,Sydney,GPE,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+429,Goolwa Beach,Goolwa Beach,GPE,-0.42105263,0.89473684,en,1.9,,0,,,,,,,Tropical Cyclone
+428,LABRADOR,LABRADOR,GPE,0.0,0.23684211,en,1.9,,0,,,,,,,Tropical Cyclone
+427,the southwestern Gulf of Mexico,the southwestern Gulf of Mexico,LOC,0.04276316,0.38304094,en,1.9,,0,,,,,,,Tropical Cyclone
+426,Bualoi,Bualoi,GPE,-0.05555556,0.25730994,en,1.9,,0,,,,,,,Tropical Cyclone
+425,Sadbhav,Sadbhav,GPE,-0.24596292,0.66586922,en,1.9,,0,,,,,,,Tropical Cyclone
+424,LISMORE,LISMORE,GPE,0.04057018,0.33004386,en,1.9,,0,,,,,,,Tropical Cyclone
+441,the Southeastern United States,the Southeastern United States,GPE,0.0,0.10526316,en,1.9,,0,,,,,,,Tropical Cyclone
+457,Warm Atlantic Ocean,Warm Atlantic Ocean,LOC,0.26754386,0.49122807,en,1.9,,0,,,,,,,Tropical Cyclone
+443,St. Lucia,St. Lucia,GPE,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+444,Cabo,Cabo,LOC,0.02631579,0.76315789,en,1.9,,1051823,A,-12.5,39.4,AFRICA,Mozambique,ESAF,Tropical Cyclone
+421,Hainan Island,Hainan Island,GPE,-0.01052632,0.25964912,en,1.9,,0,,,,,,,Tropical Cyclone
+461,Ocean,Ocean,LOC,0.14035088,0.69078947,en,1.9,,3411923,H,40.0,-40.0,ATLANTIC,,NAO,Tropical Cyclone
+460,"Southern California02:02
+","Southern California02:02
+",LOC,-0.03947368,0.11842105,en,1.9,,0,,,,,,,Tropical Cyclone
+459,the far east,the far east,LOC,0.0,0.49122807,en,1.9,,5116917,P,40.60538,-73.75513,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+458,BAR HARBOR,BAR HARBOR,GPE,-0.22089314,0.53269537,en,1.9,,4966387,S,44.44924,-68.36196,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+456,Big Bend,Big Bend,GPE,-0.03508772,0.39473684,en,1.9,,0,,,,,,,Tropical Cyclone
+455,eastern Caribbean Sea,eastern Caribbean Sea,LOC,0.0,0.0,en,1.9,,10115069,S,22.29638,114.17281,ASIA,Hong Kong,EAS,Tropical Cyclone
+454,Honshu,Honshu,GPE,0.13344472,0.41542746,en,1.9,,1862185,T,36.0,138.0,ASIA,Japan,EAS,Tropical Cyclone
+453,Tropical Storm Harold,Tropical Storm Harold,LOC,0.10526316,0.31578947,en,1.9,,0,,,,,,,Tropical Cyclone
+452,Réunion Island,Réunion Island,GPE,0.02236842,0.67236842,en,1.9,,935316,T,-21.11429,55.54756,INDIAN,Reunion,SIO,Tropical Cyclone
+451,mid-Atlantic Coast,mid-Atlantic Coast,LOC,-0.11842105,1.01315789,en,1.9,4209017-9,4500546,P,39.36415,-74.42306,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+450,Guam,Guam,GPE,0.12930052,0.34557986,en,1.9,4094188-7,4043988,A,13.47861,144.81834,PACIFIC,Guam,NPO,Tropical Cyclone
+449,NC,NC,GPE,0.0114206,0.29391661,en,1.9,,0,,,,,,,Tropical Cyclone
+448,SINGAPORE,SINGAPORE,GPE,0.22807018,0.40350877,en,1.9,,1880252,P,1.28967,103.85007,ASIA,Singapore,SEA,Tropical Cyclone
+447,the Bay of Bengal,the Bay of Bengal,LOC,0.03289474,0.26315789,en,1.9,,5128897,P,43.23007,-75.74824,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+446,MEXICO,MEXICO,GPE,-0.0877193,0.24561404,en,1.9,,0,,,,,,,Tropical Cyclone
+445,New Delhi,New Delhi,GPE,0.05980861,0.40111643,en,1.9,,0,,,,,,,Tropical Cyclone
+422,Lismore,Lismore,GPE,0.04057018,0.33004386,en,1.9,,0,,,,,,,Tropical Cyclone
+393,Barangay Robles,Barangay Robles,GPE,0.10526316,0.42105263,en,1.9,,0,,,,,,,Tropical Cyclone
+420,Wipha,Wipha,GPE,0.0877193,0.14473684,en,1.9,,0,,,,,,,Tropical Cyclone
+387,Southeast U.S.,Southeast U.S.,LOC,-0.15789474,0.5,en,1.9,,0,,,,,,,Tropical Cyclone
+396,the Central Pacific,the Central Pacific,LOC,0.13888889,0.43859649,en,1.9,,0,,,,,,,Tropical Cyclone
+395,OceanX,OceanX,GPE,0.12030075,0.30827068,en,1.9,,0,,,,,,,Tropical Cyclone
+394,St. Catharines,St. Catharines,GPE,0.0,0.52631579,en,1.9,,0,,,,,,,Tropical Cyclone
+392,Vanuatu,Vanuatu,GPE,0.0,0.0,en,1.9,4062334-8,2134431,A,-16.3333,167.5,PACIFIC,Vanuatu,SPO,Tropical Cyclone
+391,Treasure Beach,Treasure Beach,GPE,0.0,0.43859649,en,1.9,,0,,,,,,,Tropical Cyclone
+390,Cortez,Cortez,GPE,0.0,0.03508772,en,1.9,,0,,,,,,,Tropical Cyclone
+389,the Southern U.S.,the Southern U.S.,LOC,0.03508772,0.22807018,en,1.9,,0,,,,,,,Tropical Cyclone
+388,the eastern Pacific,the eastern Pacific,LOC,-0.10526316,0.42105263,en,1.9,,0,,,,,,,Tropical Cyclone
+386,East Pakistan,East Pakistan,GPE,-0.61403509,0.61403509,en,1.9,,0,,,,,,,Tropical Cyclone
+399,the Cabo Verde Islands,the Cabo Verde Islands,LOC,-0.00877193,0.39473684,en,1.9,,0,,,,,,,Tropical Cyclone
+385,the Ohio Valley,the Ohio Valley,LOC,-0.10526316,0.10526316,en,1.9,,0,,,,,,,Tropical Cyclone
+384,landfalling Atlantic,landfalling Atlantic,LOC,-1.05263158,1.05263158,en,1.9,,0,,,,,,,Tropical Cyclone
+383,the southwest Gulf,the southwest Gulf,LOC,0.07894737,0.22807018,en,1.9,,0,,,,,,,Tropical Cyclone
+382,Ont.,Ont.,GPE,0.0,0.52631579,en,1.9,,0,,,,,,,Tropical Cyclone
+381,Britain,Britain,GPE,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+380,Providence,Providence,GPE,0.0,0.0,en,1.9,4047565-7,5224151,P,41.82399,-71.41283,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+379,Islamabad,Islamabad,GPE,0.10526316,0.53947368,en,1.9,,0,,,,,,,Tropical Cyclone
+419,Ontario,Ontario,GPE,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+398,Perikatan Nasional,Perikatan Nasional,GPE,0.09210526,0.53947368,en,1.9,,0,,,,,,,Tropical Cyclone
+397,Chile,Chile,GPE,0.15789474,0.52631579,en,1.9,,0,,,,,,,Tropical Cyclone
+400,TOKYO,TOKYO,GPE,-0.03508772,0.42105263,en,1.9,,0,,,,,,,Tropical Cyclone
+409,the Gulf through Orlando,the Gulf through Orlando,LOC,0.0,0.21052632,en,1.9,,0,,,,,,,Tropical Cyclone
+418,Dungun,Dungun,GPE,0.05263158,0.21052632,en,1.9,,0,,,,,,,Tropical Cyclone
+417,Oregon,Oregon,GPE,0.10735171,0.54385965,en,1.9,4043760-7,5744337,A,44.00013,-120.50139,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+416,The North Atlantic,The North Atlantic,LOC,0.00877193,0.28070175,en,1.9,,0,,,,,,,Tropical Cyclone
+415,the Florida Panhandle,the Florida Panhandle,LOC,0.1106934,0.5342523,en,1.9,,0,,,,,,,Tropical Cyclone
+414,Batanes,Batanes,LOC,0.0,0.05263158,en,1.9,,0,,,,,,,Tropical Cyclone
+413,the Atlantic hurricane,the Atlantic hurricane,LOC,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+412,Tropical Storm Erin,Tropical Storm Erin,LOC,0.13486842,0.42982456,en,1.9,,0,,,,,,,Tropical Cyclone
+410,Neb.,Neb.,GPE,0.26754386,0.28947368,en,1.9,,0,,,,,,,Tropical Cyclone
+411,Path,Path,GPE,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+408,FLORIDA,FLORIDA,GPE,0.05263158,0.28070175,en,1.9,,0,,,,,,,Tropical Cyclone
+407,miami,miami,GPE,0.0,0.39473684,en,1.9,,0,,,,,,,Tropical Cyclone
+406,Belem,Belem,GPE,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+405,Tropical Storm Milton,Tropical Storm Milton,LOC,0.0,0.0,en,1.9,,0,,,,,,,Tropical Cyclone
+404,Perlis,Perlis,GPE,0.09210526,0.53947368,en,1.9,4311334-5,1733040,A,6.5,100.25,ASIA,Malaysia,SEA,Tropical Cyclone
+403,Dinalungan,Dinalungan,GPE,0.32163743,0.64327485,en,1.9,,0,,,,,,,Tropical Cyclone
+402,Fiji,Fiji,GPE,0.0,0.0,en,1.9,4017063-9,2205218,A,-18.0,178.0,PACIFIC,Fiji,SPO,Tropical Cyclone
+401,Superstorm Sandy,Superstorm Sandy,LOC,0.07894737,0.81140351,en,1.9,,0,,,,,,,Tropical Cyclone
+467,La Reunion,La Reunion,GPE,0.125,0.65277778,en,1.8,,0,,,,,,,Tropical Cyclone
+472,Cocoa Beach,Cocoa Beach,GPE,0.0,0.0,en,1.8,4229883-0,4151441,P,28.32055,-80.60922,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+470,MAURITIUS,MAURITIUS,GPE,0.125,0.65277778,en,1.8,,0,,,,,,,Tropical Cyclone
+469,Sri Lanka's,Sri Lanka's,GPE,-0.00810185,0.59259259,en,1.8,,0,,,,,,,Tropical Cyclone
+468,Coral Sea,Coral Sea,LOC,0.55555556,0.55555556,en,1.8,4295970-6,2194166,H,-20.0,155.0,OCEANIA,,NAU,Tropical Cyclone
+471,PORT LOUIS,PORT LOUIS,GPE,0.125,0.65277778,en,1.8,,0,,,,,,,Tropical Cyclone
+466,Everglades,Everglades,GPE,0.0,0.0,en,1.8,4091973-0,4154663,L,25.37217,-80.88182,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+464,the Polar Vortex,the Polar Vortex,LOC,0.09197531,0.44444444,en,1.8,,0,,,,,,,Tropical Cyclone
+463,the East Coas…,the East Coas…,LOC,0.11111111,0.27777778,en,1.8,,0,,,,,,,Tropical Cyclone
+462,the Gulf of Carpentaria,the Gulf of Carpentaria,LOC,-0.16666667,0.41666667,en,1.8,,0,,,,,,,Tropical Cyclone
+465,Edmonton,Edmonton,GPE,-0.33333333,0.5,en,1.8,,0,,,,,,,Tropical Cyclone
+535,Bowling Green,Bowling Green,GPE,0.02941176,0.23529412,en,1.7,,8150604,L,-19.46401,147.17248,OCEANIA,Australia,NAU,Tropical Cyclone
+544,Keeling,Keeling,GPE,-0.01176471,0.39411765,en,1.7,,7304591,P,-12.15681,96.82251,INDIAN,Cocos (Keeling) Islands,SIO,Tropical Cyclone
+543,San Juan,San Juan,GPE,-0.06862745,0.30392157,en,1.7,4105287-0,4568127,P,18.46633,-66.10572,CENTRAL-AMERICA,Puerto Rico,CAR,Tropical Cyclone
+542,Typhoon Yinxing,Typhoon Yinxing,GPE,0.03921569,0.94117647,en,1.7,,0,,,,,,,Tropical Cyclone
+541,Hurricane Beryl,Hurricane Beryl,LOC,-0.03921569,0.35947712,en,1.7,,0,,,,,,,Tropical Cyclone
+540,Visayas,Visayas,GPE,0.19607843,0.39215686,en,1.7,,0,,,,,,,Tropical Cyclone
+539,Andhra Pradesh,Andhra Pradesh,GPE,0.0,0.29411765,en,1.7,4001934-2,1278629,A,15.83333,79.75,ASIA,India,SAS,Tropical Cyclone
+538,Union Island,Union Island,LOC,0.0,0.0,en,1.7,,146670,T,35.00304,32.98791,EUROPE-AFRICA,Cyprus,MED,Tropical Cyclone
+537,west,west,LOC,0.0751634,0.34313725,en,1.7,,11887751,L,42.77268,-116.9579,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+536,Swannanoa,Swannanoa,GPE,-0.02352941,0.55686275,en,1.7,,4494217,P,35.59789,-82.39984,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+533,Western Kentucky,Western Kentucky,LOC,0.01470588,0.11764706,en,1.7,4462245-4,4313077,S,36.98754,-86.45166,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+534,Atlantic Hurricanes,Atlantic Hurricanes,LOC,0.06078431,0.32875817,en,1.7,,6520375,S,24.5526,-81.8057,CENTRAL-AMERICA,United States,CAR,Tropical Cyclone
+546,Vt.,Vt.,GPE,0.05451575,0.39141414,en,1.7,4350641-0,1651944,P,17.96667,102.6,ASIA,Laos,SEA,Tropical Cyclone
+532,South China,South China,LOC,0.04901961,0.62745098,en,1.7,,1880252,P,1.28967,103.85007,ASIA,Singapore,SEA,Tropical Cyclone
+531,COMOROS,COMOROS,GPE,0.0,0.16339869,en,1.7,4265797-0,921929,A,-12.23333,44.44553,AFRICA,Comoros,ESAF,Tropical Cyclone
+530,Tropical Cyclone Chido,Tropical Cyclone Chido,LOC,0.0,0.16339869,en,1.7,,0,,,,,,,Tropical Cyclone
+529,Czech Republic,Czech Republic,GPE,0.0,0.0,en,1.7,4303381-7,3077311,A,49.75,15.0,EUROPE,Czechia,WCE,Tropical Cyclone
+528,Portugal,Portugal,GPE,0.0,0.0,en,1.7,4046843-4,2264397,A,39.6945,-8.13057,EUROPE-AFRICA,Portugal,MED,Tropical Cyclone
+527,"Barbados, Grenada","Barbados, Grenada",GPE,0.0,0.0,en,1.7,,11893959,S,13.26789,-59.59282,CENTRAL-AMERICA,Barbados,CAR,Tropical Cyclone
+526,Atlanta,Atlanta,GPE,0.41176471,0.35294118,en,1.7,4086063-2,4180439,P,33.749,-84.38798,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+525,Boone,Boone,GPE,-0.01503268,0.60326797,en,1.7,4085303-2,4381982,P,38.95171,-92.33407,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+524,the Northeastern United States,the Northeastern United States,GPE,0.06595365,0.50481283,en,1.7,,12217906,L,41.30225,-76.02801,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+545,Cocos,Cocos,LOC,-0.01176471,0.39411765,en,1.7,,1547348,T,-12.0,96.83333,INDIAN,Cocos (Keeling) Islands,SIO,Tropical Cyclone
+549,West Coast,West Coast,LOC,-0.09150327,0.16993464,en,1.7,,12492673,L,39.28,-155.26,PACIFIC,United States,NPO,Tropical Cyclone
+547,Tobago,Tobago,GPE,0.0,0.0,en,1.7,4106515-3,3573606,A,11.25,-60.66667,SOUTH-AMERICA,Trinidad and Tobago,NSA,Tropical Cyclone
+548,the Lesser Antilles,the Lesser Antilles,LOC,0.04201681,0.43697479,en,1.7,,0,,,,,,,Tropical Cyclone
+522,Fujian,Fujian,GPE,-0.11764706,0.88235294,en,1.7,4220847-6,1811017,A,26.25,118.0,ASIA,China,EAS,Tropical Cyclone
+569,Franklin,Franklin,GPE,-0.12622549,0.54044118,en,1.7,4085305-6,4509177,P,39.96118,-82.99879,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+568,Cayman Islands,Cayman Islands,LOC,-0.05882353,0.23529412,en,1.7,4310479-4,3580718,A,19.5,-80.66667,CENTRAL-AMERICA,Cayman Islands,CAR,Tropical Cyclone
+567,Little Cayman,Little Cayman,GPE,-0.22058824,0.58823529,en,1.7,,0,,,,,,,Tropical Cyclone
+566,Yucatan,Yucatan,GPE,0.11764706,0.21568627,en,1.7,,3514211,A,20.75,-88.83333,CENTRAL-AMERICA,Mexico,SCA,Tropical Cyclone
+565,Fort Worth,Fort Worth,GPE,0.07352941,0.32352941,en,1.7,4225183-7,4691930,P,32.72541,-97.32085,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+564,Missouri,Missouri,GPE,0.17647059,0.29411765,en,1.7,,0,,,,,,,Tropical Cyclone
+563,Rakhine State of Myanmar,Rakhine State of Myanmar,GPE,0.02941176,0.17647059,en,1.7,,1298852,A,19.0,94.25,ASIA,Myanmar,SEA,Tropical Cyclone
+562,East Africa,East Africa,GPE,0.0,0.0,en,1.7,14267-0,12070073,L,30.01745,31.21808,EUROPE-AFRICA,Egypt,MED,Tropical Cyclone
+561,Réunion,Réunion,GPE,-0.24509804,0.39215686,en,1.7,4049639-9,935317,A,-21.1,55.6,INDIAN,Reunion,SIO,Tropical Cyclone
+560,WA,WA,GPE,-0.35294118,0.58823529,en,1.7,,2294206,P,10.06069,-2.50192,AFRICA,Ghana,WAF,Tropical Cyclone
+559,Arkansas,Arkansas,GPE,0.35294118,0.58823529,en,1.7,4079828-8,12217090,L,35.0,-90.5,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+558,Aegean,Aegean,GPE,-0.03921569,0.40196078,en,1.7,,10922486,L,38.96622,28.72059,EUROPE-AFRICA,Turkey,MED,Tropical Cyclone
+557,Palm Beach County,Palm Beach County,GPE,0.0,0.0,en,1.7,4596329-0,4177887,P,26.71534,-80.05337,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+556,Australias Northern Territory,Australias Northern Territory,LOC,-0.23529412,0.85294118,en,1.7,,0,,,,,,,Tropical Cyclone
+555,Dry Creek,Dry Creek,GPE,-0.03921569,0.64705882,en,1.7,,8153721,L,-34.68337,138.47983,OCEANIA,Australia,SAU,Tropical Cyclone
+554,CHICAGO,CHICAGO,GPE,0.19607843,0.56722689,en,1.7,4009921-0,4887398,P,41.85003,-87.65005,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+553,Broome,Broome,GPE,0.0,0.0,en,1.7,4279526-6,5109177,P,42.09869,-75.91797,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+552,Catalina Island,Catalina Island,GPE,0.0,0.0,en,1.7,4118401-4,2178511,T,-10.89233,162.44862,PACIFIC,Solomon Islands,SPO,Tropical Cyclone
+551,Indiana,Indiana,GPE,0.11764706,0.29411765,en,1.7,,0,,,,,,,Tropical Cyclone
+550,the Grenadine Islands,the Grenadine Islands,LOC,0.0,0.0,en,1.7,,3577891,T,12.66667,-61.25,CENTRAL-AMERICA,St Vincent and Grenadines,CAR,Tropical Cyclone
+523,U.S. East Coast,U.S. East Coast,LOC,-0.16666667,1.51715686,en,1.7,,0,,,,,,,Tropical Cyclone
+473,Treasure Island,Treasure Island,GPE,0.0,0.0,en,1.7,,4175626,P,27.76919,-82.76899,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+521,Penghu,Penghu,LOC,-0.11764706,0.88235294,en,1.7,,6300304,S,23.56867,119.62831,ASIA,Taiwan,EAS,Tropical Cyclone
+496,Toronto,Toronto,GPE,0.34926471,0.73529412,en,1.7,4060459-7,6167865,P,43.70643,-79.39864,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+494,Typhoon Egay,Typhoon Egay,GPE,0.0,0.0,en,1.7,,0,,,,,,,Tropical Cyclone
+493,the Carolina Hurricanes,the Carolina Hurricanes,GPE,0.59705882,0.72205882,en,1.7,,0,,,,,,,Tropical Cyclone
+492,NSW,NSW,GPE,-0.11029412,0.29411765,en,1.7,4058708-3,2147714,P,-33.86785,151.20732,OCEANIA,Australia,EAU,Tropical Cyclone
+491,ACAPULCO,ACAPULCO,GPE,0.05882353,0.69117647,en,1.7,,3533462,P,16.84942,-99.90891,CENTRAL-AMERICA,Mexico,SCA,Tropical Cyclone
+490,Newfoundland,Newfoundland,GPE,0.05882353,0.76470588,en,1.7,7672559-5,6354959,A,52.0,-56.0,NORTH-AMERICA,Canada,NEN,Tropical Cyclone
+489,the WGA West,the WGA West,LOC,0.0,0.03921569,en,1.7,,0,,,,,,,Tropical Cyclone
+488,Boston,Boston,GPE,0.26203209,0.58912656,en,1.7,4007840-1,4930956,P,42.35843,-71.05977,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+487,Caicos Islands,Caicos Islands,LOC,-0.02941176,0.23529412,en,1.7,4285170-1,3577034,T,21.93333,-71.96667,CENTRAL-AMERICA,Turks and Caicos Islands,CAR,Tropical Cyclone
+486,Rodanthe,Rodanthe,GPE,-0.07352941,0.22058824,en,1.7,,4488807,P,35.59351,-75.46794,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+485,Long Island,Long Island,LOC,0.03132162,0.44614209,en,1.7,,3572005,A,23.21667,-75.11167,CENTRAL-AMERICA,Bahamas,CAR,Tropical Cyclone
+484,Red Storm,Red Storm,LOC,-0.11764706,0.22875817,en,1.7,,5673490,H,45.02656,-109.69607,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+482,Inami,Inami,GPE,0.05674391,0.49836601,en,1.7,,1861626,A,36.56667,136.96667,ASIA,Japan,EAS,Tropical Cyclone
+481,HONOLULU,HONOLULU,GPE,-0.01925134,0.50053476,en,1.7,4123398-0,5856195,P,21.30694,-157.85833,PACIFIC,United States,NPO,Tropical Cyclone
+480,Main Development Region,Main Development Region,LOC,-0.13398693,0.52614379,en,1.7,,0,,,,,,,Tropical Cyclone
+479,PATUXENT RIVER,PATUXENT RIVER,GPE,0.0,0.0,en,1.7,,7267585,S,38.28374,-76.41853,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+478,Jakarta,Jakarta,GPE,0.02941176,0.1372549,en,1.7,64162-5,1642911,P,-6.21462,106.84513,ASIA,Indonesia,SEA,Tropical Cyclone
+477,Katrina,Katrina,GPE,-0.12352941,0.85588235,en,1.7,,0,,,,,,,Tropical Cyclone
+476,FORT MYERS,FORT MYERS,GPE,-0.03921569,0.26143791,en,1.7,4460089-6,4155995,P,26.62168,-81.84059,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+475,Typhoon Saola,Typhoon Saola,LOC,0.0,0.0,en,1.7,,0,,,,,,,Tropical Cyclone
+474,the Gulf of California,the Gulf of California,LOC,-0.11764706,0.29411765,en,1.7,,5550294,P,35.17941,-119.16011,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+520,Pescadores,Pescadores,LOC,-0.11764706,0.88235294,en,1.7,4357166-9,3675956,T,11.08333,-74.88333,SOUTH-AMERICA,Colombia,NWS,Tropical Cyclone
+495,Baton Rouge,Baton Rouge,GPE,0.0,0.0,en,1.7,4080287-5,4315588,P,30.44332,-91.18747,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+483,Atlanti,Atlanti,GPE,-0.41176471,0.5,en,1.7,4003388-0,3373405,H,10.0,-25.0,ATLANTIC,,NAO,Tropical Cyclone
+497,Siesta Key,Siesta Key,LOC,-0.04411765,0.69117647,en,1.7,,4172935,P,27.26785,-82.54526,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+509,Clermont,Clermont,GPE,0.33823529,0.84033613,en,1.7,4090482-9,3024635,P,45.77969,3.08682,EUROPE,France,WCE,Tropical Cyclone
+518,Gaza City,Gaza City,GPE,-0.14705882,0.73529412,en,1.7,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Tropical Cyclone
+517,Typh,Typh,GPE,0.19607843,0.39215686,en,1.7,,7537034,H,35.88265,66.4964,ASIA,Afghanistan,WCA,Tropical Cyclone
+516,Port Washington,Port Washington,GPE,0.0,0.0,en,1.7,,5267776,P,43.38722,-87.87564,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+515,Pottuvil,Pottuvil,GPE,0.01593137,0.46691176,en,1.7,,1229724,P,6.8762,81.8267,INDIAN,Sri Lanka,EIO,Tropical Cyclone
+514,Lake Michigan,Lake Michigan,LOC,0.17647059,0.52941176,en,1.7,4281497-2,5001835,H,44.00778,-86.75698,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+513,Kaohsiung,Kaohsiung,GPE,0.0,0.0,en,1.7,4341688-3,1673820,P,22.61626,120.31333,ASIA,Taiwan,EAS,Tropical Cyclone
+512,Volcano Bay,Volcano Bay,LOC,0.16522876,0.50143791,en,1.7,,2127607,H,42.33333,140.66667,ASIA,Japan,EAS,Tropical Cyclone
+511,Tokyo,Tokyo,GPE,-0.04411765,1.09313725,en,1.7,,0,,,,,,,Tropical Cyclone
+510,Hurricane Sandy,Hurricane Sandy,LOC,0.21657754,0.69251337,en,1.7,,4201829,T,34.16149,-84.74466,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+519,IRVINE,IRVINE,GPE,0.47058824,0.82352941,en,1.7,4243506-7,5359777,P,33.66946,-117.82311,CENTRAL-AMERICA,United States,NCA,Tropical Cyclone
+508,Fort Myers,Fort Myers,GPE,0.0,0.0,en,1.7,4460089-6,4155995,P,26.62168,-81.84059,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+507,the Southern United States,the Southern United States,GPE,0.0,0.0,en,1.7,,11887752,L,33.45876,-90.15081,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+506,Progreso,Progreso,GPE,0.0,0.0,en,1.7,,3596416,A,14.83333,-90.0,CENTRAL-AMERICA,Guatemala,SCA,Tropical Cyclone
+505,Sputnik,Sputnik,GPE,0.4171123,0.80949198,en,1.7,,6625906,T,-70.36667,163.36667,POLAR,Antarctica,EAN,Tropical Cyclone
+504,St. Petersburg,St. Petersburg,GPE,0.0,0.0,en,1.7,2034200-7,498817,P,59.93863,30.31413,EUROPE,Russia,NEU,Tropical Cyclone
+503,Eastern Pacific,Eastern Pacific,LOC,-0.03893717,0.58221925,en,1.7,,0,,,,,,,Tropical Cyclone
+502,the Top End coast,the Top End coast,LOC,0.10882353,0.50882353,en,1.7,,5862272,T,56.45556,-157.74556,NORTH-AMERICA,United States,NWN,Tropical Cyclone
+501,the Southwest United States,the Southwest United States,GPE,-0.17647059,0.39215686,en,1.7,,9252023,A,17.69317,-64.85755,CENTRAL-AMERICA,U.S. Virgin Islands,CAR,Tropical Cyclone
+500,Central Gulf Coast,Central Gulf Coast,LOC,-0.03921569,0.37254902,en,1.7,,12217076,L,34.60739,-86.97977,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+499,ST PETERSBURG,ST PETERSBURG,GPE,-0.09150327,0.35294118,en,1.7,2034200-7,498817,P,59.93863,30.31413,EUROPE,Russia,NEU,Tropical Cyclone
+498,Sarasota County,Sarasota County,GPE,0.02941176,0.41176471,en,1.7,4194929-8,4172131,P,27.33643,-82.53065,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+570,Bondi Beach,Bondi Beach,GPE,0.21875,0.75,en,1.6,1078128693,2174949,T,-33.89169,151.27762,OCEANIA,Australia,EAU,Tropical Cyclone
+571,New Zealand,New Zealand,GPE,1.16678692,2.40719096,en,1.5,,0,,,,,,,Tropical Cyclone
+573,El Salvador,El Salvador,GPE,-0.21428571,0.73214286,en,1.4,4014499-9,3585968,A,13.83333,-88.91667,CENTRAL-AMERICA,El Salvador,SCA,Tropical Cyclone
+572,Death Valley,Death Valley,LOC,0.0,0.35714286,en,1.4,4011243-3,5342045,T,36.44802,-116.86579,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+574,Pacífico,Pacífico,GPE,0.0,0.07692308,en,1.3,,0,,,,,,,Tropical Cyclone
+576,Chicago,Chicago,GPE,0.09615385,0.38461538,en,1.3,,0,,,,,,,Tropical Cyclone
+577,Awatuna,Awatuna,GPE,0.00854701,0.92735043,en,1.3,,6223094,L,-39.42825,174.0302,OCEANIA,New Zealand,NZ,Tropical Cyclone
+578,LOS ANGELES,LOS ANGELES,GPE,0.2457265,0.54700855,en,1.3,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+579,Hollywood,Hollywood,GPE,0.61538462,0.76923077,en,1.3,4408912-0,4158928,P,26.0112,-80.14949,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+580,JUNEAU,JUNEAU,GPE,0.15416667,0.6375,en,1.3,,0,,,,,,,Tropical Cyclone
+581,et al,et al,GPE,0.18589744,0.52613412,en,1.3,4265797-0,921929,A,-12.23333,44.44553,AFRICA,Comoros,ESAF,Tropical Cyclone
+582,Beira,Beira,GPE,-0.89230769,1.36923077,en,1.3,4080326-0,1052373,P,-19.84361,34.83889,AFRICA,Mozambique,ESAF,Tropical Cyclone
+583,Los Angeles County,Los Angeles County,GPE,0.0,0.99038462,en,1.3,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+584,the Pacific Northwest,the Pacific Northwest,LOC,0.06153846,0.20769231,en,1.3,,9881905,L,45.99696,-118.49854,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+585,Nadma,Nadma,GPE,0.13461538,0.21153846,en,1.3,,764187,P,52.36208,21.16653,EUROPE,Poland,WCE,Tropical Cyclone
+575,GUADALAJARA,GUADALAJARA,GPE,0.0,0.07692308,en,1.3,,0,,,,,,,Tropical Cyclone
+589,Moreton Bay,Moreton Bay,GPE,0.26515152,1.43939394,en,1.2,4705106-1,7839376,A,-27.10731,152.92937,OCEANIA,Australia,EAU,Tropical Cyclone
+591,the U.S. Southeast,the U.S. Southeast,LOC,-0.02777778,0.85185185,en,1.2,,5874863,A,63.75056,-143.25056,NORTH-AMERICA,United States,NWN,Tropical Cyclone
+590,Tropical Storm Chantal,Tropical Storm Chantal,LOC,-0.16666667,0.41666667,en,1.2,,0,,,,,,,Tropical Cyclone
+586,Afghanistan,Afghanistan,GPE,-0.41666667,0.08333333,en,1.2,,0,,,,,,,Tropical Cyclone
+588,Taipei,Taipei,GPE,0.2037037,1.31481481,en,1.2,4078134-3,1668341,P,25.05306,121.52639,ASIA,Taiwan,EAS,Tropical Cyclone
+587,Milan,Milan,GPE,-0.20694444,1.05208333,en,1.2,,0,,,,,,,Tropical Cyclone
+599,Holguin,Holguin,GPE,0.0,0.0,en,1.1,,0,,,,,,,Tropical Cyclone
+604,Auckland,Auckland,GPE,0.12396694,0.41322314,en,1.1,,0,,,,,,,Tropical Cyclone
+603,china,china,GPE,0.1969697,1.52525253,en,1.1,,0,,,,,,,Tropical Cyclone
+602,Great Lakes,Great Lakes,LOC,0.81818182,1.51515152,en,1.1,,0,,,,,,,Tropical Cyclone
+601,Albania,Albania,GPE,0.0,0.90909091,en,1.1,,0,,,,,,,Tropical Cyclone
+600,Ireland,Ireland,GPE,0.33712121,0.83712121,en,1.1,,0,,,,,,,Tropical Cyclone
+605,West Palm Beach,West Palm Beach,GPE,-0.28282828,0.52525253,en,1.1,,0,,,,,,,Tropical Cyclone
+598,Samaritan,Samaritan,GPE,-0.05050505,0.16161616,en,1.1,,0,,,,,,,Tropical Cyclone
+596,ISLAMABAD,ISLAMABAD,GPE,0.0,0.04545455,en,1.1,,0,,,,,,,Tropical Cyclone
+595,Santo Domingo,Santo Domingo,GPE,0.0530303,0.41666667,en,1.1,,0,,,,,,,Tropical Cyclone
+594,Dublin,Dublin,GPE,0.34090909,0.90909091,en,1.1,,0,,,,,,,Tropical Cyclone
+593,Phoenix,Phoenix,GPE,0.0,0.0,en,1.1,,0,,,,,,,Tropical Cyclone
+592,Greece,Greece,GPE,0.0,0.90909091,en,1.1,,0,,,,,,,Tropical Cyclone
+597,Lake,Lake,LOC,-0.22727273,0.45454545,en,1.1,,0,,,,,,,Tropical Cyclone
+1065,the northeast Pacific,the northeast Pacific,LOC,0.0,0.0,en,1.0,,11887749,L,42.80019,-74.11805,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1057,coke ashore,coke ashore,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1058,Hoa B…,Hoa B…,GPE,-0.01666667,0.26666667,en,1.0,,0,,,,,,,Tropical Cyclone
+1059,Tropical Storm Francine,Tropical Storm Francine,LOC,-0.02121212,0.31818182,en,1.0,,0,,,,,,,Tropical Cyclone
+1060,METAIRIE,METAIRIE,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1061,La.,La.,GPE,-0.05,0.05,en,1.0,,0,,,,,,,Tropical Cyclone
+1062,Hama,Hama,GPE,-1.0,1.0,en,1.0,4089137-9,170017,P,35.13179,36.75783,EUROPE-AFRICA,Syria,MED,Tropical Cyclone
+1063,Mexicos Pacific beach,Mexicos Pacific beach,LOC,-0.05,0.55,en,1.0,,0,,,,,,,Tropical Cyclone
+1064,the northwest Atlantic,the northwest Atlantic,LOC,0.0,0.0,en,1.0,,7602002,S,30.3578,-85.79892,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1068,Yangon,Yangon,GPE,0.0875,0.5125,en,1.0,4133122-9,1298824,P,16.80528,96.15611,ASIA,Myanmar,SEA,Tropical Cyclone
+1066,Accor,Accor,GPE,0.16666667,0.33333333,en,1.0,,10124586,S,1.24517,103.82791,ASIA,Singapore,SEA,Tropical Cyclone
+1067,National Oceanic,National Oceanic,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1055,Southeast A…,Southeast A…,LOC,-0.09393939,0.35353535,en,1.0,,0,,,,,,,Tropical Cyclone
+1069,Lao… Yangon,Lao… Yangon,GPE,-0.00833333,0.34166667,en,1.0,,0,,,,,,,Tropical Cyclone
+1070,landsli,landsli,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1071,southeast Asia,southeast Asia,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1072,the Steinhatchee River,the Steinhatchee River,LOC,0.0,0.0,en,1.0,,4174062,H,29.66578,-83.41569,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1073,Sinaloa,Sinaloa,GPE,-0.05,0.05,en,1.0,,0,,,,,,,Tropical Cyclone
+1056,Steinhatchee,Steinhatchee,GPE,0.0,0.0,en,1.0,,4174059,P,29.67106,-83.38764,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1053,Dhaka,Dhaka,GPE,0.0,0.0,en,1.0,4230727-2,1185241,P,23.7104,90.40744,ASIA,Bangladesh,SAS,Tropical Cyclone
+1054,La Quebrada,La Quebrada,GPE,0.05,0.475,en,1.0,,3893854,H,-18.4,-70.35,SOUTH-AMERICA,Chile,SWS,Tropical Cyclone
+1043,northern coast,northern coast,LOC,0.43333333,0.73333333,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1035,Lake Charles,Lake Charles,GPE,-0.03333333,0.55,en,1.0,,4330236,P,30.21309,-93.2044,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+1036,Tacloban,Tacloban,LOC,0.0,0.25,en,1.0,4499439-4,1684712,P,11.24333,125.00472,ASIA,Philippines,SEA,Tropical Cyclone
+1037,UNITED STATES - AUGUST,UNITED STATES - AUGUST,GPE,0.0,0.3,en,1.0,,5325256,P,37.97881,-121.26217,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+1038,Namibia,Namibia,GPE,0.0,0.0,en,1.0,4075202-1,3355338,A,-22.0,17.0,AFRICA,Namibia,WSAF,Tropical Cyclone
+1039,lan… BRISBANE,lan… BRISBANE,GPE,-0.15,0.35,en,1.0,,0,,,,,,,Tropical Cyclone
+1040,LNG,LNG,GPE,0.1,0.38333333,en,1.0,,7542068,T,32.03633,49.72512,ASIA,Iran,WCA,Tropical Cyclone
+1041,Eurovision,Eurovision,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1042,Tropical Cyclo… BRISBANE,Tropical Cyclo… BRISBANE,LOC,-0.04,0.36,en,1.0,,0,,,,,,,Tropical Cyclone
+1044,McArthur River,McArthur River,GPE,0.0,0.0,en,1.0,,7910449,S,-16.44257,136.07602,OCEANIA,Australia,NAU,Tropical Cyclone
+1075,La…,La…,GPE,-0.33333333,0.53333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1045,Borroloola,Borroloola,GPE,0.175,0.425,en,1.0,,7730876,S,-16.0753,136.302,OCEANIA,Australia,NAU,Tropical Cyclone
+1046,VIC,VIC,GPE,-0.6,1.0,en,1.0,4294389-9,3106050,P,41.93012,2.25486,EUROPE-AFRICA,Spain,MED,Tropical Cyclone
+1047,Blackouts Across Europe,Blackouts Across Europe,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1048,Northern Madagascar,Northern Madagascar,GPE,0.0,0.0,en,1.0,,9057456,T,58.98708,10.03444,EUROPE,Norway,NEU,Tropical Cyclone
+1049,Port Louis,Port Louis,GPE,-0.15,0.3,en,1.0,4116066-6,934154,P,-20.16194,57.49889,INDIAN,Mauritius,SIO,Tropical Cyclone
+1050,the southwest Indian Ocean,the southwest Indian Ocean,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1051,flo…,flo…,GPE,-0.1625,0.4375,en,1.0,,0,,,,,,,Tropical Cyclone
+1052,Dar es Salaam,Dar es Salaam,GPE,0.0,0.0,en,1.0,4090903-7,160263,P,-6.82349,39.26951,AFRICA,Tanzania,SEAF,Tropical Cyclone
+1074,Sa…,Sa…,GPE,-0.05,0.05,en,1.0,,0,,,,,,,Tropical Cyclone
+1077,Florida Beaches,Florida Beaches,LOC,0.3,0.1,en,1.0,,7602002,S,30.3578,-85.79892,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1076,Southeast Asia's,Southeast Asia's,LOC,-0.25,0.25,en,1.0,4034571-3,1655842,A,18.0,105.0,ASIA,Laos,SEA,Tropical Cyclone
+1098,Debby,Debby,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1100,St. Augustine,St. Augustine,GPE,0.03333333,0.06666667,en,1.0,4392638-1,4170894,P,29.89469,-81.31452,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1101,Casper Planet,Casper Planet,LOC,-0.4,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+1102,St Augustine,St Augustine,GPE,0.00277778,0.28055556,en,1.0,4392638-1,4170894,P,29.89469,-81.31452,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1103,the Atlantic Oceans,the Atlantic Oceans,LOC,0.25,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1104,South…,South…,GPE,-0.05,0.5125,en,1.0,,0,,,,,,,Tropical Cyclone
+1105,Hyde County,Hyde County,GPE,0.0,0.0,en,1.0,,5776221,P,41.79882,-111.81911,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+1106,SOUTH CAROLINA,SOUTH CAROLINA,GPE,0.0,0.0,en,1.0,4230917-7,4575352,P,34.00071,-81.03481,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1107,Coney Island,Coney Island,GPE,0.13636364,0.45454545,en,1.0,,2965240,T,54.29861,-8.58778,EUROPE,Ireland,NEU,Tropical Cyclone
+1108,South Carol,South Carol,LOC,-0.5,0.55,en,1.0,,4150066,P,25.94065,-80.2456,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1109,USNPR N.C.,USNPR N.C.,GPE,0.0796131,0.42901786,en,1.0,,0,,,,,,,Tropical Cyclone
+1110,Tri-State,Tri-State,GPE,-0.2,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+1111,the Atlantic Ocean’s,the Atlantic Ocean’s,LOC,-0.11111111,0.37777778,en,1.0,,0,,,,,,,Tropical Cyclone
+1112,Cape Verde hurricanes,Cape Verde hurricanes,LOC,0.4,0.75,en,1.0,,0,,,,,,,Tropical Cyclone
+1113,East Coast Hurricane Erin,East Coast Hurricane Erin,LOC,-0.185,0.56,en,1.0,,0,,,,,,,Tropical Cyclone
+1114,Guinea,Guinea,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1115,NORTH CAROLINA,NORTH CAROLINA,GPE,-0.4,0.73333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1033,Ke… Dar es Salaam,Ke… Dar es Salaam,GPE,-0.2,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+1099,Tropical Storm Debby,Tropical Storm Debby,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1097,the eastern Gulf of Mexico,the eastern Gulf of Mexico,LOC,0.11818182,0.72727273,en,1.0,,0,,,,,,,Tropical Cyclone
+1078,Cedar Key,Cedar Key,LOC,0.0,1.0,en,1.0,,4150358,L,29.15302,-83.04707,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1096,Matlacha,Matlacha,GPE,0.7,0.8,en,1.0,,0,,,,,,,Tropical Cyclone
+1079,NZ,NZ,GPE,0.0,0.0,en,1.0,,12217089,L,8.62,-170.11,PACIFIC,,NPO,Tropical Cyclone
+1080,Warm Gulf,Warm Gulf,LOC,0.6,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+1081,WMO,WMO,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1082,TULUM,TULUM,GPE,0.16666667,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1083,Tulum,Tulum,GPE,0.1,0.4,en,1.0,,3515039,S,20.21472,-87.42889,CENTRAL-AMERICA,Mexico,SCA,Tropical Cyclone
+1084,North Atlantic Ocean,North Atlantic Ocean,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1085,Austin,Austin,GPE,-0.1,0.4,en,1.0,4079879-3,4671654,P,30.26715,-97.74306,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+1086,Acapulcos,Acapulcos,GPE,0.05,0.475,en,1.0,,0,,,,,,,Tropical Cyclone
+1087,Illinois,Illinois,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1088,Saint Vincent,Saint Vincent,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1089,Spitfire,Spitfire,LOC,0.4,0.2,en,1.0,,6153778,H,60.88351,-107.68416,NORTH-AMERICA,Canada,NWN,Tropical Cyclone
+1090,NH,NH,GPE,0.0,0.0,en,1.0,,12213178,L,42.5179,-71.02193,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1091,MARSHFIELD,MARSHFIELD,GPE,-0.03232323,0.50707071,en,1.0,,5261969,P,44.66885,-90.1718,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+1092,the Pacific coast,the Pacific coast,LOC,-0.1,0.375,en,1.0,,0,,,,,,,Tropical Cyclone
+1093,the Mississippi River,the Mississippi River,LOC,0.0,0.3,en,1.0,,4333588,L,29.16689,-89.25033,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1094,Barnet,Barnet,GPE,0.125,0.15833333,en,1.0,4261176-3,2656295,P,51.65,-0.2,EUROPE,United Kingdom,NEU,Tropical Cyclone
+1095,the Greater Antilles,the Greater Antilles,LOC,0.25,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+1034,the United S,the United S,GPE,0.26666667,0.68888889,en,1.0,,7314435,L,42.97333,-82.4275,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+991,the Gulf Of Mexico,the Gulf Of Mexico,LOC,-0.05,0.05,en,1.0,,0,,,,,,,Tropical Cyclone
+1032,the National Ocean,the National Ocean,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+978,Hillsborough County,Hillsborough County,GPE,0.0,0.1,en,1.0,4122651-3,4174757,P,27.94752,-82.45843,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+970,Western Florida,Western Florida,LOC,0.025,0.3375,en,1.0,,3637921,L,10.30482,-68.41222,SOUTH-AMERICA,Venezuela,NSA,Tropical Cyclone
+971,Stuart,Stuart,GPE,-0.23333333,0.28888889,en,1.0,,4877761,P,41.50332,-94.31857,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+972,Magic Kingdom Sells Out Weekend Reservations,Magic Kingdom Sells Out Weekend Reservations,GPE,0.25,0.5875,en,1.0,,0,,,,,,,Tropical Cyclone
+973,United S,United S,GPE,0.0,0.0,en,1.0,,1738227,S,2.223,102.318,ASIA,Malaysia,SEA,Tropical Cyclone
+974,Hurrican,Hurrican,GPE,0.2,0.3,en,1.0,,4115723,H,35.12654,-91.16235,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+975,Paris,Paris,GPE,-0.08,0.38,en,1.0,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Tropical Cyclone
+976,the Mediterranean Sea,the Mediterranean Sea,LOC,-0.08,0.38,en,1.0,,2523117,H,37.33333,11.33333,EUROPE-AFRICA,Israel,MED,Tropical Cyclone
+977,Derna,Derna,GPE,-0.33333333,0.575,en,1.0,4839915-2,87205,P,32.76704,22.63669,EUROPE-AFRICA,Libya,MED,Tropical Cyclone
+979,Blue Ridge Mountain,Blue Ridge Mountain,LOC,0.16666667,0.36666667,en,1.0,,3490278,T,18.08941,-76.63609,CENTRAL-AMERICA,Jamaica,CAR,Tropical Cyclone
+989,RATON,RATON,GPE,0.0,0.0,en,1.0,4194370-3,4148411,P,26.35869,-80.0831,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+980,NORTH CAROLINA - SEPTEMBER,NORTH CAROLINA - SEPTEMBER,GPE,-0.2,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+981,3rd Congressional District,3rd Congressional District,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+982,Caicos,Caicos,GPE,0.22083333,0.5625,en,1.0,,0,,,,,,,Tropical Cyclone
+983,St. Petersburg Area,St. Petersburg Area,GPE,-0.375,0.45,en,1.0,,12213342,L,28.12342,-82.52853,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+984,Sarasota Country,Sarasota Country,GPE,-0.0125,0.3875,en,1.0,,0,,,,,,,Tropical Cyclone
+985,Universal Orlando,Universal Orlando,GPE,0.0,0.0,en,1.0,,6949561,L,28.4744,-81.4683,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+986,North and South America,North and South America,GPE,0.5,0.9,en,1.0,,3398712,L,-4.0,-60.0,SOUTH-AMERICA,Brazil,NSA,Tropical Cyclone
+987,Bar Harbor,Bar Harbor,GPE,0.0,0.0,en,1.0,,4966387,S,44.44924,-68.36196,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+969,the Gulf of Mexi… PATUXENT RIVER,the Gulf of Mexi… PATUXENT RIVER,LOC,-0.16666667,0.06666667,en,1.0,,0,,,,,,,Tropical Cyclone
+968,Anna Maria Island,Anna Maria Island,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+967,Latin America,Latin America,LOC,-0.05,0.05,en,1.0,,0,,,,,,,Tropical Cyclone
+966,Maine BAR HARBOR,Maine BAR HARBOR,GPE,0.16666667,0.63333333,en,1.0,,4966387,S,44.44924,-68.36196,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+949,the Aucilla River,the Aucilla River,LOC,0.03333333,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+950,Kent,Kent,GPE,-0.15555556,0.28888889,en,1.0,4030253-2,5799625,P,47.38093,-122.23484,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+951,Impact Baja,Impact Baja,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+952,NEW ORLEANS,NEW ORLEANS,GPE,0.13636364,0.45454545,en,1.0,,0,,,,,,,Tropical Cyclone
+953,ORLEAN,ORLEAN,GPE,0.13636364,0.45454545,en,1.0,,0,,,,,,,Tropical Cyclone
+954,Tennessee Valley,Tennessee Valley,LOC,0.0,0.0,en,1.0,4119558-9,4641495,P,35.1959,-85.18468,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+955,Affect Leeward Islands,Affect Leeward Islands,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+956,Southwest Florida,Southwest Florida,LOC,0.5,0.5,en,1.0,,4173709,S,26.53731,-81.75997,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+957,the Tennessee Valley,the Tennessee Valley,LOC,-0.25,0.5,en,1.0,,4641495,P,35.1959,-85.18468,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+958,the East Sea,the East Sea,LOC,0.0,0.0,en,1.0,,295347,H,31.55747,35.49545,EUROPE-AFRICA,Jordan,MED,Tropical Cyclone
+959,Typhoon Julian,Typhoon Julian,GPE,0.0,0.1,en,1.0,,0,,,,,,,Tropical Cyclone
+960,Florida Gulf,Florida Gulf,LOC,-0.02222222,0.12222222,en,1.0,,12217087,L,26.5,-81.0,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+961,SE Asia,SE Asia,LOC,0.0,0.0,en,1.0,,11875157,A,22.19389,113.55103,ASIA,Macao,EAS,Tropical Cyclone
+962,the west Atlantic,the west Atlantic,LOC,-0.06590909,0.60530303,en,1.0,4596329-0,4177887,P,26.71534,-80.05337,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+963,Floridacausing,Floridacausing,GPE,0.5,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+964,the Western Caribbean,the Western Caribbean,LOC,-0.01272727,0.51090909,en,1.0,,12122591,L,10.71246,-70.02821,SOUTH-AMERICA,Venezuela,NSA,Tropical Cyclone
+965,the Gulf of …,the Gulf of …,LOC,-0.16666667,0.06666667,en,1.0,,0,,,,,,,Tropical Cyclone
+988,Lawrencetown Beach,Lawrencetown Beach,GPE,-0.3,0.475,en,1.0,,6050877,L,44.64358,-63.35338,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+990,FL,FL,GPE,0.0,0.0,en,1.0,,12213342,L,28.12342,-82.52853,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1031,Las Vegas,Las Vegas,GPE,0.0,0.0,en,1.0,4034659-6,5506956,P,36.17497,-115.13722,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+1021,Andhra,Andhra,LOC,0.0,0.0,en,1.0,4001934-2,1278629,A,15.83333,79.75,ASIA,India,SAS,Tropical Cyclone
+1013,DUBAI,DUBAI,GPE,-0.11875,0.35,en,1.0,4204044-9,292223,P,25.07725,55.30927,ASIA,United Arab Emirates,ARP,Tropical Cyclone
+1014,the West Indies,the West Indies,LOC,-0.1,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+1015,Catego,Catego,GPE,-0.14375,0.575,en,1.0,,0,,,,,,,Tropical Cyclone
+1016,Dominica,Dominica,GPE,-0.2,0.5,en,1.0,4085456-5,3575830,A,15.5,-61.33333,CENTRAL-AMERICA,Dominica,CAR,Tropical Cyclone
+1017,"the
+Pacific","the
+Pacific",LOC,-0.00952381,0.48707483,en,1.0,,12110848,L,45.53341,-127.13411,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+1018,Martinique,Martinique,GPE,-0.2,0.5,en,1.0,4037735-0,3570311,A,14.66667,-61.0,CENTRAL-AMERICA,Martinique,CAR,Tropical Cyclone
+1019,First Atlantic Hurricane,First Atlantic Hurricane,LOC,-0.175,0.61666667,en,1.0,,0,,,,,,,Tropical Cyclone
+1020,Cayman,Cayman,GPE,-0.2,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+1022,Torrential,Torrential,GPE,0.02878788,0.39437229,en,1.0,,0,,,,,,,Tropical Cyclone
+1117,Erin,Erin,LOC,0.0,0.0,en,1.0,,3042196,P,54.08487,-4.75099,EUROPE,Isle of Man,NEU,Tropical Cyclone
+1023,Carriacou island,Carriacou island,LOC,-0.6,0.9,en,1.0,,0,,,,,,,Tropical Cyclone
+1024,Caribbean island,Caribbean island,LOC,-0.16666667,1.7,en,1.0,,0,,,,,,,Tropical Cyclone
+1025,Maldives,Maldives,GPE,-0.025,0.3,en,1.0,4037212-1,1282028,A,3.2,73.0,INDIAN,Maldives,EIO,Tropical Cyclone
+1026,Dhaka Bangladesh,Dhaka Bangladesh,GPE,0.0625,0.5,en,1.0,4230727-2,1185241,P,23.7104,90.40744,ASIA,Bangladesh,SAS,Tropical Cyclone
+1027,Chittagong,Chittagong,GPE,0.0625,0.5,en,1.0,4088876-9,1205733,P,22.3384,91.83168,ASIA,Bangladesh,SAS,Tropical Cyclone
+1028,Middle East,Middle East,LOC,0.0,0.0,en,1.0,,6269133,L,33.13906,35.85869,EUROPE-AFRICA,Syria,MED,Tropical Cyclone
+1029,Atlantic season's,Atlantic season's,GPE,0.275,0.66666667,en,1.0,,0,,,,,,,Tropical Cyclone
+1030,Central,Central,LOC,-0.11388889,0.28472222,en,1.0,,12217848,L,50.28762,15.1903,EUROPE,Czechia,WCE,Tropical Cyclone
+1012,Biden,Biden,GPE,0.0,0.0,en,1.0,,2303056,P,5.22905,-1.00812,AFRICA,Ghana,WAF,Tropical Cyclone
+1011,the north east,the north east,LOC,0.0,0.0,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1010,Aventura,Aventura,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1009,the southeast Caribbean,the southeast Caribbean,LOC,0.1925,0.31333333,en,1.0,,0,,,,,,,Tropical Cyclone
+992,Nova Scotia's,Nova Scotia's,GPE,-0.3,0.475,en,1.0,4042713-4,6091530,A,45.00015,-62.99865,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+993,Maine Atlantic,Maine Atlantic,LOC,-0.23181818,0.52727273,en,1.0,,3038520,P,47.08008,-1.40419,EUROPE,France,WCE,Tropical Cyclone
+994,the Southernmost Point Buoy,the Southernmost Point Buoy,LOC,0.16666667,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+995,Key West,Key West,GPE,0.16666667,0.5,en,1.0,,12213701,L,25.10152,-80.81417,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+996,North Carolina Family,North Carolina Family,GPE,-0.75,0.85,en,1.0,,7307438,S,34.88449,-81.118,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+997,Halifax,Halifax,GPE,-0.09572511,0.45551948,en,1.0,4386277-9,6296207,S,44.88392,-63.51171,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+998,"Hurricane Milton Destroys Homes,","Hurricane Milton Destroys Homes,",GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+999,Jupiter,Jupiter,LOC,-0.04,0.63,en,1.0,,0,,,,,,,Tropical Cyclone
+1000,U.S. South,U.S. South,GPE,-0.1,0.2,en,1.0,,0,,,,,,,Tropical Cyclone
+1001,New...,New...,GPE,0.06818182,0.72727273,en,1.0,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1002,northeast United States,northeast United States,GPE,-0.4,0.7,en,1.0,,11887749,L,42.80019,-74.11805,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1003,PORTLAND,PORTLAND,GPE,-0.23181818,0.67727273,en,1.0,4226095-4,5746545,P,45.52345,-122.67621,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+1004,Great Plains,Great Plains,GPE,0.0,0.875,en,1.0,4072020-2,12212750,L,42.58598,-100.51728,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+1005,St Petersburg,St Petersburg,GPE,0.0,0.0,en,1.0,2034200-7,498817,P,59.93863,30.31413,EUROPE,Russia,NEU,Tropical Cyclone
+1006,the Sea of Cortez,the Sea of Cortez,LOC,-0.1,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+1007,Typhoon Yagi's,Typhoon Yagi's,LOC,-0.25,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+1008,Tropical Storm Imelda,Tropical Storm Imelda,LOC,-0.125,0.175,en,1.0,,0,,,,,,,Tropical Cyclone
+1116,North Car NORTH CAROLINA,North Car NORTH CAROLINA,LOC,-0.4,0.73333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1159,Laguna province,Laguna province,GPE,0.11666667,0.21666667,en,1.0,4122599-5,2511401,P,28.4853,-16.32014,AFRICA,Spain,SAH,Tropical Cyclone
+1118,Floridas gulf,Floridas gulf,LOC,-0.32222222,0.49555556,en,1.0,,7192949,S,29.88806,-81.31033,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1235,Leeward… SAN JUAN,Leeward… SAN JUAN,LOC,0.10714286,0.46428571,en,1.0,,0,,,,,,,Tropical Cyclone
+1227,Southeast beaches,Southeast beaches,LOC,0.0,0.0,en,1.0,,6693816,T,-8.14811,115.03913,ASIA,Indonesia,SEA,Tropical Cyclone
+1228,BEIJING,BEIJING,GPE,-0.03125,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+1229,Latin America &amp,Latin America &amp,LOC,0.225,0.75,en,1.0,,0,,,,,,,Tropical Cyclone
+1230,HAVANA,HAVANA,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1231,Leeward Islands,Leeward Islands,LOC,0.0,0.0,en,1.0,4111236-2,3513538,T,17.0,-63.0,CENTRAL-AMERICA,,CAR,Tropical Cyclone
+1232,Guangxi,Guangxi,GPE,-0.1,0.25,en,1.0,4213746-9,1799869,P,22.81667,108.31667,ASIA,China,EAS,Tropical Cyclone
+1233,the U.S. Gulf,the U.S. Gulf,LOC,0.0,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+1234,Northern Caribbean,Northern Caribbean,LOC,-0.2,0.5,en,1.0,,3426792,P,-51.6154,-59.52301,SOUTH-AMERICA,Falkland Islands,SSA,Tropical Cyclone
+1236,San Diego Coast,San Diego Coast,LOC,0.0,0.0,en,1.0,4269521-1,5391811,P,32.71571,-117.16472,CENTRAL-AMERICA,United States,NCA,Tropical Cyclone
+1246,Zihuatanejo,Zihuatanejo,GPE,0.0,0.0,en,1.0,4542142-0,3979673,P,17.64344,-101.55212,CENTRAL-AMERICA,Mexico,SCA,Tropical Cyclone
+1237,the Atlantic Basin,the Atlantic Basin,LOC,0.7125,1.81333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1238,Mada,Mada,GPE,-0.125,0.375,en,1.0,,10925331,L,34.71798,-5.49053,EUROPE-AFRICA,Morocco,MED,Tropical Cyclone
+1239,FRANCE,FRANCE,GPE,0.0,0.0,en,1.0,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Tropical Cyclone
+1240,west northwest,west northwest,LOC,0.16666667,0.23333333,en,1.0,,5870351,A,66.83333,-161.00056,NORTH-AMERICA,United States,NWN,Tropical Cyclone
+1241,The Northern Hemisphere's,The Northern Hemisphere's,LOC,0.22222222,0.54444444,en,1.0,,0,,,,,,,Tropical Cyclone
+1242,the Gold Coast,the Gold Coast,LOC,-0.02857143,0.44285714,en,1.0,,5728665,P,42.43179,-123.0506,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+1243,Sunshine Coast,Sunshine Coast,LOC,-0.02857143,0.44285714,en,1.0,6099787-4,10630449,P,-26.65682,153.07955,OCEANIA,Australia,EAU,Tropical Cyclone
+1244,Taitung,Taitung,GPE,0.0,0.0,en,1.0,4406404-4,1668295,P,22.75991,121.14457,ASIA,Taiwan,EAS,Tropical Cyclone
+1226,Belize,Belize,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1225,Rhode,Rhode,GPE,0.07272727,0.75909091,en,1.0,4049848-7,5224323,A,41.75038,-71.49978,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1224,LEOMINSTER,LEOMINSTER,GPE,0.0,0.0,en,1.0,5060660-8,4941873,P,42.52509,-71.75979,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1223,Augus,Augus,GPE,-0.04166667,0.125,en,1.0,,3370337,T,-29.74077,18.94068,AFRICA,South Africa,WSAF,Tropical Cyclone
+1206,Leeward Island,Leeward Island,LOC,0.03125,0.5,en,1.0,,3575292,P,17.3259,-62.81055,CENTRAL-AMERICA,St Kitts and Nevis,CAR,Tropical Cyclone
+1207,Whim Creek,Whim Creek,GPE,0.0,0.0,en,1.0,,2058549,P,-20.83861,117.8314,OCEANIA,Australia,CAU,Tropical Cyclone
+1208,the Gulf inland,the Gulf inland,LOC,-0.075,0.14166667,en,1.0,,4068994,P,33.84927,-86.56527,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1209,Po…,Po…,GPE,0.8,0.9,en,1.0,,0,,,,,,,Tropical Cyclone
+1210,Australias west coast,Australias west coast,LOC,-0.2,0.5,en,1.0,,11523934,L,-26.21588,115.32699,OCEANIA,Australia,CAU,Tropical Cyclone
+1211,Great Northern Highwa,Great Northern Highwa,GPE,0.8,0.75,en,1.0,,0,,,,,,,Tropical Cyclone
+1212,the Wide Bay region,the Wide Bay region,LOC,0.0,0.7,en,1.0,,5878042,H,57.36611,-156.35556,NORTH-AMERICA,United States,NWN,Tropical Cyclone
+1213,Sunda,Sunda,GPE,-0.18,0.44,en,1.0,,1626052,T,-2.0,110.0,ASIA,Indonesia,SEA,Tropical Cyclone
+1214,French Indian Ocean,French Indian Ocean,LOC,0.0,0.0,en,1.0,4480857-4,1546748,A,-43.0,67.0,SOUTHERN,French Southern Territories,SOO,Tropical Cyclone
+1215,accor,accor,GPE,-0.1,0.4,en,1.0,,10124586,S,1.24517,103.82791,ASIA,Singapore,SEA,Tropical Cyclone
+1216,Tropical Storm Margot,Tropical Storm Margot,LOC,0.25,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1217,MELBOURNE,MELBOURNE,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1218,Barrow Island,Barrow Island,LOC,0.0,0.0,en,1.0,,8179950,T,-14.3437,144.64823,OCEANIA,Australia,NAU,Tropical Cyclone
+1219,the Atlantic ocean,the Atlantic ocean,LOC,0.00833333,0.36666667,en,1.0,,4504476,P,39.95373,-74.19792,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1220,Sichuan,Sichuan,GPE,-0.105,0.185,en,1.0,4249575-1,1815286,P,30.66667,104.06667,ASIA,China,EAS,Tropical Cyclone
+1221,the Coast of Baja,the Coast of Baja,LOC,0.0,0.125,en,1.0,,5786096,P,46.20013,-119.35946,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+1222,Mass.,Mass.,GPE,0.0,0.0,en,1.0,,12216903,L,41.89793,-70.85339,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1245,Guatemala,Guatemala,GPE,-0.125,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+1247,Manzanillo,Manzanillo,GPE,0.0,0.0,en,1.0,,8581706,A,19.10856,-104.31351,CENTRAL-AMERICA,Mexico,NCA,Tropical Cyclone
+1119,Next Atlantic,Next Atlantic,LOC,0.0,0.42,en,1.0,,0,,,,,,,Tropical Cyclone
+1277,North Stradbroke,North Stradbroke,LOC,0.0,1.0,en,1.0,,2154857,T,-27.52791,153.46081,OCEANIA,Australia,EAU,Tropical Cyclone
+1269,Eastern Coast,Eastern Coast,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1270,the North Atlantic Ocean,the North Atlantic Ocean,LOC,0.12784091,0.33238636,en,1.0,,0,,,,,,,Tropical Cyclone
+1271,Hurricane Idalia,Hurricane Idalia,GPE,0.05,0.53333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1272,the U.S. Virgin Islands,the U.S. Virgin Islands,GPE,0.0,0.0,en,1.0,4229389-3,4796512,P,17.72751,-64.74698,CENTRAL-AMERICA,U.S. Virgin Islands,CAR,Tropical Cyclone
+1273,Victoria,Victoria,GPE,-0.1875,0.5,en,1.0,,241131,P,-4.62001,55.45501,INDIAN,Seychelles,EIO,Tropical Cyclone
+1274,SA,SA,GPE,-0.1875,0.5,en,1.0,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Tropical Cyclone
+1275,the Adelaide Hills,the Adelaide Hills,LOC,0.0,0.0,en,1.0,,8852610,T,-34.93304,138.70537,OCEANIA,Australia,SAU,Tropical Cyclone
+1276,Outback Queensland,Outback Queensland,GPE,-1.0,1.0,en,1.0,,11523974,L,-24.23315,143.00257,OCEANIA,Australia,CAU,Tropical Cyclone
+1278,Minjerribah,Minjerribah,GPE,0.0,1.0,en,1.0,,2148910,T,-27.86404,153.42321,OCEANIA,Australia,EAU,Tropical Cyclone
+1248,Eastern Pacific Ocean,Eastern Pacific Ocean,LOC,0.025,0.25,en,1.0,4334651-0,4364312,P,38.3365,-75.08491,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1279,Moreton,Moreton,GPE,0.0,1.0,en,1.0,,7731263,S,-12.4442,142.638,OCEANIA,Australia,NAU,Tropical Cyclone
+1280,the Tweed Valley,the Tweed Valley,LOC,0.0,0.0,en,1.0,,4561818,H,39.79705,-76.0405,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1281,the Kimberley coast,the Kimberley coast,LOC,0.0,0.3,en,1.0,,0,,,,,,,Tropical Cyclone
+1282,Berkeley River,Berkeley River,LOC,0.2,0.2,en,1.0,,4817284,H,39.51621,-77.86472,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1283,Cockatoo Island,Cockatoo Island,LOC,0.2,0.2,en,1.0,,8180203,T,-27.58806,152.89972,OCEANIA,Australia,EAU,Tropical Cyclone
+1284,Lismore NSW,Lismore NSW,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1285,the British Virgin Islands,the British Virgin Islands,GPE,0.0,0.0,en,1.0,4063590-9,3577718,A,18.5,-64.5,CENTRAL-AMERICA,British Virgin Islands,CAR,Tropical Cyclone
+1286,Trop,Trop,GPE,-0.1,0.1,en,1.0,,6045389,H,46.86812,-76.72191,NORTH-AMERICA,Canada,ENA,Tropical Cyclone
+1268,Queenslan,Queenslan,GPE,0.0047619,0.30952381,en,1.0,,0,,,,,,,Tropical Cyclone
+1267,New South Waleswould,New South Waleswould,LOC,0.36753247,0.63344156,en,1.0,,0,,,,,,,Tropical Cyclone
+1266,Eastern Australia,Eastern Australia,LOC,0.0,0.0,en,1.0,,11776432,P,-33.63542,139.24716,OCEANIA,Australia,SAU,Tropical Cyclone
+1265,Resort Island,Resort Island,LOC,0.25,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+947,Apalachee Bay,Apalachee Bay,LOC,0.16666667,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1249,the Gulf's Bay of Campeche,the Gulf's Bay of Campeche,LOC,0.15,0.55,en,1.0,,0,,,,,,,Tropical Cyclone
+1250,Tuxpan,Tuxpan,GPE,0.0,0.0,en,1.0,,8582208,A,19.48815,-103.42743,CENTRAL-AMERICA,Mexico,NCA,Tropical Cyclone
+1251,Tropical Storm Barry,Tropical Storm Barry,LOC,-0.15,0.3,en,1.0,,0,,,,,,,Tropical Cyclone
+1252,the southeast coast,the southeast coast,LOC,0.0,0.0,en,1.0,,5874863,A,63.75056,-143.25056,NORTH-AMERICA,United States,NWN,Tropical Cyclone
+1253,the Atlantic Coast,the Atlantic Coast,LOC,-0.125,0.375,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1254,Drench Gulf Coast,Drench Gulf Coast,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1255,Alabama,Alabama,GPE,-0.05,0.55,en,1.0,4084839-5,12217076,L,34.60739,-86.97977,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1256,Jose,Jose,GPE,-0.13333333,0.6,en,1.0,4116320-5,3621849,P,9.93388,-84.08489,CENTRAL-AMERICA,Costa Rica,SCA,Tropical Cyclone
+1257,fina,fina,GPE,0.3,1.0,en,1.0,,4041269,T,14.18876,145.28964,PACIFIC,Northern Mariana Islands,NPO,Tropical Cyclone
+1258,Chinas Guangdong,Chinas Guangdong,GPE,0.25555556,0.46666667,en,1.0,,0,,,,,,,Tropical Cyclone
+1259,Southern China Megacities,Southern China Megacities,LOC,0.16666667,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1260,H…,H…,LOC,0.05925926,0.31851852,en,1.0,,0,,,,,,,Tropical Cyclone
+1261,Mac,Mac,GPE,0.03125,0.25,en,1.0,,6637369,L,-70.0,65.0,POLAR,Antarctica,EAN,Tropical Cyclone
+1262,Fort Myers Beach,Fort Myers Beach,GPE,-0.1,0.0,en,1.0,,4155996,P,26.45271,-81.95011,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1263,Jordan,Jordan,GPE,-0.1,0.25,en,1.0,4028750-6,248816,A,31.0,36.0,EUROPE-AFRICA,Jordan,MED,Tropical Cyclone
+1264,Iran,Iran,GPE,0.25,0.675,en,1.0,4027653-3,130758,A,32.0,53.0,ASIA,Iran,WCA,Tropical Cyclone
+1205,West Australia's,West Australia's,GPE,-0.49,0.64,en,1.0,,11523932,L,-20.04148,123.72189,OCEANIA,Australia,CAU,Tropical Cyclone
+1204,Australian Coast,Australian Coast,LOC,0.0,0.0,en,1.0,,8172707,S,-32.05389,115.9611,OCEANIA,Australia,SAU,Tropical Cyclone
+1203,Shizuoka,Shizuoka,GPE,0.0,0.0,en,1.0,4289915-1,1851717,P,34.98333,138.38333,ASIA,Japan,EAS,Tropical Cyclone
+1149,Project,Project,GPE,0.0,0.0,en,1.0,,7091074,P,14.6591,121.0395,ASIA,Philippines,SEA,Tropical Cyclone
+1141,Sint Maarten,Sint Maarten,GPE,0.3,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1142,Puerto Rico Erin,Puerto Rico Erin,GPE,0.1,0.55,en,1.0,,0,,,,,,,Tropical Cyclone
+1143,the United States East Coast,the United States East Coast,GPE,-0.03,0.52666667,en,1.0,,0,,,,,,,Tropical Cyclone
+1144,Hatteras Island,Hatteras Island,GPE,-0.0625,0.4375,en,1.0,,4470217,T,35.40823,-75.48682,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1145,DARE COUNTY,DARE COUNTY,GPE,-0.0625,0.4375,en,1.0,,4477895,S,35.91741,-75.70013,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1146,Va.,Va.,GPE,-0.0625,0.4375,en,1.0,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Tropical Cyclone
+1147,eastern Pacific,eastern Pacific,LOC,-0.03181818,1.12727273,en,1.0,,0,,,,,,,Tropical Cyclone
+1148,GEORGIA,GEORGIA,GPE,0.5,0.5,en,1.0,4022406-5,614540,A,41.99998,43.4999,ASIA,Georgia,WCA,Tropical Cyclone
+1150,the Southeast US,the Southeast US,LOC,0.0,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1202,Chiba,Chiba,GPE,0.0,0.0,en,1.0,4388993-1,2113015,P,35.6,140.11667,ASIA,Japan,EAS,Tropical Cyclone
+1151,Tropical Storm Humberto,Tropical Storm Humberto,LOC,-0.135,0.36,en,1.0,,0,,,,,,,Tropical Cyclone
+1152,Thursda,Thursda,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1153,Southeastern coast,Southeastern coast,LOC,-0.1,0.1,en,1.0,,0,,,,,,,Tropical Cyclone
+1154,Myrtle Beach Hurricane,Myrtle Beach Hurricane,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1155,Pagasa,Pagasa,GPE,-0.075,0.225,en,1.0,,1966336,P,14.6627,121.0328,ASIA,Philippines,SEA,Tropical Cyclone
+1156,Opong,Opong,GPE,0.11666667,0.21666667,en,1.0,,1697070,P,9.70972,125.60083,ASIA,Philippines,SEA,Tropical Cyclone
+1157,Dela Paz,Dela Paz,GPE,0.11666667,0.21666667,en,1.0,,6300533,S,-27.76562,-64.31012,SOUTH-AMERICA,Argentina,SES,Tropical Cyclone
+1158,Binan,Binan,GPE,0.11666667,0.21666667,en,1.0,,1725115,P,14.34267,121.08071,ASIA,Philippines,SEA,Tropical Cyclone
+1140,St. Barthelemy,St. Barthelemy,GPE,0.3,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1139,St. Martin,St. Martin,GPE,0.3,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1138,Anguilla,Anguilla,GPE,0.0,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+1137,the Northern Leeward Islands,the Northern Leeward Islands,LOC,0.125,0.16666667,en,1.0,,0,,,,,,,Tropical Cyclone
+1120,expe,expe,GPE,0.0,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+1121,Tropical Storm Fernand,Tropical Storm Fernand,LOC,-0.25,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+1122,gulf coast,gulf coast,LOC,-0.32222222,0.49555556,en,1.0,,12212749,L,30.3314,-89.73221,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1123,Typhoon Kajiki,Typhoon Kajiki,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1124,Tarpon Springs,Tarpon Springs,GPE,0.0,0.0,en,1.0,4344358-8,4174855,P,28.14612,-82.75677,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1125,Germanys,Germanys,GPE,-0.05,0.5125,en,1.0,,4064033,R,32.9654,-85.6469,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1126,Hurricane Erin,Hurricane Erin,GPE,0.0,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1127,Central NC,Central NC,GPE,-0.15625,0.46875,en,1.0,,8030594,A,4.0,73.16667,INDIAN,Maldives,EIO,Tropical Cyclone
+1128,Down City,Down City,GPE,0.08888889,0.47777778,en,1.0,,12617903,T,51.60685,-4.22869,EUROPE,United Kingdom,NEU,Tropical Cyclone
+1129,South Carolin,South Carolin,LOC,-0.075,0.4,en,1.0,4230917-7,4575352,P,34.00071,-81.03481,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1130,the Eastern United States,the Eastern United States,LOC,0.0,0.0,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1131,Dexter,Dexter,GPE,-0.13333333,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+1132,East CoastTropical Storm Dexter,East CoastTropical Storm Dexter,LOC,-0.13333333,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1133,Hong Kong Shuts,Hong Kong Shuts,GPE,0.08888889,0.47777778,en,1.0,,0,,,,,,,Tropical Cyclone
+1134,Super Typhoon Saola,Super Typhoon Saola,LOC,0.14444444,0.35555556,en,1.0,,0,,,,,,,Tropical Cyclone
+1135,Pensacola,Pensacola,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1136,lan… Hong Kong,lan… Hong Kong,GPE,0.29166667,0.475,en,1.0,,0,,,,,,,Tropical Cyclone
+1160,Atlantic Ocean Meteorologists,Atlantic Ocean Meteorologists,LOC,-0.13958333,0.51041667,en,1.0,,0,,,,,,,Tropical Cyclone
+1161,Augusta,Augusta,GPE,0.5,0.5,en,1.0,7669249-8,4957003,P,44.31062,-69.77949,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1162,SANTO DOMINGO,SANTO DOMINGO,GPE,0.0,0.0,en,1.0,4012694-8,3508796,A,19.0,-70.66667,CENTRAL-AMERICA,Dominican Republic,CAR,Tropical Cyclone
+1183,Bay of Bengal,Bay of Bengal,LOC,0.33333333,0.66666667,en,1.0,,0,,,,,,,Tropical Cyclone
+1185,Naples,Naples,GPE,0.0,0.0,en,1.0,4041476-0,3172394,P,40.85216,14.26811,EUROPE-AFRICA,Italy,MED,Tropical Cyclone
+1186,Marco Island,Marco Island,GPE,0.0,0.0,en,1.0,4241773-9,4163388,P,25.94121,-81.71842,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1187,superma,superma,GPE,0.29555556,0.59111111,en,1.0,,0,,,,,,,Tropical Cyclone
+1188,OpenAI,OpenAI,GPE,-0.2,0.3,en,1.0,,0,,,,,,,Tropical Cyclone
+1189,Hong Kong … Hong Kong,Hong Kong … Hong Kong,GPE,0.14444444,0.32222222,en,1.0,,0,,,,,,,Tropical Cyclone
+1190,Hong Kongs,Hong Kongs,GPE,0.05555556,0.27111111,en,1.0,,0,,,,,,,Tropical Cyclone
+1191,HONG KONG Streets,HONG KONG Streets,GPE,-0.1,0.2,en,1.0,,0,,,,,,,Tropical Cyclone
+1192,Floridas west coast,Floridas west coast,LOC,-0.059375,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+1193,SHENZHEN,SHENZHEN,GPE,-0.03333333,0.13333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1194,Lee County,Lee County,GPE,0.0,0.0,en,1.0,,4149962,P,26.56285,-81.94953,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1195,the Southeast United States,the Southeast United States,LOC,0.0,0.0,en,1.0,,5874863,A,63.75056,-143.25056,NORTH-AMERICA,United States,NWN,Tropical Cyclone
+1196,"Pacific
+","Pacific
+",GPE,0.0,0.0,en,1.0,,12217089,L,8.62,-170.11,PACIFIC,,NPO,Tropical Cyclone
+1197,sydney,sydney,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1198,Ningaloo,Ningaloo,GPE,0.0,0.0,en,1.0,,6698151,L,-21.66764,114.45007,OCEANIA,Australia,CAU,Tropical Cyclone
+1199,the Gulf of Carperntaria,the Gulf of Carperntaria,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1200,Kong,Kong,GPE,-0.03333333,0.13333333,en,1.0,4110357-9,1831037,A,11.5,103.5,ASIA,Cambodia,SEA,Tropical Cyclone
+1201,Hong,Hong,GPE,-0.03333333,0.13333333,en,1.0,,1152221,A,18.75,97.91667,ASIA,Thailand,SEA,Tropical Cyclone
+1184,Kolkata,Kolkata,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1182,Guangzhou,Guangzhou,GPE,0.5,0.9,en,1.0,4073204-6,1809858,P,23.11667,113.25,ASIA,China,EAS,Tropical Cyclone
+1163,Brush Caribbean Beaches,Brush Caribbean Beaches,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1181,Orchid Island,Orchid Island,LOC,0.28666667,0.65333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1164,South Carolina's,South Carolina's,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1165,Southeast US,Southeast US,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+1166,DC,DC,GPE,0.05,0.15,en,1.0,4064682-8,4140963,P,38.89511,-77.03637,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1167,Imelda,Imelda,GPE,0.0,0.0,en,1.0,,1700361,S,6.95033,126.27252,ASIA,Philippines,SEA,Tropical Cyclone
+1168,the Southeastern U.S.,the Southeastern U.S.,LOC,-0.06666667,0.03333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1169,AUSTIN,AUSTIN,GPE,-0.0875,0.31333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1170,KXAN,KXAN,GPE,-0.0875,0.31333333,en,1.0,,0,,,,,,,Tropical Cyclone
+1171,Wedn,Wedn,GPE,-0.0125,0.4875,en,1.0,,0,,,,,,,Tropical Cyclone
+1172,the Northern Atlantic,the Northern Atlantic,LOC,0.0,0.0,en,1.0,,12110846,L,40.58629,-76.28807,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1173,Taiwa,Taiwa,GPE,-0.06666667,0.14166667,en,1.0,,0,,,,,,,Tropical Cyclone
+1174,Baggao,Baggao,GPE,-0.05,0.7,en,1.0,,1729120,A,17.91667,121.96667,ASIA,Philippines,SEA,Tropical Cyclone
+1175,Fla,Fla,GPE,0.0,0.0,en,1.0,,6453361,A,60.4291,9.46611,EUROPE,Norway,NEU,Tropical Cyclone
+1176,Track,Track,GPE,0.33333333,0.66666667,en,1.0,,4960960,L,44.90479,-68.67225,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+1177,Southeastern,Southeastern,LOC,0.26666667,0.68888889,en,1.0,,10922506,L,38.10898,41.32862,ASIA,Turkey,WCA,Tropical Cyclone
+1178,Gabrielle,Gabrielle,GPE,-0.4,0.7,en,1.0,,0,,,,,,,Tropical Cyclone
+1179,Guangdong Province,Guangdong Province,GPE,0.0,0.0,en,1.0,4073204-6,1809858,P,23.11667,113.25,ASIA,China,EAS,Tropical Cyclone
+1180,Taiwanese Island,Taiwanese Island,LOC,0.36666667,0.78333333,en,1.0,,0,,,,,,,Tropical Cyclone
+948,the Iberian Peninsula,the Iberian Peninsula,LOC,-0.1,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+644,Caribbean islands,Caribbean islands,LOC,0.07222222,0.74444444,en,1.0,,0,,,,,,,Tropical Cyclone
+946,recor,recor,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+721,the Dominican Republic’s,the Dominican Republic’s,GPE,0.05833333,0.45833333,en,1.0,,0,,,,,,,Tropical Cyclone
+713,St. Elizabeth,St. Elizabeth,GPE,0.1469697,0.82878788,en,1.0,,0,,,,,,,Tropical Cyclone
+714,the Bahamas Octo,the Bahamas Octo,LOC,-0.15555556,0.28888889,en,1.0,,0,,,,,,,Tropical Cyclone
+715,Island,Island,LOC,0.01428571,0.39285714,en,1.0,,0,,,,,,,Tropical Cyclone
+716,Mayorga,Mayorga,GPE,0.025,0.625,en,1.0,,0,,,,,,,Tropical Cyclone
+717,the United Kingdom,the United Kingdom,GPE,0.0,0.0,en,1.0,4022153-2,2635167,A,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Tropical Cyclone
+718,Tripadvisor,Tripadvisor,GPE,0.45666667,0.43666667,en,1.0,,0,,,,,,,Tropical Cyclone
+719,Southern U.S.,Southern U.S.,LOC,0.3,0.45,en,1.0,,0,,,,,,,Tropical Cyclone
+720,Hispaniola SAN JUAN,Hispaniola SAN JUAN,LOC,-0.4,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+722,the Blue Ridge,the Blue Ridge,LOC,0.0,0.1,en,1.0,,0,,,,,,,Tropical Cyclone
+732,Kingston,Kingston,GPE,-0.6,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+723,Port St. Lucie,Port St. Lucie,GPE,0.0,1.0,en,1.0,5119202-0,4169171,P,27.29393,-80.35033,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+724,the Central Caribbean Sea,the Central Caribbean Sea,LOC,0.0,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+725,Guantanamo Bay,Guantanamo Bay,LOC,0.5,0.9,en,1.0,,0,,,,,,,Tropical Cyclone
+726,Guantánamo Bay,Guantánamo Bay,LOC,-0.059375,0.85,en,1.0,,0,,,,,,,Tropical Cyclone
+727,Hispan,Hispan,GPE,-0.36666667,0.56666667,en,1.0,,0,,,,,,,Tropical Cyclone
+728,Sunshine State,Sunshine State,GPE,0.5,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+729,the Dominican Republic …,the Dominican Republic …,GPE,-0.07916667,0.43333333,en,1.0,,0,,,,,,,Tropical Cyclone
+730,Melissas,Melissas,LOC,0.10833333,0.53333333,en,1.0,,0,,,,,,,Tropical Cyclone
+712,Mandeville,Mandeville,GPE,0.5,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+711,SANTIAGO DE CUBA,SANTIAGO DE CUBA,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+710,San Luis Obispo County,San Luis Obispo County,GPE,-0.1,0.4,en,1.0,4342348-6,5392323,P,35.28275,-120.65962,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+709,Jamaic,Jamaic,GPE,-0.1,0.7,en,1.0,,0,,,,,,,Tropical Cyclone
+692,Istanbul,Istanbul,GPE,-0.2125,0.4875,en,1.0,4088772-8,745044,P,41.01384,28.94966,EUROPE-AFRICA,Turkey,MED,Tropical Cyclone
+693,Tropical Storm Melissa,Tropical Storm Melissa,GPE,-0.5,0.7,en,1.0,,0,,,,,,,Tropical Cyclone
+694,Yunnan Province,Yunnan Province,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+695,IMPERIAL BEACH,IMPERIAL BEACH,GPE,0.0,0.0,en,1.0,,5377032,P,33.24004,-115.51888,CENTRAL-AMERICA,United States,NCA,Tropical Cyclone
+696,the Republic of TÃ¼rkiye,the Republic of TÃ¼rkiye,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+697,Imperial Beach,Imperial Beach,GPE,0.0,0.0,en,1.0,,5377032,P,33.24004,-115.51888,CENTRAL-AMERICA,United States,NCA,Tropical Cyclone
+698,San Diego County,San Diego County,GPE,0.0,0.0,en,1.0,4269521-1,5391811,P,32.71571,-117.16472,CENTRAL-AMERICA,United States,NCA,Tropical Cyclone
+699,the Atlantic Hurrican,the Atlantic Hurrican,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+700,CALIFORNIA,CALIFORNIA,GPE,0.0,0.0,en,1.0,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+701,New Hope,New Hope,GPE,0.23636364,0.85454545,en,1.0,,0,,,,,,,Tropical Cyclone
+702,Little Jamaica,Little Jamaica,GPE,0.25625,0.65,en,1.0,,3489735,T,17.8057,-77.02003,CENTRAL-AMERICA,Jamaica,CAR,Tropical Cyclone
+703,Jamaicas southwest,Jamaicas southwest,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+704,Valencia,Valencia,GPE,0.1,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+705,Greenbelt MD,Greenbelt MD,GPE,0.0,0.0,en,1.0,4350433-4,4356847,P,39.00455,-76.87553,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+706,CARIBBEAN,CARIBBEAN,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+707,BAHAMAS,BAHAMAS,GPE,0.02083333,0.16666667,en,1.0,,0,,,,,,,Tropical Cyclone
+708,recordis,recordis,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+731,the Western Atlantic,the Western Atlantic,LOC,-0.185,0.525,en,1.0,,0,,,,,,,Tropical Cyclone
+733,Florida Everglades,Florida Everglades,GPE,-0.1,0.05,en,1.0,,0,,,,,,,Tropical Cyclone
+775,the Philippine Sea,the Philippine Sea,LOC,0.04444444,0.33888889,en,1.0,,7733161,L,15.175,140.5,PACIFIC,Northern Mariana Islands,NPO,Tropical Cyclone
+764,Havana,Havana,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+756,Long Island’s,Long Island’s,GPE,-0.05,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+757,Disney Typhoon Lagoon,Disney Typhoon Lagoon,LOC,0.08833333,0.40833333,en,1.0,,6620642,L,28.36584,-81.52961,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+758,Denpasar,Denpasar,GPE,0.0,0.0,en,1.0,4329689-0,1645528,P,-8.65,115.21667,ASIA,Indonesia,SEA,Tropical Cyclone
+759,Americas,Americas,LOC,0.8,0.75,en,1.0,,3496393,L,21.0,-86.0,CENTRAL-AMERICA,,SCA,Tropical Cyclone
+760,"Blizzard Beach
+","Blizzard Beach
+",GPE,0.0,0.0,en,1.0,,11128333,L,28.35192,-81.57501,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+761,Nepal,Nepal,GPE,0.375,0.5,en,1.0,4041612-4,1282988,A,28.0,84.0,ASIA,Nepal,TIB,Tropical Cyclone
+762,Northeast Pacifi,Northeast Pacifi,LOC,0.02495591,0.29409171,en,1.0,,0,,,,,,,Tropical Cyclone
+763,Woodside,Woodside,GPE,0.06818182,0.25227273,en,1.0,,0,,,,,,,Tropical Cyclone
+765,Connecticut,Connecticut,GPE,0.14954545,0.54181818,en,1.0,4010487-4,4831725,A,41.66704,-72.66648,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+734,the Lucayan Archipelago,the Lucayan Archipelago,GPE,0.3,0.63333333,en,1.0,,0,,,,,,,Tropical Cyclone
+766,Sri,Sri,GPE,0.0,0.0,en,1.0,,1238992,P,6.88297,79.90708,INDIAN,Sri Lanka,EIO,Tropical Cyclone
+767,Geneva,Geneva,GPE,0.425,0.525,en,1.0,,0,,,,,,,Tropical Cyclone
+768,Viet Nam,Viet Nam,GPE,0.425,0.525,en,1.0,,0,,,,,,,Tropical Cyclone
+769,World Meteo…,World Meteo…,GPE,-0.434375,0.675,en,1.0,,0,,,,,,,Tropical Cyclone
+770,Somalia,Somalia,GPE,-0.065,0.25833333,en,1.0,4077509-4,51537,A,6.0,48.0,AFRICA,Somalia,NEAF,Tropical Cyclone
+771,Miss.,Miss.,GPE,-0.4,0.53333333,en,1.0,,0,,,,,,,Tropical Cyclone
+772,Western Cuba,Western Cuba,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+773,Meureudu,Meureudu,GPE,-0.3,0.6,en,1.0,,6728016,P,5.2552,96.2549,ASIA,Indonesia,SEA,Tropical Cyclone
+755,New York's,New York's,GPE,0.18989899,0.3959596,en,1.0,,5107464,P,40.77205,-73.93014,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+754,Oklahoma State,Oklahoma State,GPE,0.3,0.5,en,1.0,4043423-0,4544349,P,35.46756,-97.51643,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+753,Stillwater,Stillwater,GPE,0.3,0.5,en,1.0,,5680538,A,45.66944,-109.39477,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+752,Hawaii County,Hawaii County,GPE,-0.05,0.05,en,1.0,4251530-0,5855927,P,19.72991,-155.09073,PACIFIC,United States,NPO,Tropical Cyclone
+735,Ankara ANKARA,Ankara ANKARA,GPE,0.0,0.0,en,1.0,4002075-7,323786,P,39.91987,32.85427,EUROPE-AFRICA,Turkey,MED,Tropical Cyclone
+736,Tropical Storm Emily,Tropical Storm Emily,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+737,Türkiye,Türkiye,GPE,0.61212121,0.67373737,en,1.0,,0,,,,,,,Tropical Cyclone
+738,Tijuana,Tijuana,GPE,-0.1,0.2,en,1.0,4230553-6,3981609,P,32.5027,-117.00371,CENTRAL-AMERICA,Mexico,NCA,Tropical Cyclone
+739,the Republic of Türkiye,the Republic of Türkiye,GPE,0.5,0.5,en,1.0,,5404004,P,36.17106,-120.22209,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+740,Laoag City,Laoag City,GPE,-0.4,0.6,en,1.0,,1707404,P,18.1978,120.5957,ASIA,Philippines,SEA,Tropical Cyclone
+741,Panama,Panama,GPE,-0.07142857,0.14285714,en,1.0,4044445-4,3703430,A,9.0,-80.0,CENTRAL-AMERICA,Panama,SCA,Tropical Cyclone
+742,BOONE,BOONE,GPE,-0.09722222,0.22222222,en,1.0,4085303-2,4381982,P,38.95171,-92.33407,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+743,Evanston,Evanston,GPE,0.0,0.0,en,1.0,4085637-9,4891382,P,42.04114,-87.69006,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+744,the Big Island,the Big Island,LOC,0.175,0.5,en,1.0,,4747418,P,37.53375,-79.35975,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+745,Central Atlantic,Central Atlantic,LOC,-0.15,0.325,en,1.0,,4847395,S,41.40721,-95.04666,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+746,Interstate 95,Interstate 95,LOC,0.09333333,0.46666667,en,1.0,,7267097,L,34.61434,-79.04046,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+747,Dakota,Dakota,GPE,0.0,0.0,en,1.0,4218173-2,5688025,P,46.80833,-100.78374,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+748,Pacific Northwest,Pacific Northwest,LOC,0.2,0.5,en,1.0,,11961321,L,59.89723,30.32512,EUROPE,Russia,NEU,Tropical Cyclone
+749,PETIT GOAVE,PETIT GOAVE,GPE,-0.00892857,0.28214286,en,1.0,,3718962,P,18.43117,-72.86521,CENTRAL-AMERICA,Haiti,CAR,Tropical Cyclone
+750,the Mojave Desert,the Mojave Desert,LOC,-0.025,0.4,en,1.0,,5373972,T,35.41665,-115.58416,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+751,St. John’s,St. John’s,GPE,0.25,0.4,en,1.0,,3042089,P,49.24556,-2.13861,EUROPE,Jersey,WCE,Tropical Cyclone
+691,SAN JUAN COUNTY,SAN JUAN COUNTY,GPE,-0.08181818,0.42727273,en,1.0,,0,,,,,,,Tropical Cyclone
+690,the Desert Southwest,the Desert Southwest,LOC,-0.16363636,0.85454545,en,1.0,,0,,,,,,,Tropical Cyclone
+689,Desert Southwest,Desert Southwest,LOC,-0.03181818,0.42727273,en,1.0,,0,,,,,,,Tropical Cyclone
+635,Westmoreland,Westmoreland,GPE,-0.05,0.08333333,en,1.0,,0,,,,,,,Tropical Cyclone
+627,Native Alaska,Native Alaska,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+628,Argentina,Argentina,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+629,the Yukon-Kuskokwim Delta,the Yukon-Kuskokwim Delta,LOC,0.1,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+630,Puerto Rico's,Puerto Rico's,GPE,-0.5,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+631,Whitehouse,Whitehouse,GPE,-0.05,0.08333333,en,1.0,,0,,,,,,,Tropical Cyclone
+632,KINGSTON,KINGSTON,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+633,Longwood,Longwood,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+634,St. Elizabeth …,St. Elizabeth …,GPE,0.0,0.3,en,1.0,,0,,,,,,,Tropical Cyclone
+636,the Southwestern United States,the Southwestern United States,GPE,-0.00833333,0.325,en,1.0,,12212300,L,35.10847,-107.72546,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+688,New Mexico,New Mexico,GPE,-0.03181818,0.42727273,en,1.0,,0,,,,,,,Tropical Cyclone
+637,COCONUT CREEK,COCONUT CREEK,GPE,0.24375,0.51875,en,1.0,,0,,,,,,,Tropical Cyclone
+638,Typhoon Kalmaegi,Typhoon Kalmaegi,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+639,"Northeast
+","Northeast
+",LOC,0.0,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+640,NEW HOLLAND,NEW HOLLAND,GPE,0.23030303,0.56212121,en,1.0,,0,,,,,,,Tropical Cyclone
+641,Typhoon Kalmaegis,Typhoon Kalmaegis,LOC,-0.1,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+642,Westmoreland Parish,Westmoreland Parish,GPE,-0.05,0.08333333,en,1.0,,0,,,,,,,Tropical Cyclone
+643,BLACK RIVER,BLACK RIVER,LOC,0.02,0.41,en,1.0,,0,,,,,,,Tropical Cyclone
+645,Antarctic glacier's,Antarctic glacier's,LOC,-0.1,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+626,OMAHA,OMAHA,GPE,0.50833333,0.55,en,1.0,,0,,,,,,,Tropical Cyclone
+625,Cienfuegos,Cienfuegos,GPE,0.0,0.0,en,1.0,4540917-1,3564124,P,22.14681,-80.4481,CENTRAL-AMERICA,Cuba,CAR,Tropical Cyclone
+624,the North Atlantic - Yale Climate Connections,the North Atlantic - Yale Climate Connections,LOC,-0.6,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+623,Quinhagak,Quinhagak,GPE,-0.05333333,0.31333333,en,1.0,,0,,,,,,,Tropical Cyclone
+606,Qui,Qui,GPE,0.0,0.15,en,1.0,,0,,,,,,,Tropical Cyclone
+607,Caribbean COCONUT CREEK,Caribbean COCONUT CREEK,LOC,0.03333333,0.6,en,1.0,,3580607,T,19.3465,-81.08915,CENTRAL-AMERICA,Cayman Islands,CAR,Tropical Cyclone
+608,Six Flags America,Six Flags America,LOC,0.0,0.13333333,en,1.0,,0,,,,,,,Tropical Cyclone
+609,the Colorado River,the Colorado River,LOC,0.0,0.8125,en,1.0,,4338480,H,31.01935,-91.7479,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+610,SLO County,SLO County,GPE,0.0,0.0,en,1.0,,2273878,H,5.96278,-9.66889,AFRICA,Liberia,WAF,Tropical Cyclone
+611,the Antarctic Peninsula,the Antarctic Peninsula,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+612,MONTEGO BAY,MONTEGO BAY,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+613,Niagara,Niagara,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+614,Viet Nam’s,Viet Nam’s,GPE,0.375,0.375,en,1.0,,0,,,,,,,Tropical Cyclone
+615,Antarctic,Antarctic,LOC,0.15833333,0.45833333,en,1.0,,0,,,,,,,Tropical Cyclone
+616,Hektoria glacier,Hektoria glacier,LOC,0.15833333,0.45833333,en,1.0,,0,,,,,,,Tropical Cyclone
+617,Halong,Halong,GPE,0.16666667,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+618,U.K.,U.K.,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+619,Puerto Rico’s,Puerto Rico’s,GPE,-0.5,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+620,Bowie,Bowie,GPE,0.0,0.06666667,en,1.0,,0,,,,,,,Tropical Cyclone
+621,Black River Market,Black River Market,LOC,-0.125,0.28333333,en,1.0,,0,,,,,,,Tropical Cyclone
+622,ST,ST,GPE,0.23030303,0.56212121,en,1.0,,0,,,,,,,Tropical Cyclone
+646,Rosslea,Rosslea,GPE,0.0,0.0,en,1.0,,8348560,P,-19.29871,146.79824,OCEANIA,Australia,NAU,Tropical Cyclone
+647,Sea,Sea,LOC,0.1875,0.4125,en,1.0,,0,,,,,,,Tropical Cyclone
+648,Alaska Native,Alaska Native,GPE,0.08,0.30333333,en,1.0,,0,,,,,,,Tropical Cyclone
+669,Batters East Coast,Batters East Coast,LOC,0.3,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+671,Western Alaska,Western Alaska,LOC,-0.35,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+672,NEW MEXICO,NEW MEXICO,GPE,-0.08181818,0.42727273,en,1.0,,0,,,,,,,Tropical Cyclone
+673,the Nolichucky River,the Nolichucky River,LOC,0.0,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+674,Storm Bualoi,Storm Bualoi,LOC,-0.2,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+675,Ibiza,Ibiza,GPE,0.16666667,0.53333333,en,1.0,,0,,,,,,,Tropical Cyclone
+676,Formentera,Formentera,GPE,0.0,0.03333333,en,1.0,,0,,,,,,,Tropical Cyclone
+677,LOUISVILLE,LOUISVILLE,GPE,0.0,0.1,en,1.0,,0,,,,,,,Tropical Cyclone
+678,the Tennessee River,the Tennessee River,LOC,0.2,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+679,Typhoon Matmo,Typhoon Matmo,GPE,0.25,0.68333333,en,1.0,,0,,,,,,,Tropical Cyclone
+680,Click2Houston Tropical,Click2Houston Tropical,LOC,-0.75,0.9,en,1.0,,0,,,,,,,Tropical Cyclone
+681,Hurricane Florence,Hurricane Florence,GPE,0.0,0.0,en,1.0,,4068650,S,34.8837,-87.27169,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+682,San Francisco's,San Francisco's,GPE,-0.0625,0.57083333,en,1.0,,0,,,,,,,Tropical Cyclone
+683,West Pacific,West Pacific,LOC,-0.0625,0.57083333,en,1.0,,0,,,,,,,Tropical Cyclone
+684,Southwest US,Southwest US,LOC,-0.2,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+685,FORT COLLINS,FORT COLLINS,GPE,0.5,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+686,Korea,Korea,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+687,Puerto Vallarta,Puerto Vallarta,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+670,Last Frontier,Last Frontier,GPE,0.0,0.03333333,en,1.0,,0,,,,,,,Tropical Cyclone
+668,Doha,Doha,GPE,-0.5625,1.40416667,en,1.0,4219005-8,290030,P,25.28545,51.53096,ASIA,Qatar,ARP,Tropical Cyclone
+649,Alaskas,Alaskas,GPE,-0.08333333,0.56666667,en,1.0,,0,,,,,,,Tropical Cyclone
+667,Wellington,Wellington,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+650,Valley,Valley,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+651,batters East Coast,batters East Coast,LOC,-0.02,0.52,en,1.0,,0,,,,,,,Tropical Cyclone
+652,Kipnuk,Kipnuk,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+653,Yukon-Kuskokwim Delta,Yukon-Kuskokwim Delta,LOC,0.05,0.78,en,1.0,,0,,,,,,,Tropical Cyclone
+654,POZA RICA,POZA RICA,GPE,-0.1875,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+655,Southern,Southern,LOC,0.0,0.0,en,1.0,,7729895,L,21.28937,78.66211,ASIA,India,SAS,Tropical Cyclone
+656,Typhoon Halong's,Typhoon Halong's,GPE,0.25,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+657,Poza Rica,Poza Rica,GPE,0.16666667,0.27222222,en,1.0,,0,,,,,,,Tropical Cyclone
+658,Typhoon Halong Historic,Typhoon Halong Historic,GPE,-0.1,0.28,en,1.0,,0,,,,,,,Tropical Cyclone
+659,Kuwait,Kuwait,GPE,-0.175,0.45833333,en,1.0,4073919-3,285570,A,29.5,47.75,ASIA,Kuwait,ARP,Tropical Cyclone
+660,the Windward Island,the Windward Island,LOC,-0.1,0.1,en,1.0,,0,,,,,,,Tropical Cyclone
+661,Akiak,Akiak,GPE,-0.4,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+662,Western Alaskas,Western Alaskas,LOC,0.15,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+663,BATON ROUGE,BATON ROUGE,GPE,-0.05,0.05,en,1.0,,0,,,,,,,Tropical Cyclone
+664,Erdogan,Erdogan,GPE,0.0,0.0,en,1.0,,315508,P,38.88157,36.87911,EUROPE-AFRICA,Turkey,MED,Tropical Cyclone
+665,Qatar,Qatar,GPE,-0.2125,0.4875,en,1.0,4029924-7,289688,A,25.5,51.25,ASIA,Qatar,ARP,Tropical Cyclone
+666,Cape Coral,Cape Coral,LOC,0.0,0.0,en,1.0,,4149962,P,26.56285,-81.94953,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+774,Northern Hemisphere,Northern Hemisphere,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+776,Strait,Strait,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+945,Scotland,Scotland,GPE,-0.15555556,0.28888889,en,1.0,4053233-1,5057190,A,40.4526,-92.14705,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+892,Edinburgh,Edinburgh,GPE,0.2,0.32222222,en,1.0,4013557-3,2650225,P,55.95206,-3.19648,EUROPE,United Kingdom,NEU,Tropical Cyclone
+884,Sumatra island,Sumatra island,LOC,-0.12,0.28,en,1.0,,1626198,T,0.0,102.0,ASIA,Indonesia,SEA,Tropical Cyclone
+885,N.S.,N.S.,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+886,the Malacca Strait,the Malacca Strait,LOC,0.17142857,0.47619048,en,1.0,,0,,,,,,,Tropical Cyclone
+887,Rizal,Rizal,GPE,-0.3,0.4,en,1.0,,7083355,P,8.87722,117.50415,ASIA,Philippines,SEA,Tropical Cyclone
+888,Songkhla,Songkhla,GPE,0.0,0.3,en,1.0,4415782-4,1610780,P,7.00836,100.47668,ASIA,Thailand,SEA,Tropical Cyclone
+889,Hat Yai,Hat Yai,GPE,0.0,0.0,en,1.0,4415782-4,1610780,P,7.00836,100.47668,ASIA,Thailand,SEA,Tropical Cyclone
+890,the South China Sea Read,the South China Sea Read,LOC,0.20333333,0.56333333,en,1.0,,0,,,,,,,Tropical Cyclone
+891,the Atlantic Oceanand,the Atlantic Oceanand,LOC,0.33409091,0.73863636,en,1.0,,0,,,,,,,Tropical Cyclone
+893,Austin Peay,Austin Peay,GPE,0.0,0.0,en,1.0,,4603388,S,36.53332,-87.35408,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+903,Haleakala,Haleakala,GPE,0.0,0.0,en,1.0,,5855405,T,20.70972,-156.25333,PACIFIC,United States,NPO,Tropical Cyclone
+894,The Tiwi Islands,The Tiwi Islands,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+895,Ky,Ky,GPE,0.25,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+896,Cozad,Cozad,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+897,Steinbrenner Field,Steinbrenner Field,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+898,Typhoon Approaches Japan,Typhoon Approaches Japan,GPE,-0.02,0.52,en,1.0,,0,,,,,,,Tropical Cyclone
+899,JAMAICA,JAMAICA,GPE,-0.20454545,0.81818182,en,1.0,,0,,,,,,,Tropical Cyclone
+900,Lahain,Lahain,GPE,0.21666667,0.36666667,en,1.0,,2441724,H,14.9,4.41667,AFRICA,Niger,SAH,Tropical Cyclone
+901,Tropical Cyclone Fina,Tropical Cyclone Fina,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+883,Metro Manila,Metro Manila,GPE,0.0,0.0,en,1.0,4037344-7,1701668,P,14.6042,120.9822,ASIA,Philippines,SEA,Tropical Cyclone
+882,Inner Circle,Inner Circle,LOC,0.25,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+881,Typhoon Doksuri,Typhoon Doksuri,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+880,Atlantic City,Atlantic City,GPE,0.11818182,0.42727273,en,1.0,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+863,Western Jamaica,Western Jamaica,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+864,Typhoon Uwan,Typhoon Uwan,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+865,Mindanao,Mindanao,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+866,Supertyphoon Approaches,Supertyphoon Approaches,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+867,San Bernardino,San Bernardino,GPE,-0.2,0.5,en,1.0,4215729-8,5391710,P,34.10834,-117.28977,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+868,Luzon Island,Luzon Island,GPE,0.33333333,0.66666667,en,1.0,,0,,,,,,,Tropical Cyclone
+869,the aurora borealis,the aurora borealis,LOC,0.55,0.9,en,1.0,,0,,,,,,,Tropical Cyclone
+870,Florida Neighborhood,Florida Neighborhood,GPE,-0.25,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+871,"the South China Sea
+","the South China Sea
+",LOC,0.20333333,0.56333333,en,1.0,,0,,,,,,,Tropical Cyclone
+872,Tulcea County,Tulcea County,GPE,0.1,0.4,en,1.0,,664518,P,45.1787,28.80501,EUROPE,Romania,WCE,Tropical Cyclone
+873,the Van Diemen Gulf,the Van Diemen Gulf,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+874,Family.2025.S01E13.720p,Family.2025.S01E13.720p,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+875,Bay,Bay,LOC,0.15,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+876,far north coastline,far north coastline,LOC,0.05,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+877,threesystem,threesystem,GPE,0.05,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+878,Western Australi,Western Australi,LOC,0.0,0.0,en,1.0,4232458-0,2063523,P,-31.95224,115.8614,OCEANIA,Australia,SAU,Tropical Cyclone
+879,Silicon Valley,Silicon Valley,LOC,-0.11388889,0.17222222,en,1.0,4107751-9,6940309,L,37.37,-122.04,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+902,Arnhem Land,Arnhem Land,LOC,-0.125,0.375,en,1.0,4085943-5,2077568,L,-13.25827,134.8303,OCEANIA,Australia,NAU,Tropical Cyclone
+904,Chilean Patagonia,Chilean Patagonia,GPE,-0.1,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+777,Malacca,Malacca,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+935,The United States (US,The United States (US,GPE,0.0,0.1,en,1.0,,11887752,L,33.45876,-90.15081,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+927,Florida Peninsula,Florida Peninsula,LOC,0.06666667,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+928,the Tampa Bay Area,the Tampa Bay Area,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+929,Drench Atlantic States,Drench Atlantic States,GPE,0.3,0.1,en,1.0,,4192062,S,32.32434,-83.11848,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+930,Cape Hatteras,Cape Hatteras,GPE,0.0,0.0,en,1.0,,6298343,S,35.26667,-75.55,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+931,Nigel,Nigel,GPE,0.0,0.0,en,1.0,,970566,P,-26.43138,28.47713,AFRICA,South Africa,ESAF,Tropical Cyclone
+932,the Gulf of Mexic,the Gulf of Mexic,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+933,southeast coast,southeast coast,LOC,0.0,1.0,en,1.0,,11497251,L,16.47129,107.58478,ASIA,Vietnam,SEA,Tropical Cyclone
+934,Fe,Fe,GPE,0.0125,0.38,en,1.0,,0,,,,,,,Tropical Cyclone
+936,Floridas Big Bend,Floridas Big Bend,GPE,0.255,0.60833333,en,1.0,,0,,,,,,,Tropical Cyclone
+905,The Hebei province,The Hebei province,GPE,0.27777778,0.33333333,en,1.0,,12534326,S,39.96658,119.79547,ASIA,China,EAS,Tropical Cyclone
+937,U.S.A.,U.S.A.,GPE,0.16666667,0.33333333,en,1.0,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB,Tropical Cyclone
+938,S.C.,S.C.,GPE,0.05333333,0.51333333,en,1.0,,4041549,S,15.11772,145.72609,PACIFIC,Northern Mariana Islands,NPO,Tropical Cyclone
+939,MYRTLE BEACH,MYRTLE BEACH,GPE,0.05333333,0.51333333,en,1.0,,4589446,P,33.81601,-78.68002,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+940,SanitationThe,SanitationThe,GPE,-0.2,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+941,Cabo San Lucas,Cabo San Lucas,GPE,0.0,0.0,en,1.0,4452839-5,3985710,P,22.89088,-109.91238,CENTRAL-AMERICA,Mexico,NCA,Tropical Cyclone
+942,Mandalay,Mandalay,GPE,0.0,0.0,en,1.0,4037295-9,1311874,P,21.97473,96.08359,ASIA,Myanmar,SAS,Tropical Cyclone
+943,Pacific island,Pacific island,LOC,0.175,0.36666667,en,1.0,,1862185,T,36.0,138.0,ASIA,Japan,EAS,Tropical Cyclone
+944,Palau,Palau,GPE,0.175,0.36666667,en,1.0,4044396-6,1559582,A,7.503,134.621,PACIFIC,Palau,EPO,Tropical Cyclone
+926,Atlantic Canada ',Atlantic Canada ',LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+925,Fenwick Island,Fenwick Island,GPE,-0.1,0.1,en,1.0,,4142495,P,38.46233,-75.05129,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+924,Typhoon Krathon…,Typhoon Krathon…,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+923,Khaosiung,Khaosiung,GPE,0.0,0.35,en,1.0,,0,,,,,,,Tropical Cyclone
+906,Patagonia,Patagonia,GPE,0.2,0.5,en,1.0,,0,,,,,,,Tropical Cyclone
+907,The Northern Territory,The Northern Territory,LOC,0.3,0.9,en,1.0,,4714582,P,29.59412,-95.68078,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+908,east Asia,east Asia,LOC,0.0,0.0,en,1.0,,12200097,L,32.62857,51.6314,ASIA,Iran,WCA,Tropical Cyclone
+909,Northern China,Northern China,LOC,-0.3,0.4,en,1.0,,349401,A,30.5,33.7,EUROPE-AFRICA,Egypt,MED,Tropical Cyclone
+910,Tiwi Islands,Tiwi Islands,GPE,0.0,0.0,en,1.0,,7839409,A,-11.55324,130.78178,OCEANIA,Australia,NAU,Tropical Cyclone
+911,West Arnhem Land,West Arnhem Land,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+912,Tenn.,Tenn.,GPE,0.0,0.1,en,1.0,,0,,,,,,,Tropical Cyclone
+913,Hong Kong Grounds Flights,Hong Kong Grounds Flights,GPE,0.33333333,0.66666667,en,1.0,,0,,,,,,,Tropical Cyclone
+914,Appalachian,Appalachian,GPE,0.23333333,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+915,Pingtung county,Pingtung county,GPE,-0.29166667,0.54166667,en,1.0,,0,,,,,,,Tropical Cyclone
+916,Southeast ASHEVILLE,Southeast ASHEVILLE,GPE,0.01071429,0.33928571,en,1.0,,9858760,S,35.57054,-82.50894,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+917,The East Coast,The East Coast,LOC,-0.11590909,0.38863636,en,1.0,,0,,,,,,,Tropical Cyclone
+918,North Carolina Coast,North Carolina Coast,GPE,0.0,0.0,en,1.0,4230917-7,4575352,P,34.00071,-81.03481,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+919,McDill AFB,McDill AFB,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+920,BREVARD COUNTY,BREVARD COUNTY,GPE,0.08,0.32,en,1.0,,4163971,P,28.08363,-80.60811,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+921,Wis.,Wis.,GPE,0.0,0.0,en,1.0,,3575263,T,17.15249,-62.58673,CENTRAL-AMERICA,Saint Kitts and Nevis,CAR,Tropical Cyclone
+922,Okeechobee City,Okeechobee City,GPE,0.0,0.06666667,en,1.0,,7169996,A,27.24118,-80.82983,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+862,Gia Lai province,Gia Lai province,GPE,0.0,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+861,Cambodia,Cambodia,GPE,-0.4,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+860,Stung Treng,Stung Treng,GPE,-0.4,0.6,en,1.0,,0,,,,,,,Tropical Cyclone
+807,Buffalo,Buffalo,GPE,0.0,0.0,en,1.0,4080569-4,5110629,P,42.88645,-78.87837,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+799,Proserpine,Proserpine,GPE,0.02020202,0.51085859,en,1.0,,6301301,S,-20.495,148.55222,OCEANIA,Australia,EAU,Tropical Cyclone
+800,Iraq,Iraq,GPE,0.16666667,0.16666667,en,1.0,4072920-5,99237,A,33.0,44.0,ASIA,Iraq,WCA,Tropical Cyclone
+801,north east coast,north east coast,LOC,0.0,0.7,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+802,the Coral Coast,the Coral Coast,LOC,-0.025,0.7,en,1.0,,4149962,P,26.56285,-81.94953,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+803,North Coast,North Coast,LOC,-0.025,0.7,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+804,Hamilton Island,Hamilton Island,GPE,0.00231481,0.5337963,en,1.0,,2164017,T,-20.35333,148.96194,OCEANIA,Australia,EAU,Tropical Cyclone
+805,Norfolk,Norfolk,GPE,-0.25,0.4,en,1.0,4294928-2,2155115,A,-29.03333,167.95,PACIFIC,Norfolk Island,SPO,Tropical Cyclone
+806,Detroit,Detroit,GPE,-0.6,0.9,en,1.0,4011559-8,4990729,P,42.33143,-83.04575,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+808,Minnesota,Minnesota,GPE,0.13636364,0.45454545,en,1.0,4101012-7,5037779,A,46.25024,-94.25055,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+859,the Miami Hurricanes,the Miami Hurricanes,LOC,-0.29166667,0.54166667,en,1.0,,0,,,,,,,Tropical Cyclone
+809,Karachi,Karachi,GPE,0.12916667,0.6375,en,1.0,4097647-6,1174872,P,24.8608,67.0104,ASIA,Pakistan,SAS,Tropical Cyclone
+810,South America,South America,LOC,0.0,0.03333333,en,1.0,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Tropical Cyclone
+811,Statesville,Statesville,GPE,-0.0625,0.8125,en,1.0,4463323-3,4493316,P,35.78264,-80.8873,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+812,Indias Gujarat,Indias Gujarat,LOC,0.1,0.33333333,en,1.0,,0,,,,,,,Tropical Cyclone
+813,Earth Space Sci.9,Earth Space Sci.9,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+814,Nort,Nort,LOC,0.3,0.5,en,1.0,4248910-6,2185018,P,-40.35636,175.61113,OCEANIA,New Zealand,NZ,Tropical Cyclone
+815,Typhoon Mawar,Typhoon Mawar,GPE,-0.29,0.57333333,en,1.0,,0,,,,,,,Tropical Cyclone
+816,BACOLOD,BACOLOD,GPE,0.1,0.4,en,1.0,,1729564,P,10.66667,122.95,ASIA,Philippines,SEA,Tropical Cyclone
+798,the Far North Queensland,the Far North Queensland,LOC,-0.04,0.36,en,1.0,,0,,,,,,,Tropical Cyclone
+797,LA,LA,GPE,0.0,0.0,en,1.0,4127847-1,3911925,P,-16.5,-68.15,SOUTH-AMERICA,Bolivia,SAM,Tropical Cyclone
+796,Caribbean Leeward,Caribbean Leeward,LOC,0.1,0.43333333,en,1.0,,3513090,P,12.12246,-68.88641,CENTRAL-AMERICA,Curacao,CAR,Tropical Cyclone
+795,King Kong,King Kong,GPE,-0.2625,0.4875,en,1.0,,3422320,L,78.0,-24.0,POLAR,Greenland,GIC,Tropical Cyclone
+778,Camp Osborn,Camp Osborn,GPE,0.02222222,0.53333333,en,1.0,,4439964,P,33.52151,-88.72227,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+779,Port Hedland,Port Hedland,GPE,0.0,0.0,en,1.0,1213932335,7839630,A,-20.79258,118.63264,OCEANIA,Australia,CAU,Tropical Cyclone
+780,London,London,GPE,0.0,1.0,en,1.0,4074335-4,2643743,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Tropical Cyclone
+781,Villem,Villem,LOC,0.0,1.0,en,1.0,,6544696,P,52.8975,6.30833,EUROPE,The Netherlands,NEU,Tropical Cyclone
+782,Hawaii`s Big Island,Hawaii`s Big Island,LOC,-0.065,0.49,en,1.0,,0,,,,,,,Tropical Cyclone
+783,Dire Straits,Dire Straits,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+784,United … New,United … New,GPE,0.13636364,0.45454545,en,1.0,,0,,,,,,,Tropical Cyclone
+785,Pelly,Pelly,GPE,0.3,0.5,en,1.0,,6301441,S,68.53444,-89.80806,NORTH-AMERICA,Canada,NEN,Tropical Cyclone
+786,Cocos Keeling Islands,Cocos Keeling Islands,GPE,-0.08333333,0.03333333,en,1.0,,7304591,P,-12.15681,96.82251,INDIAN,Cocos (Keeling) Islands,SIO,Tropical Cyclone
+787,Elizabeth City,Elizabeth City,GPE,-0.25,0.4,en,1.0,5027648-7,5097598,P,40.66399,-74.2107,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+788,the Pittsburgh Penguins,the Pittsburgh Penguins,LOC,-0.15555556,0.28888889,en,1.0,,0,,,,,,,Tropical Cyclone
+789,Northeast Florida,Northeast Florida,LOC,0.18666667,0.48,en,1.0,,4170895,S,29.95782,-81.34198,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+790,Northeast Floridas,Northeast Floridas,LOC,0.18666667,0.48,en,1.0,,0,,,,,,,Tropical Cyclone
+791,the Northwest Pacific,the Northwest Pacific,LOC,0.0,1.0,en,1.0,,9881905,L,45.99696,-118.49854,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+792,Hsiang,Hsiang,GPE,0.0,0.0,en,1.0,,1798654,P,27.61672,113.85353,ASIA,China,EAS,Tropical Cyclone
+793,OHIO,OHIO,GPE,0.0,0.0,en,1.0,4043387-0,5165418,A,40.25034,-83.00018,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+794,Tulane,Tulane,GPE,0.8,0.4,en,1.0,,4343998,S,29.9397,-90.12041,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+817,Okinawa,Okinawa,GPE,-0.29,0.57333333,en,1.0,4247457-7,1856035,P,26.213,127.67851,ASIA,Japan,EAS,Tropical Cyclone
+818,Aggies,Aggies,GPE,0.3,0.43333333,en,1.0,,5062742,P,41.86723,-99.26761,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+819,COLUMBUS,COLUMBUS,GPE,0.0,0.7,en,1.0,4085305-6,4509177,P,39.96118,-82.99879,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+840,ERWIN,ERWIN,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+842,sa,sa,GPE,0.0,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+843,X5.1,X5.1,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+844,Kobe,Kobe,GPE,0.08,0.27,en,1.0,4195257-1,1859171,P,34.6913,135.183,ASIA,Japan,EAS,Tropical Cyclone
+845,Yilan,Yilan,GPE,0.0,0.0,en,1.0,4407796-8,1674199,P,24.757,121.753,ASIA,Taiwan,EAS,Tropical Cyclone
+846,the Deep South,the Deep South,LOC,0.0,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+847,sightings,sightings,GPE,0.0,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+848,Phillippines,Phillippines,GPE,-0.2,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+849,Mountain,Mountain,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+850,U.S. Southwest,U.S. Southwest,GPE,-0.2,0.5,en,1.0,,9252023,A,17.69317,-64.85755,CENTRAL-AMERICA,U.S. Virgin Islands,CAR,Tropical Cyclone
+851,South West,South West,LOC,0.0,0.0,en,1.0,,12110881,L,32.83468,-95.56338,NORTH-AMERICA,United States,CNA,Tropical Cyclone
+852,Queens,Queens,GPE,0.06818182,0.25227273,en,1.0,,0,,,,,,,Tropical Cyclone
+853,New York City’s,New York City’s,GPE,0.02911932,0.33716856,en,1.0,,0,,,,,,,Tropical Cyclone
+854,New York Citys,New York Citys,GPE,0.02911932,0.33716856,en,1.0,,0,,,,,,,Tropical Cyclone
+855,Cebu City,Cebu City,GPE,0.175,0.575,en,1.0,,0,,,,,,,Tropical Cyclone
+856,TN,TN,GPE,-0.2,0.5,en,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Tropical Cyclone
+857,St. Marys,St. Marys,GPE,1.0,1.0,en,1.0,,0,,,,,,,Tropical Cyclone
+858,East Sea,East Sea,LOC,0.21666667,0.36666667,en,1.0,,10922499,L,41.25206,36.96073,EUROPE-AFRICA,Turkey,MED,Tropical Cyclone
+841,Nara city,Nara city,GPE,-0.15555556,0.28888889,en,1.0,,1859951,P,34.50896,135.7929,ASIA,Japan,EAS,Tropical Cyclone
+839,stor… Jamaica,stor… Jamaica,GPE,0.0,0.25,en,1.0,,0,,,,,,,Tropical Cyclone
+820,Buckeye,Buckeye,LOC,0.2,0.5,en,1.0,,5287262,P,33.37032,-112.58378,CENTRAL-AMERICA,United States,NCA,Tropical Cyclone
+838,Tuguegarao City,Tuguegarao City,GPE,0.0,0.0,en,1.0,,1680932,P,17.61577,121.72285,ASIA,Philippines,SEA,Tropical Cyclone
+821,Indian Ocean Territory,Indian Ocean Territory,LOC,-0.12777778,0.24444444,en,1.0,,2078157,U,-50.0,110.0,SOUTHERN,Australia,SOO,Tropical Cyclone
+822,Western Pacific,Western Pacific,LOC,0.26666667,0.5,en,1.0,,11497302,L,10.01211,105.83224,ASIA,Vietnam,SEA,Tropical Cyclone
+823,Lancaster,Lancaster,GPE,0.459375,0.659375,en,1.0,4224165-0,5197079,P,40.03788,-76.30551,NORTH-AMERICA,United States,ENA,Tropical Cyclone
+824,Dampier Peninsula,Dampier Peninsula,LOC,0.0,0.0,en,1.0,,2073197,T,-17.5,122.91667,OCEANIA,Australia,NAU,Tropical Cyclone
+825,North-west Queensland,North-west Queensland,GPE,-0.1,0.4,en,1.0,,8180090,T,-23.29679,151.70754,OCEANIA,Australia,EAU,Tropical Cyclone
+826,Cape Race,Cape Race,GPE,0.1,0.3,en,1.0,,5916164,T,46.65793,-53.07299,ATLANTIC,Canada,NAO,Tropical Cyclone
+827,Oldeconomybuy,Oldeconomybuy,GPE,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+828,Padang,Padang,GPE,0.0,0.31666667,en,1.0,4694891-0,1633419,P,-0.94924,100.35427,ASIA,Indonesia,SEA,Tropical Cyclone
+829,the South East Asian,the South East Asian,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+830,Mexicos Pacific,Mexicos Pacific,LOC,-0.2,0.5,en,1.0,,13152619,L,-4.14627,-79.5362,SOUTH-AMERICA,Ecuador,NWS,Tropical Cyclone
+831,the Amazon River,the Amazon River,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+832,Amazon,Amazon,LOC,0.0,0.0,en,1.0,,0,,,,,,,Tropical Cyclone
+833,LAKE SUPERIOR,LAKE SUPERIOR,GPE,-0.01666667,0.88333333,en,1.0,,0,,,,,,,Tropical Cyclone
+834,Arizona,Arizona,GPE,0.1,0.5,en,1.0,4002920-7,5551752,A,34.5003,-111.50098,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+835,the Pacific region,the Pacific region,LOC,0.5,0.5,en,1.0,,12110848,L,45.53341,-127.13411,NORTH-AMERICA,United States,WNA,Tropical Cyclone
+836,SPRINGS,SPRINGS,GPE,-0.25,0.4,en,1.0,,0,,,,,,,Tropical Cyclone
+837,Central Asia,Central Asia,LOC,0.16666667,0.49444444,en,1.0,,0,,,,,,,Tropical Cyclone
+1287,Cairns,Cairns,GPE,-0.06666667,0.6,en,1.0,4376462-9,2172797,P,-16.92366,145.76613,OCEANIA,Australia,NAU,Tropical Cyclone
