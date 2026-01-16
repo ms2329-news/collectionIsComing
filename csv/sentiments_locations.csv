@@ -1,314 +1,837 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Australia,Australia,GPE,-0.0846811,0.91380142,en,18.6,,-1,,,,,,,Heat Wave
-1,India,India,GPE,0.25899994,1.0212171,en,9.2,,-1,,,,,,,Heat Wave
-2,Florida,Florida,GPE,-0.06460477,0.87349844,en,7.7,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Heat Wave
-3,Queensland,Queensland,GPE,0.14886315,0.3525311,en,7.4,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Heat Wave
-4,Victoria,Victoria,GPE,-0.27334944,0.57387279,en,6.9,,-1,,,,,,,Heat Wave
-5,US,US,GPE,0.31338994,0.88813131,en,6.5,,-1,,,,,,,Heat Wave
-6,Ukraine,Ukraine,GPE,0.36930634,1.05767045,en,6.4,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Heat Wave
-7,Arctic,Arctic,LOC,0.57832563,1.10195172,en,5.9,,-1,,,,,,,Heat Wave
-8,Earth,Earth,LOC,0.29639475,1.64376127,en,5.6,,-1,,,,,,,Heat Wave
-9,Europe,Europe,LOC,0.11089258,0.43303225,en,5.2,,-1,,,,,,,Heat Wave
-10,California,California,GPE,0.16251584,1.76984567,en,4.1,,-1,,,,,,,Heat Wave
-11,U.S.,U.S.,GPE,0.59966216,1.26238739,en,3.7,,-1,,,,,,,Heat Wave
-12,North America,North America,LOC,0.04017857,0.51279762,en,3.5,,-1,,,,,,,Heat Wave
-13,Spain,Spain,GPE,0.36380952,0.88952381,en,3.5,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Heat Wave
-15,Pilbara,Pilbara,GPE,0.12436869,0.31565657,en,3.3,,-1,,,,,,,Heat Wave
-14,Canada,Canada,GPE,0.15663125,0.5632297,en,3.3,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Heat Wave
-16,UK,UK,GPE,0.09677419,1.86648746,en,3.1,,-1,,,,,,,Heat Wave
-17,Russia,Russia,GPE,0.45454545,0.85386119,en,3.1,,-1,,,,,,,Heat Wave
-18,China,China,GPE,-0.05078725,0.82421275,en,3.1,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Heat Wave
-19,Colorado,Colorado,GPE,0.45111459,1.21115465,en,2.9,,-1,,,,,,,Heat Wave
-20,Barcelona,Barcelona,GPE,0.20333333,0.51809524,en,2.8,4004503-1,3128760,X,41.38879,2.15899,EUROPE-AFRICA,Spain,MED,Heat Wave
-21,Miami,Miami,GPE,0.0,0.22222222,en,2.7,,-1,,,,,,,Heat Wave
-22,Kyiv,Kyiv,GPE,-0.03846154,0.57692308,en,2.6,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Heat Wave
-23,Roebourne,Roebourne,GPE,0.1963141,0.34935897,en,2.6,,-1,,,,,,,Heat Wave
-24,Sydney,Sydney,GPE,0.0,0.38461538,en,2.6,4058708-3,2147714,X,-33.867849,151.20732,OCEANIA,,EAU,Heat Wave
-25,Perth,Perth,GPE,0.09245562,0.75443787,en,2.6,,-1,,,,,,,Heat Wave
-26,Manitoba,Manitoba,GPE,0.33076923,0.66923077,en,2.6,4100106-0,6065171,X,55.9,-97.899999,NORTH-AMERICA,Canada,NEN,Heat Wave
-27,Southern California,Southern California,LOC,-0.12418301,0.78431373,en,2.55,,-1,,,,,,,Heat Wave
-30,South Asia,South Asia,LOC,-0.02916667,0.59823232,en,2.4,,-1,,,,,,,Heat Wave
-29,Central Florida,Central Florida,LOC,0.04513889,0.64409722,en,2.4,,-1,,,,,,,Heat Wave
-28,Africa,Africa,LOC,-0.02916667,0.59823232,en,2.4,,-1,,,,,,,Heat Wave
-31,the United States,the United States,GPE,0.27128623,1.19338768,en,2.3,,-1,,,,,,,Heat Wave
-32,Brazil,Brazil,GPE,0.16353306,1.0542011,en,2.2,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Heat Wave
-33,Denver,Denver,GPE,-0.07424242,0.97386364,en,2.2,,-1,,,,,,,Heat Wave
-34,Japan,Japan,GPE,-0.06148217,1.25372346,en,2.1,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Heat Wave
-35,America,America,GPE,0.49431818,0.89772727,en,2.0,,-1,,,,,,,Heat Wave
-39,Türkiye,Türkiye,GPE,0.1754386,0.40935673,en,1.9,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Heat Wave
-38,New York,New York,GPE,0.32578036,1.58240488,en,1.9,,-1,,,,,,,Heat Wave
-37,Paris,Paris,GPE,0.39254386,1.62938596,en,1.9,4044660-8,2988507,X,48.853409,2.3488,EUROPE,France,WCE,Heat Wave
-36,Jamaica,Jamaica,GPE,-0.63721425,3.12780436,en,1.9,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Heat Wave
-47,Kenya,Kenya,GPE,0.1712963,0.41087963,en,1.8,4030236-2,192950,X,1.0,38.0,AFRICA,Kenya,SEAF,Heat Wave
-53,Melbourne,Melbourne,GPE,0.0,0.0,en,1.8,4038526-7,2158177,X,-37.814,144.96332,OCEANIA,Australia,SAU,Heat Wave
-52,Western Australia,Western Australia,LOC,0.08042328,0.54232804,en,1.8,,-1,,,,,,,Heat Wave
-51,the Middle East,the Middle East,LOC,0.0,0.0,en,1.8,,-1,,,,,,,Heat Wave
-50,Brisbane,Brisbane,GPE,0.0,0.55555556,en,1.8,4212528-5,2174003,X,-27.467939,153.028089,OCEANIA,Australia,EAU,Heat Wave
-49,Knoxville,Knoxville,GPE,0.0,0.0,en,1.8,,-1,,,,,,,Heat Wave
-48,Coral Reef,Coral Reef,LOC,-0.11111111,0.37037037,en,1.8,,-1,,,,,,,Heat Wave
-44,Ahmedabad,Ahmedabad,GPE,0.17724868,0.41005291,en,1.8,4000813-7,1279233,X,23.02579,72.58726,ASIA,India,SAS,Heat Wave
-46,TX,TX,GPE,0.27777778,0.36666667,en,1.8,,-1,,,,,,,Heat Wave
-45,Dallas,Dallas,GPE,0.27777778,0.36666667,en,1.8,,-1,,,,,,,Heat Wave
-43,New South Wales,New South Wales,GPE,0.08585859,0.41952862,en,1.8,,-1,,,,,,,Heat Wave
-42,eastern seaboard,eastern seaboard,LOC,-0.06712963,0.76851852,en,1.8,,-1,,,,,,,Heat Wave
-41,Penguin Island,Penguin Island,GPE,0.08333333,0.30555556,en,1.8,,-1,,,,,,,Heat Wave
-40,Western Australia's,Western Australia's,LOC,0.08585859,0.41952862,en,1.8,,-1,,,,,,,Heat Wave
-54,Chicago,Chicago,GPE,0.44451872,0.77094474,en,1.7,4009921-0,4887398,X,41.850029,-87.650049,NORTH-AMERICA,United States,ENA,Heat Wave
-55,ORLANDO,ORLANDO,GPE,0.13970588,0.66911765,en,1.7,,-1,,,,,,,Heat Wave
-56,BC,BC,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Heat Wave
-57,Fla.,Fla.,GPE,0.19013666,0.64795009,en,1.7,,-1,,,,,,,Heat Wave
-58,South America,South America,LOC,0.08080808,0.42424242,en,1.65,,-1,,,,,,,Heat Wave
-59,Greece,Greece,GPE,0.23974116,1.08617424,en,1.6,,-1,,,,,,,Heat Wave
-61,London,London,GPE,0.0,0.0,en,1.6,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Heat Wave
-62,Kashmir,Kashmir,LOC,0.4985119,0.85119048,en,1.6,,-1,,,,,,,Heat Wave
-63,Broncos,Broncos,LOC,-0.18541667,0.83125,en,1.6,,-1,,,,,,,Heat Wave
-64,England,England,GPE,-0.28551136,0.92199337,en,1.6,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Heat Wave
-65,South Florida,South Florida,LOC,0.175,0.56458333,en,1.6,,-1,,,,,,,Heat Wave
-66,NEW YORK,NEW YORK,GPE,0.38068182,1.03977273,en,1.6,,-1,,,,,,,Heat Wave
-60,Sweden,Sweden,GPE,-0.078125,0.546875,en,1.6,4077258-5,2661886,X,62.0,15.0,EUROPE,Sweden,NEU,Heat Wave
-67,Gaza,Gaza,GPE,-0.25909091,0.9530303,en,1.5,,-1,,,,,,,Heat Wave
-70,New York City,New York City,GPE,0.40275201,1.05060812,en,1.4,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Heat Wave
-71,Detroit,Detroit,GPE,0.32142857,1.03571429,en,1.4,4011559-8,4990729,X,42.331429,-83.045749,NORTH-AMERICA,United States,ENA,Heat Wave
-69,Antarctica,Antarctica,LOC,0.00892857,1.85714286,en,1.4,,-1,,,,,,,Heat Wave
-68,Alaska,Alaska,GPE,0.91375661,1.12037037,en,1.4,4001016-8,5879092,X,64.8,-150.8,NORTH-AMERICA,United States,NWN,Heat Wave
-80,New Zealand's,New Zealand's,GPE,0.16503497,0.60909091,en,1.3,,-1,,,,,,,Heat Wave
-86,Haryana,Haryana,GPE,0.0,0.38461538,en,1.3,4239291-3,1270260,X,29.0,76.0,ASIA,India,SAS,Heat Wave
-85,Gulf,Gulf,LOC,-0.32051282,0.66666667,en,1.3,,-1,,,,,,,Heat Wave
-84,Chandigarh,Chandigarh,GPE,0.0,0.38461538,en,1.3,,-1,,,,,,,Heat Wave
-83,Pakistan,Pakistan,GPE,0.0,0.0,en,1.3,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Heat Wave
-82,Northern Canada,Northern Canada,LOC,-0.15384615,0.73076923,en,1.3,,-1,,,,,,,Heat Wave
-81,Western Sydney,Western Sydney,LOC,-0.20512821,0.37606838,en,1.3,,-1,,,,,,,Heat Wave
-87,the Atacama plains,the Atacama plains,LOC,-0.37179487,0.78632479,en,1.3,,-1,,,,,,,Heat Wave
-79,Grenoble,Grenoble,GPE,0.06944444,0.38888889,en,1.3,4021985-9,3014728,X,45.16667,5.716669,EUROPE,France,WCE,Heat Wave
-77,NY,NY,GPE,0.27222777,0.74014874,en,1.3,,-1,,,,,,,Heat Wave
-76,Disney Springs,Disney Springs,GPE,0.2534965,0.65268065,en,1.3,,-1,,,,,,,Heat Wave
-75,Caribbean,Caribbean,LOC,-1.33846154,2.23846154,en,1.3,,-1,,,,,,,Heat Wave
-74,Iceland,Iceland,GPE,0.53846154,1.07692308,en,1.3,4027754-9,2629691,X,65.0,-18.0,POLAR,Iceland,GIC,Heat Wave
-73,Mexico,Mexico,GPE,0.31623932,0.38461538,en,1.3,,-1,,,,,,,Heat Wave
-72,Louisville,Louisville,GPE,-0.17948718,0.65384615,en,1.3,,-1,,,,,,,Heat Wave
-78,NZ,NZ,GPE,0.0,0.0,en,1.3,,-1,,,,,,,Heat Wave
-92,Illinois,Illinois,GPE,-0.01388889,0.75462963,en,1.2,4109206-5,4896861,X,40.2,-89.25037,NORTH-AMERICA,United States,ENA,Heat Wave
-96,Americas,Americas,LOC,0.06155303,1.00378788,en,1.2,,-1,,,,,,,Heat Wave
-95,Mumbai,Mumbai,GPE,1.10648148,1.3275463,en,1.2,10013721-0,1275339,X,19.072777,72.8825,ASIA,India,SAS,Heat Wave
-94,New Orleans,New Orleans,GPE,0.02424242,1.15858586,en,1.2,,-1,,,,,,,Heat Wave
-93,Antarctic,Antarctic,LOC,0.04166667,0.58333333,en,1.2,,-1,,,,,,,Heat Wave
-91,West Virginia,West Virginia,GPE,-0.2,0.96388889,en,1.2,4119079-8,4826850,X,38.500379,-80.50009,NORTH-AMERICA,United States,ENA,Heat Wave
-90,Columbus,Columbus,GPE,0.03472222,0.71527778,en,1.2,,-1,,,,,,,Heat Wave
-89,Richmond,Richmond,GPE,-0.25,0.41666667,en,1.2,,-1,,,,,,,Heat Wave
-88,Chennai,Chennai,GPE,-0.20833333,0.78472222,en,1.2,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Heat Wave
-126,B.C.,B.C.,GPE,-0.17171717,0.8030303,en,1.1,,-1,,,,,,,Heat Wave
-118,Long Beach,Long Beach,GPE,-0.00909091,0.82424242,en,1.1,,-1,,,,,,,Heat Wave
-119,Light Ivory,Light Ivory,GPE,0.15909091,0.875,en,1.1,,-1,,,,,,,Heat Wave
-120,Chadster,Chadster,GPE,-0.28146853,0.96503497,en,1.1,,-1,,,,,,,Heat Wave
-121,Elkhart,Elkhart,GPE,0.21694215,0.87465565,en,1.1,,-1,,,,,,,Heat Wave
-122,Indiana,Indiana,GPE,0.21694215,0.87465565,en,1.1,4109219-3,4921868,X,40.2,-86.25027,NORTH-AMERICA,United States,ENA,Heat Wave
-123,United States,United States,GPE,-0.14049587,0.4862259,en,1.1,,-1,,,,,,,Heat Wave
-124,Conn.,Conn.,GPE,-0.54545455,0.90909091,en,1.1,,-1,,,,,,,Heat Wave
-125,St. Louis,St. Louis,GPE,0.03434343,0.81212121,en,1.1,4118223-6,4407066,X,38.62727,-90.19789,NORTH-AMERICA,United States,CNA,Heat Wave
-134,Appalachia,Appalachia,LOC,0.0,0.09090909,en,1.1,,-1,,,,,,,Heat Wave
-127,Madagascar,Madagascar,GPE,0.90909091,0.90909091,en,1.1,4074425-5,1062947,X,-20.0,47.0,AFRICA,Madagascar,MDG,Heat Wave
-128,Shanghai,Shanghai,GPE,0.0,0.0,en,1.1,4052066-3,1796236,X,31.22222,121.45806,ASIA,China,EAS,Heat Wave
-129,Moscow,Moscow,GPE,0.29090909,0.50909091,en,1.1,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Heat Wave
-130,Iowa,Iowa,GPE,-0.15151515,0.68181818,en,1.1,4109226-0,4862182,X,42.7,-93.500489,NORTH-AMERICA,United States,CNA,Heat Wave
-131,Leningrad,Leningrad,GPE,0.88636364,1.81818182,en,1.1,2018305-7,498817,X,59.894166,30.264166,EUROPE,Russia,NEU,Heat Wave
-132,Charleston,Charleston,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-133,Kabul,Kabul,GPE,-0.69264069,1.34199134,en,1.1,4029127-3,1138958,X,34.528129,69.17233,ASIA,Afghanistan,WCA,Heat Wave
-116,Dublin,Dublin,GPE,0.3,0.51515152,en,1.1,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Heat Wave
-117,Atlanta,Atlanta,GPE,0.38739669,1.03374656,en,1.1,4086063-2,4180439,X,33.748888,-84.387777,NORTH-AMERICA,United States,ENA,Heat Wave
-111,Rimtang,Rimtang,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-115,Jollywood,Jollywood,GPE,0.59090909,0.90151515,en,1.1,,-1,,,,,,,Heat Wave
-105,the Cheshire Basin,the Cheshire Basin,LOC,0.0,0.72727273,en,1.1,,-1,,,,,,,Heat Wave
-114,Lake Superior,Lake Superior,LOC,0.59090909,0.81818182,en,1.1,,-1,,,,,,,Heat Wave
-98,Thamesmead,Thamesmead,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-99,Alabama,Alabama,GPE,0.38739669,1.03374656,en,1.1,4084839-5,4829764,X,32.75041,-86.750259,NORTH-AMERICA,United States,ENA,Heat Wave
-100,Asia,Asia,LOC,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-101,Palm,Palm,GPE,0.45454545,0.60606061,en,1.1,,-1,,,,,,,Heat Wave
-102,KY,KY,GPE,0.0,0.54545455,en,1.1,,-1,,,,,,,Heat Wave
-103,Cuba,Cuba,GPE,-0.26262626,0.77777778,en,1.1,,-1,,,,,,,Heat Wave
-104,Vail,Vail,GPE,0.31877214,0.99763872,en,1.1,,-1,,,,,,,Heat Wave
-97,Hong Kong's,Hong Kong's,GPE,0.27613636,1.14545455,en,1.1,,-1,,,,,,,Heat Wave
-106,Belém,Belém,GPE,0.45454545,0.45454545,en,1.1,,-1,,,,,,,Heat Wave
-108,Pune,Pune,GPE,-0.13939394,0.41212121,en,1.1,16035299-X,1259229,X,18.519444,73.855277,ASIA,India,SAS,Heat Wave
-109,Georgia,Georgia,GPE,0.38739669,1.03374656,en,1.1,4020273-2,4197000,X,32.750419,-83.50018,NORTH-AMERICA,United States,ENA,Heat Wave
-110,A.L.,A.L.,GPE,0.0,0.27272727,en,1.1,,-1,,,,,,,Heat Wave
-112,the Atlantic Basin,the Atlantic Basin,LOC,0.72727273,1.36363636,en,1.1,,-1,,,,,,,Heat Wave
-113,Croatia,Croatia,GPE,0.25454545,0.32727273,en,1.1,4073841-3,3202326,X,45.16667,15.5,EUROPE,Croatia,WCE,Heat Wave
-107,the Caribbean Sea,the Caribbean Sea,LOC,-0.21212121,0.93939394,en,1.1,,-1,,,,,,,Heat Wave
-256,Orlando,Orlando,GPE,0.10795455,0.53484848,en,1.0,,-1,,,,,,,Heat Wave
-248,New Orleans Saints,New Orleans Saints,LOC,0.06818182,0.22727273,en,1.0,,-1,,,,,,,Heat Wave
-249,CALIFORNIA,CALIFORNIA,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-250,UNITED STATES,UNITED STATES,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-251,Pacific Palisades,Pacific Palisades,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-252,Los Angeles,Los Angeles,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-253,Abilene,Abilene,GPE,-0.1,0.1,en,1.0,,-1,,,,,,,Heat Wave
-254,Texas,Texas,GPE,-0.1,0.1,en,1.0,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Heat Wave
-255,Immokalee,Immokalee,GPE,0.17142857,0.55714286,en,1.0,,-1,,,,,,,Heat Wave
-260,Jordan,Jordan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-257,Misso…,Misso…,GPE,0.17045455,0.53484848,en,1.0,,-1,,,,,,,Heat Wave
-258,recombinases,recombinases,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Heat Wave
-259,South Africa,South Africa,GPE,0.0,1.0,en,1.0,4078012-0,953987,X,-29.0,24.0,AFRICA,South Africa,WSAF,Heat Wave
-261,the east bank,the east bank,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-262,the Jordan River,the Jordan River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-263,Philippines,Philippines,GPE,0.16666667,0.33333333,en,1.0,4045771-0,1694008,X,13.0,122.0,ASIA,,SEA,Heat Wave
-247,STAMFORD,STAMFORD,GPE,-0.3,0.5,en,1.0,,-1,,,,,,,Heat Wave
-265,Manhattan,Manhattan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-266,Italy,Italy,GPE,-0.2,0.375,en,1.0,,-1,,,,,,,Heat Wave
-264,EPCOT,EPCOT,GPE,0.5,0.2,en,1.0,,-1,,,,,,,Heat Wave
-239,Mongolia,Mongolia,GPE,0.45,0.625,en,1.0,,-1,,,,,,,Heat Wave
-246,Marseille,Marseille,GPE,0.5,0.5,en,1.0,4037694-1,2995469,X,43.29695,5.38107,EUROPE-AFRICA,France,MED,Heat Wave
-245,Cybertruck,Cybertruck,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-226,S.C.,S.C.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-227,Afghanistan,Afghanistan,GPE,0.03809524,0.47619048,en,1.0,4000687-6,1149361,X,33.0,66.0,ASIA,Afghanistan,WCA,Heat Wave
-228,San Diego,San Diego,GPE,0.25,0.85,en,1.0,,-1,,,,,,,Heat Wave
-229,St. Louis',St. Louis',GPE,-0.03888889,0.66666667,en,1.0,,-1,,,,,,,Heat Wave
-230,San Bernardino C,San Bernardino C,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Heat Wave
-231,Reborn,Reborn,GPE,-0.26666667,0.3,en,1.0,,-1,,,,,,,Heat Wave
-232,tRNAs,tRNAs,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-233,Philadelphia,Philadelphia,GPE,0.25,0.5,en,1.0,,-1,,,,,,,Heat Wave
-234,Wyncote,Wyncote,GPE,0.25,0.5,en,1.0,,-1,,,,,,,Heat Wave
-235,Pa.,Pa.,GPE,0.25,0.5,en,1.0,,-1,,,,,,,Heat Wave
-236,Kimberley,Kimberley,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-237,Bogar AR,Bogar AR,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-238,et al,et al,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-268,Acapulco,Acapulco,GPE,-0.15555556,0.28888889,en,1.0,,-1,,,,,,,Heat Wave
-240,BRUSSELS,BRUSSELS,GPE,0.09166667,0.45,en,1.0,,-1,,,,,,,Heat Wave
-241,commande,commande,GPE,0.06875,0.4,en,1.0,,-1,,,,,,,Heat Wave
-242,Hunan,Hunan,GPE,-0.14285714,0.35714286,en,1.0,,-1,,,,,,,Heat Wave
-243,Accor,Accor,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-244,Yorkshire Water,Yorkshire Water,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-267,Tarquinia,Tarquinia,GPE,0.0,0.0,en,1.0,4105777-6,3165919,X,42.25419,11.75657,EUROPE-AFRICA,Italy,MED,Heat Wave
-277,Ireland,Ireland,GPE,0.5,0.5,en,1.0,4027667-3,2963597,X,53.0,-8.0,EUROPE,Ireland,NEU,Heat Wave
-269,Flemington,Flemington,GPE,0.125,0.31111111,en,1.0,,-1,,,,,,,Heat Wave
-270,Goa,Goa,GPE,0.0,0.0,en,1.0,4021394-8,1271156,X,15.50195,73.910089,ASIA,India,SAS,Heat Wave
-294,Tampa,Tampa,GPE,-0.06980519,0.32088745,en,1.0,,-1,,,,,,,Heat Wave
-295,Atlantic,Atlantic,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-296,New Hope,New Hope,GPE,0.11818182,0.42727273,en,1.0,,-1,,,,,,,Heat Wave
-297,Israel,Israel,GPE,-0.125,0.375,en,1.0,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Heat Wave
-298,East Colfax,East Colfax,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-299,Aurora,Aurora,GPE,0.16666667,0.46666667,en,1.0,,-1,,,,,,,Heat Wave
-300,Washington,Washington,GPE,-0.05,0.60625,en,1.0,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Heat Wave
-301,barbecue,barbecue,GPE,0.16666667,0.46666667,en,1.0,,-1,,,,,,,Heat Wave
-302,landfalling Atlantic,landfalling Atlantic,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-303,recordis,recordis,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-304,Va,Va,GPE,0.17532468,0.5487013,en,1.0,,-1,,,,,,,Heat Wave
-305,Santa Maria,Santa Maria,GPE,-0.17777778,0.48333333,en,1.0,,-1,,,,,,,Heat Wave
-306,St. Regis,St. Regis,GPE,-0.02121212,0.78484848,en,1.0,,-1,,,,,,,Heat Wave
-307,Central Switzerland,Central Switzerland,LOC,0.13333333,0.48333333,en,1.0,,-1,,,,,,,Heat Wave
-308,Delhi,Delhi,GPE,0.33333333,0.71666667,en,1.0,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Heat Wave
-309,Montana,Montana,GPE,-0.01666667,0.3,en,1.0,4040138-8,5667009,X,47.5,-109.751019,NORTH-AMERICA,United States,WNA,Heat Wave
-310,Capricornia,Capricornia,LOC,0.06818182,0.35227273,en,1.0,,-1,,,,,,,Heat Wave
-311,Mackay,Mackay,GPE,0.06818182,0.35227273,en,1.0,,-1,,,,,,,Heat Wave
-224,South Carolina,South Carolina,GPE,0.0,0.0,en,1.0,4055656-6,4597040,X,34.3,-81.0,NORTH-AMERICA,United States,ENA,Heat Wave
-293,Floridas,Floridas,GPE,-0.04,0.55,en,1.0,,-1,,,,,,,Heat Wave
-292,Atlantic Ocean,Atlantic Ocean,LOC,0.01666667,0.58333333,en,1.0,,-1,,,,,,,Heat Wave
-291,the National Oceanic,the National Oceanic,LOC,-0.25,0.45,en,1.0,,-1,,,,,,,Heat Wave
-280,Kan.,Kan.,GPE,-0.1,0.51666667,en,1.0,,-1,,,,,,,Heat Wave
-271,Adriatic,Adriatic,LOC,0.425,0.5,en,1.0,,-1,,,,,,,Heat Wave
-272,ISTANBUL,ISTANBUL,GPE,0.03333333,0.31111111,en,1.0,,-1,,,,,,,Heat Wave
-273,Georgetown,Georgetown,GPE,-0.2,0.75,en,1.0,,-1,,,,,,,Heat Wave
-274,chile,chile,GPE,0.375,0.5,en,1.0,,-1,,,,,,,Heat Wave
-275,Turkey,Turkey,GPE,0.8,0.75,en,1.0,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Heat Wave
-276,turkey,turkey,GPE,-0.15625,0.71875,en,1.0,,-1,,,,,,,Heat Wave
-278,Hong Kong,Hong Kong,GPE,0.0,0.0,en,1.0,4025822-1,1819730,X,22.25,114.166666,ASIA,Hong Kong,EAS,Heat Wave
-279,Tokyo,Tokyo,GPE,-0.4,0.7,en,1.0,4078337-6,1850147,X,35.6895,139.69171,ASIA,Japan,EAS,Heat Wave
-281,Honolulu,Honolulu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-290,McDowell County,McDowell County,GPE,0.08,0.30333333,en,1.0,,-1,,,,,,,Heat Wave
-282,LOUISVILLE,LOUISVILLE,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Heat Wave
-283,the Sonoran Desert,the Sonoran Desert,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-284,Bethany,Bethany,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-285,HOUSTON,HOUSTON,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Heat Wave
-286,Northern,Northern,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-287,Colfax,Colfax,GPE,0.5,0.5,en,1.0,,-1,,,,,,,Heat Wave
-288,Southern Hemispheres,Southern Hemispheres,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-289,the Atlantic Ocean,the Atlantic Ocean,LOC,0.28571429,0.53571429,en,1.0,,-1,,,,,,,Heat Wave
-225,CHARLESTON,CHARLESTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-156,Philly,Philly,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-223,Imperial Valley,Imperial Valley,LOC,0.17708333,0.42083333,en,1.0,,-1,,,,,,,Heat Wave
-178,the Mediterranean basin,the Mediterranean basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-158,South Australia,South Australia,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-159,Bollywood,Bollywood,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-160,the Gulf Stream,the Gulf Stream,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-161,ATHENS,ATHENS,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-162,Birkenstocks Arizona,Birkenstocks Arizona,GPE,0.6,0.6,en,1.0,,-1,,,,,,,Heat Wave
-163,Tasmania,Tasmania,GPE,0.0297619,0.47619048,en,1.0,,-1,,,,,,,Heat Wave
-164,MUMBAI,MUMBAI,GPE,0.08,0.27,en,1.0,,-1,,,,,,,Heat Wave
-165,Bombay,Bombay,GPE,0.08,0.27,en,1.0,4007629-5,1275339,X,19.072829,72.882609,ASIA,India,SAS,Heat Wave
-166,Siaya County,Siaya County,GPE,0.18333333,0.38333333,en,1.0,,-1,,,,,,,Heat Wave
-167,the South Pole Basin,the South Pole Basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-168,Britain,Britain,GPE,-0.11174242,0.42613636,en,1.0,,-1,,,,,,,Heat Wave
-169,Toberer,Toberer,GPE,-0.3,0.4,en,1.0,,-1,,,,,,,Heat Wave
-170,Boreal Mountain,Boreal Mountain,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-171,P.,P.,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Heat Wave
-172,Cal,Cal,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-173,Germany,Germany,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-174,Greenland,Greenland,GPE,0.190625,0.578125,en,1.0,4022113-1,3425505,X,72.0,-40.0,POLAR,Greenland,GIC,Heat Wave
-175,the Appalachian Mountains,the Appalachian Mountains,LOC,0.190625,0.578125,en,1.0,,-1,,,,,,,Heat Wave
-176,Salisbury,Salisbury,GPE,-0.2,0.3,en,1.0,4118286-8,2638664,X,51.06931,-1.79569,EUROPE,United Kingdom,NEU,Heat Wave
-157,Bay heat,Bay heat,LOC,0.0625,0.925,en,1.0,,-1,,,,,,,Heat Wave
-155,Europes,Europes,LOC,0.14375,0.4125,en,1.0,,-1,,,,,,,Heat Wave
-154,Hawkes Bay,Hawkes Bay,LOC,0.16666667,0.56666667,en,1.0,,-1,,,,,,,Heat Wave
-143,Shinozaki K,Shinozaki K,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-135,Punjab,Punjab,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Heat Wave
-136,Newport,Newport,GPE,0.16666667,0.33333333,en,1.0,,-1,,,,,,,Heat Wave
-137,the mediterranean sea,the mediterranean sea,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-138,Arctic National Wildlife Refuge,Arctic National Wildlife Refuge,LOC,0.0,0.05,en,1.0,,-1,,,,,,,Heat Wave
-139,the North Atlantic,the North Atlantic,LOC,0.090625,0.4125,en,1.0,,-1,,,,,,,Heat Wave
-140,Kastellorizo,Kastellorizo,LOC,0.1,0.53333333,en,1.0,4115076-4,257079,X,36.142222,29.581388,EUROPE-AFRICA,Greece,MED,Heat Wave
-141,Parramatta,Parramatta,GPE,0.07727273,0.37757576,en,1.0,,-1,,,,,,,Heat Wave
-142,JACKSONVILLE,JACKSONVILLE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-144,Heat Pumps,Heat Pumps,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-153,Malaysia,Malaysia,GPE,0.4,0.4,en,1.0,4037203-0,1733045,X,2.5,112.5,ASIA,Malaysia,SEA,Heat Wave
-145,Jacksonville,Jacksonville,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-146,Kadenge Ratuoro,Kadenge Ratuoro,GPE,0.18333333,0.38333333,en,1.0,,-1,,,,,,,Heat Wave
-147,vermút,vermút,GPE,0.2,0.3,en,1.0,,-1,,,,,,,Heat Wave
-148,Arctic National Wildlife Refug,Arctic National Wildlife Refug,LOC,0.0,0.05,en,1.0,,-1,,,,,,,Heat Wave
-149,Belem,Belem,GPE,0.0375,0.2375,en,1.0,,-1,,,,,,,Heat Wave
-150,Wisconsin,Wisconsin,GPE,-0.15833333,0.56666667,en,1.0,4119135-3,5279468,X,44.500239,-90.1,NORTH-AMERICA,United States,CNA,Heat Wave
-151,Baja,Baja,GPE,0.16727273,0.35590909,en,1.0,,-1,,,,,,,Heat Wave
-152,Pacific Northwest,Pacific Northwest,LOC,0.1,0.5,en,1.0,,-1,,,,,,,Heat Wave
-177,east coast,east coast,LOC,-0.0625,0.75,en,1.0,,-1,,,,,,,Heat Wave
-179,Arctic sea,Arctic sea,LOC,0.8,0.9,en,1.0,,-1,,,,,,,Heat Wave
-222,the Blue Ridge,the Blue Ridge,LOC,0.0,0.1,en,1.0,,-1,,,,,,,Heat Wave
-180,North,North,GPE,0.2,0.5,en,1.0,,-1,,,,,,,Heat Wave
-203,Lahore,Lahore,GPE,0.0,0.0,en,1.0,4034107-0,1172451,X,31.54972,74.343609,ASIA,Pakistan,WCA,Heat Wave
-204,the north Pacific,the north Pacific,LOC,0.25,0.85,en,1.0,,-1,,,,,,,Heat Wave
-205,Nanaimo,Nanaimo,GPE,0.06111111,0.48333333,en,1.0,,-1,,,,,,,Heat Wave
-206,Roman,Roman,GPE,-0.4,0.55,en,1.0,,-1,,,,,,,Heat Wave
-207,Darby Allin,Darby Allin,GPE,-0.325,0.70625,en,1.0,,-1,,,,,,,Heat Wave
-208,Crete,Crete,GPE,-0.2,0.29166667,en,1.0,,-1,,,,,,,Heat Wave
-209,Attic… Rain,Attic… Rain,LOC,-0.2,0.29166667,en,1.0,,-1,,,,,,,Heat Wave
-210,Indonesia,Indonesia,GPE,0.13636364,0.45454545,en,1.0,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Heat Wave
-211,Ambolimailaky,Ambolimailaky,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-212,VA,VA,GPE,-0.3,0.5,en,1.0,,-1,,,,,,,Heat Wave
-213,RICHMOND,RICHMOND,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-214,Va.,Va.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-215,Williams,Williams,GPE,0.03333333,0.35,en,1.0,,-1,,,,,,,Heat Wave
-216,Pacific Ocean,Pacific Ocean,LOC,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Heat Wave
-217,Central Iowa,Central Iowa,LOC,0.125,0.29166667,en,1.0,,-1,,,,,,,Heat Wave
-218,Brisbane/,Brisbane/,GPE,-0.6,0.7,en,1.0,,-1,,,,,,,Heat Wave
-219,Meanjin,Meanjin,GPE,-0.6,0.7,en,1.0,,-1,,,,,,,Heat Wave
-220,WASHINGTON,WASHINGTON,GPE,-0.03333333,0.83333333,en,1.0,,-1,,,,,,,Heat Wave
-221,Key Largo,Key Largo,LOC,0.03333333,0.5,en,1.0,,-1,,,,,,,Heat Wave
-202,TALLAHASSEE,TALLAHASSEE,GPE,0.32323232,0.65151515,en,1.0,,-1,,,,,,,Heat Wave
-201,the Central Highlands,the Central Highlands,LOC,0.06818182,0.35227273,en,1.0,,-1,,,,,,,Heat Wave
-200,Saudi Arabia,Saudi Arabia,GPE,0.0,0.25,en,1.0,4051788-3,102358,X,25.0,45.0,ASIA,Saudi Arabia,ARP,Heat Wave
-189,protecti,protecti,GPE,0.21428571,0.42857143,en,1.0,,-1,,,,,,,Heat Wave
-181,West Africa,West Africa,GPE,0.245,0.67,en,1.0,,-1,,,,,,,Heat Wave
-182,Northern Indiana,Northern Indiana,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-183,South,South,LOC,0.0875,0.45,en,1.0,,-1,,,,,,,Heat Wave
-184,Valley,Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-185,France,France,GPE,0.08333333,0.28333333,en,1.0,,-1,,,,,,,Heat Wave
-186,New York Unheated,New York Unheated,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Heat Wave
-187,Yuan,Yuan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-188,Santa,Santa,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-190,Santa Claus,Santa Claus,GPE,0.25,0.85,en,1.0,,-1,,,,,,,Heat Wave
-199,TOKYO,TOKYO,GPE,-0.24,0.42,en,1.0,,-1,,,,,,,Heat Wave
-191,"AU$1,300","AU$1,300",GPE,0.21111111,0.54444444,en,1.0,,-1,,,,,,,Heat Wave
-192,MIAMI,MIAMI,GPE,-0.43333333,0.6,en,1.0,,-1,,,,,,,Heat Wave
-193,oscillationsrecurring,oscillationsrecurring,GPE,0.3,0.45,en,1.0,,-1,,,,,,,Heat Wave
-194,TN,TN,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-195,Chile,Chile,GPE,0.0,0.25,en,1.0,4009929-5,3895114,X,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Heat Wave
-196,Manchester United,Manchester United,GPE,-0.05,0.08125,en,1.0,,-1,,,,,,,Heat Wave
-197,The Atacama Desert,The Atacama Desert,LOC,0.36666667,0.75,en,1.0,,-1,,,,,,,Heat Wave
-198,The United States,The United States,GPE,0.175,0.435,en,1.0,,-1,,,,,,,Heat Wave
-312,Hastings,Hastings,GPE,0.16666667,0.56666667,en,1.0,4023626-2,2647356,X,50.85519,0.57292,EUROPE,,NEU,Heat Wave
+0,Northeast,Northeast,LOC,0.1395853,0.53050281,en,87.5,,-1,,,,,,,Snow&Ice
+1,Chicago,Chicago,GPE,0.09738855,0.571422,en,65.0,4009921-0,4887398,X,41.850029,-87.650049,NORTH-AMERICA,United States,ENA,Snow&Ice
+2,Midwest,Midwest,LOC,0.03208588,0.48283651,en,57.0,,-1,,,,,,,Snow&Ice
+3,U.S.,U.S.,GPE,0.1174179,0.59450612,en,56.4,,-1,,,,,,,Snow&Ice
+4,New York,New York,GPE,0.12026144,0.54787288,en,45.5,,-1,,,,,,,Snow&Ice
+5,Colorado,Colorado,GPE,0.13517674,0.41861717,en,39.3,,-1,,,,,,,Snow&Ice
+6,US,US,GPE,0.07604821,0.60530676,en,38.5,,-1,,,,,,,Snow&Ice
+7,Europe,Europe,LOC,-0.01013577,0.36366043,en,35.0,,-1,,,,,,,Snow&Ice
+8,Germany,Germany,GPE,0.11952563,0.36010463,en,34.4,,-1,,,,,,,Snow&Ice
+9,California,California,GPE,0.08152394,0.74079948,en,33.4,,-1,,,,,,,Snow&Ice
+10,Arctic,Arctic,LOC,-0.0404531,0.59704771,en,31.4,,-1,,,,,,,Snow&Ice
+11,Toronto,Toronto,GPE,0.11653521,0.44170835,en,30.1,4060459-7,6167865,X,43.70011,-79.4163,NORTH-AMERICA,Canada,ENA,Snow&Ice
+12,New York City,New York City,GPE,0.11184855,0.58631458,en,29.5,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Snow&Ice
+13,Ontario,Ontario,GPE,0.1135451,0.48974116,en,28.9,4102089-3,6093943,X,49.25014,-84.49983,NORTH-AMERICA,Canada,ENA,Snow&Ice
+14,UK,UK,GPE,0.03023926,0.62876349,en,28.4,,-1,,,,,,,Snow&Ice
+15,Kashmir,Kashmir,LOC,0.18821355,0.5112461,en,24.4,,-1,,,,,,,Snow&Ice
+16,Great Lakes,Great Lakes,LOC,0.54471233,0.84015289,en,23.6,,-1,,,,,,,Snow&Ice
+17,New Jersey,New Jersey,GPE,0.09359823,0.50718669,en,21.7,4042004-8,5101760,X,40.167059,-74.49987,NORTH-AMERICA,United States,ENA,Snow&Ice
+18,Canada,Canada,GPE,-0.04493444,0.67839353,en,21.6,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Snow&Ice
+19,the United States,the United States,GPE,0.1864419,0.54391031,en,21.4,,-1,,,,,,,Snow&Ice
+20,Michigan,Michigan,GPE,0.10137266,0.39788322,en,20.8,4115139-2,5001836,X,44.250289,-85.50033,NORTH-AMERICA,United States,ENA,Snow&Ice
+21,Wisconsin,Wisconsin,GPE,0.04716722,0.2095022,en,20.2,4119135-3,5279468,X,44.500239,-90.1,NORTH-AMERICA,United States,CNA,Snow&Ice
+22,Denver,Denver,GPE,0.09276179,0.37611669,en,19.9,,-1,,,,,,,Snow&Ice
+23,Scotland,Scotland,GPE,0.10366354,0.33906835,en,19.7,4053233-1,2638360,X,56.0,-4.0,EUROPE,United Kingdom,NEU,Snow&Ice
+24,Iowa,Iowa,GPE,0.02568251,0.40522384,en,19.4,4109226-0,4862182,X,42.7,-93.500489,NORTH-AMERICA,United States,CNA,Snow&Ice
+25,Ohio,Ohio,GPE,0.0546194,0.38142265,en,18.1,,-1,,,,,,,Snow&Ice
+26,Massachusetts,Massachusetts,GPE,0.05181,0.32565882,en,17.9,4037858-5,6254926,X,42.36565,-71.10832,NORTH-AMERICA,United States,ENA,Snow&Ice
+27,Lancaster County,Lancaster County,GPE,0.08633721,0.20077519,en,17.2,,-1,,,,,,,Snow&Ice
+28,Finland,Finland,GPE,0.09335129,0.38618903,en,17.2,,-1,,,,,,,Snow&Ice
+29,Japan,Japan,GPE,0.21927104,0.52995154,en,15.0,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Snow&Ice
+30,the Great Lakes,the Great Lakes,LOC,0.39713091,0.85500216,en,14.6,,-1,,,,,,,Snow&Ice
+32,Philadelphia,Philadelphia,GPE,0.03556949,0.4146186,en,14.5,,-1,,,,,,,Snow&Ice
+31,NYC,NYC,GPE,0.06307372,0.46552806,en,14.5,,-1,,,,,,,Snow&Ice
+33,NY,NY,GPE,0.09729185,0.42916705,en,14.3,,-1,,,,,,,Snow&Ice
+34,Pennsylvania,Pennsylvania,GPE,0.09643086,0.33669441,en,14.2,4045103-3,6254927,X,40.272449,-76.90567,NORTH-AMERICA,United States,ENA,Snow&Ice
+35,Minnesota,Minnesota,GPE,-0.03146249,0.39005215,en,13.3,4101012-7,5037779,X,46.250239,-94.25055,NORTH-AMERICA,United States,CNA,Snow&Ice
+36,England,England,GPE,-0.03607955,0.50877131,en,12.8,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Snow&Ice
+37,Manitoba,Manitoba,GPE,0.0226378,0.23097113,en,12.7,4100106-0,6065171,X,55.9,-97.899999,NORTH-AMERICA,Canada,NEN,Snow&Ice
+38,Washington,Washington,GPE,0.20715333,0.39868442,en,12.4,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Snow&Ice
+39,Sweden,Sweden,GPE,-0.06019388,0.38098443,en,12.1,4077258-5,2661886,X,62.0,15.0,EUROPE,Sweden,NEU,Snow&Ice
+40,Indiana,Indiana,GPE,-0.06368056,0.52354167,en,12.0,4109219-3,4921868,X,40.2,-86.25027,NORTH-AMERICA,United States,ENA,Snow&Ice
+41,Amsterdam,Amsterdam,GPE,0.05966497,0.11682665,en,11.5,4001783-7,2759794,X,52.374029,4.889689,EUROPE,The Netherlands,NEU,Snow&Ice
+42,Illinois,Illinois,GPE,-0.01169591,0.19554094,en,11.4,4109206-5,4896861,X,40.2,-89.25037,NORTH-AMERICA,United States,ENA,Snow&Ice
+43,Cincinnati,Cincinnati,GPE,0.03591998,0.382263,en,10.9,,-1,,,,,,,Snow&Ice
+44,B.C.,B.C.,GPE,-0.02522936,0.29434251,en,10.9,,-1,,,,,,,Snow&Ice
+45,Netherlands,Netherlands,GPE,-0.02083333,0.30632716,en,10.8,,-1,,,,,,,Snow&Ice
+46,Calgary,Calgary,GPE,0.03671617,0.32164466,en,10.1,4085122-9,5913490,X,51.05,-114.085277,NORTH-AMERICA,Canada,NWN,Snow&Ice
+49,Britain,Britain,GPE,-0.21769048,0.68728571,en,10.0,,-1,,,,,,,Snow&Ice
+48,Quebec,Quebec,GPE,0.06700556,0.45370476,en,10.0,,-1,,,,,,,Snow&Ice
+47,arctic,arctic,LOC,-0.17923611,0.57027778,en,10.0,,-1,,,,,,,Snow&Ice
+50,NJ,NJ,GPE,0.13369519,0.41640567,en,9.8,,-1,,,,,,,Snow&Ice
+51,Florida,Florida,GPE,-0.04654539,0.80049045,en,9.8,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Snow&Ice
+52,New England,New England,LOC,0.18923445,0.64972887,en,9.5,,-1,,,,,,,Snow&Ice
+53,India,India,GPE,0.17281903,0.64136709,en,9.2,,-1,,,,,,,Snow&Ice
+54,Vermont,Vermont,GPE,0.11919628,0.36197731,en,9.1,4063093-6,5242283,X,44.4,-72.74983,NORTH-AMERICA,United States,ENA,Snow&Ice
+55,Jammu,Jammu,GPE,0.19551282,0.35576923,en,9.1,4387357-1,1269321,X,32.735689,74.86911,ASIA,India,WCA,Snow&Ice
+56,South,South,LOC,0.18516484,0.5529304,en,9.1,,-1,,,,,,,Snow&Ice
+57,Alaska,Alaska,GPE,-0.06484071,0.57328227,en,9.1,4001016-8,5879092,X,64.8,-150.8,NORTH-AMERICA,United States,NWN,Snow&Ice
+58,Paris,Paris,GPE,0.17094871,0.35657872,en,8.7,4044660-8,2988507,X,48.853409,2.3488,EUROPE,France,WCE,Snow&Ice
+59,Ireland,Ireland,GPE,-0.28810782,0.55843904,en,8.6,4027667-3,2963597,X,53.0,-8.0,EUROPE,Ireland,NEU,Snow&Ice
+60,Greece,Greece,GPE,0.0922619,0.3764881,en,8.4,,-1,,,,,,,Snow&Ice
+61,Texas,Texas,GPE,0.04787331,0.41794451,en,8.3,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Snow&Ice
+62,New Hampshire,New Hampshire,GPE,0.00113504,0.59650512,en,8.2,4042002-4,5090174,X,43.66702,-71.499799,NORTH-AMERICA,United States,ENA,Snow&Ice
+63,West Michigan,West Michigan,GPE,0.13965878,0.69244888,en,8.2,,-1,,,,,,,Snow&Ice
+64,Northern Ireland,Northern Ireland,GPE,-0.05681818,0.58253589,en,7.6,4075462-5,2641364,X,54.5,-6.5,EUROPE,United Kingdom,NEU,Snow&Ice
+65,Ottawa,Ottawa,GPE,0.1271294,0.64260852,en,7.4,4122012-2,6094817,X,45.411111,-75.698055,NORTH-AMERICA,Canada,ENA,Snow&Ice
+66,Connecticut,Connecticut,GPE,0.10062267,0.42079701,en,7.3,4010487-4,4831725,X,41.66704,-72.66648,NORTH-AMERICA,United States,ENA,Snow&Ice
+68,Kentucky,Kentucky,GPE,0.11892902,0.55631659,en,7.3,4097823-0,6254925,X,38.20042,-84.877619,NORTH-AMERICA,United States,ENA,Snow&Ice
+67,St. Louis,St. Louis,GPE,0.26917808,0.34394977,en,7.3,4118223-6,4407066,X,38.62727,-90.19789,NORTH-AMERICA,United States,CNA,Snow&Ice
+69,Rockies,Rockies,LOC,0.06614688,0.48264588,en,7.1,,-1,,,,,,,Snow&Ice
+70,Newfoundland,Newfoundland,GPE,0.12474747,0.48113276,en,6.6,,-1,,,,,,,Snow&Ice
+71,France,France,GPE,-0.22051282,0.42051282,en,6.5,,-1,,,,,,,Snow&Ice
+76,Metro Detroit,Metro Detroit,GPE,-0.07148437,0.35416667,en,6.4,,-1,,,,,,,Snow&Ice
+78,Wales,Wales,GPE,-0.06770833,0.40885417,en,6.4,,-1,,,,,,,Snow&Ice
+77,Taplejung,Taplejung,GPE,0.23828125,0.4296875,en,6.4,,-1,,,,,,,Snow&Ice
+74,Kansas City,Kansas City,GPE,-0.02929687,0.37695312,en,6.4,,-1,,,,,,,Snow&Ice
+75,Saudi Arabia,Saudi Arabia,GPE,0.0146875,0.68375,en,6.4,4051788-3,102358,X,25.0,45.0,ASIA,Saudi Arabia,ARP,Snow&Ice
+73,Alberta,Alberta,GPE,0.03738839,0.41917783,en,6.4,4001049-1,5883102,X,52.283329,-117.468999,NORTH-AMERICA,Canada,NWN,Snow&Ice
+72,Louisville,Louisville,GPE,0.11547112,0.36783854,en,6.4,,-1,,,,,,,Snow&Ice
+79,America,America,GPE,0.28994709,0.68359788,en,6.3,,-1,,,,,,,Snow&Ice
+80,Kansas,Kansas,GPE,0.13888889,0.25132275,en,6.3,4114131-3,4273857,X,38.500289,-98.50063,NORTH-AMERICA,United States,CNA,Snow&Ice
+81,Earth,Earth,LOC,0.05810028,0.57663139,en,6.3,,-1,,,,,,,Snow&Ice
+82,Hamburg,Hamburg,GPE,0.00340136,0.12585034,en,6.3,4023118-5,2911297,X,53.583329,10.0,EUROPE,Germany,NEU,Snow&Ice
+84,the East Coast,the East Coast,LOC,0.01457577,0.67335219,en,6.2,,-1,,,,,,,Snow&Ice
+83,Syracuse,Syracuse,GPE,0.03409091,0.46444282,en,6.2,4106466-5,2523083,X,37.085149,15.272999,EUROPE-AFRICA,Italy,MED,Snow&Ice
+85,the Pacific Northwest,the Pacific Northwest,LOC,0.25847615,0.41008445,en,6.1,,-1,,,,,,,Snow&Ice
+86,NEW YORK,NEW YORK,GPE,0.04002525,0.62647306,en,6.0,,-1,,,,,,,Snow&Ice
+87,Southern California,Southern California,LOC,0.09288793,0.45876437,en,5.8,,-1,,,,,,,Snow&Ice
+88,China,China,GPE,0.17601881,0.78945925,en,5.8,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Snow&Ice
+89,Türkiye,Türkiye,GPE,0.08962905,0.33861024,en,5.8,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Snow&Ice
+90,Long Island,Long Island,GPE,0.09688705,0.44174472,en,5.5,,-1,,,,,,,Snow&Ice
+91,Indianapolis,Indianapolis,GPE,0.02121212,0.28484848,en,5.5,,-1,,,,,,,Snow&Ice
+93,Peoria,Peoria,GPE,0.12264151,0.53773585,en,5.3,,-1,,,,,,,Snow&Ice
+92,Utah,Utah,GPE,0.05238708,1.24957118,en,5.3,4062214-9,5549030,X,39.250239,-111.75103,NORTH-AMERICA,United States,WNA,Snow&Ice
+94,the Great Lakes region,the Great Lakes region,LOC,0.23988228,0.56274891,en,5.3,,-1,,,,,,,Snow&Ice
+95,Georgia,Georgia,GPE,0.18429487,0.55235043,en,5.2,4020273-2,4197000,X,32.750419,-83.50018,NORTH-AMERICA,United States,ENA,Snow&Ice
+96,Russia,Russia,GPE,0.31115395,0.58916396,en,4.8,,-1,,,,,,,Snow&Ice
+107,Maine,Maine,GPE,0.20875094,0.5003137,en,4.6,4114929-4,4971068,X,45.50032,-69.249769,NORTH-AMERICA,United States,ENA,Snow&Ice
+106,New Brunswick,New Brunswick,GPE,0.1259058,0.40851449,en,4.6,,-1,,,,,,,Snow&Ice
+104,Southeast Michigan,Southeast Michigan,LOC,0.06521739,0.27898551,en,4.6,,-1,,,,,,,Snow&Ice
+108,Orkney,Orkney,GPE,0.14130435,0.31521739,en,4.6,,-1,,,,,,,Snow&Ice
+109,Oswego County,Oswego County,GPE,0.07312253,0.30895916,en,4.6,,-1,,,,,,,Snow&Ice
+105,Montana,Montana,GPE,0.1660432,0.45290796,en,4.6,4040138-8,5667009,X,47.5,-109.751019,NORTH-AMERICA,United States,WNA,Snow&Ice
+98,Plains,Plains,LOC,0.06225296,0.46294466,en,4.6,,-1,,,,,,,Snow&Ice
+103,Himalayas,Himalayas,GPE,0.11792184,0.29191253,en,4.6,,-1,,,,,,,Snow&Ice
+102,Detroit,Detroit,GPE,0.07336957,0.3451087,en,4.6,4011559-8,4990729,X,42.331429,-83.045749,NORTH-AMERICA,United States,ENA,Snow&Ice
+101,Cleveland,Cleveland,GPE,-0.13768116,0.36231884,en,4.6,,-1,,,,,,,Snow&Ice
+100,Lapland,Lapland,GPE,0.16237923,0.30591787,en,4.6,,-1,,,,,,,Snow&Ice
+99,Aberdeenshire,Aberdeenshire,GPE,0.06884058,0.3115942,en,4.6,,-1,,,,,,,Snow&Ice
+97,CHICAGO,CHICAGO,GPE,0.25814663,0.80124408,en,4.6,,-1,,,,,,,Snow&Ice
+110,Los Angeles,Los Angeles,GPE,-0.07390572,0.52710438,en,4.5,,-1,,,,,,,Snow&Ice
+111,Erie,Erie,GPE,0.03822314,0.16528926,en,4.4,,-1,,,,,,,Snow&Ice
+112,Switzerland,Switzerland,GPE,0.48636364,0.67954545,en,4.0,,-1,,,,,,,Snow&Ice
+113,Athens,Athens,GPE,0.22222222,0.38105413,en,3.9,4003366-1,264371,X,37.979449,23.716219,EUROPE-AFRICA,Greece,MED,Snow&Ice
+114,Italy,Italy,GPE,0.52564103,0.78205128,en,3.9,,-1,,,,,,,Snow&Ice
+115,Berlin,Berlin,GPE,0.08624709,0.3045843,en,3.9,4005728-8,2950157,X,52.5,13.416669,EUROPE,Germany,WCE,Snow&Ice
+117,Milwaukee,Milwaukee,GPE,0.02631579,0.89254386,en,3.8,,-1,,,,,,,Snow&Ice
+116,Chennai,Chennai,GPE,0.00992253,0.34674185,en,3.8,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Snow&Ice
+131,Upper Peninsula,Upper Peninsula,LOC,0.05271387,0.26088899,en,3.7,,-1,,,,,,,Snow&Ice
+143,Boston,Boston,GPE,0.06848212,0.47006552,en,3.7,4007840-1,4930956,X,42.358333,-71.059722,NORTH-AMERICA,United States,ENA,Snow&Ice
+142,Juneau,Juneau,GPE,-0.02702703,0.26126126,en,3.7,,-1,,,,,,,Snow&Ice
+141,PARIS,PARIS,GPE,-0.04369369,0.12387387,en,3.7,,-1,,,,,,,Snow&Ice
+140,Gulmarg,Gulmarg,GPE,0.27759009,0.4634009,en,3.7,,-1,,,,,,,Snow&Ice
+139,Pacific,Pacific,LOC,0.13611111,0.70375375,en,3.7,,-1,,,,,,,Snow&Ice
+138,Provo,Provo,GPE,-0.12162162,0.85135135,en,3.7,,-1,,,,,,,Snow&Ice
+137,NWS,NWS,GPE,0.0,0.45945946,en,3.7,,-1,,,,,,,Snow&Ice
+135,Pacific Northwest,Pacific Northwest,GPE,-0.02402402,0.4954955,en,3.7,,-1,,,,,,,Snow&Ice
+134,Chicagoland,Chicagoland,GPE,0.11317568,0.65015015,en,3.7,,-1,,,,,,,Snow&Ice
+133,West Virginia,West Virginia,GPE,0.12162162,0.68108108,en,3.7,4119079-8,4826850,X,38.500379,-80.50009,NORTH-AMERICA,United States,ENA,Snow&Ice
+132,Des Moines,Des Moines,GPE,0.04054054,0.5472973,en,3.7,,-1,,,,,,,Snow&Ice
+136,COLUMBUS,COLUMBUS,GPE,0.0,0.13513514,en,3.7,,-1,,,,,,,Snow&Ice
+130,PITTSBURGH,PITTSBURGH,GPE,0.05945068,0.48227448,en,3.7,,-1,,,,,,,Snow&Ice
+124,DENVER,DENVER,GPE,0.0036036,0.23513514,en,3.7,,-1,,,,,,,Snow&Ice
+119,Schiphol,Schiphol,GPE,-0.00337838,0.22635135,en,3.7,,-1,,,,,,,Snow&Ice
+121,Houston,Houston,GPE,0.18918919,0.81081081,en,3.7,,-1,,,,,,,Snow&Ice
+122,the Lower Peninsula,the Lower Peninsula,LOC,-0.06306306,0.18468468,en,3.7,,-1,,,,,,,Snow&Ice
+123,Columbus,Columbus,GPE,-0.13513514,0.41891892,en,3.7,,-1,,,,,,,Snow&Ice
+120,CTABC7,CTABC7,GPE,0.147621,0.37519598,en,3.7,,-1,,,,,,,Snow&Ice
+125,Mich.,Mich.,GPE,0.31233961,0.65034125,en,3.7,,-1,,,,,,,Snow&Ice
+118,Montreal,Montreal,GPE,-0.11891892,0.67027027,en,3.7,4040188-1,6174335,X,47.333449,-79.432969,NORTH-AMERICA,Canada,ENA,Snow&Ice
+126,Virginia,Virginia,GPE,0.04166667,0.23423423,en,3.7,4063592-2,6254928,X,37.548119,-77.446749,NORTH-AMERICA,United States,ENA,Snow&Ice
+127,Attica,Attica,GPE,-0.11833941,0.68698037,en,3.7,,-1,,,,,,,Snow&Ice
+128,Green Bay,Green Bay,LOC,-0.08108108,0.25675676,en,3.7,,-1,,,,,,,Snow&Ice
+129,North Carolina,North Carolina,GPE,-0.03378378,0.10135135,en,3.7,4042551-4,4482348,X,35.500689,-80.2,NORTH-AMERICA,United States,ENA,Snow&Ice
+144,Nepal,Nepal,GPE,0.3109127,1.00603175,en,3.5,4041612-4,1282988,X,28.0,84.0,ASIA,Nepal,TIB,Snow&Ice
+145,Pa.,Pa.,GPE,0.07142857,0.13809524,en,3.5,,-1,,,,,,,Snow&Ice
+146,Oregon,Oregon,GPE,0.33823529,0.68382353,en,3.4,4043760-7,5744337,X,44.299999,-120.50139,NORTH-AMERICA,United States,WNA,Snow&Ice
+147,South-Central,South-Central,LOC,0.24242424,0.33333333,en,3.3,,-1,,,,,,,Snow&Ice
+148,HAGUE,HAGUE,GPE,-0.10479798,0.41540404,en,3.3,,-1,,,,,,,Snow&Ice
+149,N.Y.,N.Y.,GPE,0.13257576,0.28219697,en,3.2,,-1,,,,,,,Snow&Ice
+150,Norway,Norway,GPE,0.35215054,0.53225806,en,3.1,4042640-3,3144096,X,62.0,10.0,EUROPE,Norway,NEU,Snow&Ice
+151,Oklahoma State,Oklahoma State,GPE,0.0483871,0.30645161,en,3.1,,-1,,,,,,,Snow&Ice
+152,Salt Lake City,Salt Lake City,GPE,-0.09498208,0.34946237,en,3.1,,-1,,,,,,,Snow&Ice
+155,the West Coast,the West Coast,LOC,-0.02685185,0.33518519,en,3.0,,-1,,,,,,,Snow&Ice
+153,Alabama,Alabama,GPE,-0.14444444,0.88148148,en,3.0,4084839-5,4829764,X,32.75041,-86.750259,NORTH-AMERICA,United States,ENA,Snow&Ice
+154,Delhi,Delhi,GPE,0.3,0.38333333,en,3.0,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Snow&Ice
+176,Sligo,Sligo,GPE,0.03571429,0.07142857,en,2.8,4251772-2,2961423,X,54.269689,-8.469429,EUROPE,Ireland,NEU,Snow&Ice
+178,Vernon,Vernon,GPE,-0.23214286,0.48214286,en,2.8,,-1,,,,,,,Snow&Ice
+179,Rochester,Rochester,GPE,0.14448052,0.68993506,en,2.8,,-1,,,,,,,Snow&Ice
+180,Hawaii Island,Hawaii Island,LOC,-0.42857143,0.64285714,en,2.8,,-1,,,,,,,Snow&Ice
+181,East Coast,East Coast,LOC,-0.45408163,0.75510204,en,2.8,,-1,,,,,,,Snow&Ice
+182,Bloomington,Bloomington,GPE,0.02678571,0.1547619,en,2.8,,-1,,,,,,,Snow&Ice
+183,Picton,Picton,GPE,-0.08928571,0.26785714,en,2.8,,-1,,,,,,,Snow&Ice
+184,United States,United States,GPE,-0.19918831,0.63068182,en,2.8,,-1,,,,,,,Snow&Ice
+185,East,East,LOC,0.06006494,0.11688312,en,2.8,,-1,,,,,,,Snow&Ice
+186,Québec,Québec,GPE,-0.02171266,0.44473755,en,2.8,4103473-9,6325494,X,46.812222,-71.214444,NORTH-AMERICA,Canada,ENA,Snow&Ice
+195,Utica,Utica,GPE,-0.03571429,0.62087912,en,2.8,,-1,,,,,,,Snow&Ice
+187,Pittsburgh,Pittsburgh,GPE,-0.01731602,0.31331169,en,2.8,,-1,,,,,,,Snow&Ice
+188,Mount Fuji,Mount Fuji,LOC,0.02380952,0.24404762,en,2.8,,-1,,,,,,,Snow&Ice
+189,finland,finland,GPE,0.0,0.17460317,en,2.8,,-1,,,,,,,Snow&Ice
+190,Central Park,Central Park,LOC,0.25177369,0.44693963,en,2.8,,-1,,,,,,,Snow&Ice
+191,Napanee,Napanee,GPE,-0.08928571,0.26785714,en,2.8,,-1,,,,,,,Snow&Ice
+192,B.C,B.C,GPE,-0.03660714,0.36696429,en,2.8,,-1,,,,,,,Snow&Ice
+193,West Lafayette,West Lafayette,GPE,-0.00892857,0.66964286,en,2.8,,-1,,,,,,,Snow&Ice
+194,Mid-Atlantic,Mid-Atlantic,LOC,-0.07142857,0.07142857,en,2.8,,-1,,,,,,,Snow&Ice
+177,Helena,Helena,GPE,0.04761905,0.25,en,2.8,,-1,,,,,,,Snow&Ice
+166,San Diego County,San Diego County,GPE,0.24350649,0.30318491,en,2.8,,-1,,,,,,,Snow&Ice
+175,Leitrim,Leitrim,GPE,0.03571429,0.07142857,en,2.8,,-1,,,,,,,Snow&Ice
+164,GRAND RAPIDS,GRAND RAPIDS,GPE,0.23416306,0.68080808,en,2.8,,-1,,,,,,,Snow&Ice
+156,Binghamton,Binghamton,GPE,0.08928571,0.2827381,en,2.8,,-1,,,,,,,Snow&Ice
+157,the Hudson Valley,the Hudson Valley,LOC,0.01948052,0.35422078,en,2.8,,-1,,,,,,,Snow&Ice
+158,Srinagar,Srinagar,GPE,0.26785714,0.46428571,en,2.8,,-1,,,,,,,Snow&Ice
+159,Northern Kentucky,Northern Kentucky,LOC,0.40178571,0.44642857,en,2.8,,-1,,,,,,,Snow&Ice
+160,Greater Cincinnati,Greater Cincinnati,GPE,0.40178571,0.44642857,en,2.8,,-1,,,,,,,Snow&Ice
+161,Ioannina,Ioannina,GPE,0.11904762,0.20714286,en,2.8,4197925-4,261779,X,39.667499,20.850829,EUROPE-AFRICA,Greece,MED,Snow&Ice
+174,Attleboro,Attleboro,GPE,0.26785714,0.35714286,en,2.8,,-1,,,,,,,Snow&Ice
+163,Mo.,Mo.,GPE,-0.1797619,0.4297619,en,2.8,,-1,,,,,,,Snow&Ice
+162,Venezuela,Venezuela,GPE,0.25,0.21428571,en,2.8,4062512-6,3625428,X,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Snow&Ice
+165,New Mexico,New Mexico,GPE,0.11969697,0.42359307,en,2.8,4042006-1,5481136,X,34.50034,-106.499999,NORTH-AMERICA,United States,WNA,Snow&Ice
+167,Kirkwall,Kirkwall,GPE,0.35714286,0.35714286,en,2.8,4230564-0,2645198,X,58.984789,-2.95873,EUROPE,United Kingdom,NEU,Snow&Ice
+168,Moscow,Moscow,GPE,0.17662338,0.31969697,en,2.8,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Snow&Ice
+169,East Tennessee,East Tennessee,GPE,0.07142857,0.71428571,en,2.8,,-1,,,,,,,Snow&Ice
+170,Croatia,Croatia,GPE,-0.13265306,0.40306122,en,2.8,4073841-3,3202326,X,45.16667,15.5,EUROPE,Croatia,WCE,Snow&Ice
+171,Cavan,Cavan,GPE,0.03571429,0.10714286,en,2.8,4451192-9,2965535,X,53.990833,-7.360555,EUROPE,Ireland,NEU,Snow&Ice
+172,Donegal,Donegal,GPE,0.03571429,0.10714286,en,2.8,,-1,,,,,,,Snow&Ice
+173,the Mid-Atlantic,the Mid-Atlantic,LOC,0.20833333,0.51190476,en,2.8,,-1,,,,,,,Snow&Ice
+196,Uzbekistan,Uzbekistan,GPE,0.16483516,0.32967033,en,2.6,4062199-6,1512440,X,41.70754,63.84911,ASIA,Uzbekistan,WCA,Snow&Ice
+197,Mississippi,Mississippi,GPE,-0.00444444,0.46,en,2.5,,-1,,,,,,,Snow&Ice
+198,Minneapolis,Minneapolis,GPE,0.10533333,0.56,en,2.5,,-1,,,,,,,Snow&Ice
+203,Jordaan,Jordaan,GPE,0.0,0.0,en,2.4,,-1,,,,,,,Snow&Ice
+202,Lewis County,Lewis County,GPE,0.0,0.0,en,2.4,,-1,,,,,,,Snow&Ice
+201,South Korea,South Korea,GPE,0.17171717,0.10479798,en,2.4,4078029-6,1835841,X,37.0,127.5,ASIA,South Korea,EAS,Snow&Ice
+200,Aspen,Aspen,GPE,0.0,0.0,en,2.4,,-1,,,,,,,Snow&Ice
+199,THE HAGUE,THE HAGUE,GPE,-0.20833333,0.33333333,en,2.4,,-1,,,,,,,Snow&Ice
+204,Nova Scotia,Nova Scotia,GPE,-0.18181818,0.36363636,en,2.2,4042713-4,6091530,X,45.499999,-62.998649,NORTH-AMERICA,Canada,ENA,Snow&Ice
+205,HOKKAIDO,HOKKAIDO,GPE,-0.15909091,0.45959596,en,2.2,,-1,,,,,,,Snow&Ice
+206,BOSTON,BOSTON,GPE,0.4658353,0.67318477,en,2.2,,-1,,,,,,,Snow&Ice
+207,CALGARY,CALGARY,GPE,0.36507937,1.22222222,en,2.1,,-1,,,,,,,Snow&Ice
+208,Northern,Northern,LOC,-0.125,0.25,en,2.0,,-1,,,,,,,Snow&Ice
+209,Tibet,Tibet,GPE,-0.00416667,0.36875,en,2.0,,-1,,,,,,,Snow&Ice
+210,the Coachella Valley,the Coachella Valley,LOC,-0.4,0.8,en,2.0,,-1,,,,,,,Snow&Ice
+211,Nebraska,Nebraska,GPE,0.0,0.25,en,2.0,4117792-7,5073708,X,41.500279,-99.750669,NORTH-AMERICA,United States,CNA,Snow&Ice
+296,Rhode Island,Rhode Island,GPE,0.02631579,0.23684211,en,1.9,4403742-9,5224323,X,41.750277,-71.499722,NORTH-AMERICA,United States,ENA,Snow&Ice
+291,Hudson Valley,Hudson Valley,LOC,-0.11064593,0.51545823,en,1.9,,-1,,,,,,,Snow&Ice
+292,Scandinavia,Scandinavia,LOC,-0.08243824,0.3528464,en,1.9,,-1,,,,,,,Snow&Ice
+293,Co Donegal,Co Donegal,GPE,-0.04385965,0.23684211,en,1.9,,-1,,,,,,,Snow&Ice
+294,Kullu,Kullu,GPE,0.35789474,0.69473684,en,1.9,4402577-4,1265709,X,31.95635,77.11036,ASIA,India,TIB,Snow&Ice
+295,Chamba,Chamba,GPE,0.35789474,0.69473684,en,1.9,4214010-9,1274848,X,32.555799,76.125919,ASIA,India,TIB,Snow&Ice
+300,Erie County,Erie County,GPE,0.05263158,0.19298246,en,1.9,,-1,,,,,,,Snow&Ice
+297,Connacht,Connacht,LOC,-0.05263158,0.26315789,en,1.9,4755231-1,7521313,X,53.869999,-8.63333,EUROPE,Ireland,NEU,Snow&Ice
+298,Illini,Illini,GPE,0.05263158,0.10526316,en,1.9,,-1,,,,,,,Snow&Ice
+299,CHAMPAIGN,CHAMPAIGN,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+289,Franklin,Franklin,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+301,Ill.,Ill.,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+290,Clarenville,Clarenville,GPE,0.0,0.06578947,en,1.9,,-1,,,,,,,Snow&Ice
+284,British Columbia,British Columbia,GPE,0.01515152,0.52631579,en,1.9,4069670-4,5909050,X,53.99983,-125.0032,NORTH-AMERICA,Canada,NWN,Snow&Ice
+288,Evansville,Evansville,GPE,0.0,1.05263158,en,1.9,,-1,,,,,,,Snow&Ice
+287,Jomsom,Jomsom,GPE,-0.02192982,0.38157895,en,1.9,,-1,,,,,,,Snow&Ice
+286,Mauna Loa,Mauna Loa,LOC,-0.10526316,0.26315789,en,1.9,,-1,,,,,,,Snow&Ice
+285,Muskegon,Muskegon,GPE,0.28899522,0.61244019,en,1.9,,-1,,,,,,,Snow&Ice
+303,Atacama,Atacama,GPE,0.05555556,0.52339181,en,1.9,4003346-6,3899194,X,-28.51584,-71.999999,SOUTH-AMERICA,,SWS,Snow&Ice
+283,Victoria,Victoria,GPE,0.01515152,0.52631579,en,1.9,,-1,,,,,,,Snow&Ice
+282,Calif.,Calif.,GPE,0.04315789,0.60245614,en,1.9,,-1,,,,,,,Snow&Ice
+281,Albany,Albany,GPE,0.14978735,0.52631579,en,1.9,,-1,,,,,,,Snow&Ice
+280,Topeka,Topeka,GPE,0.13157895,0.1754386,en,1.9,,-1,,,,,,,Snow&Ice
+279,Middletown,Middletown,GPE,-0.05263158,0.38866397,en,1.9,,-1,,,,,,,Snow&Ice
+278,Labrador,Labrador,GPE,0.04736842,0.32105263,en,1.9,,-1,,,,,,,Snow&Ice
+277,PORTLAND,PORTLAND,GPE,0.17214912,0.45321637,en,1.9,,-1,,,,,,,Snow&Ice
+276,Puducherry,Puducherry,GPE,-0.07017544,0.1754386,en,1.9,16023115-2,1259425,X,11.933809,79.82979,ASIA,India,SAS,Snow&Ice
+275,Villupuram,Villupuram,GPE,-0.07017544,0.1754386,en,1.9,,-1,,,,,,,Snow&Ice
+302,San Francisco,San Francisco,GPE,-0.25438596,0.44736842,en,1.9,,-1,,,,,,,Snow&Ice
+309,Tallinn,Tallinn,GPE,0.22966507,0.76555024,en,1.9,5093293-7,588409,X,59.436944,24.753333,EUROPE,Estonia,NEU,Snow&Ice
+304,N.H.,N.H.,GPE,-0.24401914,0.76555024,en,1.9,,-1,,,,,,,Snow&Ice
+305,US Gulf,US Gulf,LOC,-0.05741627,0.72089314,en,1.9,,-1,,,,,,,Snow&Ice
+273,Ranipet,Ranipet,GPE,-0.07017544,0.1754386,en,1.9,,-1,,,,,,,Snow&Ice
+333,Alps,Alps,GPE,0.0,0.05263158,en,1.9,,-1,,,,,,,Snow&Ice
+332,Northeast California,Northeast California,LOC,-0.04385965,0.5877193,en,1.9,,-1,,,,,,,Snow&Ice
+331,Lake Michigan,Lake Michigan,LOC,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+330,the Northern Plains,the Northern Plains,LOC,0.50655209,0.81611171,en,1.9,,-1,,,,,,,Snow&Ice
+329,Vancouver Island,Vancouver Island,GPE,0.04385965,0.19736842,en,1.9,,-1,,,,,,,Snow&Ice
+328,Metro Vancouver,Metro Vancouver,GPE,0.08991228,0.55921053,en,1.9,,-1,,,,,,,Snow&Ice
+327,Mount Charleston,Mount Charleston,GPE,0.1754386,0.26900585,en,1.9,,-1,,,,,,,Snow&Ice
+326,Broome County,Broome County,GPE,0.0877193,0.23976608,en,1.9,,-1,,,,,,,Snow&Ice
+325,Austria,Austria,GPE,0.36842105,0.26315789,en,1.9,,-1,,,,,,,Snow&Ice
+324,Pacific Ocean,Pacific Ocean,LOC,0.21650718,0.50239234,en,1.9,,-1,,,,,,,Snow&Ice
+323,Hong Kong,Hong Kong,GPE,0.48245614,0.56140351,en,1.9,4025822-1,1819730,X,22.25,114.166666,ASIA,Hong Kong,EAS,Snow&Ice
+322,The National Oceanic,The National Oceanic,LOC,0.13157895,0.23684211,en,1.9,,-1,,,,,,,Snow&Ice
+321,Hobart,Hobart,LOC,0.84210526,1.05263158,en,1.9,,-1,,,,,,,Snow&Ice
+320,TOKYO,TOKYO,GPE,0.03508772,0.25730994,en,1.9,,-1,,,,,,,Snow&Ice
+319,York,York,GPE,0.30701754,0.87719298,en,1.9,4067205-0,2633352,X,53.9575,-1.082777,EUROPE,United Kingdom,NEU,Snow&Ice
+318,London,London,GPE,0.10150376,0.15538847,en,1.9,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Snow&Ice
+317,U.S,U.S,GPE,-0.26900585,0.71052632,en,1.9,,-1,,,,,,,Snow&Ice
+316,northern Manitoba,northern Manitoba,LOC,-0.01973684,0.47368421,en,1.9,,-1,,,,,,,Snow&Ice
+315,Mount Hermon,Mount Hermon,LOC,-0.04824561,0.5372807,en,1.9,,-1,,,,,,,Snow&Ice
+314,New Zealand,New Zealand,GPE,0.18096377,0.50546822,en,1.9,,-1,,,,,,,Snow&Ice
+313,Lake Superior,Lake Superior,LOC,0.57894737,0.73026316,en,1.9,,-1,,,,,,,Snow&Ice
+312,Goretti,Goretti,GPE,-0.05263158,0.78947368,en,1.9,,-1,,,,,,,Snow&Ice
+311,Chile,Chile,GPE,0.0,0.13157895,en,1.9,4009929-5,3895114,X,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Snow&Ice
+310,Estonia,Estonia,GPE,0.18660287,0.62200957,en,1.9,4015587-0,453733,X,59.0,26.0,EUROPE,Estonia,NEU,Snow&Ice
+307,Baltic Sea,Baltic Sea,LOC,0.22966507,0.76555024,en,1.9,,-1,,,,,,,Snow&Ice
+306,MANCHESTER,MANCHESTER,GPE,-0.24401914,0.76555024,en,1.9,,-1,,,,,,,Snow&Ice
+274,Tirupattur,Tirupattur,GPE,-0.07017544,0.1754386,en,1.9,,-1,,,,,,,Snow&Ice
+308,Eastern Ontario,Eastern Ontario,LOC,0.27736007,0.45781119,en,1.9,,-1,,,,,,,Snow&Ice
+272,Tiruvallur,Tiruvallur,GPE,-0.07017544,0.1754386,en,1.9,,-1,,,,,,,Snow&Ice
+227,Eugene-Springfield,Eugene-Springfield,GPE,0.0,0.1754386,en,1.9,,-1,,,,,,,Snow&Ice
+239,Indonesia,Indonesia,GPE,0.10526316,0.36842105,en,1.9,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Snow&Ice
+238,Cambridgeshire,Cambridgeshire,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+271,Fort,Fort,GPE,-0.10526316,0.26315789,en,1.9,,-1,,,,,,,Snow&Ice
+237,the Union Territory,the Union Territory,GPE,0.19298246,0.38596491,en,1.9,,-1,,,,,,,Snow&Ice
+236,Union,Union,GPE,0.01535088,0.42324561,en,1.9,,-1,,,,,,,Snow&Ice
+235,Yellowstone Lake,Yellowstone Lake,LOC,-0.07894737,0.37061404,en,1.9,,-1,,,,,,,Snow&Ice
+234,Mount Zao,Mount Zao,GPE,0.17105263,0.46381579,en,1.9,,-1,,,,,,,Snow&Ice
+233,Fort St. John,Fort St. John,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+232,Grand Junction,Grand Junction,GPE,0.73684211,1.05263158,en,1.9,,-1,,,,,,,Snow&Ice
+231,Patagonia,Patagonia,GPE,0.21052632,0.36842105,en,1.9,,-1,,,,,,,Snow&Ice
+230,Gothenburg,Gothenburg,GPE,-0.63157895,0.78947368,en,1.9,4021453-9,2711537,X,57.70716,11.966789,EUROPE,Sweden,NEU,Snow&Ice
+229,Monaghan,Monaghan,GPE,0.05263158,0.15789474,en,1.9,4660452-2,2962568,X,54.25,-6.966669,EUROPE,Ireland,NEU,Snow&Ice
+228,Hamilton County,Hamilton County,GPE,-0.73684211,0.21052632,en,1.9,,-1,,,,,,,Snow&Ice
+226,Minami Ward,Minami Ward,GPE,0.11842105,0.26315789,en,1.9,,-1,,,,,,,Snow&Ice
+241,Columbus City Schools,Columbus City Schools,GPE,0.0,0.26315789,en,1.9,,-1,,,,,,,Snow&Ice
+225,BERLIN,BERLIN,GPE,0.05298402,0.35103383,en,1.9,,-1,,,,,,,Snow&Ice
+224,Central,Central,LOC,0.14191729,0.59304511,en,1.9,,-1,,,,,,,Snow&Ice
+223,Metro Denver,Metro Denver,GPE,0.03947368,0.19298246,en,1.9,,-1,,,,,,,Snow&Ice
+222,Bundesliga,Bundesliga,GPE,-0.05701754,0.22368421,en,1.9,,-1,,,,,,,Snow&Ice
+221,Tri-State,Tri-State,GPE,0.13825758,0.47657496,en,1.9,,-1,,,,,,,Snow&Ice
+220,Crawford,Crawford,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+219,ZAGREB,ZAGREB,GPE,-0.09022556,0.33082707,en,1.9,,-1,,,,,,,Snow&Ice
+218,Greater Tokyo,Greater Tokyo,GPE,0.14724311,0.48182957,en,1.9,,-1,,,,,,,Snow&Ice
+217,Pamplona,Pamplona,GPE,0.0,0.0,en,1.9,4115835-0,3114472,X,42.81687,-1.64323,EUROPE-AFRICA,Spain,MED,Snow&Ice
+215,the Pacific Northw,the Pacific Northw,LOC,-0.03333333,0.47807018,en,1.9,,-1,,,,,,,Snow&Ice
+214,Pathibhara,Pathibhara,GPE,0.26315789,0.35087719,en,1.9,,-1,,,,,,,Snow&Ice
+213,Santa,Santa,GPE,1.32894737,1.68640351,en,1.9,,-1,,,,,,,Snow&Ice
+212,Ont.,Ont.,GPE,0.56203008,1.40538847,en,1.9,,-1,,,,,,,Snow&Ice
+240,Hawaii,Hawaii,GPE,0.01023392,0.21783626,en,1.9,4023877-5,5855797,X,20.75028,-156.50028,PACIFIC,,NPO,Snow&Ice
+216,Inverness,Inverness,GPE,0.33333333,0.44444444,en,1.9,4552036-7,2646088,X,57.47908,-4.22398,EUROPE,United Kingdom,NEU,Snow&Ice
+242,Big Island,Big Island,LOC,0.01023392,0.21783626,en,1.9,,-1,,,,,,,Snow&Ice
+257,the Southern Carpathians,the Southern Carpathians,LOC,0.06578947,0.31578947,en,1.9,,-1,,,,,,,Snow&Ice
+243,Tasmania,Tasmania,GPE,0.04135338,0.23684211,en,1.9,,-1,,,,,,,Snow&Ice
+269,Mauna Kea,Mauna Kea,LOC,-0.10526316,0.26315789,en,1.9,,-1,,,,,,,Snow&Ice
+268,the Upper Midwest,the Upper Midwest,LOC,0.25986842,0.49342105,en,1.9,,-1,,,,,,,Snow&Ice
+267,West,West,LOC,-0.02631579,0.15789474,en,1.9,,-1,,,,,,,Snow&Ice
+270,CUMBERLAND COUNTY,CUMBERLAND COUNTY,GPE,0.13157895,0.1754386,en,1.9,,-1,,,,,,,Snow&Ice
+266,The United States,The United States,GPE,-0.10315789,0.29263158,en,1.9,,-1,,,,,,,Snow&Ice
+265,Salisbury,Salisbury,GPE,0.0,0.0,en,1.9,4118286-8,2638664,X,51.06931,-1.79569,EUROPE,United Kingdom,NEU,Snow&Ice
+264,Maryland,Maryland,GPE,0.0,0.52631579,en,1.9,4037776-3,4361885,X,39.9,-76.74997,NORTH-AMERICA,United States,ENA,Snow&Ice
+263,KANSAS CITY,KANSAS CITY,GPE,-0.05438596,0.18596491,en,1.9,,-1,,,,,,,Snow&Ice
+262,The Mohawk Valley,The Mohawk Valley,LOC,0.0,0.0,en,1.9,,-1,,,,,,,Snow&Ice
+261,La Broquerie,La Broquerie,GPE,0.0,0.05263158,en,1.9,,-1,,,,,,,Snow&Ice
+259,D.C.,D.C.,GPE,0.00219298,0.37719298,en,1.9,,-1,,,,,,,Snow&Ice
+258,Easter Island,Easter Island,GPE,0.08684211,0.61052632,en,1.9,,-1,,,,,,,Snow&Ice
+260,Kolydas,Kolydas,GPE,-0.2232734,0.79394423,en,1.9,,-1,,,,,,,Snow&Ice
+256,N.C.,N.C.,GPE,0.26315789,0.31578947,en,1.9,,-1,,,,,,,Snow&Ice
+249,Pokhara,Pokhara,GPE,-0.02192982,0.38157895,en,1.9,4046492-1,1282898,X,28.26689,83.968509,ASIA,Nepal,TIB,Snow&Ice
+244,midwest,midwest,LOC,0.41374269,0.72076023,en,1.9,,-1,,,,,,,Snow&Ice
+245,Honolulu,Honolulu,GPE,0.01023392,0.21783626,en,1.9,,-1,,,,,,,Snow&Ice
+246,the North East,the North East,LOC,0.0388756,0.33791866,en,1.9,,-1,,,,,,,Snow&Ice
+255,Albuquerque,Albuquerque,GPE,0.42105263,0.54736842,en,1.9,,-1,,,,,,,Snow&Ice
+248,Helsinki,Helsinki,GPE,0.13157895,0.33991228,en,1.9,4024351-5,658225,X,60.169519,24.935449,EUROPE,Finland,NEU,Snow&Ice
+247,the north east,the north east,LOC,0.02631579,0.21052632,en,1.9,,-1,,,,,,,Snow&Ice
+250,Saudi Arabia's,Saudi Arabia's,GPE,-0.08223684,0.2691886,en,1.9,,-1,,,,,,,Snow&Ice
+251,the Atacama plains,the Atacama plains,LOC,-0.25438596,0.5380117,en,1.9,,-1,,,,,,,Snow&Ice
+252,Israel,Israel,GPE,-0.1208134,0.42623604,en,1.9,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Snow&Ice
+253,Ithaca,Ithaca,GPE,-0.05263158,0.38866397,en,1.9,,-1,,,,,,,Snow&Ice
+254,Delaware,Delaware,GPE,0.0,0.0,en,1.9,4085407-3,4142224,X,39.9,-75.49992,NORTH-AMERICA,United States,ENA,Snow&Ice
+334,Ulster,Ulster,GPE,-0.05555556,0.22222222,en,1.8,4078510-5,7521316,X,54.361109,-7.416669,EUROPE,United Kingdom,NEU,Snow&Ice
+350,El Paso,El Paso,GPE,-0.18333333,0.99313725,en,1.7,,-1,,,,,,,Snow&Ice
+349,ISTANBUL,ISTANBUL,GPE,0.03524955,0.35213904,en,1.7,,-1,,,,,,,Snow&Ice
+348,the United Kingdom,the United Kingdom,GPE,-0.0245098,0.07352941,en,1.7,,-1,,,,,,,Snow&Ice
+347,the British Isles,the British Isles,GPE,-0.0245098,0.07352941,en,1.7,,-1,,,,,,,Snow&Ice
+343,Brussels,Brussels,GPE,0.17383658,0.40426853,en,1.7,4008460-7,2800866,X,50.850277,4.348611,EUROPE,Belgium,WCE,Snow&Ice
+345,PEORIA,PEORIA,GPE,0.38235294,0.55882353,en,1.7,,-1,,,,,,,Snow&Ice
+344,Shenyang,Shenyang,GPE,0.36078431,0.43921569,en,1.7,4256791-9,2034937,X,41.79222,123.432779,ASIA,China,EAS,Snow&Ice
+346,Mumbai,Mumbai,GPE,-0.15767974,0.33905229,en,1.7,10013721-0,1275339,X,19.072777,72.8825,ASIA,India,SAS,Snow&Ice
+342,MT,MT,GPE,0.24411765,0.8,en,1.7,,-1,,,,,,,Snow&Ice
+337,the Gulf of Finland,the Gulf of Finland,LOC,0.19670232,0.70686275,en,1.7,,-1,,,,,,,Snow&Ice
+335,TORONTO,TORONTO,GPE,0.4501634,1.2159197,en,1.7,,-1,,,,,,,Snow&Ice
+336,Oklahoma,Oklahoma,GPE,0.14705882,0.26470588,en,1.7,4102053-4,4544379,X,35.492089,-97.50328,NORTH-AMERICA,United States,CNA,Snow&Ice
+341,Bozeman,Bozeman,GPE,0.24411765,0.8,en,1.7,,-1,,,,,,,Snow&Ice
+338,uninhabited island,uninhabited island,LOC,0.19670232,0.70686275,en,1.7,,-1,,,,,,,Snow&Ice
+339,GREEN BAY,GREEN BAY,LOC,0.0,0.22222222,en,1.7,,-1,,,,,,,Snow&Ice
+340,DES MOINES,DES MOINES,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Snow&Ice
+351,Appleton,Appleton,GPE,0.2734375,0.9375,en,1.6,,-1,,,,,,,Snow&Ice
+352,Hokkaido,Hokkaido,GPE,-0.175,0.3,en,1.6,,-1,,,,,,,Snow&Ice
+354,Snow Joe,Snow Joe,GPE,0.08333333,0.525,en,1.6,,-1,,,,,,,Snow&Ice
+355,Iceland,Iceland,GPE,0.125,0.5625,en,1.6,4027754-9,2629691,X,65.0,-18.0,POLAR,Iceland,GIC,Snow&Ice
+353,Bucharest,Bucharest,GPE,0.27083333,0.45833333,en,1.6,4008858-3,683506,X,44.43225,26.106259,EUROPE-AFRICA,Romania,MED,Snow&Ice
+356,Dublin,Dublin,GPE,0.33928571,1.10714286,en,1.4,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Snow&Ice
+364,Daunne,Daunne,GPE,-0.21346154,0.5,en,1.3,,-1,,,,,,,Snow&Ice
+370,New Yorks,New Yorks,GPE,0.31031469,0.81643357,en,1.3,,-1,,,,,,,Snow&Ice
+369,Barrie,Barrie,GPE,0.57692308,1.34615385,en,1.3,,-1,,,,,,,Snow&Ice
+368,Anchorage,Anchorage,GPE,-0.22972028,0.75734266,en,1.3,,-1,,,,,,,Snow&Ice
+367,Ladakh,Ladakh,GPE,-0.15865385,0.64423077,en,1.3,,-1,,,,,,,Snow&Ice
+366,Dakotas,Dakotas,GPE,0.45081585,0.61981352,en,1.3,,-1,,,,,,,Snow&Ice
+365,Death Valley,Death Valley,LOC,0.0,0.0,en,1.3,,-1,,,,,,,Snow&Ice
+363,Australia,Australia,GPE,0.0,0.15384615,en,1.3,,-1,,,,,,,Snow&Ice
+361,Khursani Khola,Khursani Khola,LOC,-0.21346154,0.5,en,1.3,,-1,,,,,,,Snow&Ice
+360,Springwater,Springwater,GPE,0.09615385,0.48076923,en,1.3,,-1,,,,,,,Snow&Ice
+359,Portugal,Portugal,GPE,0.25641026,0.25641026,en,1.3,4046843-4,2264397,X,39.5,-8.0,EUROPE-AFRICA,Portugal,MED,Snow&Ice
+358,Cotswolds,Cotswolds,GPE,0.25961538,0.67307692,en,1.3,,-1,,,,,,,Snow&Ice
+357,Asia,Asia,LOC,0.48684649,1.4473027,en,1.3,,-1,,,,,,,Snow&Ice
+362,BUFFALO,BUFFALO,GPE,0.32634033,0.69463869,en,1.3,,-1,,,,,,,Snow&Ice
+371,Crossville,Crossville,GPE,0.15625,0.45833333,en,1.2,,-1,,,,,,,Snow&Ice
+372,Brooklyn,Brooklyn,GPE,0.0,0.0,en,1.2,,-1,,,,,,,Snow&Ice
+373,Southern Hemispheres,Southern Hemispheres,LOC,-0.21944444,0.54583333,en,1.2,,-1,,,,,,,Snow&Ice
+374,HOUSTON,HOUSTON,GPE,0.22727273,0.75757576,en,1.2,,-1,,,,,,,Snow&Ice
+394,Sardinia,Sardinia,GPE,0.95454545,1.77272727,en,1.1,,-1,,,,,,,Snow&Ice
+389,the Saudi Arabia season,the Saudi Arabia season,GPE,0.72727273,1.45454545,en,1.1,,-1,,,,,,,Snow&Ice
+391,Cleveland County,Cleveland County,GPE,0.04545455,0.86363636,en,1.1,,-1,,,,,,,Snow&Ice
+392,Milan,Milan,GPE,0.95454545,1.77272727,en,1.1,4037100-1,3173435,X,45.464269,9.18951,EUROPE,Italy,WCE,Snow&Ice
+393,Cagliari,Cagliari,GPE,0.95454545,1.77272727,en,1.1,4085112-6,2525473,X,39.20738,9.134619,EUROPE-AFRICA,Italy,MED,Snow&Ice
+387,MARKHAM,MARKHAM,GPE,0.22727273,0.86363636,en,1.1,,-1,,,,,,,Snow&Ice
+395,Khabarhub,Khabarhub,GPE,0.51136364,0.90909091,en,1.1,,-1,,,,,,,Snow&Ice
+396,Albania,Albania,GPE,0.0,0.90909091,en,1.1,4001028-4,783754,X,41.0,20.0,EUROPE-AFRICA,Albania,MED,Snow&Ice
+397,Hampshire,Hampshire,GPE,0.06198347,0.2369146,en,1.1,,-1,,,,,,,Snow&Ice
+398,Rasam,Rasam,GPE,0.0,1.36363636,en,1.1,,-1,,,,,,,Snow&Ice
+399,Portsmouth,Portsmouth,GPE,0.06198347,0.69146006,en,1.1,4046835-5,2639996,X,50.79899,-1.09125,EUROPE,United Kingdom,NEU,Snow&Ice
+388,SHANGHAI,SHANGHAI,GPE,0.13636364,0.4280303,en,1.1,,-1,,,,,,,Snow&Ice
+390,Nightjet,Nightjet,GPE,0.12396694,0.41322314,en,1.1,,-1,,,,,,,Snow&Ice
+386,Woodward Park City,Woodward Park City,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Snow&Ice
+380,Racine,Racine,GPE,0.09090909,1.18181818,en,1.1,,-1,,,,,,,Snow&Ice
+375,BaT,BaT,GPE,0.53409091,0.44318182,en,1.1,,-1,,,,,,,Snow&Ice
+385,Munich,Munich,GPE,0.90909091,0.56060606,en,1.1,,-1,,,,,,,Snow&Ice
+377,TN,TN,GPE,0.0,0.11363636,en,1.1,,-1,,,,,,,Snow&Ice
+378,Mableton,Mableton,GPE,0.38717532,1.0646645,en,1.1,,-1,,,,,,,Snow&Ice
+379,Loudon,Loudon,GPE,0.0,0.11363636,en,1.1,,-1,,,,,,,Snow&Ice
+376,Beckley,Beckley,GPE,-0.13257576,0.85227273,en,1.1,,-1,,,,,,,Snow&Ice
+381,Cobb County,Cobb County,GPE,0.38717532,1.0646645,en,1.1,,-1,,,,,,,Snow&Ice
+382,Kenosha,Kenosha,GPE,0.09090909,1.18181818,en,1.1,,-1,,,,,,,Snow&Ice
+383,Ga.,Ga.,GPE,0.15151515,0.45454545,en,1.1,,-1,,,,,,,Snow&Ice
+384,Zohran,Zohran,GPE,0.22727273,0.3030303,en,1.1,,-1,,,,,,,Snow&Ice
+685,"\""horrific\""","\""horrific\""",GPE,-0.1125,0.2875,en,1.0,,-1,,,,,,,Snow&Ice
+694,Longford,Longford,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+693,Meath,Meath,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+692,the Sunshine State,the Sunshine State,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+691,Floridas,Floridas,GPE,-0.06666667,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+690,MONTREAL,MONTREAL,GPE,0.00888889,0.43777778,en,1.0,,-1,,,,,,,Snow&Ice
+695,Laois,Laois,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+689,Marriott,Marriott,GPE,0.4,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+688,Colo.,Colo.,GPE,0.7,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+687,MONTROSE COUNTY,MONTROSE COUNTY,GPE,0.7,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+686,Uncompahgre Plateau,Uncompahgre Plateau,LOC,0.1875,0.6875,en,1.0,,-1,,,,,,,Snow&Ice
+679,the Arctic Circle,the Arctic Circle,LOC,0.39428571,0.50571429,en,1.0,,-1,,,,,,,Snow&Ice
+684,New Delhi,New Delhi,GPE,0.04727273,0.24090909,en,1.0,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Snow&Ice
+683,Red Fort,Red Fort,GPE,0.04727273,0.24090909,en,1.0,,-1,,,,,,,Snow&Ice
+682,Raj Bhavan,Raj Bhavan,LOC,0.35714286,0.57142857,en,1.0,,-1,,,,,,,Snow&Ice
+681,Kutu,Kutu,GPE,0.1,0.1,en,1.0,,-1,,,,,,,Snow&Ice
+680,Kutunipadar,Kutunipadar,GPE,0.1,0.1,en,1.0,,-1,,,,,,,Snow&Ice
+697,Kildare,Kildare,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+678,Cozy Earth,Cozy Earth,LOC,0.26666667,0.75,en,1.0,,-1,,,,,,,Snow&Ice
+677,Miami,Miami,GPE,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+676,Lonavala,Lonavala,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+675,Laxmipur,Laxmipur,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+674,Koraput,Koraput,GPE,0.0,0.0,en,1.0,4258004-3,1266128,X,18.812,82.71048,ASIA,India,SAS,Snow&Ice
+673,utopian city,utopian city,GPE,0.23484848,0.66666667,en,1.0,,-1,,,,,,,Snow&Ice
+696,Kilkenny,Kilkenny,GPE,0.0,0.0,en,1.0,4265639-4,2963398,X,52.65417,-7.25222,EUROPE,Ireland,NEU,Snow&Ice
+703,Southeast,Southeast,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+698,New York State Police,New York State Police,GPE,0.04545455,0.31818182,en,1.0,,-1,,,,,,,Snow&Ice
+712,DONEGAL,DONEGAL,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+723,Waco,Waco,GPE,0.66666667,1.2,en,1.0,,-1,,,,,,,Snow&Ice
+722,the Ocean State,the Ocean State,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+721,Christm,Christm,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+720,Dickson Fjord,Dickson Fjord,LOC,-0.3,0.6,en,1.0,,-1,,,,,,,Snow&Ice
+719,the Mojave Desert,the Mojave Desert,LOC,-0.025,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+718,Tokyo,Tokyo,GPE,0.0,0.0,en,1.0,4078337-6,1850147,X,35.6895,139.69171,ASIA,Japan,EAS,Snow&Ice
+717,Lomanthang,Lomanthang,GPE,0.125,0.32083333,en,1.0,,-1,,,,,,,Snow&Ice
+716,Upstate,Upstate,GPE,-0.03787879,0.28484848,en,1.0,,-1,,,,,,,Snow&Ice
+715,the Catskill Mountains,the Catskill Mountains,LOC,0.09,0.54,en,1.0,,-1,,,,,,,Snow&Ice
+714,Hayling Island,Hayling Island,GPE,0.06818182,0.26060606,en,1.0,,-1,,,,,,,Snow&Ice
+713,CAVAN,CAVAN,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+711,South Hayling,South Hayling,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+699,North East,North East,LOC,0.2,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+710,Caithness,Caithness,GPE,-0.24166667,0.49166667,en,1.0,,-1,,,,,,,Snow&Ice
+709,Hudbay,Hudbay,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+708,Kyiv,Kyiv,GPE,0.25035714,0.70071429,en,1.0,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Snow&Ice
+707,Ukraine,Ukraine,GPE,0.0,0.0,en,1.0,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Snow&Ice
+706,Snow,Snow,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+705,Whistler Blackcomb,Whistler Blackcomb,GPE,0.05,0.7,en,1.0,,-1,,,,,,,Snow&Ice
+704,the Horstman Glacier,the Horstman Glacier,LOC,0.05,0.7,en,1.0,,-1,,,,,,,Snow&Ice
+671,Sunset Park,Sunset Park,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+702,the Scottish Highlands,the Scottish Highlands,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+701,Planet,Planet,LOC,0.0,0.06666667,en,1.0,,-1,,,,,,,Snow&Ice
+700,Nort,Nort,LOC,0.1,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+672,li>7,li>7,GPE,0.06666667,0.23333333,en,1.0,,-1,,,,,,,Snow&Ice
+665,Tawang,Tawang,GPE,-0.11666667,0.36388889,en,1.0,,-1,,,,,,,Snow&Ice
+670,St. Charles County,St. Charles County,GPE,-0.4,0.85,en,1.0,,-1,,,,,,,Snow&Ice
+643,recor,recor,GPE,-0.1,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+641,Greater St. Louis,Greater St. Louis,GPE,0.35,0.35,en,1.0,,-1,,,,,,,Snow&Ice
+640,Prokopyevsk,Prokopyevsk,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+639,Prince George,Prince George,GPE,-0.2625,0.4875,en,1.0,,-1,,,,,,,Snow&Ice
+638,Cortina,Cortina,GPE,0.55,0.7,en,1.0,4085339-1,3177952,X,46.5369,12.13903,EUROPE,Italy,WCE,Snow&Ice
+637,Nor’Easter,Nor’Easter,GPE,0.09090909,0.3030303,en,1.0,,-1,,,,,,,Snow&Ice
+636,the Empire State,the Empire State,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+635,Belem,Belem,GPE,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+634,Atlético Madrid,Atlético Madrid,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+633,the Northwestern Wildcats,the Northwestern Wildcats,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+632,South An,South An,LOC,-0.3,0.71666667,en,1.0,,-1,,,,,,,Snow&Ice
+631,Sunda,Sunda,GPE,0.17884199,0.35844156,en,1.0,,-1,,,,,,,Snow&Ice
+630,the York County,the York County,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+629,Lake County,Lake County,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+628,Kankakee,Kankakee,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+627,the Upper Peninsula,the Upper Peninsula,LOC,-0.0075,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+626,Pathivara Temple,Pathivara Temple,LOC,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+625,Tahoe,Tahoe,LOC,-0.2,0.24166667,en,1.0,,-1,,,,,,,Snow&Ice
+624,Incline Village,Incline Village,GPE,0.025,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+623,weatherClickOnDetroit,weatherClickOnDetroit,GPE,0.00555556,0.52222222,en,1.0,,-1,,,,,,,Snow&Ice
+622,Kokomo,Kokomo,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+621,Tonawanda,Tonawanda,GPE,0.34444444,0.51111111,en,1.0,,-1,,,,,,,Snow&Ice
+620,Memphis,Memphis,GPE,0.075,0.29166667,en,1.0,,-1,,,,,,,Snow&Ice
+725,Northeast Coast,Northeast Coast,LOC,-0.51944444,0.75,en,1.0,,-1,,,,,,,Snow&Ice
+642,sprea,sprea,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Snow&Ice
+644,Kiselevsk,Kiselevsk,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+669,New York Harbor,New York Harbor,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Snow&Ice
+645,Ann Arbor,Ann Arbor,GPE,-0.16666667,0.16666667,en,1.0,,-1,,,,,,,Snow&Ice
+668,Upper West Side,Upper West Side,LOC,0.06818182,0.22727273,en,1.0,,-1,,,,,,,Snow&Ice
+667,east,east,LOC,0.09090909,0.17445887,en,1.0,,-1,,,,,,,Snow&Ice
+666,SAN DIEGO,SAN DIEGO,GPE,0.09090909,0.17445887,en,1.0,,-1,,,,,,,Snow&Ice
+664,The Bay Area's,The Bay Area's,LOC,-0.1,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+663,Staten Island,Staten Island,GPE,0.06818182,0.22727273,en,1.0,,-1,,,,,,,Snow&Ice
+619,Germanys,Germanys,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+662,Irelands,Irelands,GPE,-0.1,0.1,en,1.0,,-1,,,,,,,Snow&Ice
+661,sidein Union,sidein Union,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+660,New Jersey’s,New Jersey’s,GPE,0.08087121,0.34040404,en,1.0,,-1,,,,,,,Snow&Ice
+659,Highlands,Highlands,LOC,0.38333333,0.51111111,en,1.0,,-1,,,,,,,Snow&Ice
+658,Catskills,Catskills,GPE,-0.03787879,0.28484848,en,1.0,,-1,,,,,,,Snow&Ice
+657,Sierra Nevada,Sierra Nevada,LOC,-0.04166667,0.55833333,en,1.0,,-1,,,,,,,Snow&Ice
+656,Wular Lake,Wular Lake,GPE,0.26666667,0.56666667,en,1.0,,-1,,,,,,,Snow&Ice
+655,MINNESOTA,MINNESOTA,GPE,0.0,0.05,en,1.0,,-1,,,,,,,Snow&Ice
+654,WISCONSIN,WISCONSIN,GPE,0.0,0.05,en,1.0,,-1,,,,,,,Snow&Ice
+653,Caparzo,Caparzo,LOC,1.0,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+652,NW Indiana,NW Indiana,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+651,the Central U.S.,the Central U.S.,LOC,-0.015,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+650,the Central U.s,the Central U.s,LOC,-0.015,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+649,the South Atlantic,the South Atlantic,LOC,0.4,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+648,the Atlantic Ocean,the Atlantic Ocean,LOC,0.17777778,0.56666667,en,1.0,,-1,,,,,,,Snow&Ice
+647,Leninsk-Kuzn,Leninsk-Kuzn,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+646,SOUTHFIELD,SOUTHFIELD,GPE,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+724,RI,RI,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+789,Dubai,Dubai,GPE,0.25,0.33333333,en,1.0,4204043-7,292224,X,25.0,55.333333,ASIA,United Arab Emirates,ARP,Snow&Ice
+726,West coast,West coast,LOC,0.6,0.6,en,1.0,,-1,,,,,,,Snow&Ice
+795,mid-Atlantic,mid-Atlantic,LOC,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+806,Florida City,Florida City,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+805,Appalachia,Appalachia,LOC,0.0125,0.26458333,en,1.0,,-1,,,,,,,Snow&Ice
+804,Jacksonville,Jacksonville,GPE,0.08333333,0.35,en,1.0,,-1,,,,,,,Snow&Ice
+803,New York City Facing Snowy Commute,New York City Facing Snowy Commute,GPE,0.11818182,0.37727273,en,1.0,,-1,,,,,,,Snow&Ice
+802,the Miami Valley,the Miami Valley,LOC,0.09444444,0.62222222,en,1.0,,-1,,,,,,,Snow&Ice
+801,Miami Valley,Miami Valley,LOC,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+800,Winter,Winter,GPE,0.21666667,0.37777778,en,1.0,,-1,,,,,,,Snow&Ice
+799,Grand Rapids,Grand Rapids,GPE,0.25,0.625,en,1.0,,-1,,,,,,,Snow&Ice
+798,MILWAUKEE,MILWAUKEE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+797,Missouri,Missouri,GPE,0.0,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+796,the Ohio Valley,the Ohio Valley,LOC,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+794,Piedmont,Piedmont,GPE,0.2,0.85,en,1.0,,-1,,,,,,,Snow&Ice
+727,Northern Japan,Northern Japan,LOC,-0.35,0.57777778,en,1.0,,-1,,,,,,,Snow&Ice
+793,PIEDMONT TRIAD,PIEDMONT TRIAD,GPE,0.25,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+792,PIEDMONT,PIEDMONT,GPE,0.25,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+791,L.A.,L.A.,GPE,0.1,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+790,Michigan City,Michigan City,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+788,Northwest Indiana,Northwest Indiana,GPE,0.7,1.75416667,en,1.0,,-1,,,,,,,Snow&Ice
+787,Cumberland,Cumberland,GPE,0.25,0.33333333,en,1.0,4090641-3,2651716,X,54.75,-3.0,EUROPE,United Kingdom,NEU,Snow&Ice
+786,Ottawa-Gatineau,Ottawa-Gatineau,GPE,0.75,1.83333333,en,1.0,,-1,,,,,,,Snow&Ice
+785,Southern Ontario,Southern Ontario,LOC,0.15972222,0.36111111,en,1.0,,-1,,,,,,,Snow&Ice
+784,the Deep South,the Deep South,LOC,-0.04166667,0.325,en,1.0,,-1,,,,,,,Snow&Ice
+783,Cuddalore,Cuddalore,GPE,-0.06666667,0.16666667,en,1.0,4733701-1,1273802,X,11.74629,79.764359,ASIA,India,SAS,Snow&Ice
+782,Empire State,Empire State,GPE,0.36818182,0.72727273,en,1.0,,-1,,,,,,,Snow&Ice
+807,the Granite City,the Granite City,GPE,0.0,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+808,Serengeti,Serengeti,LOC,0.73333333,0.71666667,en,1.0,,-1,,,,,,,Snow&Ice
+809,South Central Los Ange,South Central Los Ange,LOC,0.025,0.2375,en,1.0,,-1,,,,,,,Snow&Ice
+810,Richmond,Richmond,GPE,0.05416667,0.46666667,en,1.0,,-1,,,,,,,Snow&Ice
+617,Northern High Plains,Northern High Plains,LOC,0.1275,0.385,en,1.0,,-1,,,,,,,Snow&Ice
+832,the Avalon Peninsula,the Avalon Peninsula,LOC,0.0,0.125,en,1.0,,-1,,,,,,,Snow&Ice
+831,Minn.,Minn.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+830,the Northeastern U.S.,the Northeastern U.S.,LOC,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+829,The East Coast,The East Coast,LOC,0.28125,0.60208333,en,1.0,,-1,,,,,,,Snow&Ice
+828,arctic air far south,arctic air far south,LOC,-0.21111111,0.63333333,en,1.0,,-1,,,,,,,Snow&Ice
+827,Coldest City,Coldest City,GPE,0.275,0.55,en,1.0,,-1,,,,,,,Snow&Ice
+826,GS,GS,LOC,0.0,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+825,Burbank,Burbank,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+824,New Orleans,New Orleans,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Snow&Ice
+823,Swamp Lake,Swamp Lake,LOC,0.05,0.2,en,1.0,,-1,,,,,,,Snow&Ice
+822,Ocean City,Ocean City,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+821,CALIFORNIA,CALIFORNIA,GPE,-0.75,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+820,Lower Shore,Lower Shore,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+819,the Tennessee Valley,the Tennessee Valley,LOC,-0.15,0.425,en,1.0,,-1,,,,,,,Snow&Ice
+818,Tennessee,Tennessee,GPE,0.0,0.0,en,1.0,4119557-7,4662168,X,35.750349,-86.25027,NORTH-AMERICA,United States,ENA,Snow&Ice
+817,NC,NC,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Snow&Ice
+816,LOS ANGELES,LOS ANGELES,GPE,-0.75,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+815,NORTH CAROLINA,NORTH CAROLINA,GPE,-0.0625,0.1875,en,1.0,,-1,,,,,,,Snow&Ice
+814,Dahisar-Bhayandar Link Road,Dahisar-Bhayandar Link Road,GPE,-0.15555556,0.28888889,en,1.0,,-1,,,,,,,Snow&Ice
+813,Dahisar Creek,Dahisar Creek,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+812,Bhayandar,Bhayandar,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+811,West Coast Rap Scene,West Coast Rap Scene,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+781,Manhattan,Manhattan,GPE,0.36818182,0.72727273,en,1.0,,-1,,,,,,,Snow&Ice
+780,Getty,Getty,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+779,Hollywood,Hollywood,GPE,0.75,0.95,en,1.0,,-1,,,,,,,Snow&Ice
+752,the National Oceanic,the National Oceanic,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+750,CINCINNATI,CINCINNATI,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+749,INDIANAPOLIS,INDIANAPOLIS,GPE,0.175,0.29166667,en,1.0,,-1,,,,,,,Snow&Ice
+748,Himachal Pradesh,Himachal Pradesh,GPE,-0.01333333,0.21333333,en,1.0,4240080-6,1270101,X,31.0,78.0,ASIA,India,TIB,Snow&Ice
+747,Québec City,Québec City,GPE,0.14444444,0.47777778,en,1.0,4103473-9,6325494,X,46.812222,-71.214444,NORTH-AMERICA,Canada,ENA,Snow&Ice
+746,McLane Stadium,McLane Stadium,GPE,0.66666667,1.2,en,1.0,,-1,,,,,,,Snow&Ice
+745,WASHINGTON,WASHINGTON,GPE,-0.05,0.25,en,1.0,,-1,,,,,,,Snow&Ice
+744,Lakeland,Lakeland,GPE,0.25,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+743,New Jers,New Jers,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Snow&Ice
+742,Famous Mountains,Famous Mountains,LOC,0.5,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+741,Polk County,Polk County,GPE,0.4,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+740,Rowland,Rowland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+739,Benmore Dam,Benmore Dam,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+738,South Island,South Island,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+737,Waitaki catchment,Waitaki catchment,LOC,0.0175,0.4575,en,1.0,,-1,,,,,,,Snow&Ice
+736,Lake Pkaki,Lake Pkaki,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+735,eastern Ontario,eastern Ontario,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+734,Kodiak,Kodiak,GPE,-0.1,0.1,en,1.0,,-1,,,,,,,Snow&Ice
+733,Kuhmo,Kuhmo,GPE,0.0,0.24444444,en,1.0,4828507-9,650705,X,64.13333,29.51667,EUROPE,Finland,NEU,Snow&Ice
+732,Cambs,Cambs,GPE,0.1,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+731,N.B,N.B,GPE,0.0,0.3125,en,1.0,,-1,,,,,,,Snow&Ice
+730,Queensland,Queensland,GPE,0.2875,0.475,en,1.0,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Snow&Ice
+729,Atmospheric River,Atmospheric River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+728,NKY,NKY,GPE,-0.125,0.375,en,1.0,,-1,,,,,,,Snow&Ice
+751,Myagdi,Myagdi,GPE,0.11666667,1.53333333,en,1.0,,-1,,,,,,,Snow&Ice
+753,the Gulf States,the Gulf States,LOC,-0.08888889,0.60555556,en,1.0,,-1,,,,,,,Snow&Ice
+778,PvPvE,PvPvE,GPE,0.0,0.06666667,en,1.0,,-1,,,,,,,Snow&Ice
+754,Iceland v Northern Ireland,Iceland v Northern Ireland,GPE,-0.125,0.375,en,1.0,,-1,,,,,,,Snow&Ice
+777,Regina,Regina,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+776,OTTAWA,OTTAWA,GPE,-0.2,0.2,en,1.0,,-1,,,,,,,Snow&Ice
+775,Mecklenburg,Mecklenburg,GPE,0.1,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+774,Montréal,Montréal,GPE,0.04545455,0.40151515,en,1.0,4040188-1,6174335,X,47.333449,-79.432969,NORTH-AMERICA,Canada,ENA,Snow&Ice
+773,Sirmour,Sirmour,LOC,0.28,0.62,en,1.0,4641185-9,1256072,X,24.83539,81.36605,ASIA,India,SAS,Snow&Ice
+772,Himachal,Himachal,GPE,0.28,0.62,en,1.0,,-1,,,,,,,Snow&Ice
+771,Pradesh,Pradesh,GPE,0.28,0.62,en,1.0,,-1,,,,,,,Snow&Ice
+770,North Cascades National Park,North Cascades National Park,LOC,0.5,0.15,en,1.0,,-1,,,,,,,Snow&Ice
+769,Amravati,Amravati,GPE,-0.1125,0.2875,en,1.0,,-1,,,,,,,Snow&Ice
+768,European Alpine,European Alpine,LOC,0.5,0.15,en,1.0,,-1,,,,,,,Snow&Ice
+767,Illinois city,Illinois city,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+766,North Cascades,North Cascades,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+765,Alpine,Alpine,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+764,Ports-RUNE,Ports-RUNE,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+763,Vantaa,Vantaa,GPE,0.1,0.1,en,1.0,4333158-0,632453,X,60.294139,25.04099,EUROPE,Finland,NEU,Snow&Ice
+762,Panama,Panama,GPE,0.0,0.0,en,1.0,4044445-4,3703430,X,9.0,-80.0,CENTRAL-AMERICA,Panama,SCA,Snow&Ice
+761,WEST LAFAYETTE,WEST LAFAYETTE,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+760,Venus,Venus,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+759,Mississippi State,Mississippi State,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+758,Atlantic,Atlantic,LOC,0.11212121,0.21818182,en,1.0,,-1,,,,,,,Snow&Ice
+757,SundayABC7,SundayABC7,GPE,0.06950758,0.51155303,en,1.0,,-1,,,,,,,Snow&Ice
+756,Northern Ireland's,Northern Ireland's,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+755,East Nantmea,East Nantmea,GPE,0.1,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+618,Northern Rockies,Northern Rockies,LOC,0.1275,0.385,en,1.0,,-1,,,,,,,Snow&Ice
+417,the ⁠US northeast,the ⁠US northeast,LOC,0.03905724,0.3993266,en,1.0,,-1,,,,,,,Snow&Ice
+616,Culver City,Culver City,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+467,Oakland,Oakland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+478,Thoothukkudi,Thoothukkudi,GPE,0.20285714,0.73428571,en,1.0,,-1,,,,,,,Snow&Ice
+477,Thiruvallur,Thiruvallur,GPE,0.20285714,0.73428571,en,1.0,,-1,,,,,,,Snow&Ice
+476,Louvre,Louvre,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+475,Chengalpattu,Chengalpattu,GPE,0.20285714,0.73428571,en,1.0,,-1,,,,,,,Snow&Ice
+474,Kanyakumari,Kanyakumari,GPE,0.29452381,1.32595238,en,1.0,4481941-9,1268008,X,8.09008,77.538409,ASIA,India,SAS,Snow&Ice
+473,New York City Airports,New York City Airports,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Snow&Ice
+472,Sandy Bay,Sandy Bay,LOC,0.8,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+471,Tamil Nadu,Tamil Nadu,GPE,0.29452381,1.32595238,en,1.0,4078142-2,1255053,X,11.0,78.0,ASIA,India,SAS,Snow&Ice
+470,Western Slope,Western Slope,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+469,ofbo,ofbo,GPE,0.24,0.66,en,1.0,,-1,,,,,,,Snow&Ice
+468,The Northern Hemisphere,The Northern Hemisphere,LOC,0.23333333,0.48333333,en,1.0,,-1,,,,,,,Snow&Ice
+466,expe,expe,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+507,Belfast,Belfast,GPE,0.31818182,0.47727273,en,1.0,4080332-6,2655984,X,54.583329,-5.933329,EUROPE,United Kingdom,NEU,Snow&Ice
+465,colonizat,colonizat,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+464,Valley,Valley,LOC,0.275,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+463,Algeria,Algeria,GPE,0.0,0.0,en,1.0,4001179-3,2589581,X,28.0,3.0,AFRICA,Algeria,SAH,Snow&Ice
+462,Northern Manitoba,Northern Manitoba,LOC,-0.6,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+461,Lower Mainland,Lower Mainland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+460,The Atacama Desert,The Atacama Desert,LOC,0.36666667,0.75,en,1.0,,-1,,,,,,,Snow&Ice
+459,Wisco,Wisco,GPE,-0.16666667,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+458,Pakistan,Pakistan,GPE,0.0,0.0,en,1.0,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Snow&Ice
+457,ar,ar,GPE,-0.6,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+456,New York State,New York State,GPE,0.10883838,0.34242424,en,1.0,,-1,,,,,,,Snow&Ice
+455,the Southern Hemisphere,the Southern Hemisphere,LOC,0.23333333,0.48333333,en,1.0,,-1,,,,,,,Snow&Ice
+479,New York's,New York's,GPE,0.08977273,0.44090909,en,1.0,,-1,,,,,,,Snow&Ice
+480,South-Central Pa,South-Central Pa,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+481,Eastern Pennsylvania,Eastern Pennsylvania,LOC,-0.15454545,0.45151515,en,1.0,,-1,,,,,,,Snow&Ice
+482,Tenkasi,Tenkasi,GPE,0.20285714,0.73428571,en,1.0,,-1,,,,,,,Snow&Ice
+505,Lincoln City,Lincoln City,GPE,-0.35833333,0.48333333,en,1.0,,-1,,,,,,,Snow&Ice
+504,Peterborough United,Peterborough United,GPE,-0.35833333,0.48333333,en,1.0,,-1,,,,,,,Snow&Ice
+503,the South West,the South West,LOC,0.4,0.7,en,1.0,,-1,,,,,,,Snow&Ice
+502,Devon,Devon,GPE,0.4,0.7,en,1.0,4070441-5,2651292,X,50.75,-3.75,EUROPE,United Kingdom,NEU,Snow&Ice
+501,North Queensland,North Queensland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+500,midlands,midlands,GPE,-0.075,0.38333333,en,1.0,,-1,,,,,,,Snow&Ice
+499,Phanerozoic,Phanerozoic,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+498,Monday Ireland,Monday Ireland,GPE,-0.03125,0.16875,en,1.0,,-1,,,,,,,Snow&Ice
+497,LAS VEGAS,LAS VEGAS,GPE,0.16666667,0.25555556,en,1.0,,-1,,,,,,,Snow&Ice
+496,Las Vegas,Las Vegas,GPE,0.04166667,0.25,en,1.0,,-1,,,,,,,Snow&Ice
+495,New York County Goes Big To Dig Out,New York County Goes Big To Dig Out,GPE,0.06818182,0.27727273,en,1.0,,-1,,,,,,,Snow&Ice
+494,Southern Sweden,Southern Sweden,LOC,-0.1,0.25,en,1.0,,-1,,,,,,,Snow&Ice
+493,North Shore,North Shore,LOC,0.0875,0.6875,en,1.0,,-1,,,,,,,Snow&Ice
+492,Huntly,Huntly,GPE,-0.0,0.36666667,en,1.0,,-1,,,,,,,Snow&Ice
+491,Rome,Rome,GPE,0.5,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+490,HONOLULU,HONOLULU,GPE,-0.6,0.9,en,1.0,,-1,,,,,,,Snow&Ice
+489,KHON2,KHON2,GPE,-0.6,0.9,en,1.0,,-1,,,,,,,Snow&Ice
+488,Shetland,Shetland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+487,Terai,Terai,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+486,the Northern Hemisphere,the Northern Hemisphere,LOC,0.07777778,0.58888889,en,1.0,,-1,,,,,,,Snow&Ice
+485,Melghat,Melghat,GPE,-0.1125,0.2875,en,1.0,,-1,,,,,,,Snow&Ice
+484,Malmo,Malmo,GPE,0.16818182,0.32727273,en,1.0,,-1,,,,,,,Snow&Ice
+483,Stockholm,Stockholm,GPE,0.16818182,0.32727273,en,1.0,4057648-6,2673730,X,59.33258,18.0649,EUROPE,,NEU,Snow&Ice
+454,Kingdom,Kingdom,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+453,British Columbia's,British Columbia's,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+452,Al-Jawf,Al-Jawf,GPE,-0.05625,0.353125,en,1.0,,-1,,,,,,,Snow&Ice
+425,San…,San…,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+423,Boreal Mountain,Boreal Mountain,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+422,app</li,app</li,GPE,0.09166667,0.61666667,en,1.0,,-1,,,,,,,Snow&Ice
+421,Northern Texas,Northern Texas,LOC,0.0,0.5875,en,1.0,,-1,,,,,,,Snow&Ice
+420,Kashmirs,Kashmirs,GPE,0.03333333,0.06666667,en,1.0,,-1,,,,,,,Snow&Ice
+419,Puget,Puget,GPE,0.4,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+418,Poonch,Poonch,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+416,Çldr Lake,Çldr Lake,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+415,Çıldır Lake,Çıldır Lake,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+414,Frozen lake,Frozen lake,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+413,Arai Mountain Resort,Arai Mountain Resort,LOC,0.35714286,0.84285714,en,1.0,,-1,,,,,,,Snow&Ice
+412,Belmont Park's,Belmont Park's,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+411,Seattle,Seattle,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+410,Niseko United,Niseko United,GPE,0.35714286,0.84285714,en,1.0,,-1,,,,,,,Snow&Ice
+409,Whatcom,Whatcom,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+408,Skagit,Skagit,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+407,King,King,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+406,Snohomish,Snohomish,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+405,the Pacific Ocean,the Pacific Ocean,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+404,N.J.,N.J.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+403,the Finger Lakes,the Finger Lakes,LOC,-0.3,0.53846154,en,1.0,,-1,,,,,,,Snow&Ice
+402,Gulf Islands,Gulf Islands,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+401,easte,easte,GPE,0.03249158,0.35521886,en,1.0,,-1,,,,,,,Snow&Ice
+400,the Hudson River Valley,the Hudson River Valley,LOC,0.03249158,0.35521886,en,1.0,,-1,,,,,,,Snow&Ice
+424,Cal,Cal,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+426,US Northeast,US Northeast,GPE,0.8,0.75,en,1.0,,-1,,,,,,,Snow&Ice
+451,SALT LAKE CITY,SALT LAKE CITY,GPE,0.05,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+427,Yellowstone National Park,Yellowstone National Park,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+450,Gulf,Gulf,LOC,-0.0625,0.3875,en,1.0,,-1,,,,,,,Snow&Ice
+449,Halifax,Halifax,GPE,0.0,0.0,en,1.0,4386277-9,2647632,X,53.716666,-1.85,EUROPE,United Kingdom,NEU,Snow&Ice
+448,LA,LA,GPE,0.08409091,0.41363636,en,1.0,,-1,,,,,,,Snow&Ice
+447,Burlington,Burlington,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+446,North Kashmir’s,North Kashmir’s,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+445,Ishikari,Ishikari,GPE,-0.08,0.28,en,1.0,,-1,,,,,,,Snow&Ice
+444,temperat,temperat,GPE,0.04375,0.4375,en,1.0,,-1,,,,,,,Snow&Ice
+443,the Sahara Desert,the Sahara Desert,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+442,Wynnefield Heights,Wynnefield Heights,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+441,Icelandic,Icelandic,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+440,Susquehanna,Susquehanna,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+439,Mt,Mt,GPE,0.35714286,0.84285714,en,1.0,,-1,,,,,,,Snow&Ice
+438,Glenorchy,Glenorchy,GPE,0.8,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+437,Avalon,Avalon,GPE,0.1875,0.6875,en,1.0,,-1,,,,,,,Snow&Ice
+436,West Coast,West Coast,LOC,0.275,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+435,Dam Battlegrounds,Dam Battlegrounds,LOC,0.85,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+434,Burin,Burin,GPE,0.1875,0.6875,en,1.0,,-1,,,,,,,Snow&Ice
+433,Bay of Exploits,Bay of Exploits,LOC,0.1875,0.6875,en,1.0,,-1,,,,,,,Snow&Ice
+432,"Yellowstone Lake
+","Yellowstone Lake
+",LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+431,Puget Sound,Puget Sound,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+430,Wyoming,Wyoming,GPE,0.0,0.0,en,1.0,4067130-6,5843591,X,43.399999,-107.5009,NORTH-AMERICA,United States,WNA,Snow&Ice
+429,New York s,New York s,GPE,0.18434343,0.35151515,en,1.0,,-1,,,,,,,Snow&Ice
+428,New York State of Emergency,New York State of Emergency,GPE,0.15757576,0.36969697,en,1.0,,-1,,,,,,,Snow&Ice
+506,Peterborough,Peterborough,GPE,-0.2375,0.225,en,1.0,4115916-0,2640354,X,52.573639,-0.24777,EUROPE,United Kingdom,NEU,Snow&Ice
+508,Aboyne,Aboyne,GPE,-0.2,0.5,en,1.0,4084650-7,2657775,X,57.075459,-2.78023,EUROPE,United Kingdom,NEU,Snow&Ice
+615,Amarillo,Amarillo,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+576,Grande Prairie,Grande Prairie,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+587,NEW YORK CITY,NEW YORK CITY,GPE,0.16181818,0.61272727,en,1.0,,-1,,,,,,,Snow&Ice
+586,Salt Lake,Salt Lake,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+585,West Nawalparasi,West Nawalparasi,GPE,-0.2775,0.65,en,1.0,,-1,,,,,,,Snow&Ice
+584,Squirrel Hill,Squirrel Hill,LOC,-0.2,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+583,Southcentral,Southcentral,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+582,Little Cottonwood Canyon,Little Cottonwood Canyon,LOC,0.5125,1.4,en,1.0,,-1,,,,,,,Snow&Ice
+581,Kilpisjärvi,Kilpisjärvi,GPE,0.8,0.9,en,1.0,,-1,,,,,,,Snow&Ice
+580,Enontekiö,Enontekiö,GPE,0.8,0.9,en,1.0,4342379-6,660229,X,68.385729,23.632149,EUROPE,Finland,NEU,Snow&Ice
+579,Northern IrelandTravel,Northern IrelandTravel,LOC,-0.03333333,0.46666667,en,1.0,,-1,,,,,,,Snow&Ice
+578,North Temperatures,North Temperatures,LOC,-0.03333333,0.23333333,en,1.0,,-1,,,,,,,Snow&Ice
+577,Mount Superior,Mount Superior,LOC,0.5125,1.4,en,1.0,,-1,,,,,,,Snow&Ice
+575,Banff,Banff,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+509,Kinross,Kinross,GPE,0.0,0.0,en,1.0,4391199-7,2645365,X,56.204659,-3.42138,EUROPE,United Kingdom,NEU,Snow&Ice
+574,Fort McMurray,Fort McMurray,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+573,Siberia,Siberia,LOC,0.3,0.8,en,1.0,,-1,,,,,,,Snow&Ice
+572,Pittsburghs Squirrel Hill,Pittsburghs Squirrel Hill,LOC,-0.2,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+571,Chukchi Peninsula,Chukchi Peninsula,LOC,0.55,0.7,en,1.0,,-1,,,,,,,Snow&Ice
+570,Narayangadh,Narayangadh,LOC,-0.6,1.0,en,1.0,4721763-7,1283001,X,27.68333,84.416669,ASIA,Nepal,TIB,Snow&Ice
+569,Western New York,Western New York,LOC,0.04545455,0.48484848,en,1.0,,-1,,,,,,,Snow&Ice
+568,Erie County's,Erie County's,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Snow&Ice
+567,Lake Erie,Lake Erie,LOC,0.10666667,0.40166667,en,1.0,,-1,,,,,,,Snow&Ice
+566,the Northern Lig,the Northern Lig,LOC,-0.15,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+565,Shinkansen,Shinkansen,GPE,0.3625,0.56428571,en,1.0,,-1,,,,,,,Snow&Ice
+564,WNY,WNY,GPE,-0.125,0.375,en,1.0,,-1,,,,,,,Snow&Ice
+588,New York City's,New York City's,GPE,0.13961039,0.6112013,en,1.0,,-1,,,,,,,Snow&Ice
+589,Gush Dan,Gush Dan,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+590,Derry,Derry,GPE,-0.07777778,0.14444444,en,1.0,4111374-3,2643736,X,54.9981,-7.309339,EUROPE,United Kingdom,NEU,Snow&Ice
+591,Armagh,Armagh,GPE,-0.07777778,0.14444444,en,1.0,4293636-6,2657060,X,54.35,-6.666669,EUROPE,United Kingdom,NEU,Snow&Ice
+614,Brazil,Brazil,GPE,0.26666667,0.56666667,en,1.0,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Snow&Ice
+613,the eastern seaboard,the eastern seaboard,LOC,0.2875,0.66875,en,1.0,,-1,,,,,,,Snow&Ice
+612,Wildcats,Wildcats,GPE,-0.34583333,0.47083333,en,1.0,,-1,,,,,,,Snow&Ice
+611,Butler County,Butler County,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+610,Blue Ridge,Blue Ridge,LOC,0.16666667,0.43333333,en,1.0,,-1,,,,,,,Snow&Ice
+609,Indigenous Sámi,Indigenous Sámi,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+608,the Finnmark Plateau,the Finnmark Plateau,LOC,0.4,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+607,Zhangjiakou,Zhangjiakou,GPE,-0.2,0.85,en,1.0,,-1,,,,,,,Snow&Ice
+606,Northern Norway,Northern Norway,LOC,0.36818182,0.67727273,en,1.0,,-1,,,,,,,Snow&Ice
+605,North Dakota,North Dakota,GPE,0.0,0.23333333,en,1.0,4075498-4,5690763,X,47.50027,-100.8,NORTH-AMERICA,United States,CNA,Snow&Ice
+604,Lower Michigan,Lower Michigan,GPE,0.25,0.75,en,1.0,,-1,,,,,,,Snow&Ice
+603,FANNIN COUNTY,FANNIN COUNTY,GPE,0.16666667,0.43333333,en,1.0,,-1,,,,,,,Snow&Ice
+602,Labrador Sea,Labrador Sea,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+601,Chicagos,Chicagos,GPE,0.27,0.41333333,en,1.0,,-1,,,,,,,Snow&Ice
+600,CYPRESS,CYPRESS,GPE,-0.1,0.35,en,1.0,,-1,,,,,,,Snow&Ice
+599,Korala,Korala,GPE,0.125,0.32083333,en,1.0,,-1,,,,,,,Snow&Ice
+598,Wilmington,Wilmington,GPE,0.095,0.675,en,1.0,,-1,,,,,,,Snow&Ice
+597,Mustang,Mustang,GPE,0.25833333,0.64861111,en,1.0,,-1,,,,,,,Snow&Ice
+596,Southeast Asia,Southeast Asia,LOC,-0.33333333,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+595,North America,North America,LOC,-0.33333333,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+594,the Middle East,the Middle East,LOC,-0.33333333,0.33333333,en,1.0,,-1,,,,,,,Snow&Ice
+593,Hungary,Hungary,GPE,-0.03,0.57,en,1.0,4078541-5,719819,X,47.0,20.0,EUROPE,Hungary,WCE,Snow&Ice
+592,Antrim,Antrim,GPE,-0.07777778,0.14444444,en,1.0,4079799-5,2657255,X,54.7,-6.2,EUROPE,United Kingdom,NEU,Snow&Ice
+563,the Gulf Coast,the Gulf Coast,LOC,0.26666667,0.80416667,en,1.0,,-1,,,,,,,Snow&Ice
+562,Southern New Mexico,Southern New Mexico,LOC,0.06818182,0.22727273,en,1.0,,-1,,,,,,,Snow&Ice
+561,Ohio Valley,Ohio Valley,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Snow&Ice
+534,Antwerp,Antwerp,GPE,0.234375,0.46875,en,1.0,1266617345,5107253,X,44.199166,-75.606944,NORTH-AMERICA,United States,ENA,Snow&Ice
+532,Meteo France,Meteo France,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+531,Ci… UCF,Ci… UCF,GPE,0.16666667,0.3,en,1.0,,-1,,,,,,,Snow&Ice
+530,Jakarta,Jakarta,GPE,0.2,0.7,en,1.0,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Snow&Ice
+529,Cedar Creek Gardens,Cedar Creek Gardens,LOC,1.0,1.125,en,1.0,,-1,,,,,,,Snow&Ice
+528,Mount Everest,Mount Everest,LOC,-0.025,0.2875,en,1.0,,-1,,,,,,,Snow&Ice
+527,Everest,Everest,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+526,the Frozen Chadar River,the Frozen Chadar River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+525,Chadar River,Chadar River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+524,Powderhorn Mountain Resort,Powderhorn Mountain Resort,LOC,0.15,0.25,en,1.0,,-1,,,,,,,Snow&Ice
+523,Hanover,Hanover,GPE,0.0,0.0,en,1.0,4023349-2,2910831,X,52.370277,9.733055,EUROPE,Germany,WCE,Snow&Ice
+522,Arta,Arta,GPE,0.2,0.2,en,1.0,4221538-9,264559,X,39.160559,20.985279,EUROPE-AFRICA,Greece,MED,Snow&Ice
+521,⁠northern Europe,⁠northern Europe,LOC,-0.2,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+520,Hebei,Hebei,GPE,-0.2,0.85,en,1.0,,-1,,,,,,,Snow&Ice
+519,Bremen,Bremen,GPE,0.0,0.0,en,1.0,4008135-7,2944387,X,53.083329,8.83333,EUROPE,Germany,NEU,Snow&Ice
+518,Hamburg Germany,Hamburg Germany,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+517,West Midlands,West Midlands,GPE,-0.05,0.65,en,1.0,,-1,,,,,,,Snow&Ice
+516,SCHIPHOL,SCHIPHOL,GPE,0.13333333,0.2,en,1.0,,-1,,,,,,,Snow&Ice
+515,North America's,North America's,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Snow&Ice
+514,Spain,Spain,GPE,0.0,0.0,en,1.0,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Snow&Ice
+513,throughou,throughou,GPE,0.12727273,0.51090909,en,1.0,,-1,,,,,,,Snow&Ice
+512,Munster,Munster,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Snow&Ice
+511,Highland,Highland,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+510,Perth,Perth,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+533,Europes,Europes,LOC,0.234375,0.46875,en,1.0,,-1,,,,,,,Snow&Ice
+535,Northern Cal,Northern Cal,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+560,Mohawk Valley,Mohawk Valley,LOC,0.0,1.0,en,1.0,,-1,,,,,,,Snow&Ice
+536,Northern US,Northern US,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+559,Frost Cove,Frost Cove,LOC,0.1984127,0.50674603,en,1.0,,-1,,,,,,,Snow&Ice
+558,Winnipeg,Winnipeg,LOC,0.0,0.0,en,1.0,4119124-9,6183235,X,49.884399,-97.14704,NORTH-AMERICA,Canada,CNA,Snow&Ice
+557,Washington County,Washington County,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+556,SHENYANG,SHENYANG,GPE,0.30666667,0.37333333,en,1.0,,-1,,,,,,,Snow&Ice
+555,Buffalo,Buffalo,GPE,0.0,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+554,Trollstigen,Trollstigen,GPE,0.55,0.7,en,1.0,,-1,,,,,,,Snow&Ice
+553,La Niña,La Niña,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+552,Peloponnese,Peloponnese,GPE,-0.17,0.4,en,1.0,,-1,,,,,,,Snow&Ice
+551,the north Pacific,the north Pacific,LOC,0.25,0.85,en,1.0,,-1,,,,,,,Snow&Ice
+550,San Diego,San Diego,GPE,0.25,0.85,en,1.0,,-1,,,,,,,Snow&Ice
+549,Estonias,Estonias,GPE,0.21818182,0.72727273,en,1.0,,-1,,,,,,,Snow&Ice
+548,Most Advanced Telescopes,Most Advanced Telescopes,LOC,0.23611111,0.59722222,en,1.0,,-1,,,,,,,Snow&Ice
+547,the Atacama Desert,the Atacama Desert,LOC,0.23611111,0.59722222,en,1.0,,-1,,,,,,,Snow&Ice
+546,Budapest,Budapest,GPE,0.0,0.0,en,1.0,4008684-7,3054643,X,47.49801,19.039909,EUROPE,Hungary,WCE,Snow&Ice
+545,Atacama Desert,Atacama Desert,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Snow&Ice
+544,Shenb… SHENYANG,Shenb… SHENYANG,GPE,0.30666667,0.37333333,en,1.0,,-1,,,,,,,Snow&Ice
+543,Yarbo,Yarbo,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Snow&Ice
+542,Way,Way,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Snow&Ice
+541,Louth,Louth,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Snow&Ice
+540,South Dakota,South Dakota,GPE,1.0,1.125,en,1.0,4055657-8,5769223,X,44.500259,-100.25069,NORTH-AMERICA,United States,CNA,Snow&Ice
+539,East Helena,East Helena,GPE,0.06666667,0.35,en,1.0,,-1,,,,,,,Snow&Ice
+538,Montana City,Montana City,GPE,0.06666667,0.35,en,1.0,,-1,,,,,,,Snow&Ice
+537,Madrid,Madrid,GPE,0.0,0.0,en,1.0,4036862-2,3117735,X,40.416499,-3.70256,EUROPE-AFRICA,Spain,MED,Snow&Ice
+833,Sápmi,Sápmi,GPE,0.36818182,0.67727273,en,1.0,,-1,,,,,,,Snow&Ice
