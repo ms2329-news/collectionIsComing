@@ -113,7 +113,7 @@ def storeCollection():
     cols = ['published','extreme','topic','domain','language','valid', 'title','description', 'url','image','archive', 'content','en','de','la']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
-        df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
+        df.index = df['url'].apply( lambda x: hashlib.sha256(str(x).encode()).hexdigest()[:32])   
         df = removeDuplicates(df)
         df.index.name = 'index'
         df = df.sort_values(by=['published', 'index'], ascending=True)
