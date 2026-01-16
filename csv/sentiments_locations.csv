@@ -1,384 +1,598 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Philippinen,Philippinen,LOC,-0.13971341,0.09041283,de,97.7,4045771-0,1694008,A,13.40882,122.56155,ASIA,Philippines,SEA,Storm
-1,Jamaika,Jamaika,LOC,-0.17241379,0.11296076,de,84.1,127193-3,3489940,A,18.16667,-77.25,CENTRAL-AMERICA,Jamaica,CAR,Storm
-2,Deutschland,Deutschland,LOC,-0.05011655,0.12820513,de,42.9,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Storm
-3,Vietnam,Vietnam,LOC,-0.03431373,0.0,de,40.8,4063514-4,1562822,A,16.16667,107.83333,ASIA,Vietnam,SEA,Storm
-4,Kuba,Kuba,LOC,-0.05052083,0.0,de,32.0,4033340-1,3562981,A,22.0,-79.5,CENTRAL-AMERICA,Cuba,CAR,Storm
-5,Karibik,Karibik,LOC,-0.10942761,0.1010101,de,29.7,4073241-1,7729891,L,20.38583,-72.33398,CENTRAL-AMERICA,,CAR,Storm
-6,Brasiliens,Brasiliens,LOC,-0.43262411,0.12056738,de,23.5,,0,,,,,,,Storm
-7,Südostasien,Südostasien,LOC,-0.15981735,0.0456621,de,21.9,4058448-3,7729896,L,6.83917,116.45508,ASIA,,SEA,Storm
-8,Baden-Württemberg,Baden-Württemberg,LOC,-0.30833333,0.32407407,de,18.0,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Storm
-9,Taiwan,Taiwan,LOC,0.07865169,0.0,de,17.8,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Storm
-10,Rio Bonito do Iguaçu,Rio Bonito do Iguaçu,LOC,-0.09313725,0.09803922,de,13.6,,6322957,A,-25.54822,-52.62154,SOUTH-AMERICA,Brazil,SES,Storm
-11,Sturm,Sturm,LOC,-0.07936508,0.07936508,de,12.6,,6626207,T,-71.05,162.96667,POLAR,Antarctica,EAN,Storm
-12,Karibikinsel,Karibikinsel,LOC,-0.05833333,0.16666667,de,12.0,,0,,,,,,,Storm
-13,Brasilien,Brasilien,LOC,-0.08403361,0.0,de,11.9,4008003-1,3469034,A,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Storm
-14,Albufeira,Albufeira,LOC,0.39316239,0.0,de,11.7,4126599-3,8010512,A,37.08341,-8.26139,EUROPE-AFRICA,Portugal,MED,Storm
-15,Haiti,Haiti,LOC,-0.02878788,0.0,de,11.0,4022974-9,3723988,A,19.07582,-72.29616,CENTRAL-AMERICA,Haiti,CAR,Storm
-16,Behördenangaben,Behördenangaben,LOC,-0.8251634,0.13071895,de,10.2,,0,,,,,,,Storm
-17,Bahamas,Bahamas,LOC,-0.42,0.1,de,10.0,502239-3,3572887,A,25.04082,-77.37122,NORTH-AMERICA,Bahamas,ENA,Storm
-18,Kalifornien,Kalifornien,LOC,-0.21428571,0.0,de,9.8,4029307-5,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Storm
-19,Portugal,Portugal,LOC,0.10309278,0.0,de,9.7,4046843-4,2264397,A,39.6945,-8.13057,EUROPE-AFRICA,Portugal,MED,Storm
-20,Böen,Böen,LOC,-0.06111111,0.0,de,9.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Storm
-21,Portugals,Portugals,LOC,0.62222222,0.0,de,9.0,,964394,H,-32.35,21.01667,AFRICA,South Africa,WSAF,Storm
-22,Wirbelsturm,Wirbelsturm,LOC,-0.06589147,0.15503876,de,8.6,,0,,,,,,,Storm
-23,Stadt,Stadt,LOC,-0.01219512,0.04065041,de,8.2,,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Storm
-24,Bäume,Bäume,LOC,-0.5875,0.0,de,8.0,,0,,,,,,,Storm
-25,Deutschlands,Deutschlands,LOC,-0.65384615,0.0,de,7.8,,0,,,,,,,Storm
-26,Asien,Asien,LOC,-0.11486486,0.13513514,de,7.4,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB,Storm
-27,Schneeverwehungen,Schneeverwehungen,LOC,-0.04794521,0.47945205,de,7.3,,0,,,,,,,Storm
-28,Glatteis,Glatteis,LOC,-0.04794521,0.47945205,de,7.3,,0,,,,,,,Storm
-29,Paris,Paris,LOC,0.0,0.0,de,7.0,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Storm
-30,Bermuda,Bermuda,LOC,-0.2,0.0,de,7.0,4005759-8,3573345,A,32.33022,-64.74003,ATLANTIC,Bermuda,NAO,Storm
-31,…,…,LOC,0.16129032,0.0,de,6.2,,0,,,,,,,Storm
-35,Bualoi,Bualoi,LOC,0.0,0.0,de,6.0,,9028703,S,14.4135,100.83886,ASIA,Thailand,SEA,Storm
-36,China,China,LOC,-0.23333333,0.0,de,6.0,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Storm
-33,Feldberg,Feldberg,LOC,-0.05833333,0.41666667,de,6.0,,2927445,T,47.87399,8.00371,EUROPE,Germany,WCE,Storm
-34,Notunterkünften,Notunterkünften,LOC,0.0,0.0,de,6.0,,0,,,,,,,Storm
-32,Nordseeküste,Nordseeküste,LOC,-0.28333333,0.0,de,6.0,4075482-0,12076810,L,53.83568,8.11677,EUROPE,Germany,NEU,Storm
-37,Orkanböen,Orkanböen,LOC,-0.75862069,0.0,de,5.8,,0,,,,,,,Storm
-38,Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.12280702,0.0,de,5.7,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Storm
-39,Bayern,Bayern,LOC,0.0,0.0,de,5.6,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Storm
-40,Nordsee,Nordsee,LOC,0.22,0.0,de,5.0,4042579-4,2960848,H,55.33333,3.0,EUROPE,,NEU,Storm
-41,Harz,Harz,LOC,-0.2,0.0,de,5.0,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Storm
-42,Saarland,Saarland,LOC,0.29787234,0.0,de,4.7,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE,Storm
-43,Starkregen,Starkregen,LOC,-0.44444444,0.0,de,4.5,,0,,,,,,,Storm
-44,Mount Everest,Mount Everest,LOC,-0.6,0.0,de,4.0,4040417-1,1283416,T,27.98791,86.92529,ASIA,China,TIB,Storm
-45,Toten,Toten,LOC,-0.7,0.0,de,4.0,4843549-1,3143158,A,60.67659,10.81997,EUROPE,Norway,NEU,Storm
-46,Atlantik,Atlantik,LOC,-0.48717949,0.12820513,de,3.9,4003388-0,2395914,P,6.44852,2.35566,AFRICA,Benin,WAF,Storm
-47,Sturmböen,Sturmböen,LOC,0.0,0.0,de,3.9,,0,,,,,,,Storm
-48,Europa,Europa,LOC,-0.03846154,0.0,de,3.9,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Storm
-51,Überschwemmungen,Überschwemmungen,LOC,0.42982456,0.0,de,3.8,,0,,,,,,,Storm
-49,Hurrikan-Katastrophe,Hurrikan-Katastrophe,LOC,0.0,0.26315789,de,3.8,,0,,,,,,,Storm
-50,Thailand,Thailand,LOC,0.36842105,0.0,de,3.8,4078228-1,1605651,A,15.5,101.0,ASIA,Thailand,SEA,Storm
-52,"Sturmtief ""Elli","Sturmtief ""Elli",LOC,-0.09459459,0.94594595,de,3.7,,0,,,,,,,Storm
-53,Algarve,Algarve,LOC,-0.18918919,0.0,de,3.7,4001155-0,10227214,L,37.08367,-8.24902,EUROPE-AFRICA,Portugal,MED,Storm
-54,Kaliforniens,Kaliforniens,LOC,0.0,0.0,de,3.4,,0,,,,,,,Storm
-55,Schweden,Schweden,LOC,-0.20588235,0.0,de,3.4,4077258-5,2661886,A,62.0,15.0,EUROPE,Sweden,NEU,Storm
-56,Teneriffa,Teneriffa,LOC,0.16176471,0.0,de,3.4,4277900-5,2511174,P,28.46824,-16.25462,AFRICA,Spain,SAH,Storm
-57,Irland,Irland,LOC,0.4516129,0.0,de,3.1,4027667-3,2963597,A,53.0,-8.0,EUROPE,Ireland,NEU,Storm
-65,Dächer,Dächer,LOC,-0.23333333,0.0,de,3.0,,0,,,,,,,Storm
-71,Nordatlantik,Nordatlantik,LOC,0.23333333,0.0,de,3.0,,0,,,,,,,Storm
-70,US-Präsident,US-Präsident,LOC,0.0,0.0,de,3.0,,0,,,,,,,Storm
-69,Flughafen Hongkong,Flughafen Hongkong,LOC,-0.23333333,0.0,de,3.0,4702948-1,6301089,S,22.31546,113.93372,ASIA,Hong Kong,EAS,Storm
-68,Staaten,Staaten,LOC,0.05,0.0,de,3.0,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA,Storm
-67,Hurrikan,Hurrikan,LOC,0.0,0.0,de,3.0,,0,,,,,,,Storm
-66,Landes,Landes,LOC,-0.28333333,0.0,de,3.0,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Storm
-64,Melissa,Melissa,LOC,-0.33333333,0.0,de,3.0,,4710574,P,33.28595,-96.57277,NORTH-AMERICA,United States,CNA,Storm
-63,Hongkong,Hongkong,LOC,-0.23333333,0.0,de,3.0,4025822-1,1819729,P,22.27832,114.17469,ASIA,Hong Kong,EAS,Storm
-61,Sturmtief Joshua,Sturmtief Joshua,LOC,-0.46666667,0.0,de,3.0,,0,,,,,,,Storm
-60,Windböen,Windböen,LOC,0.0,0.0,de,3.0,,0,,,,,,,Storm
-59,Schneefallgrenze,Schneefallgrenze,LOC,0.0,0.0,de,3.0,,0,,,,,,,Storm
-58,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.18333333,0.0,de,3.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Storm
-62,München,München,LOC,0.8,0.33333333,de,3.0,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Storm
-72,Tropensturm,Tropensturm,LOC,0.24137931,0.0,de,2.9,,0,,,,,,,Storm
-73,Tornados,Tornados,LOC,-1.07142857,0.0,de,2.8,,0,,,,,,,Storm
-74,USA,USA,LOC,0.0,0.0,de,2.8,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
-75,Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,2.8,,0,,,,,,,Storm
-76,Nordaustralien,Nordaustralien,LOC,0.5,0.0,de,2.8,,0,,,,,,,Storm
-77,Darwin,Darwin,LOC,0.0,0.0,de,2.8,4011096-5,2073124,P,-12.46113,130.84185,OCEANIA,Australia,NAU,Storm
-78,“,“,LOC,0.0,0.35714286,de,2.8,,0,,,,,,,Storm
-79,Trab,Trab,LOC,-0.25,0.0,de,2.8,,2596174,L,31.14459,-6.56317,EUROPE-AFRICA,Morocco,MED,Storm
-81,Sumatra,Sumatra,LOC,0.0,0.76923077,de,2.6,4058586-4,1626198,T,0.0,102.0,ASIA,Indonesia,SEA,Storm
-82,Los Angeles,Los Angeles,LOC,0.0,0.0,de,2.6,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Storm
-80,Indonesien,Indonesien,LOC,-0.19230769,0.19230769,de,2.6,4026761-1,1643084,A,-5.0,120.0,ASIA,Indonesia,SEA,Storm
-83,Erde,Erde,LOC,1.52173913,0.0,de,2.3,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Storm
-84,Großbritanniens,Großbritanniens,LOC,0.47727273,1.13636364,de,2.2,,0,,,,,,,Storm
-85,Großbritannien,Großbritannien,LOC,0.0,0.0,de,2.2,4022153-2,2635167,A,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Storm
-86,Sri Lanka,Sri Lanka,LOC,-0.23809524,0.23809524,de,2.1,4009696-8,1227603,A,7.75,80.75,INDIAN,Sri Lanka,BOB,Storm
-99,Jamaicas,Jamaicas,LOC,0.0,0.0,de,2.0,,0,,,,,,,Storm
-104,Meere,Meere,LOC,0.0,0.0,de,2.0,,13240496,L,54.32137,8.60521,EUROPE,Germany,NEU,Storm
-101,Herbststurm,Herbststurm,LOC,-1.0,0.0,de,2.0,,0,,,,,,,Storm
-102,Samar,Samar,LOC,0.0,0.0,de,2.0,4287642-4,499099,P,53.20007,50.15,EUROPE,Russia,EEU,Storm
-103,Hamburg,Hamburg,LOC,0.0,0.0,de,2.0,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Storm
-107,Schneesturm,Schneesturm,LOC,-0.7,0.0,de,2.0,,0,,,,,,,Storm
-105,Hilfsgüter,Hilfsgüter,LOC,-0.23333333,1.16666667,de,2.0,,0,,,,,,,Storm
-106,Wirbelsturm in der Karibik,Wirbelsturm in der Karibik,LOC,0.0,0.0,de,2.0,,0,,,,,,,Storm
-108,NRW,NRW,LOC,-0.35,0.0,de,2.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Storm
-109,Häfen,Häfen,LOC,-0.175,0.75,de,2.0,,12144770,A,53.10737,8.74252,EUROPE,Germany,NEU,Storm
-110,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.85,0.0,de,2.0,4242861-0,2872567,A,53.83333,12.5,EUROPE,Germany,WCE,Storm
-100,Regen,Regen,LOC,-1.0,0.0,de,2.0,4048975-9,2849495,P,48.9719,13.12824,EUROPE,Germany,WCE,Storm
-97,Ragasa,Ragasa,LOC,0.0,0.0,de,2.0,,0,,,,,,,Storm
-98,Beaufort-Skala,Beaufort-Skala,LOC,-0.275,0.0,de,2.0,,0,,,,,,,Storm
-91,offene Meer,offene Meer,LOC,0.0,0.0,de,2.0,,0,,,,,,,Storm
-96,Karibikstaat,Karibikstaat,LOC,0.7,0.0,de,2.0,,0,,,,,,,Storm
-87,Küste,Küste,LOC,0.0,0.0,de,2.0,4014426-4,2287781,A,8.0,-5.5,AFRICA,Ivory Coast,WAF,Storm
-88,Ibiza,Ibiza,LOC,0.075,0.0,de,2.0,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Storm
-90,Trümmer,Trümmer,LOC,0.0,0.0,de,2.0,,9881537,T,50.91011,6.9145,EUROPE,Germany,WCE,Storm
-89,Ermont,Ermont,LOC,0.0,0.0,de,2.0,4577324-5,3019897,P,48.99004,2.25804,EUROPE,France,WCE,Storm
-92,Gewittern,Gewittern,LOC,-1.0,0.0,de,2.0,,0,,,,,,,Storm
-93,Monstersturm,Monstersturm,LOC,0.0,0.0,de,2.0,,0,,,,,,,Storm
-94,Milliardenhöhe,Milliardenhöhe,LOC,0.0,0.0,de,2.0,,0,,,,,,,Storm
-95,Tropensturm Bualoi,Tropensturm Bualoi,LOC,-0.7,0.0,de,2.0,,0,,,,,,,Storm
-118,Kambodscha,Kambodscha,LOC,-0.36842105,0.52631579,de,1.9,4029400-6,1831722,A,13.0,105.0,ASIA,Cambodia,SEA,Storm
-123,Verdachtsfälle,Verdachtsfälle,LOC,0.0,0.0,de,1.9,,0,,,,,,,Storm
-122,Australien,Australien,LOC,0.0,0.0,de,1.9,4003900-6,2077456,A,-25.0,135.0,OCEANIA,Australia,CAU,Storm
-121,Orkan,Orkan,LOC,0.0,0.0,de,1.9,,11070241,L,28.98656,64.52674,ASIA,Pakistan,SAS,Storm
-120,Paraná,Paraná,LOC,-0.29824561,0.1754386,de,1.9,,3455077,A,-24.5,-51.33333,SOUTH-AMERICA,Brazil,SES,Storm
-119,Wetterphänomens,Wetterphänomens,LOC,0.0,0.0,de,1.9,,0,,,,,,,Storm
-114,Anmarsch,Anmarsch,LOC,0.0,0.0,de,1.9,,0,,,,,,,Storm
-117,Eisblöcke,Eisblöcke,LOC,0.0,0.0,de,1.9,,0,,,,,,,Storm
-116,Arcadia Bay,Arcadia Bay,LOC,-0.52631579,0.0,de,1.9,,8219727,P,-19.14884,146.86601,OCEANIA,Australia,NAU,Storm
-115,Nässe,Nässe,LOC,-0.36842105,0.0,de,1.9,,12060664,P,63.18374,17.11035,EUROPE,Sweden,NEU,Storm
-113,Alarmstufe Rot,Alarmstufe Rot,LOC,-0.89473684,0.0,de,1.9,,0,,,,,,,Storm
-112,Gaza,Gaza,LOC,1.57894737,0.0,de,1.9,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Storm
-111,US-Bundesstaat Kalifornien,US-Bundesstaat Kalifornien,LOC,0.0,0.0,de,1.9,,0,,,,,,,Storm
-124,Todesfälle,Todesfälle,LOC,0.0,0.0,de,1.8,,0,,,,,,,Storm
-125,Wintersturm,Wintersturm,LOC,0.0,0.0,de,1.8,,0,,,,,,,Storm
-126,Gazastreifen,Gazastreifen,LOC,0.0,0.0,de,1.8,4019325-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Storm
-127,Irlands,Irlands,LOC,-0.21875,1.5625,de,1.6,,6640368,H,53.66667,-5.0,EUROPE,,NEU,Storm
-128,Offshore-Windparks,Offshore-Windparks,LOC,0.46666667,0.0,de,1.5,,0,,,,,,,Storm
-129,Ukraine,Ukraine,LOC,0.0,0.0,de,1.3,4061496-7,690791,A,49.0,32.0,EUROPE,Ukraine,WCE,Storm
-130,Sturm Kalmaegi,Sturm Kalmaegi,LOC,0.63636364,0.0,de,1.1,,0,,,,,,,Storm
-135,Notunterkünfte,Notunterkünfte,LOC,1.27272727,0.0,de,1.1,,0,,,,,,,Storm
-138,Space Weather Prediction Center,Space Weather Prediction Center,LOC,0.0,0.0,de,1.1,,0,,,,,,,Storm
-137,Zentrum von Fung-Wong,Zentrum von Fung-Wong,LOC,0.0,0.0,de,1.1,,0,,,,,,,Storm
-136,Landgang am Sonntag,Landgang am Sonntag,LOC,0.0,0.0,de,1.1,,0,,,,,,,Storm
-131,Naturkatastrophe,Naturkatastrophe,LOC,0.63636364,0.0,de,1.1,,0,,,,,,,Storm
-134,Belém,Belém,LOC,0.0,0.0,de,1.1,4208294-8,3405870,P,-1.45583,-48.50444,SOUTH-AMERICA,Brazil,NES,Storm
-133,Regierungsangaben,Regierungsangaben,LOC,0.0,0.0,de,1.1,,0,,,,,,,Storm
-132,Supertaifun Fung-Wong,Supertaifun Fung-Wong,LOC,0.0,0.0,de,1.1,,0,,,,,,,Storm
-293,Ibizia,Ibizia,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-294,Kolonien,Kolonien,LOC,0.0,1.0,de,1.0,,2799721,P,51.25113,5.38591,EUROPE,Belgium,WCE,Storm
-305,Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-295,Raumschiffen,Raumschiffen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-296,Sonnenwinden,Sonnenwinden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-297,Raumschiffflotte,Raumschiffflotte,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-298,Plasma-Tornados,Plasma-Tornados,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-299,Lhasa,Lhasa,LOC,0.0,0.0,de,1.0,4111286-6,1280737,P,29.65,91.1,ASIA,China,TIB,Storm
-300,Westpfalz,Westpfalz,LOC,0.0,0.0,de,1.0,4065806-5,11777630,S,49.2515,7.52769,EUROPE,Germany,WCE,Storm
-301,Bergsteigerl…,Bergsteigerl…,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-302,Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1.0,4034109-4,2881885,P,48.34042,7.86886,EUROPE,Germany,WCE,Storm
-303,Brocken,Brocken,LOC,0.0,0.0,de,1.0,4080545-1,10787462,T,-54.48333,-36.06667,SOUTHERN,South Georgia and South Sandwich Islands,SOO,Storm
-304,Nebel,Nebel,LOC,0.0,0.0,de,1.0,,12152659,S,56.37689,107.07058,ASIA,Russia,ESB,Storm
-310,Offenbach,Offenbach,LOC,0.0,0.0,de,1.0,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Storm
-306,Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,1.0,,3205650,A,47.71022,8.09118,EUROPE,Germany,WCE,Storm
-307,Wetterdienst,Wetterdienst,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-308,Herbststürme,Herbststürme,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-309,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-291,Hanoi,Hanoi,LOC,-0.7,0.0,de,1.0,4094713-0,1581130,P,21.0245,105.84117,ASIA,Vietnam,EAS,Storm
-311,Landfall,Landfall,LOC,0.0,0.0,de,1.0,,6636606,T,-72.0,-102.0,POLAR,Antarctica,WAN,Storm
-312,Live-Karte,Live-Karte,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-313,Kat…,Kat…,LOC,-0.6,0.0,de,1.0,,0,,,,,,,Storm
-314,Jamaica,Jamaica,LOC,0.0,0.0,de,1.0,127193-3,3489940,A,18.16667,-77.25,CENTRAL-AMERICA,Jamaica,CAR,Storm
-315,Jahrhundert-Sturm Melissa,Jahrhundert-Sturm Melissa,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-316,Polizeisprecherin,Polizeisprecherin,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-317,Genf,Genf,LOC,0.0,0.0,de,1.0,4020137-5,2660646,P,46.20222,6.14569,EUROPE,Switzerland,WCE,Storm
-318,Inselstaat,Inselstaat,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-292,Tibet,Tibet,LOC,0.0,0.0,de,1.0,4111286-6,1280737,P,29.65,91.1,ASIA,China,TIB,Storm
-287,Marokko,Marokko,LOC,-1.85,0.0,de,1.0,4037680-1,2542007,A,28.5,-10.0,AFRICA,Morocco,SAH,Storm
-290,Nordmeer,Nordmeer,LOC,-0.23333333,0.66666667,de,1.0,,0,,,,,,,Storm
-289,lsw,lsw,LOC,-0.23333333,0.66666667,de,1.0,,1214658,P,5.1801,97.1507,ASIA,Indonesia,SEA,Storm
-262,Engländer,Engländer,LOC,0.0,0.0,de,1.0,,2930137,S,50.05,9.3,EUROPE,Germany,WCE,Storm
-263,Gardasees,Gardasees,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-264,d…,d…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-265,Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-266,Taifun-Stärke,Taifun-Stärke,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-267,Carrington-Ereignis,Carrington-Ereignis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-268,den USA,den USA,LOC,0.0,0.0,de,1.0,4011446-6,2747373,P,52.07667,4.29861,EUROPE,The Netherlands,NEU,Storm
-269,Südtiroler Landesfläche,Südtiroler Landesfläche,LOC,0.23333333,0.0,de,1.0,,0,,,,,,,Storm
-270,Spaniens,Spaniens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-271,Mittelmeer,Mittelmeer,LOC,0.0,0.0,de,1.0,4074895-9,363196,H,35.0,20.0,EUROPE-AFRICA,,MED,Storm
-272,Bermuda-Inselgruppe,Bermuda-Inselgruppe,LOC,0.7,0.0,de,1.0,,0,,,,,,,Storm
-273,Mallorca,Mallorca,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Storm
-274,Stuttgart,Stuttgart,LOC,-0.23333333,0.66666667,de,1.0,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Storm
-275,Norddeutschland,Norddeutschland,LOC,-0.7,0.0,de,1.0,4075454-6,11978817,T,51.47087,6.56787,EUROPE,Germany,WCE,Storm
-276,Orkanartige Böen,Orkanartige Böen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-277,Ostsee,Ostsee,LOC,0.0,0.0,de,1.0,4021328-6,2919765,P,54.83503,9.55218,EUROPE,Germany,NEU,Storm
-278,Nord-,Nord-,LOC,0.0,0.0,de,1.0,,12089031,L,45.41224,11.54639,EUROPE,Italy,WCE,Storm
-279,Orkantief,Orkantief,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-280,Sachsen,Sachsen,LOC,0.0,0.0,de,1.0,4051181-9,2842565,A,52.0,11.7333,EUROPE,Germany,WCE,Storm
-281,sn,sn,LOC,0.0,0.0,de,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Storm
-282,Leipzig,Leipzig,LOC,0.0,0.0,de,1.0,4035206-7,2879139,P,51.33962,12.37129,EUROPE,Germany,WCE,Storm
-283,stürmisch,stürmisch,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-284,North Carolina,North Carolina,LOC,0.0,0.0,de,1.0,4042551-4,4563243,P,18.38078,-65.95739,CENTRAL-AMERICA,Puerto Rico,CAR,Storm
-285,Tornado-Wellen,Tornado-Wellen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-286,Polizeiwache,Polizeiwache,LOC,0.0,0.0,de,1.0,,11001843,S,49.40924,8.69356,EUROPE,Germany,WCE,Storm
-320,Bicol,Bicol,LOC,0.7,0.0,de,1.0,4225458-9,7521310,A,13.31389,123.56389,ASIA,Philippines,SEA,Storm
-288,Hurrikans Humberto,Hurrikans Humberto,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-319,Super-Taifun,Super-Taifun,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-325,Orkan-Böen,Orkan-Böen,LOC,1.0,0.0,de,1.0,,0,,,,,,,Storm
-321,Band-Geheimnis,Band-Geheimnis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-322,Stundenkilometern,Stundenkilometern,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-353,Schwarzwalde…,Schwarzwalde…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-354,Sturmtief «Joshua,Sturmtief «Joshua,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-355,Sturm Graz,Sturm Graz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-356,St. Pauli-Fischmarkt,St. Pauli-Fischmarkt,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-357,Sturm und Orkanböen,Sturm und Orkanböen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-358,Warnungen,Warnungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-359,Böen…,Böen…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-360,Formentera,Formentera,LOC,0.15,0.0,de,1.0,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Storm
-361,Regenschauer,Regenschauer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-362,Glasgow,Glasgow,LOC,0.0,0.0,de,1.0,4021159-9,2648579,P,55.86515,-4.25763,EUROPE,United Kingdom,NEU,Storm
-363,Schottlands,Schottlands,LOC,0.7,0.0,de,1.0,,0,,,,,,,Storm
-364,"Herbstturmtief ""Joshua","Herbstturmtief ""Joshua",LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-365,Wilhelmshaven,Wilhelmshaven,LOC,-1.0,0.0,de,1.0,4066173-8,2808720,P,53.5476,8.10395,EUROPE,Germany,NEU,Storm
-366,Äste,Äste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-367,Freiburg,Freiburg,LOC,0.0,0.0,de,1.0,4018272-1,2925177,P,47.9959,7.85222,EUROPE,Germany,WCE,Storm
-368,Westeuropa,Westeuropa,LOC,-1.0,0.0,de,1.0,4079215-8,9408659,L,50.21909,7.42676,EUROPE,Germany,WCE,Storm
-369,Sturmschäden,Sturmschäden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-370,Haus,Haus,LOC,0.7,0.0,de,1.0,,2550180,L,35.68852,-5.44414,EUROPE-AFRICA,Morocco,MED,Storm
-371,Auto,Auto,LOC,0.7,0.0,de,1.0,,5880844,P,-14.275,-170.628,PACIFIC,American Samoa,SPO,Storm
-372,Sturmtief,Sturmtief,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-373,Auswirkungen,Auswirkungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-374,lnw,lnw,LOC,-0.15,0.0,de,1.0,,6953040,S,52.105,-3.632,EUROPE,United Kingdom,NEU,Storm
-375,Düsseldorf,Düsseldorf,LOC,-0.15,0.0,de,1.0,4013255-9,2934246,P,51.22172,6.77616,EUROPE,Germany,WCE,Storm
-376,Amsterdam,Amsterdam,LOC,0.0,0.0,de,1.0,4001783-7,2759794,P,52.37403,4.88969,EUROPE,The Netherlands,NEU,Storm
-377,Spaziergänger,Spaziergänger,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-378,Mainz,Mainz,LOC,0.0,0.0,de,1.0,4037124-4,2874225,P,49.98419,8.2791,EUROPE,Germany,WCE,Storm
-379,Waldbesuchen,Waldbesuchen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-352,"Sturmtief ""Joshua","Sturmtief ""Joshua",LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-351,Bundesstraßen,Bundesstraßen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-350,Baden-Baden,Baden-Baden,LOC,-1.0,0.0,de,1.0,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Storm
-335,Neubrandenburg,Neubrandenburg,LOC,0.0,0.0,de,1.0,4041712-8,2866135,P,53.56414,13.27532,EUROPE,Germany,WCE,Storm
-323,Kelly Family,Kelly Family,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-324,Köln,Köln,LOC,1.0,0.0,de,1.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Storm
-326,Santiago de Cuba,Santiago de Cuba,LOC,-1.0,0.0,de,1.0,4118415-4,3536729,P,20.02287,-75.82171,CENTRAL-AMERICA,Cuba,CAR,Storm
-327,Perth/Australien,Perth/Australien,LOC,0.0,3.0,de,1.0,4232458-0,2063523,P,-31.95224,115.8614,OCEANIA,Australia,SAU,Storm
-328,Díaz-Canel,Díaz-Canel,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-260,Ermont…,Ermont…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-329,Unfälle,Unfälle,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-330,Wi…,Wi…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-331,Bermudas,Bermudas,LOC,0.0,0.0,de,1.0,4005759-8,3573345,A,32.33022,-64.74003,ATLANTIC,Bermuda,NAO,Storm
-332,Florida,Florida,LOC,0.0,0.0,de,1.0,4017585-6,12217087,L,26.5,-81.0,NORTH-AMERICA,United States,ENA,Storm
-333,Landkreis Mecklenburgische,Landkreis Mecklenburgische,LOC,0.0,0.0,de,1.0,4101150-8,2864005,P,53.3613,13.07292,EUROPE,Germany,WCE,Storm
-334,Landkreis Mecklenburgische Seenplatte,Landkreis Mecklenburgische Seenplatte,LOC,0.0,0.0,de,1.0,4101150-8,2864005,P,53.3613,13.07292,EUROPE,Germany,WCE,Storm
-336,Nassau,Nassau,LOC,0.0,0.0,de,1.0,4521938-2,3571824,P,25.05823,-77.34306,NORTH-AMERICA,Bahamas,ENA,Storm
-349,B500,B500,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-337,Essener,Essener,LOC,0.0,0.0,de,1.0,,2928795,L,52.34783,8.32122,EUROPE,Germany,WCE,Storm
-338,Jahrhundertsturm,Jahrhundertsturm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-339,Essen,Essen,LOC,0.0,0.0,de,1.0,4015557-2,2928810,P,51.45657,7.01228,EUROPE,Germany,WCE,Storm
-340,offenen Meer,offenen Meer,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Storm
-341,Hurrikan Melissa,Hurrikan Melissa,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Storm
-342,Petit-Goave,Petit-Goave,LOC,0.0,0.0,de,1.0,,3718962,P,18.43117,-72.86521,CENTRAL-AMERICA,Haiti,CAR,Storm
-343,Karibikinseln,Karibikinseln,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-344,Österreicher,Österreicher,LOC,0.0,0.0,de,1.0,,2765976,T,47.6,11.86667,EUROPE,Germany,WCE,Storm
-345,Böen fegen,Böen fegen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-346,Leipz…,Leipz…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-347,Sean OKelley,Sean OKelley,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-348,Autobahn 5,Autobahn 5,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-261,Kap Trafalgar,Kap Trafalgar,LOC,0.0,0.0,de,1.0,4060577-2,3360433,S,-34.08333,18.51667,AFRICA,South Africa,WSAF,Storm
-190,Zyklon Fina,Zyklon Fina,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-259,Beeinträchtigungen,Beeinträchtigungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-198,Na…,Na…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-169,i…,i…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-170,Atlantiks,Atlantiks,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-171,Taifun,Taifun,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-172,Landkreis Dingolfing-Landau,Landkreis Dingolfing-Landau,LOC,0.0,0.0,de,1.0,4247447-4,2881650,P,48.67249,12.69316,EUROPE,Germany,WCE,Storm
-173,Cebu,Cebu,LOC,0.7,0.0,de,1.0,4323998-5,1717513,T,10.33333,123.75,ASIA,Philippines,SEA,Storm
-174,Sturm China,Sturm China,LOC,0.0,0.0,de,1.0,,2097686,T,-1.66613,149.96714,PACIFIC,Papua New Guinea,EPO,Storm
-175,Populus tremula,Populus tremula,LOC,-0.35,0.4,de,1.0,,0,,,,,,,Storm
-176,aufgestauter See,aufgestauter See,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-177,Berga,Berga,LOC,0.0,0.0,de,1.0,4080362-4,3128201,P,42.10429,1.84628,EUROPE-AFRICA,Spain,MED,Storm
-178,Südkalifornien,Südkalifornien,LOC,0.0,0.0,de,1.0,4096903-4,5404905,S,34.0218,-118.28664,NORTH-AMERICA,United States,WNA,Storm
-179,Algarve-Sturm,Algarve-Sturm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-180,Kiew,Kiew,LOC,1.0,0.0,de,1.0,4030522-3,703448,P,50.45466,30.5238,EUROPE,Ukraine,WCE,Storm
-181,Land fegen,Land fegen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-182,Lindau,Lindau,LOC,0.0,0.0,de,1.0,4074242-8,2877550,P,47.54612,9.68431,EUROPE,Germany,WCE,Storm
-183,lby,lby,LOC,0.0,0.0,de,1.0,,7898825,T,50.38527,109.87245,ASIA,Russia,ESB,Storm
-184,B…,B…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-185,Sonnefeld,Sonnefeld,LOC,0.0,0.0,de,1.0,4118728-3,2831239,P,50.21667,11.13333,EUROPE,Germany,WCE,Storm
-186,Landkreis Coburg,Landkreis Coburg,LOC,0.0,0.0,de,1.0,4101145-4,2864053,P,50.32975,11.12058,EUROPE,Germany,WCE,Storm
-187,Bieberbach,Bieberbach,LOC,0.0,0.0,de,1.0,,2949259,H,50.99261,10.53407,EUROPE,Germany,WCE,Storm
-188,Ursachen,Ursachen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-189,Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.0,0.0,de,1.0,4036934-1,2874545,P,52.13129,11.63189,EUROPE,Germany,WCE,Storm
-191,Stromausfall,Stromausfall,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-192,Nordaustraliens,Nordaustraliens,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Storm
-193,Hessen,Hessen,LOC,0.0,0.0,de,1.0,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Storm
-194,Kultfilm,Kultfilm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-195,Malaysia,Malaysia,LOC,0.0,0.0,de,1.0,4037203-0,1733045,A,2.5,112.5,ASIA,Malaysia,SEA,Storm
-196,Asiens,Asiens,LOC,-0.5,0.5,de,1.0,,0,,,,,,,Storm
-168,Manila,Manila,LOC,-1.0,0.0,de,1.0,4037344-7,1701668,P,14.6042,120.9822,ASIA,Philippines,SEA,Storm
-167,chinesische Küste,chinesische Küste,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-166,Oberbayern,Oberbayern,LOC,0.0,0.0,de,1.0,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Storm
-151,Südchinesischen Meer,Südchinesischen Meer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-139,Sonntag Orkanböen,Sonntag Orkanböen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-140,chars,chars,LOC,0.0,0.0,de,1.0,,3026474,P,49.16032,1.93669,EUROPE,France,WCE,Storm
-141,Wolfsburg,Wolfsburg,LOC,1.0,0.0,de,1.0,4066874-5,2806654,P,52.42452,10.7815,EUROPE,Germany,WCE,Storm
-142,Fünf Tote,Fünf Tote,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-143,Nachspielzeit,Nachspielzeit,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-144,Kalmaegi,Kalmaegi,LOC,0.0,0.0,de,1.0,,2043622,P,40.31731,125.8386,ASIA,North Korea,EAS,Storm
-145,Pazifik,Pazifik,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-146,Wütet,Wütet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-147,Tower-Inferno,Tower-Inferno,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-148,World Trade Center,World Trade Center,LOC,0.7,0.0,de,1.0,,6620639,L,28.3719,-81.54943,NORTH-AMERICA,United States,ENA,Storm
-149,Potsdamer Straße,Potsdamer Straße,LOC,0.7,0.0,de,1.0,,6944099,S,52.5064,13.3703,EUROPE,Germany,WCE,Storm
-150,Berlin,Berlin,LOC,0.7,0.0,de,1.0,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Storm
-152,Insel,Insel,LOC,-0.7,0.0,de,1.0,,3426468,T,-54.89361,-36.1025,SOUTHERN,South Georgia and the South Sandwich Islands,SOO,Storm
-165,Kolumbusplatz,Kolumbusplatz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-153,Provinz Cebu …,Provinz Cebu …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-154,Sturm Kurs,Sturm Kurs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-155,Nörvenich,Nörvenich,LOC,-0.7,0.0,de,1.0,4042438-8,2861801,P,50.80604,6.63952,EUROPE,Germany,WCE,Storm
-156,Kreis Düren,Kreis Düren,LOC,0.0,0.0,de,1.0,4013237-7,2934486,P,50.80434,6.49299,EUROPE,Germany,WCE,Storm
-157,New York City,New York City,LOC,0.0,0.0,de,1.0,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Storm
-158,Bezirken,Bezirken,LOC,0.0,1.0,de,1.0,,0,,,,,,,Storm
-159,Lim…,Lim…,LOC,0.0,0.93333333,de,1.0,,0,,,,,,,Storm
-160,Nahrungs…,Nahrungs…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Storm
-161,Verisk,Verisk,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-162,Onshore-Immobilien,Onshore-Immobilien,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-163,Black River,Black River,LOC,-0.7,0.0,de,1.0,,934718,A,-20.33333,57.41667,INDIAN,Mauritius,SIO,Storm
-164,Holland Bamboo,Holland Bamboo,LOC,-0.7,0.0,de,1.0,,9682101,T,40.65006,-73.34162,NORTH-AMERICA,United States,ENA,Storm
-197,Sri Lank…,Sri Lank…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-199,"Sturm ""Bram","Sturm ""Bram",LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-258,Meteorologen,Meteorologen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-200,"Sturm ""Br…","Sturm ""Br…",LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-231,Stadt Albufeira,Stadt Albufeira,LOC,0.7,0.0,de,1.0,,0,,,,,,,Storm
-232,Stromausfälle,Stromausfälle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-233,Tornado-Piloten,Tornado-Piloten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-234,Kubas,Kubas,LOC,-1.0,0.0,de,1.0,,1517880,P,42.48578,70.29601,ASIA,Kazakhstan,WCA,Storm
-235,Landstriche,Landstriche,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-236,Tief Alice,Tief Alice,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-237,Sonnensturm,Sonnensturm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-238,Versand,Versand,LOC,0.0,0.0,de,1.0,,7602673,S,52.69467,9.22937,EUROPE,Germany,WCE,Storm
-239,LVR,LVR,LOC,0.0,0.0,de,1.0,,3462986,P,-13.07127,-55.91479,SOUTH-AMERICA,Brazil,SAM,Storm
-240,Landschaftsverbands Rheinland,Landschaftsverbands Rheinland,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-241,Kaszab-Olschewski,Kaszab-Olschewski,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-242,Mannheim,Mannheim,LOC,0.0,1.0,de,1.0,4037372-1,2873891,P,49.4891,8.46694,EUROPE,Germany,WCE,Storm
-243,Faustkeilen,Faustkeilen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-244,Kürze,Kürze,LOC,0.0,0.0,de,1.0,,10385919,S,47.09517,7.25901,EUROPE,Switzerland,WCE,Storm
-245,Ägypten,Ägypten,LOC,0.0,0.0,de,1.0,4000556-2,357994,A,27.0,30.0,AFRICA,Egypt,SAH,Storm
-246,Israel,Israel,LOC,0.0,0.0,de,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Storm
-247,US-Präsident Trump,US-Präsident Trump,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-248,Hollywood,Hollywood,LOC,0.0,0.0,de,1.0,4408912-0,4158928,P,26.0112,-80.14949,NORTH-AMERICA,United States,ENA,Storm
-249,Murcia,Murcia,LOC,0.0,0.0,de,1.0,4115291-8,2513416,P,37.98704,-1.13004,EUROPE-AFRICA,Spain,MED,Storm
-250,Alicante,Alicante,LOC,0.0,0.0,de,1.0,4079702-8,2521978,P,38.34517,-0.48149,EUROPE-AFRICA,Spain,MED,Storm
-251,Valencia,Valencia,LOC,0.0,0.0,de,1.0,4062284-8,3625549,P,10.16153,-68.00044,SOUTH-AMERICA,Venezuela,NSA,Storm
-252,Darmstadt,Darmstadt,LOC,0.0,1.0,de,1.0,4011077-1,2938913,P,49.87167,8.65027,EUROPE,Germany,WCE,Storm
-253,Italiens,Italiens,LOC,-1.0,0.0,de,1.0,,6116880,H,46.36199,-74.81286,NORTH-AMERICA,Canada,ENA,Storm
-254,Südtirol,Südtirol,LOC,0.0,0.0,de,1.0,4060814-1,3165244,A,46.5,11.33333,EUROPE,Italy,WCE,Storm
-255,Ärmelkanal,Ärmelkanal,LOC,-1.4,0.0,de,1.0,4068438-6,2649991,H,50.0,-1.0,EUROPE,United Kingdom,WCE,Storm
-256,Sturmböen…,Sturmböen…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-257,Flut,Flut,LOC,0.0,0.0,de,1.0,,2926026,H,51.34669,11.3346,EUROPE,Germany,WCE,Storm
-230,Lissabon,Lissabon,LOC,0.7,0.0,de,1.0,4035919-0,2267057,P,38.72509,-9.1498,EUROPE-AFRICA,Portugal,MED,Storm
-229,Notstands,Notstands,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-228,Stromnetzen,Stromnetzen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-213,Tornardo,Tornardo,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-201,Israels,Israels,LOC,1.0,0.0,de,1.0,,4832418,T,43.24398,-70.58866,NORTH-AMERICA,United States,ENA,Storm
-202,Monsunregen,Monsunregen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-203,Doppelzyklon,Doppelzyklon,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-204,Campingplatz,Campingplatz,LOC,0.0,0.0,de,1.0,,12225188,P,49.73318,9.51638,EUROPE,Germany,WCE,Storm
-205,Touristenort,Touristenort,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-206,Urlaubsort,Urlaubsort,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-207,Lusa,Lusa,LOC,0.0,0.0,de,1.0,103140791X,3186535,P,46.18333,14.21667,EUROPE,Slovenia,WCE,Storm
-208,No…,No…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-209,London,London,LOC,0.0,0.0,de,1.0,4074335-4,2643743,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Storm
-210,Klein…,Klein…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-211,Behörde…,Behörde…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-212,Brasiliens …,Brasiliens …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-214,Weihnachts-Unwettern,Weihnachts-Unwettern,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-227,San Diego,San Diego,LOC,0.0,0.0,de,1.0,4269521-1,5391811,P,32.71571,-117.16472,CENTRAL-AMERICA,United States,NCA,Storm
-215,Puerto de la Cruz,Puerto de la Cruz,LOC,0.0,0.0,de,1.0,4242802-6,3629672,P,10.21382,-64.6328,SOUTH-AMERICA,Venezuela,NSA,Storm
-216,Heftiger Tornado,Heftiger Tornado,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-217,Südbrasilien,Südbrasilien,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-218,Trümmern,Trümmern,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-219,Bundesstaat,Bundesstaat,LOC,0.0,0.0,de,1.0,,2081114,P,7.44648,151.84135,PACIFIC,Micronesia,EPO,Storm
-220,KaliforniensÜberschwemmungen,KaliforniensÜberschwemmungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-221,Allrounder,Allrounder,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-222,Provinz Aurora,Provinz Aurora,LOC,0.0,0.0,de,1.0,,3346897,P,-11.96667,15.96667,AFRICA,Angola,WSAF,Storm
-223,Landes auf Land,Landes auf Land,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-224,Supertaifun Fung-wong,Supertaifun Fung-wong,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Storm
-225,Notstand,Notstand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-226,"Neurath
-Deutschlan…","Neurath
-Deutschlan…",LOC,0.0,0.0,de,1.0,,0,,,,,,,Storm
-380,Bremerhaven,Bremerhaven,LOC,0.0,0.0,de,1.0,19634-4,2944368,P,53.55357,8.57553,EUROPE,Germany,NEU,Storm
+0,Berlin,Berlin,LOC,0.13106603,0.03579952,de,167.6,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Cold Wave
+1,Glatteis,Glatteis,LOC,0.03330116,0.03861004,de,103.6,,0,,,,,,,Cold Wave
+2,Brandenburg,Brandenburg,LOC,0.05533918,0.03894839,de,102.7,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Cold Wave
+3,Deutschland,Deutschland,LOC,-0.01607901,0.097127,de,102.1,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Cold Wave
+4,Bayern,Bayern,LOC,-0.01358913,0.05995204,de,83.4,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Cold Wave
+5,Deutschlands,Deutschlands,LOC,-0.22943723,0.0487013,de,30.8,,0,,,,,,,Cold Wave
+6,Schnee,Schnee,LOC,0.11363636,0.0,de,30.8,,2837468,T,50.72938,8.54329,EUROPE,Germany,WCE,Cold Wave
+7,Hessen,Hessen,LOC,0.0119863,0.0,de,29.2,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Cold Wave
+8,Saarland,Saarland,LOC,-0.24455611,0.0,de,19.9,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE,Cold Wave
+9,Baden-Württemberg,Baden-Württemberg,LOC,-0.15500864,0.10362694,de,19.3,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Cold Wave
+10,Niedersachsen,Niedersachsen,LOC,0.06315789,0.05263158,de,19.0,4042226-4,2862926,A,52.83333,9.16667,EUROPE,Germany,WCE,Cold Wave
+11,NRW,NRW,LOC,0.12675439,0.0,de,19.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Cold Wave
+12,Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.29298246,0.0,de,19.0,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Cold Wave
+13,Sachsen,Sachsen,LOC,-0.33747412,0.0,de,16.1,4051181-9,2842565,A,52.0,11.7333,EUROPE,Germany,WCE,Cold Wave
+14,Hamburg,Hamburg,LOC,-0.12012987,0.0,de,15.4,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Cold Wave
+15,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.14453125,0.0,de,12.8,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Cold Wave
+16,Berlins,Berlins,LOC,0.16535433,0.0,de,12.7,,2193381,T,-41.9,171.83333,OCEANIA,New Zealand,NZ,Cold Wave
+17,…,…,LOC,-0.01260504,0.0,de,11.9,,0,,,,,,,Cold Wave
+18,Erzgebirge,Erzgebirge,LOC,-0.24717514,0.04237288,de,11.8,4015476-2,2929226,T,50.5,13.16667,EUROPE,Czechia,WCE,Cold Wave
+19,Offenbach,Offenbach,LOC,-0.44036697,0.0,de,10.9,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Cold Wave
+20,Bremen,Bremen,LOC,0.13761468,0.0,de,10.9,4090044-7,2944388,P,53.07582,8.80717,EUROPE,Germany,NEU,Cold Wave
+21,Bayerns,Bayerns,LOC,0.09174312,0.09174312,de,10.9,,0,,,,,,,Cold Wave
+22,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,0.0,0.0,de,10.2,4242861-0,2872567,A,53.83333,12.5,EUROPE,Germany,WCE,Cold Wave
+23,Freistaat,Freistaat,LOC,0.44554455,0.0,de,10.1,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Cold Wave
+24,Thüringen,Thüringen,LOC,-0.09333333,0.0,de,10.0,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Cold Wave
+25,Europa,Europa,LOC,-0.265,0.05,de,10.0,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Cold Wave
+26,Alpen,Alpen,LOC,0.07954545,0.0,de,8.8,4001328-5,682673,T,45.5,24.25,EUROPE,Romania,WCE,Cold Wave
+30,Meteorologen,Meteorologen,LOC,0.25609756,0.12195122,de,8.2,,0,,,,,,,Cold Wave
+32,Regen,Regen,LOC,-0.32926829,0.0,de,8.2,4048975-9,2849495,P,48.9719,13.12824,EUROPE,Germany,WCE,Cold Wave
+31,Harz,Harz,LOC,0.04878049,0.0,de,8.2,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Cold Wave
+27,Frost,Frost,LOC,-0.20731707,0.0,de,8.2,,5027530,P,43.58634,-93.92662,NORTH-AMERICA,United States,CNA,Cold Wave
+29,“,“,LOC,-0.08536585,0.0,de,8.2,,0,,,,,,,Cold Wave
+28,Stadt,Stadt,LOC,-0.04878049,0.0,de,8.2,,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Cold Wave
+33,Nebel,Nebel,LOC,-0.18421053,0.0,de,7.6,,12152659,S,56.37689,107.07058,ASIA,Russia,ESB,Cold Wave
+34,Ukraine,Ukraine,LOC,-0.26666667,0.0,de,7.5,4061496-7,690791,A,49.0,32.0,EUROPE,Ukraine,WCE,Cold Wave
+39,Brand,Brand,LOC,0.50684932,0.0,de,7.3,4278589-3,2945341,P,50.86643,13.32285,EUROPE,Germany,WCE,Cold Wave
+42,Unfälle,Unfälle,LOC,-0.19178082,0.0,de,7.3,,0,,,,,,,Cold Wave
+41,Oberpfalz,Oberpfalz,LOC,-0.08219178,0.0,de,7.3,4041837-6,2864549,P,49.28028,11.46278,EUROPE,Germany,WCE,Cold Wave
+40,Warnungen,Warnungen,LOC,0.0,0.0,de,7.3,,0,,,,,,,Cold Wave
+43,Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.19178082,0.0,de,7.3,4036934-1,2874545,P,52.12773,11.62916,EUROPE,Germany,WCE,Cold Wave
+38,Ostsee,Ostsee,LOC,-0.45205479,0.06849315,de,7.3,4021328-6,2919765,P,54.83503,9.55218,EUROPE,Germany,NEU,Cold Wave
+37,Schleswig-Holstein,Schleswig-Holstein,LOC,-0.09589041,0.0,de,7.3,4052692-6,2838632,A,54.2,9.75,EUROPE,Germany,NEU,Cold Wave
+36,Landes,Landes,LOC,-0.19178082,0.0,de,7.3,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Cold Wave
+35,Wochenmitte,Wochenmitte,LOC,0.02054795,0.0,de,7.3,,0,,,,,,,Cold Wave
+44,Russland,Russland,LOC,-0.43181818,0.0,de,6.6,4076899-5,2017370,A,60.0,100.0,ASIA,Russia,ESB,Cold Wave
+45,Bergen,Bergen,LOC,-0.32307692,0.15384615,de,6.5,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Cold Wave
+46,Wintereinbruch,Wintereinbruch,LOC,0.4375,0.0,de,6.4,,0,,,,,,,Cold Wave
+47,München,München,LOC,0.0234375,0.0,de,6.4,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Cold Wave
+48,Schneetreiben,Schneetreiben,LOC,0.328125,0.0,de,6.4,,0,,,,,,,Cold Wave
+49,Winterdienste,Winterdienste,LOC,0.15625,0.625,de,6.4,,0,,,,,,,Cold Wave
+50,Österreich,Österreich,LOC,0.47413793,0.0,de,5.8,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Cold Wave
+55,Europas,Europas,LOC,0.12727273,0.0,de,5.5,,0,,,,,,,Cold Wave
+58,Schneeregen,Schneeregen,LOC,0.0,0.0,de,5.5,,0,,,,,,,Cold Wave
+57,Niederbayern,Niederbayern,LOC,0.00909091,0.27272727,de,5.5,4034367-4,2881485,P,48.52961,12.16179,EUROPE,Germany,WCE,Cold Wave
+56,Brandenburgs,Brandenburgs,LOC,0.38181818,0.36363636,de,5.5,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Cold Wave
+54,Dauereinsatz,Dauereinsatz,LOC,0.0,0.72727273,de,5.5,,0,,,,,,,Cold Wave
+53,Silvesternacht,Silvesternacht,LOC,0.0,0.0,de,5.5,,0,,,,,,,Cold Wave
+52,Norddeutschland,Norddeutschland,LOC,0.50909091,0.0,de,5.5,4075454-6,11978817,T,51.47087,6.56787,EUROPE,Germany,WCE,Cold Wave
+51,Halle,Halle,LOC,0.0,0.0,de,5.5,4023027-2,2911522,P,51.48158,11.97947,EUROPE,Germany,WCE,Cold Wave
+59,Mount Everest,Mount Everest,LOC,0.0,0.0,de,5.0,4040417-1,1283416,T,27.98791,86.92529,ASIA,China,TIB,Cold Wave
+63,Frankfurt,Frankfurt,LOC,0.04347826,0.10869565,de,4.6,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Cold Wave
+66,Autobahn 93,Autobahn 93,LOC,-0.2173913,0.0,de,4.6,,0,,,,,,,Cold Wave
+65,Amsterdam,Amsterdam,LOC,0.0,0.2173913,de,4.6,4001783-7,2759794,P,52.37403,4.88969,EUROPE,The Netherlands,NEU,Cold Wave
+67,New York,New York,LOC,-0.18478261,0.2173913,de,4.6,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Cold Wave
+62,Schneeschauer,Schneeschauer,LOC,0.2173913,0.0,de,4.6,,0,,,,,,,Cold Wave
+61,USA,USA,LOC,-0.2173913,0.0,de,4.6,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Cold Wave
+60,Dauerfrost,Dauerfrost,LOC,0.0,0.2173913,de,4.6,,0,,,,,,,Cold Wave
+64,Steiermark,Steiermark,LOC,0.30434783,0.0,de,4.6,4057092-7,2764581,A,47.25,15.16667,EUROPE,Austria,WCE,Cold Wave
+68,Temperatursturz,Temperatursturz,LOC,0.28205128,0.0,de,3.9,,0,,,,,,,Cold Wave
+69,Tirol,Tirol,LOC,-0.18421053,0.0,de,3.8,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Cold Wave
+70,Hessens,Hessens,LOC,-0.67105263,0.0,de,3.8,,0,,,,,,,Cold Wave
+83,Autobahn 1,Autobahn 1,LOC,-1.08108108,0.0,de,3.7,,0,,,,,,,Cold Wave
+81,Stuttgart,Stuttgart,LOC,0.0,0.0,de,3.7,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Cold Wave
+82,Saale,Saale,LOC,0.0,0.0,de,3.7,4051087-6,2842688,P,50.64826,11.36536,EUROPE,Germany,WCE,Cold Wave
+84,Nordpol,Nordpol,LOC,0.0,0.0,de,3.7,4117914-6,6942237,T,90.0,0.0,ARCTIC,,ARO,Cold Wave
+85,A1,A1,LOC,-0.37837838,0.0,de,3.7,,3239262,A,46.62722,16.04833,EUROPE,Slovenia,WCE,Cold Wave
+79,Potsdam,Potsdam,LOC,0.41891892,0.0,de,3.7,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Cold Wave
+80,Sonne am Tag,Sonne am Tag,LOC,0.0,0.0,de,3.7,,0,,,,,,,Cold Wave
+77,A93,A93,LOC,0.0,0.0,de,3.7,,0,,,,,,,Cold Wave
+78,Erbeskopf,Erbeskopf,LOC,0.0,0.0,de,3.7,4625265-4,2929768,T,49.73046,7.0907,EUROPE,Germany,WCE,Cold Wave
+71,A7,A7,LOC,1.08108108,0.0,de,3.7,,3239234,A,46.24667,15.62944,EUROPE,Slovenia,WCE,Cold Wave
+76,Streusalz,Streusalz,LOC,0.0,0.27027027,de,3.7,,0,,,,,,,Cold Wave
+75,Maxhütte-Haidhof,Maxhütte-Haidhof,LOC,-0.27027027,0.0,de,3.7,4038071-3,2872670,P,49.19963,12.09229,EUROPE,Germany,WCE,Cold Wave
+74,Winterwetter,Winterwetter,LOC,0.18918919,0.0,de,3.7,,0,,,,,,,Cold Wave
+73,Schneeverwehungen,Schneeverwehungen,LOC,0.0,0.54054054,de,3.7,,0,,,,,,,Cold Wave
+72,Flughafen,Flughafen,LOC,-0.40540541,0.40540541,de,3.7,,3208399,S,48.35378,11.78609,EUROPE,Germany,WCE,Cold Wave
+86,Nordsee,Nordsee,LOC,0.0,0.0,de,3.0,4042579-4,2960848,H,55.33333,3.0,EUROPE,,NEU,Cold Wave
+87,Schneesturm,Schneesturm,LOC,0.15555556,0.11111111,de,3.0,,0,,,,,,,Cold Wave
+88,Niedersachsens,Niedersachsens,LOC,0.0,0.68965517,de,2.9,,0,,,,,,,Cold Wave
+119,Hochlagen,Hochlagen,LOC,0.71428571,0.0,de,2.8,,0,,,,,,,Cold Wave
+111,Glätte,Glätte,LOC,0.0,0.0,de,2.8,,9645262,L,47.27827,10.08314,EUROPE,Austria,WCE,Cold Wave
+112,Oberbayern,Oberbayern,LOC,0.125,0.17857143,de,2.8,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Cold Wave
+113,Mittelhessen,Mittelhessen,LOC,-0.25,0.0,de,2.8,4039686-1,12076828,L,50.57609,8.55804,EUROPE,Germany,WCE,Cold Wave
+114,Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,2.8,,3205650,A,47.71022,8.09118,EUROPE,Germany,WCE,Cold Wave
+115,Unfallkrankenhaus,Unfallkrankenhaus,LOC,0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
+116,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.96428571,0.0,de,2.8,,0,,,,,,,Cold Wave
+117,Innsbruck,Innsbruck,LOC,-0.46428571,0.0,de,2.8,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Cold Wave
+118,Unfällen,Unfällen,LOC,-0.05357143,0.0,de,2.8,,0,,,,,,,Cold Wave
+109,sn,sn,LOC,-0.08333333,0.0,de,2.8,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Cold Wave
+120,Sturm,Sturm,LOC,0.0,0.0,de,2.8,,6626207,T,-71.05,162.96667,POLAR,Antarctica,EAN,Cold Wave
+121,Gl…,Gl…,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
+122,Leer,Leer,LOC,-1.03571429,0.0,de,2.8,,371466,P,8.30306,30.14056,AFRICA,South Sudan,NEAF,Cold Wave
+123,Sonntag Glatteis,Sonntag Glatteis,LOC,-0.71428571,0.0,de,2.8,,0,,,,,,,Cold Wave
+124,Oberkärnten,Oberkärnten,LOC,0.0,0.71428571,de,2.8,4200656-9,7289657,L,46.72574,13.76759,EUROPE,Austria,WCE,Cold Wave
+125,Landkreis Heidenheim,Landkreis Heidenheim,LOC,0.35714286,0.0,de,2.8,4024007-1,2907851,P,48.67798,10.15162,EUROPE,Germany,WCE,Cold Wave
+126,Polarwirbels,Polarwirbels,LOC,-0.5,0.0,de,2.8,,0,,,,,,,Cold Wave
+127,Liveblog,Liveblog,LOC,-0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
+110,Holland,Holland,LOC,0.0,0.67857143,de,2.8,4042203-3,2750405,A,52.25,5.75,EUROPE,The Netherlands,NEU,Cold Wave
+91,Ibiza,Ibiza,LOC,0.0,0.0,de,2.8,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Cold Wave
+108,Bayerischen Wald,Bayerischen Wald,LOC,-0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
+98,Freitagvormittag,Freitagvormittag,LOC,-0.71428571,0.0,de,2.8,,0,,,,,,,Cold Wave
+89,Hochtouren,Hochtouren,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
+90,Blitzeis,Blitzeis,LOC,0.75,0.0,de,2.8,,0,,,,,,,Cold Wave
+107,Mitteldeutschland,Mitteldeutschland,LOC,0.15178571,0.35714286,de,2.8,,0,,,,,,,Cold Wave
+92,Notstand,Notstand,LOC,-0.25,0.0,de,2.8,,0,,,,,,,Cold Wave
+93,Schüssen,Schüssen,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
+94,Ludwigsburg,Ludwigsburg,LOC,0.0,0.0,de,2.8,4036469-0,2875392,P,48.89731,9.19161,EUROPE,Germany,WCE,Cold Wave
+95,Emsland,Emsland,LOC,-0.25,0.0,de,2.8,4044521-5,2855525,P,53.07738,7.40444,EUROPE,Germany,NEU,Cold Wave
+97,Speranza,Speranza,LOC,0.0,0.0,de,2.8,,8968123,P,45.63443,9.74905,EUROPE,Italy,WCE,Cold Wave
+96,Glatteisgefahr,Glatteisgefahr,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
+99,Tiroler,Tiroler,LOC,0.0,0.0,de,2.8,,2783037,H,47.85,12.5,EUROPE,Germany,WCE,Cold Wave
+100,Schnees,Schnees,LOC,0.0,1.07142857,de,2.8,,0,,,,,,,Cold Wave
+101,Tag,Tag,LOC,-0.60714286,0.0,de,2.8,,3045616,L,47.11667,17.48333,EUROPE,Hungary,WCE,Cold Wave
+102,Glättegefahr,Glättegefahr,LOC,0.0,0.0,de,2.8,,0,,,,,,,Cold Wave
+103,Florida,Florida,LOC,-0.35714286,0.0,de,2.8,4017585-6,12217087,L,26.5,-81.0,NORTH-AMERICA,United States,ENA,Cold Wave
+104,Flughafen Berlin Brandenburg,Flughafen Berlin Brandenburg,LOC,0.0,0.0,de,2.8,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Cold Wave
+105,"Sturmtief ""Elli","Sturmtief ""Elli",LOC,0.0,0.35714286,de,2.8,,0,,,,,,,Cold Wave
+106,Bodensee,Bodensee,LOC,0.0,0.0,de,2.8,4007403-1,11919717,L,47.61495,9.39765,EUROPE,,WCE,Cold Wave
+133,Wasserkuppe,Wasserkuppe,LOC,-0.25,0.25,de,2.0,4064748-1,2813735,T,50.4982,9.93739,EUROPE,Germany,WCE,Cold Wave
+138,Sonnenschein,Sonnenschein,LOC,0.0,0.0,de,2.0,,2831137,T,54.08202,10.7591,EUROPE,Germany,NEU,Cold Wave
+137,Kaltfront,Kaltfront,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
+136,Ost-,Ost-,LOC,0.0,0.0,de,2.0,,400741,A,0.0,38.0,AFRICA,Kenya,SEAF,Cold Wave
+135,Landeshälfte,Landeshälfte,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
+134,Anmarsch,Anmarsch,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
+131,Lebensgefahr,Lebensgefahr,LOC,0.0,0.0,de,2.0,,0,,,,,,,Cold Wave
+130,Oleander,Oleander,LOC,0.35,0.0,de,2.0,,8159876,L,-34.81379,138.72324,OCEANIA,Australia,SAU,Cold Wave
+129,Wochenanfang,Wochenanfang,LOC,-0.7,0.0,de,2.0,,0,,,,,,,Cold Wave
+128,Korsika,Korsika,LOC,-0.25,0.25,de,2.0,4212951-5,3038334,P,41.91886,8.73812,EUROPE-AFRICA,France,MED,Cold Wave
+132,Hochgebirge,Hochgebirge,LOC,-0.35,0.0,de,2.0,4252330-8,2768175,P,47.63333,15.93333,EUROPE,Austria,WCE,Cold Wave
+205,Sturmböen,Sturmböen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+195,Arbeitsplatz,Arbeitsplatz,LOC,1.26315789,0.0,de,1.9,,0,,,,,,,Cold Wave
+203,Krankenhäuser,Krankenhäuser,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
+202,Alb,Alb,LOC,0.36842105,0.0,de,1.9,4037694-1,2995469,P,43.29695,5.38107,EUROPE-AFRICA,France,MED,Cold Wave
+201,Baden-Württembergs,Baden-Württembergs,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
+200,Weihnachtsmarkt-Wetter,Weihnachtsmarkt-Wetter,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+199,Alten Donau,Alten Donau,LOC,0.0,0.52631579,de,1.9,,0,,,,,,,Cold Wave
+198,Vorarlberg,Vorarlberg,LOC,0.0,0.0,de,1.9,4063944-7,2762300,A,47.25,9.91667,EUROPE,Austria,WCE,Cold Wave
+197,Landkreis Hameln-Pyrmont Mülltonnen,Landkreis Hameln-Pyrmont Mülltonnen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+196,Iberische Halbinsel,Iberische Halbinsel,LOC,0.0,0.0,de,1.9,4047912-2,2267430,T,40.0,-5.0,EUROPE-AFRICA,Spain,MED,Cold Wave
+192,Razzia,Razzia,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+194,Potsdam/Berlin,Potsdam/Berlin,LOC,0.0,0.0,de,1.9,,6691055,P,52.50888,13.37852,EUROPE,Germany,WCE,Cold Wave
+193,Privacy Center,Privacy Center,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+185,Patsch,Patsch,LOC,-1.05263158,0.0,de,1.9,4115868-4,7873613,A,47.20494,11.42699,EUROPE,Austria,WCE,Cold Wave
+191,Pongau,Pongau,LOC,0.0,0.0,de,1.9,4046758-2,2766642,A,47.3,13.3,EUROPE,Austria,WCE,Cold Wave
+190,Gartenliebhaber,Gartenliebhaber,LOC,-1.05263158,0.0,de,1.9,,0,,,,,,,Cold Wave
+189,Terminalbetreiber Eurogate,Terminalbetreiber Eurogate,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+188,Eiskratzer,Eiskratzer,LOC,-0.18421053,0.78947368,de,1.9,,0,,,,,,,Cold Wave
+187,lsw,lsw,LOC,0.0,0.0,de,1.9,,1214658,P,5.1801,97.1507,ASIA,Indonesia,SEA,Cold Wave
+186,der Schweiz,der Schweiz,LOC,0.0,0.0,de,1.9,,2661324,P,47.14035,7.37175,EUROPE,Switzerland,WCE,Cold Wave
+204,Streusalz-Alternativen,Streusalz-Alternativen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+221,Rekordkälte an der Ostküste,Rekordkälte an der Ostküste,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+206,Hövelhof,Hövelhof,LOC,0.24561404,0.1754386,de,1.9,4025447-1,2898364,P,51.81667,8.65,EUROPE,Germany,WCE,Cold Wave
+207,Fichtelberg,Fichtelberg,LOC,-0.36842105,0.0,de,1.9,1216981-X,2926982,T,50.42858,12.95371,EUROPE,Germany,WCE,Cold Wave
+183,Staus,Staus,LOC,-0.60526316,0.0,de,1.9,,13263429,P,29.09167,-110.99497,CENTRAL-AMERICA,Mexico,NCA,Cold Wave
+227,Nässe,Nässe,LOC,0.36842105,0.0,de,1.9,,12060664,P,63.18374,17.11035,EUROPE,Sweden,NEU,Cold Wave
+226,Sprühregen,Sprühregen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+225,Windbands,Windbands,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+224,Dienstag,Dienstag,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
+223,Dreikönigstag,Dreikönigstag,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+222,Minusgrade,Minusgrade,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+220,Schwäbischen Alb,Schwäbischen Alb,LOC,-0.09210526,0.13157895,de,1.9,,0,,,,,,,Cold Wave
+219,St…,St…,LOC,0.73684211,0.0,de,1.9,,0,,,,,,,Cold Wave
+218,Großbritannien,Großbritannien,LOC,0.0,0.0,de,1.9,4022153-2,2635167,A,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Cold Wave
+217,Flughafen BER,Flughafen BER,LOC,-0.52631579,0.0,de,1.9,,3208171,S,53.0475,8.78667,EUROPE,Germany,NEU,Cold Wave
+216,Paris,Paris,LOC,0.18421053,0.26315789,de,1.9,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Cold Wave
+215,Schockstarre,Schockstarre,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
+214,Pinzgau,Pinzgau,LOC,0.0,0.0,de,1.9,4046112-9,2762000,P,47.24643,12.22731,EUROPE,Austria,WCE,Cold Wave
+213,Nordseehäfen,Nordseehäfen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
+212,Hiddensee,Hiddensee,LOC,-1.0,0.0,de,1.9,4024834-3,2904885,T,54.54063,13.10123,EUROPE,Germany,NEU,Cold Wave
+211,Rhein-Main-Liveblog,Rhein-Main-Liveblog,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+210,Usedom,Usedom,LOC,-1.0,0.0,de,1.9,4119322-2,2818108,T,53.93333,14.08333,EUROPE,Germany,WCE,Cold Wave
+209,Rhein-Main,Rhein-Main,LOC,-0.15789474,0.0,de,1.9,,2847616,L,50.0,8.66667,EUROPE,Germany,WCE,Cold Wave
+184,Dresden,Dresden,LOC,-0.44736842,0.0,de,1.9,4012995-0,2935022,P,51.05089,13.73832,EUROPE,Germany,WCE,Cold Wave
+208,Eisregen,Eisregen,LOC,0.24561404,0.1754386,de,1.9,,0,,,,,,,Cold Wave
+182,Kaltfront Brandenburg,Kaltfront Brandenburg,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+159,winterlich-kalt,winterlich-kalt,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+157,Niederlanden,Niederlanden,LOC,0.71052632,0.26315789,de,1.9,,0,,,,,,,Cold Wave
+156,Glatteis-Sturz am Bahnübergang,Glatteis-Sturz am Bahnübergang,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+155,Land,Land,LOC,-0.36842105,0.0,de,1.9,,3421288,L,81.9,-56.75,POLAR,Greenland,GIC,Cold Wave
+154,Franken,Franken,LOC,-0.73684211,0.0,de,1.9,4018093-1,2803465,L,50.0,9.0,EUROPE,Germany,WCE,Cold Wave
+153,Nordamerika,Nordamerika,LOC,0.0,0.0,de,1.9,4042483-2,6255149,L,46.07323,-100.54688,NORTH-AMERICA,United States,CNA,Cold Wave
+152,Wochenende,Wochenende,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+151,Mittelgebirgen,Mittelgebirgen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
+150,Tübingen,Tübingen,LOC,0.0,0.0,de,1.9,4061147-4,2820860,P,48.52266,9.05222,EUROPE,Germany,WCE,Cold Wave
+149,Berlin-Moabit,Berlin-Moabit,LOC,0.0,0.0,de,1.9,1292404396,2870310,P,52.52635,13.33903,EUROPE,Germany,WCE,Cold Wave
+148,Glatteises,Glatteises,LOC,0.0,1.05263158,de,1.9,,0,,,,,,,Cold Wave
+147,Spätherbst,Spätherbst,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+146,Straße,Straße,LOC,0.0,0.0,de,1.9,4057131-2,2828871,P,50.31401,9.46335,EUROPE,Germany,WCE,Cold Wave
+145,Wind,Wind,LOC,0.0,0.0,de,1.9,,8335343,L,31.29,18.03,EUROPE-AFRICA,,MED,Cold Wave
+144,Tiroler Brennerautobahn,Tiroler Brennerautobahn,LOC,-1.05263158,0.0,de,1.9,,0,,,,,,,Cold Wave
+143,A13,A13,LOC,-1.05263158,0.0,de,1.9,,1677884,P,25.0362,121.62347,ASIA,Taiwan,EAS,Cold Wave
+142,Feldberg,Feldberg,LOC,-0.26315789,0.26315789,de,1.9,,2927445,T,47.87399,8.00371,EUROPE,Germany,WCE,Cold Wave
+141,Brenner,Brenner,LOC,-1.05263158,0.0,de,1.9,10151007-X,2781423,T,47.00528,11.50836,EUROPE,Austria,WCE,Cold Wave
+140,Einschränkungen,Einschränkungen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+181,Kürten,Kürten,LOC,0.36842105,0.0,de,1.9,4098791-7,2882318,P,51.05,7.26667,EUROPE,Germany,WCE,Cold Wave
+158,Niederlande,Niederlande,LOC,1.05263158,0.0,de,1.9,4042203-3,2750405,A,52.25,5.75,EUROPE,The Netherlands,NEU,Cold Wave
+139,Windböen,Windböen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+160,lrs,lrs,LOC,-0.42105263,0.0,de,1.9,,5880061,S,70.13395,-143.58045,NORTH-AMERICA,United States,NWN,Cold Wave
+170,gefrierender Regen,gefrierender Regen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+180,Kältebus München,Kältebus München,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+179,Notunterkünfte,Notunterkünfte,LOC,-0.92105263,0.0,de,1.9,,0,,,,,,,Cold Wave
+178,Gießener,Gießener,LOC,0.0,0.0,de,1.9,,2778575,S,47.0,13.33333,EUROPE,Austria,WCE,Cold Wave
+177,New Jersey,New Jersey,LOC,0.0,0.0,de,1.9,4442932-0,5099836,P,40.72816,-74.07764,NORTH-AMERICA,United States,ENA,Cold Wave
+176,Neuschnee,Neuschnee,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Cold Wave
+175,Reich von Russlands,Reich von Russlands,LOC,0.28947368,0.0,de,1.9,,0,,,,,,,Cold Wave
+174,Wiesbaden,Wiesbaden,LOC,-0.36842105,0.0,de,1.9,4066043-6,2809346,P,50.08601,8.24435,EUROPE,Germany,WCE,Cold Wave
+173,Salzburg,Salzburg,LOC,0.36842105,0.0,de,1.9,4076982-3,2766824,P,47.79941,13.04399,EUROPE,Austria,WCE,Cold Wave
+171,Kreml,Kreml,LOC,0.0,0.0,de,1.9,,2116480,T,59.29103,162.17127,ASIA,Russia,RFE,Cold Wave
+172,Achtung Glätte,Achtung Glätte,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+169,Wetterexperten,Wetterexperten,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+168,Erfurt,Erfurt,LOC,0.0,0.0,de,1.9,4015240-6,2929670,P,50.97734,11.03536,EUROPE,Germany,WCE,Cold Wave
+167,Tiefdruckeinfluss,Tiefdruckeinfluss,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+166,Rutschpartien,Rutschpartien,LOC,-0.15789474,0.0,de,1.9,,0,,,,,,,Cold Wave
+165,Tramuntana-Gebirge,Tramuntana-Gebirge,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+164,Sonntagnachmittag,Sonntagnachmittag,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+163,Mainz,Mainz,LOC,0.0,0.0,de,1.9,4037124-4,2874225,P,49.98419,8.2791,EUROPE,Germany,WCE,Cold Wave
+162,Flugausfälle,Flugausfälle,LOC,0.0,0.0,de,1.9,,0,,,,,,,Cold Wave
+161,Temperaturen,Temperaturen,LOC,-0.52631579,0.0,de,1.9,,0,,,,,,,Cold Wave
+228,Hessisch Lichtenau,Hessisch Lichtenau,LOC,-0.94444444,0.0,de,1.8,4095178-9,2905293,P,51.19954,9.71857,EUROPE,Germany,WCE,Cold Wave
+229,Schulgesetz,Schulgesetz,LOC,0.0,2.30769231,de,1.3,,0,,,,,,,Cold Wave
+230,Uber Arena,Uber Arena,LOC,0.41666667,0.41666667,de,1.2,,0,,,,,,,Cold Wave
+234,Willingen,Willingen,LOC,0.0,0.0,de,1.1,5350718-6,2808544,P,51.29418,8.6091,EUROPE,Germany,WCE,Cold Wave
+235,Kärntner,Kärntner,LOC,0.63636364,0.0,de,1.1,,3217862,P,46.44913,14.11135,EUROPE,Slovenia,WCE,Cold Wave
+231,Ballermann,Ballermann,LOC,0.63636364,0.90909091,de,1.1,,6947339,L,39.5156,2.74506,EUROPE-AFRICA,Spain,MED,Cold Wave
+233,Friedrichshain,Friedrichshain,LOC,0.45454545,0.45454545,de,1.1,,2924573,P,52.51559,13.45482,EUROPE,Germany,WCE,Cold Wave
+232,Playa de Palma,Playa de Palma,LOC,0.0,0.0,de,1.1,,3545094,T,22.86667,-83.46667,CENTRAL-AMERICA,Cuba,CAR,Cold Wave
+464,freundliches Wetter,freundliches Wetter,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+475,Oberwiesenthal,Oberwiesenthal,LOC,0.0,0.0,de,1.0,4043017-0,2882332,P,50.41943,12.96836,EUROPE,Czechia,WCE,Cold Wave
+462,Millionär,Millionär,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+481,Home-Office,Home-Office,LOC,0.0,0.0,de,1.0,,7201835,S,44.94528,-85.28028,NORTH-AMERICA,United States,ENA,Cold Wave
+504,Heizölpreise,Heizölpreise,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+480,The Sinking City 2,The Sinking City 2,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+479,Biathlon-Weltverband,Biathlon-Weltverband,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+478,Sequel The Sinking City 2,Sequel The Sinking City 2,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+477,Schneeflocken,Schneeflocken,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+476,dpa/sn,dpa/sn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+474,Erzgebirgskreis,Erzgebirgskreis,LOC,0.0,0.0,de,1.0,4109065-2,2803798,P,50.74818,13.07691,EUROPE,Germany,WCE,Cold Wave
+465,Annaberg-Buchholz,Annaberg-Buchholz,LOC,-0.23333333,0.0,de,1.0,4085813-3,2956005,P,50.57953,13.00627,EUROPE,Germany,WCE,Cold Wave
+482,Skirollerskates,Skirollerskates,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+472,Dagebüll,Dagebüll,LOC,0.0,0.0,de,1.0,4104277-3,2939489,P,54.72928,8.70083,EUROPE,Germany,NEU,Cold Wave
+471,Hitze,Hitze,LOC,0.0,1.0,de,1.0,,2903464,S,50.36667,12.0,EUROPE,Germany,WCE,Cold Wave
+470,Schneefallgrenze,Schneefallgrenze,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+469,Gebirgsregionen,Gebirgsregionen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+468,Nord-,Nord-,LOC,0.0,0.0,de,1.0,,12089031,L,45.41224,11.54639,EUROPE,Italy,WCE,Cold Wave
+467,d…,d…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+466,Olympiapark Wettkämpfe,Olympiapark Wettkämpfe,LOC,0.0,3.0,de,1.0,,0,,,,,,,Cold Wave
+473,Schneereg…,Schneereg…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+483,Kernelement,Kernelement,LOC,-2.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+484,Tag am See,Tag am See,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+495,Offenbach vorhers…,Offenbach vorhers…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+503,Salzburgs,Salzburgs,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+502,Tennengau,Tennengau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+501,Pinzgauer Straße,Pinzgauer Straße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+500,B311,B311,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+499,Bischofshofen,Bischofshofen,LOC,0.0,0.0,de,1.0,4225515-6,2781735,P,47.41667,13.21667,EUROPE,Austria,WCE,Cold Wave
+498,Saalfelden,Saalfelden,LOC,0.0,0.0,de,1.0,4051088-8,2766922,P,47.42681,12.848,EUROPE,Austria,WCE,Cold Wave
+497,Fahrbahn,Fahrbahn,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+496,Garmisch-Partenkirchen,Garmisch-Partenkirchen,LOC,0.5,0.5,de,1.0,4019275-1,2922530,P,47.49209,11.09576,EUROPE,Germany,WCE,Cold Wave
+494,Glatteisrisiko,Glatteisrisiko,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+485,Burgenland,Burgenland,LOC,0.0,0.0,de,1.0,4009114-4,2781194,A,47.5,16.41667,EUROPE,Austria,WCE,Cold Wave
+493,Gehwegen,Gehwegen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+492,Eiskratzen am Morgen,Eiskratzen am Morgen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+491,Wetter-Achterbahn,Wetter-Achterbahn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+490,Landkreisen,Landkreisen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+489,Olympiapark,Olympiapark,LOC,0.7,1.0,de,1.0,,2857262,L,48.17347,11.55006,EUROPE,Germany,WCE,Cold Wave
+488,Klimawandels,Klimawandels,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+487,Bürgergeld,Bürgergeld,LOC,0.0,0.9,de,1.0,,0,,,,,,,Cold Wave
+486,Staat,Staat,LOC,0.0,0.9,de,1.0,,6691831,P,41.90268,12.45414,EUROPE-AFRICA,Vatican,MED,Cold Wave
+463,Reifenwechsel,Reifenwechsel,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+437,Montagnachmittag,Montagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+461,Safety-Modus,Safety-Modus,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+438,Offenbach/Poppenhausen,Offenbach/Poppenhausen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+436,Klagenfurt,Klagenfurt,LOC,0.0,0.0,de,1.0,4030921-6,2774326,P,46.62472,14.30528,EUROPE,Austria,WCE,Cold Wave
+435,Winterjacke,Winterjacke,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+434,Übergangsmantel,Übergangsmantel,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+433,Schal,Schal,LOC,-1.0,0.0,de,1.0,,2840605,T,50.82317,8.21891,EUROPE,Germany,WCE,Cold Wave
+432,Sonnenbrille,Sonnenbrille,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+431,Schwarzenberg,Schwarzenberg,LOC,0.0,0.0,de,1.0,4053786-9,2834978,P,50.53791,12.78522,EUROPE,Germany,WCE,Cold Wave
+430,Lauterbach,Lauterbach,LOC,0.0,1.0,de,1.0,4034771-0,2879929,P,50.63558,9.39777,EUROPE,Germany,WCE,Cold Wave
+429,Deu…,Deu…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+428,Löwen,Löwen,LOC,0.0,0.0,de,1.0,4074300-7,2792482,P,50.87959,4.70093,EUROPE,Belgium,WCE,Cold Wave
+427,Bodennähe,Bodennähe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+426,feucht-kühl,feucht-kühl,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+425,st…,st…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+424,Diesel-Fahrer,Diesel-Fahrer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+423,Winterdiesel,Winterdiesel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+422,Karacho,Karacho,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+421,Würzburg,Würzburg,LOC,0.0,0.0,de,1.0,4067037-5,2805615,P,49.79391,9.95121,EUROPE,Germany,WCE,Cold Wave
+420,den Niederlanden,den Niederlanden,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+419,Baden-Württemberg w…,Baden-Württemberg w…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+418,Mittelgebirgsraum,Mittelgebirgsraum,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+506,Frankenwald,Frankenwald,LOC,0.0,0.0,de,1.0,4018117-0,2925544,T,50.30595,11.57675,EUROPE,Germany,WCE,Cold Wave
+439,Sölden,Sölden,LOC,2.0,0.0,de,1.0,4208193-2,2761569,T,46.7979,10.7261,EUROPE,Italy,WCE,Cold Wave
+460,Balkon,Balkon,LOC,0.7,0.0,de,1.0,,579412,T,68.10194,37.20917,EUROPE,Russia,NEU,Cold Wave
+440,Gewehe,Gewehe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+459,Berglandes,Berglandes,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+458,Dauerregen,Dauerregen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+457,Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+456,China,China,LOC,0.7,0.0,de,1.0,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Cold Wave
+455,Osthangs,Osthangs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+454,Tibet,Tibet,LOC,0.0,0.0,de,1.0,4111286-6,1280737,P,29.65,91.1,ASIA,China,TIB,Cold Wave
+453,Subpolarwirbel,Subpolarwirbel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+452,Nordatlantik,Nordatlantik,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+451,Kältefront,Kältefront,LOC,-0.5,0.5,de,1.0,,0,,,,,,,Cold Wave
+450,Sardinien,Sardinien,LOC,0.0,0.0,de,1.0,4051686-6,2523227,T,40.0,9.0,EUROPE-AFRICA,Italy,MED,Cold Wave
+449,Sonne,Sonne,LOC,0.0,0.0,de,1.0,1236963652,2078227,U,-22.0,110.28333,OCEANIA,,CAU,Cold Wave
+448,Strand,Strand,LOC,0.0,0.0,de,1.0,,3423511,L,82.5,-21.76667,POLAR,Greenland,GIC,Cold Wave
+447,Meer,Meer,LOC,0.0,0.0,de,1.0,,1627362,H,-3.33333,133.8,ASIA,Indonesia,SEA,Cold Wave
+446,Sa…,Sa…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+445,BGH,BGH,LOC,0.0,0.0,de,1.0,,1147577,P,33.41381,69.46539,ASIA,Afghanistan,WCA,Cold Wave
+444,Eisglätte,Eisglätte,LOC,0.5,0.0,de,1.0,,0,,,,,,,Cold Wave
+443,Wetter-Mix,Wetter-Mix,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+442,Hoch Sieglinde,Hoch Sieglinde,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+441,Südosteuropa,Südosteuropa,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+505,Oberpfälzer Wald,Oberpfälzer Wald,LOC,0.0,0.0,de,1.0,4042959-3,2859443,T,49.40062,12.4948,EUROPE,Germany,WCE,Cold Wave
+532,Fichtelberg …,Fichtelberg …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+507,Immobilieneigentümern,Immobilieneigentümern,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+575,Oberpfalz sta,Oberpfalz sta,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+573,Cuxhaven,Cuxhaven,LOC,-0.7,0.0,de,1.0,4010793-0,2939658,P,53.86828,8.69902,EUROPE,Germany,NEU,Cold Wave
+572,Hoffenheim,Hoffenheim,LOC,0.0,0.0,de,1.0,4815169-5,2902584,P,49.272,8.84099,EUROPE,Germany,WCE,Cold Wave
+571,Puig Major,Puig Major,LOC,0.0,0.0,de,1.0,7847917-4,2513992,T,39.80768,2.7943,EUROPE-AFRICA,Spain,MED,Cold Wave
+570,Bucht vom Purt de Sóller,Bucht vom Purt de Sóller,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+569,Dresden/Magdeburg/Erfurt,Dresden/Magdeburg/Erfurt,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+568,Metern,Metern,LOC,0.0,0.0,de,1.0,,2994168,P,50.73333,2.7,EUROPE,France,WCE,Cold Wave
+567,Infrastrukturministeriums,Infrastrukturministeriums,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+566,Sachsen-Anhalts,Sachsen-Anhalts,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+565,Reschenstraße,Reschenstraße,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
+564,Kajetansbrücke,Kajetansbrücke,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+563,Finstermünz,Finstermünz,LOC,-1.0,0.0,de,1.0,4757486-0,2660769,T,46.91667,10.5,EUROPE,Austria,WCE,Cold Wave
+562,Donnerstagfrüh,Donnerstagfrüh,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+561,Martinsbruck,Martinsbruck,LOC,0.0,0.0,de,1.0,,2659747,P,46.88457,10.46322,EUROPE,Switzerland,WCE,Cold Wave
+560,Oberösterreichs,Oberösterreichs,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+559,Innviertel,Innviertel,LOC,0.0,0.0,de,1.0,4027101-8,2775213,L,48.25,13.25,EUROPE,Austria,WCE,Cold Wave
+558,Lambrechten,Lambrechten,LOC,0.0,0.0,de,1.0,4460797-0,7873184,A,48.31762,13.51396,EUROPE,Austria,WCE,Cold Wave
+557,Bezirk R…,Bezirk R…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+556,Thalfang,Thalfang,LOC,0.0,0.0,de,1.0,4355486-6,3204961,P,49.75,7.0,EUROPE,Germany,WCE,Cold Wave
+555,Passauer,Passauer,LOC,0.7,0.0,de,1.0,,12501015,S,48.57447,13.46566,EUROPE,Germany,WCE,Cold Wave
+574,Oldenburg/Bremen,Oldenburg/Bremen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+576,Gefährliche Glätte,Gefährliche Glätte,LOC,-0.5,0.5,de,1.0,,0,,,,,,,Cold Wave
+508,Energieversorgers Gasag,Energieversorgers Gasag,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+577,gefrierenden Regen,gefrierenden Regen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+416,Schmitten,Schmitten,LOC,-0.5,0.5,de,1.0,,2658718,P,46.8575,7.25031,EUROPE,Switzerland,WCE,Cold Wave
+595,Glatteis-Sturz,Glatteis-Sturz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+594,Land…,Land…,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+593,Was,Was,LOC,0.0,0.0,de,1.0,4057127-0,3044310,P,47.23088,16.62155,EUROPE,Hungary,WCE,Cold Wave
+592,Oberhausen,Oberhausen,LOC,-1.0,0.0,de,1.0,4042927-1,2860410,P,51.47805,6.8625,EUROPE,Germany,WCE,Cold Wave
+591,Obertshausen,Obertshausen,LOC,-1.0,0.0,de,1.0,4101953-2,2858763,P,50.07139,8.85123,EUROPE,Germany,WCE,Cold Wave
+590,Kreis Offenbach,Kreis Offenbach,LOC,-1.0,0.0,de,1.0,4043360-2,2857806,P,50.69878,8.41548,EUROPE,Germany,WCE,Cold Wave
+589,Samstagabend,Samstagabend,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+588,Ulm,Ulm,LOC,0.0,0.0,de,1.0,4061529-7,2820256,P,48.39841,9.99155,EUROPE,Germany,WCE,Cold Wave
+587,Oder,Oder,LOC,0.0,0.0,de,1.0,4018122-4,2925535,P,52.34714,14.55062,EUROPE,Germany,WCE,Cold Wave
+586,Morgenstunden,Morgenstunden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+585,Wirtschaftskammer Tirol,Wirtschaftskammer Tirol,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+584,Polizeidienststellen,Polizeidienststellen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+583,Jever,Jever,LOC,-0.7,0.0,de,1.0,4028611-3,2894897,P,53.57343,7.90039,EUROPE,Germany,NEU,Cold Wave
+582,Di…,Di…,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+581,DeutschlandsGlatte,DeutschlandsGlatte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+580,Magdeburg/Halle,Magdeburg/Halle,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+579,Befürchtetes Glättechaos,Befürchtetes Glättechaos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+578,Schnee“,Schnee“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+554,Stunden am Morgen,Stunden am Morgen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+553,Berufsverkehrs,Berufsverkehrs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+552,Hei…,Hei…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+551,Graz,Graz,LOC,0.7,0.0,de,1.0,4021912-4,2778067,P,47.06733,15.44197,EUROPE,Austria,WCE,Cold Wave
+527,Celsius,Celsius,LOC,0.0,0.0,de,1.0,,3424134,T,73.11667,-23.25,POLAR,Greenland,GIC,Cold Wave
+526,Frühlingsgefühle,Frühlingsgefühle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+525,sch…,sch…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+524,Wien,Wien,LOC,0.0,0.0,de,1.0,4066009-6,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE,Cold Wave
+523,Falschparkens,Falschparkens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+522,Notquartiere,Notquartiere,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+521,Wintersportsaison,Wintersportsaison,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+520,Schmerzensgeld,Schmerzensgeld,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+519,Sturmböen an der Nordsee,Sturmböen an der Nordsee,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+518,Alpenrand,Alpenrand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+517,besond…,besond…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+516,Stürzens</li><li,Stürzens</li><li,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+515,Regensburg,Regensburg,LOC,0.0,0.0,de,1.0,4048989-9,2849483,P,49.01513,12.10161,EUROPE,Germany,WCE,Cold Wave
+514,tiefwinterlich,tiefwinterlich,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+513,Österreichs,Österreichs,LOC,0.0,0.0,de,1.0,,13513071,S,48.2043,16.37016,EUROPE,Austria,WCE,Cold Wave
+512,Fünf-Minuten-Weg,Fünf-Minuten-Weg,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+511,Spiegelglatte,Spiegelglatte,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+510,Orthopäden,Orthopäden,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
+509,Unfallchirurgen,Unfallchirurgen,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
+528,Illinois,Illinois,LOC,0.0,0.0,de,1.0,4109206-5,4896861,A,40.00032,-89.25037,NORTH-AMERICA,United States,ENA,Cold Wave
+529,Polarwirbel,Polarwirbel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+530,Amtsgerichts München,Amtsgerichts München,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+542,Rügen,Rügen,LOC,-0.9,0.0,de,1.0,4050875-4,2843325,T,54.41667,13.4,EUROPE,Germany,NEU,Cold Wave
+550,Caritas-Winter-Notschlafstelle Graz,Caritas-Winter-Notschlafstelle Graz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+549,Sonntag Schnee,Sonntag Schnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+548,Temperaturen absacken,Temperaturen absacken,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+547,Mallorca,Mallorca,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Cold Wave
+546,Schneechaos,Schneechaos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+545,Winters,Winters,LOC,0.0,0.0,de,1.0,,5410125,P,38.52491,-121.9708,NORTH-AMERICA,United States,WNA,Cold Wave
+544,A3,A3,LOC,0.0,0.0,de,1.0,,7628316,A,56.65139,23.92806,EUROPE,Latvia,WCE,Cold Wave
+543,Folge</li><li,Folge</li><li,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+541,Steilufer,Steilufer,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+531,Och,Och,LOC,0.0,0.0,de,1.0,4204803-5,1527534,P,40.52828,72.7985,ASIA,Kyrgyzstan,WCA,Cold Wave
+540,Poseck,Poseck,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+539,Hessen Offenbach,Hessen Offenbach,LOC,-1.0,0.0,de,1.0,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Cold Wave
+538,GIeßen,GIeßen,LOC,0.0,0.0,de,1.0,4020989-1,2920512,P,50.58727,8.67554,EUROPE,Germany,WCE,Cold Wave
+537,Balearen,Balearen,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Cold Wave
+536,Alpengebiet,Alpengebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+535,Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,1.0,4003191-3,2955272,P,49.97704,9.15214,EUROPE,Germany,WCE,Cold Wave
+534,Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1.0,4005574-7,2950881,P,47.63236,13.00187,EUROPE,Germany,WCE,Cold Wave
+533,SZ,SZ,LOC,0.0,0.0,de,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Cold Wave
+417,Hessens Bergen,Hessens Bergen,LOC,-0.5,0.5,de,1.0,,0,,,,,,,Cold Wave
+298,Verkehrsbetriebe,Verkehrsbetriebe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+415,Hessen ge,Hessen ge,LOC,0.0,0.0,de,1.0,4018510-2,2924802,P,50.33739,8.75591,EUROPE,Germany,WCE,Cold Wave
+302,Grachten,Grachten,LOC,0.0,1.0,de,1.0,,2799197,P,50.95946,2.82183,EUROPE,Belgium,WCE,Cold Wave
+300,Bergepanzer,Bergepanzer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+299,Kommunen,Kommunen,LOC,0.0,0.0,de,1.0,4115052-1,2994935,P,48.30337,-0.61383,EUROPE,France,WCE,Cold Wave
+297,WELT-Reporter,WELT-Reporter,LOC,0.46666667,0.33333333,de,1.0,,0,,,,,,,Cold Wave
+296,Schulausfälle,Schulausfälle,LOC,0.46666667,0.33333333,de,1.0,,0,,,,,,,Cold Wave
+295,Liveblog Minusgrade,Liveblog Minusgrade,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+294,Berliner Unfallkrankenhaus,Berliner Unfallkrankenhaus,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+293,Glatteis-Unfällen,Glatteis-Unfällen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+292,Knochenbrüchen,Knochenbrüchen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+291,Platzwunden am Kopf,Platzwunden am Kopf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+290,Schädelhirntraumata,Schädelhirntraumata,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+289,Flughafen …,Flughafen …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+288,Flügen,Flügen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+287,Starkschnee,Starkschnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+286,Kre…,Kre…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+285,Rodelspaß,Rodelspaß,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+284,Packgebiet,Packgebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+283,China-Route,China-Route,LOC,-0.7,0.0,de,1.0,,3008971,P,49.57122,0.9108,EUROPE,France,WCE,Cold Wave
+282,Wolkenfelder,Wolkenfelder,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+281,lhe,lhe,LOC,0.8,0.0,de,1.0,4034107-0,1172451,P,31.558,74.35071,ASIA,Pakistan,WCA,Cold Wave
+301,Kanälen,Kanälen,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+303,Neuschnees,Neuschnees,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+414,Allgäu,Allgäu,LOC,0.0,0.0,de,1.0,4030234-9,2891621,P,47.72674,10.31389,EUROPE,Germany,WCE,Cold Wave
+304,Hannover,Hannover,LOC,-1.0,0.0,de,1.0,4023349-2,2910831,P,52.37052,9.73322,EUROPE,Germany,WCE,Cold Wave
+323,Wintersturmfront Elli,Wintersturmfront Elli,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+322,Spielplatz,Spielplatz,LOC,0.7,0.0,de,1.0,,6944079,L,46.63742,14.30476,EUROPE,Austria,WCE,Cold Wave
+321,Straße zur akuten Gefahr,Straße zur akuten Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+320,Moskau,Moskau,LOC,0.0,0.0,de,1.0,4074987-3,524901,P,55.75204,37.61781,EUROPE,Russia,WCE,Cold Wave
+319,Frankfurt am Main,Frankfurt am Main,LOC,0.0,0.0,de,1.0,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Cold Wave
+318,Stadt Frankfurt,Stadt Frankfurt,LOC,0.0,0.0,de,1.0,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Cold Wave
+317,Hinweisportal,Hinweisportal,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+316,Ostseeküste,Ostseeküste,LOC,0.0,0.0,de,1.0,4075760-2,12076808,L,54.21464,12.22235,EUROPE,Germany,NEU,Cold Wave
+315,Elli,Elli,LOC,-0.7,0.0,de,1.0,,145486,T,38.09663,55.93333,ASIA,Turkmenistan,WCA,Cold Wave
+314,Süddeutschland,Süddeutschland,LOC,-0.7,0.0,de,1.0,4078022-3,12909096,L,48.58781,10.71652,EUROPE,Germany,WCE,Cold Wave
+313,Schwarzwald,Schwarzwald,LOC,-0.15,0.0,de,1.0,4034109-4,2881885,P,48.34042,7.86886,EUROPE,Germany,WCE,Cold Wave
+312,Republik,Republik,LOC,0.0,1.0,de,1.0,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Cold Wave
+311,Moabit,Moabit,LOC,1.0,0.0,de,1.0,1292404396,2870310,P,52.52635,13.33903,EUROPE,Germany,WCE,Cold Wave
+310,Grundsatz,Grundsatz,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+309,Blitz-Eis,Blitz-Eis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+308,Altpapier,Altpapier,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+307,Lauf-Alternativen,Lauf-Alternativen,LOC,1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+306,Wienern,Wienern,LOC,0.0,0.0,de,1.0,,2761355,P,48.15881,13.14832,EUROPE,Austria,WCE,Cold Wave
+305,Donau,Donau,LOC,0.0,0.0,de,1.0,4041719-0,2866070,P,48.73218,11.18709,EUROPE,Germany,WCE,Cold Wave
+280,Bussen,Bussen,LOC,0.0,0.0,de,1.0,4009216-1,3336865,T,60.46861,19.85444,EUROPE,Åland,NEU,Cold Wave
+279,St. Johannes Baptist,St. Johannes Baptist,LOC,0.0,0.0,de,1.0,,11283230,S,48.79987,9.79698,EUROPE,Germany,WCE,Cold Wave
+278,Oberschwaben Schnee,Oberschwaben Schnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+277,Kältehilfe,Kältehilfe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+254,NRWs örtl,NRWs örtl,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+253,Verkehrsunfällen,Verkehrsunfällen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+252,Niederschläge,Niederschläge,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+251,Ausrüstungen,Ausrüstungen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+250,Formentera,Formentera,LOC,0.0,0.0,de,1.0,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Cold Wave
+249,Täle…,Täle…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+248,Ski-Looks,Ski-Looks,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+247,Heiligabend,Heiligabend,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+246,Frankreich,Frankreich,LOC,0.7,0.0,de,1.0,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Cold Wave
+245,Arktis,Arktis,LOC,-0.7,0.0,de,1.0,4002924-4,1511391,T,81.27105,95.78463,ASIA,Russia,RAR,Cold Wave
+244,Mittelmeer,Mittelmeer,LOC,0.7,0.0,de,1.0,4074895-9,363196,H,35.0,20.0,EUROPE-AFRICA,,MED,Cold Wave
+243,Frost-Fest,Frost-Fest,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+242,’s,’s,LOC,0.0,0.0,de,1.0,4518159-7,3576022,P,17.12096,-61.84329,CENTRAL-AMERICA,Antigua and Barbuda,CAR,Cold Wave
+241,Nordostküste,Nordostküste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+240,Winteranfang,Winteranfang,LOC,0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
+239,CSU-Chef,CSU-Chef,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
+238,Eisalarm,Eisalarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+237,Ostwestfalen-Lippe,Ostwestfalen-Lippe,LOC,0.7,0.0,de,1.0,,2937935,A,51.9666,8.78333,EUROPE,Germany,WCE,Cold Wave
+236,Glatteis-Crash,Glatteis-Crash,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+255,ARD-aktuell,ARD-aktuell,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
+256,Nieselregen,Nieselregen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+257,Minusgraden,Minusgraden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+268,Straße im Winter,Straße im Winter,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+276,Stadt überlastet</li><li,Stadt überlastet</li><li,LOC,0.0,0.5,de,1.0,,0,,,,,,,Cold Wave
+275,Carité,Carité,LOC,0.0,0.5,de,1.0,,7268344,A,18.08064,-66.09583,CENTRAL-AMERICA,Puerto Rico,CAR,Cold Wave
+274,Modriach,Modriach,LOC,0.0,0.0,de,1.0,7701410-8,7873547,A,46.94269,15.06961,EUROPE,Austria,WCE,Cold Wave
+273,Virchow-Klinikum,Virchow-Klinikum,LOC,0.0,0.5,de,1.0,,0,,,,,,,Cold Wave
+272,A1 krachen,A1 krachen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+271,Unfälle</li><li,Unfälle</li><li,LOC,0.0,0.5,de,1.0,,0,,,,,,,Cold Wave
+270,Vereinigten Staaten,Vereinigten Staaten,LOC,0.0,0.0,de,1.0,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA,Cold Wave
+269,Ski-Saison,Ski-Saison,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+267,Evangelischen Waldkrankenhaus Spandau,Evangelischen Waldkrankenhaus Spandau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+258,Frieda,Frieda,LOC,0.8,0.0,de,1.0,3011980-7,8298995,S,-4.61048,141.95984,ASIA,Papua New Guinea,SEA,Cold Wave
+266,Gespräche,Gespräche,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
+265,Hauptstadtflughafen BER,Hauptstadtflughafen BER,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+264,Nord-Osten,Nord-Osten,LOC,0.7,0.0,de,1.0,,607197,T,79.8,22.4,ARCTIC,Svalbard and Jan Mayen,ARO,Cold Wave
+263,Weihnachten,Weihnachten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+262,Hohenschönhausen,Hohenschönhausen,LOC,0.0,0.0,de,1.0,5024251-9,8334622,P,52.56681,13.51255,EUROPE,Germany,WCE,Cold Wave
+261,Deutschlands</li><li,Deutschlands</li><li,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+260,Verbrenner-Aus,Verbrenner-Aus,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Cold Wave
+259,Ladezustand,Ladezustand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+324,Wintersturmfront „Elli“,Wintersturmfront „Elli“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+325,Landkreis Dingolfing-Landau,Landkreis Dingolfing-Landau,LOC,0.0,0.0,de,1.0,4247447-4,2881650,P,48.67249,12.69316,EUROPE,Germany,WCE,Cold Wave
+326,Nato-Gebiet,Nato-Gebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+371,Glatteis-Gefahr,Glatteis-Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+391,Mitreden,Mitreden,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+390,Warme Getränke,Warme Getränke,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+389,Schlafsäcke,Schlafsäcke,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+388,Lienz,Lienz,LOC,0.0,0.0,de,1.0,4035690-5,2772505,P,46.8289,12.76903,EUROPE,Austria,WCE,Cold Wave
+387,Chile,Chile,LOC,0.0,0.0,de,1.0,4009929-5,3895114,A,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Cold Wave
+386,Garten,Garten,LOC,0.0,0.0,de,1.0,,7535595,S,52.50717,13.33189,EUROPE,Germany,WCE,Cold Wave
+385,Loser,Loser,LOC,0.7,0.0,de,1.0,4543808-0,6702252,T,3.7564,97.1737,ASIA,Indonesia,SEA,Cold Wave
+384,Mittelfranken,Mittelfranken,LOC,0.0,0.0,de,1.0,4039681-2,2870736,A,49.33333,10.83333,EUROPE,Germany,WCE,Cold Wave
+383,Wintersporthandel,Wintersporthandel,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+382,Winterferien,Winterferien,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+381,Wintereinbruc…,Wintereinbruc…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+380,Kärnten,Kärnten,LOC,0.0,0.0,de,1.0,4029175-3,2774686,A,46.75,13.83333,EUROPE,Austria,WCE,Cold Wave
+379,Geosphere Austria am Sonntag,Geosphere Austria am Sonntag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+378,Nordtirol,Nordtirol,LOC,0.0,0.0,de,1.0,4440212-0,2775541,P,47.4498,12.15659,EUROPE,Austria,WCE,Cold Wave
+377,Zwönitz,Zwönitz,LOC,-1.0,0.0,de,1.0,4249275-0,2803476,P,50.63027,12.80999,EUROPE,Germany,WCE,Cold Wave
+376,Obersteiermark,Obersteiermark,LOC,0.0,0.0,de,1.0,4105325-4,2766495,P,47.33839,15.01784,EUROPE,Austria,WCE,Cold Wave
+375,Zentrum,Zentrum,LOC,0.0,0.0,de,1.0,,6291660,P,47.43076,8.46898,EUROPE,Switzerland,WCE,Cold Wave
+374,Flughafen laufe,Flughafen laufe,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+373,Planai,Planai,LOC,0.7,0.0,de,1.0,,2768723,T,47.37276,13.72384,EUROPE,Austria,WCE,Cold Wave
+392,BVG,BVG,LOC,0.0,0.0,de,1.0,,6296729,S,70.871,29.02944,EUROPE,Norway,NEU,Cold Wave
+393,Energiesparmodus,Energiesparmodus,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+394,Reichensteuer,Reichensteuer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+405,Tirols Bergen,Tirols Bergen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+413,Botanischen Garten,Botanischen Garten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+412,Tauplitz,Tauplitz,LOC,0.7,0.0,de,1.0,4375051-5,7873508,A,47.58876,14.01444,EUROPE,Austria,WCE,Cold Wave
+411,Wolken-Nebel-Mix,Wolken-Nebel-Mix,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+410,Bietigheim-Bissingen,Bietigheim-Bissingen,LOC,0.0,0.0,de,1.0,4006554-6,2949012,P,48.94407,9.11755,EUROPE,Germany,WCE,Cold Wave
+409,Hochfügenerstraße,Hochfügenerstraße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+408,Zillertal,Zillertal,LOC,0.0,0.0,de,1.0,4109019-6,7602524,L,47.24321,12.0249,EUROPE,Austria,WCE,Cold Wave
+407,Bezirk Schwaz,Bezirk Schwaz,LOC,0.0,0.0,de,1.0,4053811-4,2765389,A,47.26667,11.76667,EUROPE,Austria,WCE,Cold Wave
+406,Tirols,Tirols,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+404,Hahntennjoch,Hahntennjoch,LOC,0.7,0.0,de,1.0,,2777043,T,47.28333,10.65,EUROPE,Austria,WCE,Cold Wave
+395,Arlberg,Arlberg,LOC,-0.7,0.0,de,1.0,4196372-6,2766757,P,47.1275,10.26372,EUROPE,Austria,WCE,Cold Wave
+403,Imst,Imst,LOC,0.7,0.0,de,1.0,4026692-8,2775307,P,47.24504,10.73974,EUROPE,Austria,WCE,Cold Wave
+402,Reutte,Reutte,LOC,0.0,0.0,de,1.0,4049661-2,2767510,A,47.41667,10.55,EUROPE,Austria,WCE,Cold Wave
+401,Winterpaket,Winterpaket,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+400,Wiener Bezirken,Wiener Bezirken,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+399,Skipiste,Skipiste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+398,Deutsch…,Deutsch…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+397,H5N1,H5N1,LOC,-0.35,0.5,de,1.0,,0,,,,,,,Cold Wave
+396,New Yorker,New Yorker,LOC,0.0,0.0,de,1.0,,5225847,T,41.52566,-71.53784,NORTH-AMERICA,United States,ENA,Cold Wave
+372,Dreikönigstag winterlich,Dreikönigstag winterlich,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+370,Kaninchenmantel,Kaninchenmantel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+327,Ukraine beka…,Ukraine beka…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+369,Pelze,Pelze,LOC,1.0,0.0,de,1.0,,2854988,H,51.87263,12.26025,EUROPE,Germany,WCE,Cold Wave
+346,Rettungsstelle,Rettungsstelle,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+345,Sü…,Sü…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+344,Lehrter Straße,Lehrter Straße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+343,Mi…,Mi…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+342,Alkoholtest,Alkoholtest,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+341,Winter-Wetter,Winter-Wetter,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+340,Kältebus,Kältebus,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+339,Brandstifter,Brandstifter,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+338,Flughafen Schiphol,Flughafen Schiphol,LOC,-1.0,0.0,de,1.0,,6296680,S,52.3103,4.76028,EUROPE,The Netherlands,NEU,Cold Wave
+337,Hameln,Hameln,LOC,0.0,0.0,de,1.0,4023145-8,2911271,P,52.10397,9.35623,EUROPE,Germany,WCE,Cold Wave
+336,Müllabfuhr,Müllabfuhr,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+335,Restmüll,Restmüll,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+334,Bioabfall,Bioabfall,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+333,Schulen,Schulen,LOC,0.0,0.0,de,1.0,,2786913,P,50.95972,5.1901,EUROPE,Belgium,WCE,Cold Wave
+332,Online-Unterricht,Online-Unterricht,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+331,Termine,Termine,LOC,0.0,0.0,de,1.0,,11999890,T,46.57415,8.7553,EUROPE,Switzerland,WCE,Cold Wave
+330,Unheilig-Auftritte,Unheilig-Auftritte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+329,Hamburg-Konzerte,Hamburg-Konzerte,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
+328,Oreschnik-Einsatz,Oreschnik-Einsatz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+347,Großeinsatz,Großeinsatz,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+348,Party,Party,LOC,0.7,0.0,de,1.0,,6626290,T,-85.45,-147.55,POLAR,Antarctica,EAN,Cold Wave
+349,Parkplätze,Parkplätze,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+360,Lkw Autobahnen,Lkw Autobahnen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+368,Kaninchenfell,Kaninchenfell,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+367,Vorschein,Vorschein,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+366,Schulausfällen,Schulausfällen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+365,Super-Kälte,Super-Kälte,LOC,0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+364,Stau,Stau,LOC,0.35,0.5,de,1.0,,11814005,H,53.82412,24.24836,EUROPE,Belarus,WCE,Cold Wave
+363,Straßennetzes,Straßennetzes,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+362,Mittelbaden,Mittelbaden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+361,Brandenburg im Winterwunderland,Brandenburg im Winterwunderland,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+359,Strich,Strich,LOC,0.0,1.0,de,1.0,,10355037,T,47.09885,9.61567,EUROPE,Liechtenstein,WCE,Cold Wave
+350,Torfhaus,Torfhaus,LOC,0.0,0.0,de,1.0,1139848631,2821823,P,51.55925,12.7456,EUROPE,Germany,WCE,Cold Wave
+358,Obdachlosen-Versorgung,Obdachlosen-Versorgung,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Cold Wave
+357,Tausalzgemisch…,Tausalzgemisch…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+356,Kältebusse,Kältebusse,LOC,0.0,1.0,de,1.0,,0,,,,,,,Cold Wave
+355,Böen,Böen,LOC,-1.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Cold Wave
+354,Winterkeule,Winterkeule,LOC,0.35,0.5,de,1.0,,0,,,,,,,Cold Wave
+353,Mainz/Offenbach,Mainz/Offenbach,LOC,-0.23333333,0.0,de,1.0,,0,,,,,,,Cold Wave
+352,D…,D…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Cold Wave
+351,Braunlage,Braunlage,LOC,0.0,0.0,de,1.0,4008060-2,2945055,P,51.72651,10.6109,EUROPE,Germany,WCE,Cold Wave
+596,Verkehrsunfälle,Verkehrsunfälle,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Cold Wave
