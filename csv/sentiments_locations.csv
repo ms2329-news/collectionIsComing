@@ -1,314 +1,629 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Australia,Australia,GPE,-0.0846811,0.91380142,en,18.6,,-1,,,,,,,Heat Wave
-1,India,India,GPE,0.25899994,1.0212171,en,9.2,,-1,,,,,,,Heat Wave
-2,Florida,Florida,GPE,-0.06460477,0.87349844,en,7.7,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Heat Wave
-3,Queensland,Queensland,GPE,0.14886315,0.3525311,en,7.4,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Heat Wave
-4,Victoria,Victoria,GPE,-0.27334944,0.57387279,en,6.9,,-1,,,,,,,Heat Wave
-5,US,US,GPE,0.31338994,0.88813131,en,6.5,,-1,,,,,,,Heat Wave
-6,Ukraine,Ukraine,GPE,0.36930634,1.05767045,en,6.4,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Heat Wave
-7,Arctic,Arctic,LOC,0.57832563,1.10195172,en,5.9,,-1,,,,,,,Heat Wave
-8,Earth,Earth,LOC,0.29639475,1.64376127,en,5.6,,-1,,,,,,,Heat Wave
-9,Europe,Europe,LOC,0.11089258,0.43303225,en,5.2,,-1,,,,,,,Heat Wave
-10,California,California,GPE,0.16251584,1.76984567,en,4.1,,-1,,,,,,,Heat Wave
-11,U.S.,U.S.,GPE,0.59966216,1.26238739,en,3.7,,-1,,,,,,,Heat Wave
-12,North America,North America,LOC,0.04017857,0.51279762,en,3.5,,-1,,,,,,,Heat Wave
-13,Spain,Spain,GPE,0.36380952,0.88952381,en,3.5,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Heat Wave
-15,Pilbara,Pilbara,GPE,0.12436869,0.31565657,en,3.3,,-1,,,,,,,Heat Wave
-14,Canada,Canada,GPE,0.15663125,0.5632297,en,3.3,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Heat Wave
-16,UK,UK,GPE,0.09677419,1.86648746,en,3.1,,-1,,,,,,,Heat Wave
-17,Russia,Russia,GPE,0.45454545,0.85386119,en,3.1,,-1,,,,,,,Heat Wave
-18,China,China,GPE,-0.05078725,0.82421275,en,3.1,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Heat Wave
-19,Colorado,Colorado,GPE,0.45111459,1.21115465,en,2.9,,-1,,,,,,,Heat Wave
-20,Barcelona,Barcelona,GPE,0.20333333,0.51809524,en,2.8,4004503-1,3128760,X,41.38879,2.15899,EUROPE-AFRICA,Spain,MED,Heat Wave
-21,Miami,Miami,GPE,0.0,0.22222222,en,2.7,,-1,,,,,,,Heat Wave
-22,Kyiv,Kyiv,GPE,-0.03846154,0.57692308,en,2.6,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Heat Wave
-23,Roebourne,Roebourne,GPE,0.1963141,0.34935897,en,2.6,,-1,,,,,,,Heat Wave
-24,Sydney,Sydney,GPE,0.0,0.38461538,en,2.6,4058708-3,2147714,X,-33.867849,151.20732,OCEANIA,,EAU,Heat Wave
-25,Perth,Perth,GPE,0.09245562,0.75443787,en,2.6,,-1,,,,,,,Heat Wave
-26,Manitoba,Manitoba,GPE,0.33076923,0.66923077,en,2.6,4100106-0,6065171,X,55.9,-97.899999,NORTH-AMERICA,Canada,NEN,Heat Wave
-27,Southern California,Southern California,LOC,-0.12418301,0.78431373,en,2.55,,-1,,,,,,,Heat Wave
-30,South Asia,South Asia,LOC,-0.02916667,0.59823232,en,2.4,,-1,,,,,,,Heat Wave
-29,Central Florida,Central Florida,LOC,0.04513889,0.64409722,en,2.4,,-1,,,,,,,Heat Wave
-28,Africa,Africa,LOC,-0.02916667,0.59823232,en,2.4,,-1,,,,,,,Heat Wave
-31,the United States,the United States,GPE,0.27128623,1.19338768,en,2.3,,-1,,,,,,,Heat Wave
-32,Brazil,Brazil,GPE,0.16353306,1.0542011,en,2.2,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Heat Wave
-33,Denver,Denver,GPE,-0.07424242,0.97386364,en,2.2,,-1,,,,,,,Heat Wave
-34,Japan,Japan,GPE,-0.06148217,1.25372346,en,2.1,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Heat Wave
-35,America,America,GPE,0.49431818,0.89772727,en,2.0,,-1,,,,,,,Heat Wave
-39,Türkiye,Türkiye,GPE,0.1754386,0.40935673,en,1.9,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Heat Wave
-38,New York,New York,GPE,0.32578036,1.58240488,en,1.9,,-1,,,,,,,Heat Wave
-37,Paris,Paris,GPE,0.39254386,1.62938596,en,1.9,4044660-8,2988507,X,48.853409,2.3488,EUROPE,France,WCE,Heat Wave
-36,Jamaica,Jamaica,GPE,-0.63721425,3.12780436,en,1.9,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Heat Wave
-47,Kenya,Kenya,GPE,0.1712963,0.41087963,en,1.8,4030236-2,192950,X,1.0,38.0,AFRICA,Kenya,SEAF,Heat Wave
-53,Melbourne,Melbourne,GPE,0.0,0.0,en,1.8,4038526-7,2158177,X,-37.814,144.96332,OCEANIA,Australia,SAU,Heat Wave
-52,Western Australia,Western Australia,LOC,0.08042328,0.54232804,en,1.8,,-1,,,,,,,Heat Wave
-51,the Middle East,the Middle East,LOC,0.0,0.0,en,1.8,,-1,,,,,,,Heat Wave
-50,Brisbane,Brisbane,GPE,0.0,0.55555556,en,1.8,4212528-5,2174003,X,-27.467939,153.028089,OCEANIA,Australia,EAU,Heat Wave
-49,Knoxville,Knoxville,GPE,0.0,0.0,en,1.8,,-1,,,,,,,Heat Wave
-48,Coral Reef,Coral Reef,LOC,-0.11111111,0.37037037,en,1.8,,-1,,,,,,,Heat Wave
-44,Ahmedabad,Ahmedabad,GPE,0.17724868,0.41005291,en,1.8,4000813-7,1279233,X,23.02579,72.58726,ASIA,India,SAS,Heat Wave
-46,TX,TX,GPE,0.27777778,0.36666667,en,1.8,,-1,,,,,,,Heat Wave
-45,Dallas,Dallas,GPE,0.27777778,0.36666667,en,1.8,,-1,,,,,,,Heat Wave
-43,New South Wales,New South Wales,GPE,0.08585859,0.41952862,en,1.8,,-1,,,,,,,Heat Wave
-42,eastern seaboard,eastern seaboard,LOC,-0.06712963,0.76851852,en,1.8,,-1,,,,,,,Heat Wave
-41,Penguin Island,Penguin Island,GPE,0.08333333,0.30555556,en,1.8,,-1,,,,,,,Heat Wave
-40,Western Australia's,Western Australia's,LOC,0.08585859,0.41952862,en,1.8,,-1,,,,,,,Heat Wave
-54,Chicago,Chicago,GPE,0.44451872,0.77094474,en,1.7,4009921-0,4887398,X,41.850029,-87.650049,NORTH-AMERICA,United States,ENA,Heat Wave
-55,ORLANDO,ORLANDO,GPE,0.13970588,0.66911765,en,1.7,,-1,,,,,,,Heat Wave
-56,BC,BC,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Heat Wave
-57,Fla.,Fla.,GPE,0.19013666,0.64795009,en,1.7,,-1,,,,,,,Heat Wave
-58,South America,South America,LOC,0.08080808,0.42424242,en,1.65,,-1,,,,,,,Heat Wave
-59,Greece,Greece,GPE,0.23974116,1.08617424,en,1.6,,-1,,,,,,,Heat Wave
-61,London,London,GPE,0.0,0.0,en,1.6,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Heat Wave
-62,Kashmir,Kashmir,LOC,0.4985119,0.85119048,en,1.6,,-1,,,,,,,Heat Wave
-63,Broncos,Broncos,LOC,-0.18541667,0.83125,en,1.6,,-1,,,,,,,Heat Wave
-64,England,England,GPE,-0.28551136,0.92199337,en,1.6,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Heat Wave
-65,South Florida,South Florida,LOC,0.175,0.56458333,en,1.6,,-1,,,,,,,Heat Wave
-66,NEW YORK,NEW YORK,GPE,0.38068182,1.03977273,en,1.6,,-1,,,,,,,Heat Wave
-60,Sweden,Sweden,GPE,-0.078125,0.546875,en,1.6,4077258-5,2661886,X,62.0,15.0,EUROPE,Sweden,NEU,Heat Wave
-67,Gaza,Gaza,GPE,-0.25909091,0.9530303,en,1.5,,-1,,,,,,,Heat Wave
-70,New York City,New York City,GPE,0.40275201,1.05060812,en,1.4,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Heat Wave
-71,Detroit,Detroit,GPE,0.32142857,1.03571429,en,1.4,4011559-8,4990729,X,42.331429,-83.045749,NORTH-AMERICA,United States,ENA,Heat Wave
-69,Antarctica,Antarctica,LOC,0.00892857,1.85714286,en,1.4,,-1,,,,,,,Heat Wave
-68,Alaska,Alaska,GPE,0.91375661,1.12037037,en,1.4,4001016-8,5879092,X,64.8,-150.8,NORTH-AMERICA,United States,NWN,Heat Wave
-80,New Zealand's,New Zealand's,GPE,0.16503497,0.60909091,en,1.3,,-1,,,,,,,Heat Wave
-86,Haryana,Haryana,GPE,0.0,0.38461538,en,1.3,4239291-3,1270260,X,29.0,76.0,ASIA,India,SAS,Heat Wave
-85,Gulf,Gulf,LOC,-0.32051282,0.66666667,en,1.3,,-1,,,,,,,Heat Wave
-84,Chandigarh,Chandigarh,GPE,0.0,0.38461538,en,1.3,,-1,,,,,,,Heat Wave
-83,Pakistan,Pakistan,GPE,0.0,0.0,en,1.3,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Heat Wave
-82,Northern Canada,Northern Canada,LOC,-0.15384615,0.73076923,en,1.3,,-1,,,,,,,Heat Wave
-81,Western Sydney,Western Sydney,LOC,-0.20512821,0.37606838,en,1.3,,-1,,,,,,,Heat Wave
-87,the Atacama plains,the Atacama plains,LOC,-0.37179487,0.78632479,en,1.3,,-1,,,,,,,Heat Wave
-79,Grenoble,Grenoble,GPE,0.06944444,0.38888889,en,1.3,4021985-9,3014728,X,45.16667,5.716669,EUROPE,France,WCE,Heat Wave
-77,NY,NY,GPE,0.27222777,0.74014874,en,1.3,,-1,,,,,,,Heat Wave
-76,Disney Springs,Disney Springs,GPE,0.2534965,0.65268065,en,1.3,,-1,,,,,,,Heat Wave
-75,Caribbean,Caribbean,LOC,-1.33846154,2.23846154,en,1.3,,-1,,,,,,,Heat Wave
-74,Iceland,Iceland,GPE,0.53846154,1.07692308,en,1.3,4027754-9,2629691,X,65.0,-18.0,POLAR,Iceland,GIC,Heat Wave
-73,Mexico,Mexico,GPE,0.31623932,0.38461538,en,1.3,,-1,,,,,,,Heat Wave
-72,Louisville,Louisville,GPE,-0.17948718,0.65384615,en,1.3,,-1,,,,,,,Heat Wave
-78,NZ,NZ,GPE,0.0,0.0,en,1.3,,-1,,,,,,,Heat Wave
-92,Illinois,Illinois,GPE,-0.01388889,0.75462963,en,1.2,4109206-5,4896861,X,40.2,-89.25037,NORTH-AMERICA,United States,ENA,Heat Wave
-96,Americas,Americas,LOC,0.06155303,1.00378788,en,1.2,,-1,,,,,,,Heat Wave
-95,Mumbai,Mumbai,GPE,1.10648148,1.3275463,en,1.2,10013721-0,1275339,X,19.072777,72.8825,ASIA,India,SAS,Heat Wave
-94,New Orleans,New Orleans,GPE,0.02424242,1.15858586,en,1.2,,-1,,,,,,,Heat Wave
-93,Antarctic,Antarctic,LOC,0.04166667,0.58333333,en,1.2,,-1,,,,,,,Heat Wave
-91,West Virginia,West Virginia,GPE,-0.2,0.96388889,en,1.2,4119079-8,4826850,X,38.500379,-80.50009,NORTH-AMERICA,United States,ENA,Heat Wave
-90,Columbus,Columbus,GPE,0.03472222,0.71527778,en,1.2,,-1,,,,,,,Heat Wave
-89,Richmond,Richmond,GPE,-0.25,0.41666667,en,1.2,,-1,,,,,,,Heat Wave
-88,Chennai,Chennai,GPE,-0.20833333,0.78472222,en,1.2,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Heat Wave
-126,B.C.,B.C.,GPE,-0.17171717,0.8030303,en,1.1,,-1,,,,,,,Heat Wave
-118,Long Beach,Long Beach,GPE,-0.00909091,0.82424242,en,1.1,,-1,,,,,,,Heat Wave
-119,Light Ivory,Light Ivory,GPE,0.15909091,0.875,en,1.1,,-1,,,,,,,Heat Wave
-120,Chadster,Chadster,GPE,-0.28146853,0.96503497,en,1.1,,-1,,,,,,,Heat Wave
-121,Elkhart,Elkhart,GPE,0.21694215,0.87465565,en,1.1,,-1,,,,,,,Heat Wave
-122,Indiana,Indiana,GPE,0.21694215,0.87465565,en,1.1,4109219-3,4921868,X,40.2,-86.25027,NORTH-AMERICA,United States,ENA,Heat Wave
-123,United States,United States,GPE,-0.14049587,0.4862259,en,1.1,,-1,,,,,,,Heat Wave
-124,Conn.,Conn.,GPE,-0.54545455,0.90909091,en,1.1,,-1,,,,,,,Heat Wave
-125,St. Louis,St. Louis,GPE,0.03434343,0.81212121,en,1.1,4118223-6,4407066,X,38.62727,-90.19789,NORTH-AMERICA,United States,CNA,Heat Wave
-134,Appalachia,Appalachia,LOC,0.0,0.09090909,en,1.1,,-1,,,,,,,Heat Wave
-127,Madagascar,Madagascar,GPE,0.90909091,0.90909091,en,1.1,4074425-5,1062947,X,-20.0,47.0,AFRICA,Madagascar,MDG,Heat Wave
-128,Shanghai,Shanghai,GPE,0.0,0.0,en,1.1,4052066-3,1796236,X,31.22222,121.45806,ASIA,China,EAS,Heat Wave
-129,Moscow,Moscow,GPE,0.29090909,0.50909091,en,1.1,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Heat Wave
-130,Iowa,Iowa,GPE,-0.15151515,0.68181818,en,1.1,4109226-0,4862182,X,42.7,-93.500489,NORTH-AMERICA,United States,CNA,Heat Wave
-131,Leningrad,Leningrad,GPE,0.88636364,1.81818182,en,1.1,2018305-7,498817,X,59.894166,30.264166,EUROPE,Russia,NEU,Heat Wave
-132,Charleston,Charleston,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-133,Kabul,Kabul,GPE,-0.69264069,1.34199134,en,1.1,4029127-3,1138958,X,34.528129,69.17233,ASIA,Afghanistan,WCA,Heat Wave
-116,Dublin,Dublin,GPE,0.3,0.51515152,en,1.1,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Heat Wave
-117,Atlanta,Atlanta,GPE,0.38739669,1.03374656,en,1.1,4086063-2,4180439,X,33.748888,-84.387777,NORTH-AMERICA,United States,ENA,Heat Wave
-111,Rimtang,Rimtang,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-115,Jollywood,Jollywood,GPE,0.59090909,0.90151515,en,1.1,,-1,,,,,,,Heat Wave
-105,the Cheshire Basin,the Cheshire Basin,LOC,0.0,0.72727273,en,1.1,,-1,,,,,,,Heat Wave
-114,Lake Superior,Lake Superior,LOC,0.59090909,0.81818182,en,1.1,,-1,,,,,,,Heat Wave
-98,Thamesmead,Thamesmead,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-99,Alabama,Alabama,GPE,0.38739669,1.03374656,en,1.1,4084839-5,4829764,X,32.75041,-86.750259,NORTH-AMERICA,United States,ENA,Heat Wave
-100,Asia,Asia,LOC,0.0,0.0,en,1.1,,-1,,,,,,,Heat Wave
-101,Palm,Palm,GPE,0.45454545,0.60606061,en,1.1,,-1,,,,,,,Heat Wave
-102,KY,KY,GPE,0.0,0.54545455,en,1.1,,-1,,,,,,,Heat Wave
-103,Cuba,Cuba,GPE,-0.26262626,0.77777778,en,1.1,,-1,,,,,,,Heat Wave
-104,Vail,Vail,GPE,0.31877214,0.99763872,en,1.1,,-1,,,,,,,Heat Wave
-97,Hong Kong's,Hong Kong's,GPE,0.27613636,1.14545455,en,1.1,,-1,,,,,,,Heat Wave
-106,Belém,Belém,GPE,0.45454545,0.45454545,en,1.1,,-1,,,,,,,Heat Wave
-108,Pune,Pune,GPE,-0.13939394,0.41212121,en,1.1,16035299-X,1259229,X,18.519444,73.855277,ASIA,India,SAS,Heat Wave
-109,Georgia,Georgia,GPE,0.38739669,1.03374656,en,1.1,4020273-2,4197000,X,32.750419,-83.50018,NORTH-AMERICA,United States,ENA,Heat Wave
-110,A.L.,A.L.,GPE,0.0,0.27272727,en,1.1,,-1,,,,,,,Heat Wave
-112,the Atlantic Basin,the Atlantic Basin,LOC,0.72727273,1.36363636,en,1.1,,-1,,,,,,,Heat Wave
-113,Croatia,Croatia,GPE,0.25454545,0.32727273,en,1.1,4073841-3,3202326,X,45.16667,15.5,EUROPE,Croatia,WCE,Heat Wave
-107,the Caribbean Sea,the Caribbean Sea,LOC,-0.21212121,0.93939394,en,1.1,,-1,,,,,,,Heat Wave
-256,Orlando,Orlando,GPE,0.10795455,0.53484848,en,1.0,,-1,,,,,,,Heat Wave
-248,New Orleans Saints,New Orleans Saints,LOC,0.06818182,0.22727273,en,1.0,,-1,,,,,,,Heat Wave
-249,CALIFORNIA,CALIFORNIA,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-250,UNITED STATES,UNITED STATES,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-251,Pacific Palisades,Pacific Palisades,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-252,Los Angeles,Los Angeles,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-253,Abilene,Abilene,GPE,-0.1,0.1,en,1.0,,-1,,,,,,,Heat Wave
-254,Texas,Texas,GPE,-0.1,0.1,en,1.0,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Heat Wave
-255,Immokalee,Immokalee,GPE,0.17142857,0.55714286,en,1.0,,-1,,,,,,,Heat Wave
-260,Jordan,Jordan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-257,Misso…,Misso…,GPE,0.17045455,0.53484848,en,1.0,,-1,,,,,,,Heat Wave
-258,recombinases,recombinases,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Heat Wave
-259,South Africa,South Africa,GPE,0.0,1.0,en,1.0,4078012-0,953987,X,-29.0,24.0,AFRICA,South Africa,WSAF,Heat Wave
-261,the east bank,the east bank,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-262,the Jordan River,the Jordan River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-263,Philippines,Philippines,GPE,0.16666667,0.33333333,en,1.0,4045771-0,1694008,X,13.0,122.0,ASIA,,SEA,Heat Wave
-247,STAMFORD,STAMFORD,GPE,-0.3,0.5,en,1.0,,-1,,,,,,,Heat Wave
-265,Manhattan,Manhattan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-266,Italy,Italy,GPE,-0.2,0.375,en,1.0,,-1,,,,,,,Heat Wave
-264,EPCOT,EPCOT,GPE,0.5,0.2,en,1.0,,-1,,,,,,,Heat Wave
-239,Mongolia,Mongolia,GPE,0.45,0.625,en,1.0,,-1,,,,,,,Heat Wave
-246,Marseille,Marseille,GPE,0.5,0.5,en,1.0,4037694-1,2995469,X,43.29695,5.38107,EUROPE-AFRICA,France,MED,Heat Wave
-245,Cybertruck,Cybertruck,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-226,S.C.,S.C.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-227,Afghanistan,Afghanistan,GPE,0.03809524,0.47619048,en,1.0,4000687-6,1149361,X,33.0,66.0,ASIA,Afghanistan,WCA,Heat Wave
-228,San Diego,San Diego,GPE,0.25,0.85,en,1.0,,-1,,,,,,,Heat Wave
-229,St. Louis',St. Louis',GPE,-0.03888889,0.66666667,en,1.0,,-1,,,,,,,Heat Wave
-230,San Bernardino C,San Bernardino C,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Heat Wave
-231,Reborn,Reborn,GPE,-0.26666667,0.3,en,1.0,,-1,,,,,,,Heat Wave
-232,tRNAs,tRNAs,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-233,Philadelphia,Philadelphia,GPE,0.25,0.5,en,1.0,,-1,,,,,,,Heat Wave
-234,Wyncote,Wyncote,GPE,0.25,0.5,en,1.0,,-1,,,,,,,Heat Wave
-235,Pa.,Pa.,GPE,0.25,0.5,en,1.0,,-1,,,,,,,Heat Wave
-236,Kimberley,Kimberley,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-237,Bogar AR,Bogar AR,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-238,et al,et al,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-268,Acapulco,Acapulco,GPE,-0.15555556,0.28888889,en,1.0,,-1,,,,,,,Heat Wave
-240,BRUSSELS,BRUSSELS,GPE,0.09166667,0.45,en,1.0,,-1,,,,,,,Heat Wave
-241,commande,commande,GPE,0.06875,0.4,en,1.0,,-1,,,,,,,Heat Wave
-242,Hunan,Hunan,GPE,-0.14285714,0.35714286,en,1.0,,-1,,,,,,,Heat Wave
-243,Accor,Accor,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-244,Yorkshire Water,Yorkshire Water,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-267,Tarquinia,Tarquinia,GPE,0.0,0.0,en,1.0,4105777-6,3165919,X,42.25419,11.75657,EUROPE-AFRICA,Italy,MED,Heat Wave
-277,Ireland,Ireland,GPE,0.5,0.5,en,1.0,4027667-3,2963597,X,53.0,-8.0,EUROPE,Ireland,NEU,Heat Wave
-269,Flemington,Flemington,GPE,0.125,0.31111111,en,1.0,,-1,,,,,,,Heat Wave
-270,Goa,Goa,GPE,0.0,0.0,en,1.0,4021394-8,1271156,X,15.50195,73.910089,ASIA,India,SAS,Heat Wave
-294,Tampa,Tampa,GPE,-0.06980519,0.32088745,en,1.0,,-1,,,,,,,Heat Wave
-295,Atlantic,Atlantic,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-296,New Hope,New Hope,GPE,0.11818182,0.42727273,en,1.0,,-1,,,,,,,Heat Wave
-297,Israel,Israel,GPE,-0.125,0.375,en,1.0,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Heat Wave
-298,East Colfax,East Colfax,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-299,Aurora,Aurora,GPE,0.16666667,0.46666667,en,1.0,,-1,,,,,,,Heat Wave
-300,Washington,Washington,GPE,-0.05,0.60625,en,1.0,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Heat Wave
-301,barbecue,barbecue,GPE,0.16666667,0.46666667,en,1.0,,-1,,,,,,,Heat Wave
-302,landfalling Atlantic,landfalling Atlantic,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-303,recordis,recordis,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-304,Va,Va,GPE,0.17532468,0.5487013,en,1.0,,-1,,,,,,,Heat Wave
-305,Santa Maria,Santa Maria,GPE,-0.17777778,0.48333333,en,1.0,,-1,,,,,,,Heat Wave
-306,St. Regis,St. Regis,GPE,-0.02121212,0.78484848,en,1.0,,-1,,,,,,,Heat Wave
-307,Central Switzerland,Central Switzerland,LOC,0.13333333,0.48333333,en,1.0,,-1,,,,,,,Heat Wave
-308,Delhi,Delhi,GPE,0.33333333,0.71666667,en,1.0,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Heat Wave
-309,Montana,Montana,GPE,-0.01666667,0.3,en,1.0,4040138-8,5667009,X,47.5,-109.751019,NORTH-AMERICA,United States,WNA,Heat Wave
-310,Capricornia,Capricornia,LOC,0.06818182,0.35227273,en,1.0,,-1,,,,,,,Heat Wave
-311,Mackay,Mackay,GPE,0.06818182,0.35227273,en,1.0,,-1,,,,,,,Heat Wave
-224,South Carolina,South Carolina,GPE,0.0,0.0,en,1.0,4055656-6,4597040,X,34.3,-81.0,NORTH-AMERICA,United States,ENA,Heat Wave
-293,Floridas,Floridas,GPE,-0.04,0.55,en,1.0,,-1,,,,,,,Heat Wave
-292,Atlantic Ocean,Atlantic Ocean,LOC,0.01666667,0.58333333,en,1.0,,-1,,,,,,,Heat Wave
-291,the National Oceanic,the National Oceanic,LOC,-0.25,0.45,en,1.0,,-1,,,,,,,Heat Wave
-280,Kan.,Kan.,GPE,-0.1,0.51666667,en,1.0,,-1,,,,,,,Heat Wave
-271,Adriatic,Adriatic,LOC,0.425,0.5,en,1.0,,-1,,,,,,,Heat Wave
-272,ISTANBUL,ISTANBUL,GPE,0.03333333,0.31111111,en,1.0,,-1,,,,,,,Heat Wave
-273,Georgetown,Georgetown,GPE,-0.2,0.75,en,1.0,,-1,,,,,,,Heat Wave
-274,chile,chile,GPE,0.375,0.5,en,1.0,,-1,,,,,,,Heat Wave
-275,Turkey,Turkey,GPE,0.8,0.75,en,1.0,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Heat Wave
-276,turkey,turkey,GPE,-0.15625,0.71875,en,1.0,,-1,,,,,,,Heat Wave
-278,Hong Kong,Hong Kong,GPE,0.0,0.0,en,1.0,4025822-1,1819730,X,22.25,114.166666,ASIA,Hong Kong,EAS,Heat Wave
-279,Tokyo,Tokyo,GPE,-0.4,0.7,en,1.0,4078337-6,1850147,X,35.6895,139.69171,ASIA,Japan,EAS,Heat Wave
-281,Honolulu,Honolulu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-290,McDowell County,McDowell County,GPE,0.08,0.30333333,en,1.0,,-1,,,,,,,Heat Wave
-282,LOUISVILLE,LOUISVILLE,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Heat Wave
-283,the Sonoran Desert,the Sonoran Desert,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-284,Bethany,Bethany,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-285,HOUSTON,HOUSTON,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Heat Wave
-286,Northern,Northern,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-287,Colfax,Colfax,GPE,0.5,0.5,en,1.0,,-1,,,,,,,Heat Wave
-288,Southern Hemispheres,Southern Hemispheres,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-289,the Atlantic Ocean,the Atlantic Ocean,LOC,0.28571429,0.53571429,en,1.0,,-1,,,,,,,Heat Wave
-225,CHARLESTON,CHARLESTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-156,Philly,Philly,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-223,Imperial Valley,Imperial Valley,LOC,0.17708333,0.42083333,en,1.0,,-1,,,,,,,Heat Wave
-178,the Mediterranean basin,the Mediterranean basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-158,South Australia,South Australia,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-159,Bollywood,Bollywood,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-160,the Gulf Stream,the Gulf Stream,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-161,ATHENS,ATHENS,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-162,Birkenstocks Arizona,Birkenstocks Arizona,GPE,0.6,0.6,en,1.0,,-1,,,,,,,Heat Wave
-163,Tasmania,Tasmania,GPE,0.0297619,0.47619048,en,1.0,,-1,,,,,,,Heat Wave
-164,MUMBAI,MUMBAI,GPE,0.08,0.27,en,1.0,,-1,,,,,,,Heat Wave
-165,Bombay,Bombay,GPE,0.08,0.27,en,1.0,4007629-5,1275339,X,19.072829,72.882609,ASIA,India,SAS,Heat Wave
-166,Siaya County,Siaya County,GPE,0.18333333,0.38333333,en,1.0,,-1,,,,,,,Heat Wave
-167,the South Pole Basin,the South Pole Basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-168,Britain,Britain,GPE,-0.11174242,0.42613636,en,1.0,,-1,,,,,,,Heat Wave
-169,Toberer,Toberer,GPE,-0.3,0.4,en,1.0,,-1,,,,,,,Heat Wave
-170,Boreal Mountain,Boreal Mountain,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-171,P.,P.,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Heat Wave
-172,Cal,Cal,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-173,Germany,Germany,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-174,Greenland,Greenland,GPE,0.190625,0.578125,en,1.0,4022113-1,3425505,X,72.0,-40.0,POLAR,Greenland,GIC,Heat Wave
-175,the Appalachian Mountains,the Appalachian Mountains,LOC,0.190625,0.578125,en,1.0,,-1,,,,,,,Heat Wave
-176,Salisbury,Salisbury,GPE,-0.2,0.3,en,1.0,4118286-8,2638664,X,51.06931,-1.79569,EUROPE,United Kingdom,NEU,Heat Wave
-157,Bay heat,Bay heat,LOC,0.0625,0.925,en,1.0,,-1,,,,,,,Heat Wave
-155,Europes,Europes,LOC,0.14375,0.4125,en,1.0,,-1,,,,,,,Heat Wave
-154,Hawkes Bay,Hawkes Bay,LOC,0.16666667,0.56666667,en,1.0,,-1,,,,,,,Heat Wave
-143,Shinozaki K,Shinozaki K,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-135,Punjab,Punjab,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Heat Wave
-136,Newport,Newport,GPE,0.16666667,0.33333333,en,1.0,,-1,,,,,,,Heat Wave
-137,the mediterranean sea,the mediterranean sea,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-138,Arctic National Wildlife Refuge,Arctic National Wildlife Refuge,LOC,0.0,0.05,en,1.0,,-1,,,,,,,Heat Wave
-139,the North Atlantic,the North Atlantic,LOC,0.090625,0.4125,en,1.0,,-1,,,,,,,Heat Wave
-140,Kastellorizo,Kastellorizo,LOC,0.1,0.53333333,en,1.0,4115076-4,257079,X,36.142222,29.581388,EUROPE-AFRICA,Greece,MED,Heat Wave
-141,Parramatta,Parramatta,GPE,0.07727273,0.37757576,en,1.0,,-1,,,,,,,Heat Wave
-142,JACKSONVILLE,JACKSONVILLE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-144,Heat Pumps,Heat Pumps,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-153,Malaysia,Malaysia,GPE,0.4,0.4,en,1.0,4037203-0,1733045,X,2.5,112.5,ASIA,Malaysia,SEA,Heat Wave
-145,Jacksonville,Jacksonville,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-146,Kadenge Ratuoro,Kadenge Ratuoro,GPE,0.18333333,0.38333333,en,1.0,,-1,,,,,,,Heat Wave
-147,vermút,vermút,GPE,0.2,0.3,en,1.0,,-1,,,,,,,Heat Wave
-148,Arctic National Wildlife Refug,Arctic National Wildlife Refug,LOC,0.0,0.05,en,1.0,,-1,,,,,,,Heat Wave
-149,Belem,Belem,GPE,0.0375,0.2375,en,1.0,,-1,,,,,,,Heat Wave
-150,Wisconsin,Wisconsin,GPE,-0.15833333,0.56666667,en,1.0,4119135-3,5279468,X,44.500239,-90.1,NORTH-AMERICA,United States,CNA,Heat Wave
-151,Baja,Baja,GPE,0.16727273,0.35590909,en,1.0,,-1,,,,,,,Heat Wave
-152,Pacific Northwest,Pacific Northwest,LOC,0.1,0.5,en,1.0,,-1,,,,,,,Heat Wave
-177,east coast,east coast,LOC,-0.0625,0.75,en,1.0,,-1,,,,,,,Heat Wave
-179,Arctic sea,Arctic sea,LOC,0.8,0.9,en,1.0,,-1,,,,,,,Heat Wave
-222,the Blue Ridge,the Blue Ridge,LOC,0.0,0.1,en,1.0,,-1,,,,,,,Heat Wave
-180,North,North,GPE,0.2,0.5,en,1.0,,-1,,,,,,,Heat Wave
-203,Lahore,Lahore,GPE,0.0,0.0,en,1.0,4034107-0,1172451,X,31.54972,74.343609,ASIA,Pakistan,WCA,Heat Wave
-204,the north Pacific,the north Pacific,LOC,0.25,0.85,en,1.0,,-1,,,,,,,Heat Wave
-205,Nanaimo,Nanaimo,GPE,0.06111111,0.48333333,en,1.0,,-1,,,,,,,Heat Wave
-206,Roman,Roman,GPE,-0.4,0.55,en,1.0,,-1,,,,,,,Heat Wave
-207,Darby Allin,Darby Allin,GPE,-0.325,0.70625,en,1.0,,-1,,,,,,,Heat Wave
-208,Crete,Crete,GPE,-0.2,0.29166667,en,1.0,,-1,,,,,,,Heat Wave
-209,Attic… Rain,Attic… Rain,LOC,-0.2,0.29166667,en,1.0,,-1,,,,,,,Heat Wave
-210,Indonesia,Indonesia,GPE,0.13636364,0.45454545,en,1.0,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Heat Wave
-211,Ambolimailaky,Ambolimailaky,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-212,VA,VA,GPE,-0.3,0.5,en,1.0,,-1,,,,,,,Heat Wave
-213,RICHMOND,RICHMOND,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-214,Va.,Va.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-215,Williams,Williams,GPE,0.03333333,0.35,en,1.0,,-1,,,,,,,Heat Wave
-216,Pacific Ocean,Pacific Ocean,LOC,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Heat Wave
-217,Central Iowa,Central Iowa,LOC,0.125,0.29166667,en,1.0,,-1,,,,,,,Heat Wave
-218,Brisbane/,Brisbane/,GPE,-0.6,0.7,en,1.0,,-1,,,,,,,Heat Wave
-219,Meanjin,Meanjin,GPE,-0.6,0.7,en,1.0,,-1,,,,,,,Heat Wave
-220,WASHINGTON,WASHINGTON,GPE,-0.03333333,0.83333333,en,1.0,,-1,,,,,,,Heat Wave
-221,Key Largo,Key Largo,LOC,0.03333333,0.5,en,1.0,,-1,,,,,,,Heat Wave
-202,TALLAHASSEE,TALLAHASSEE,GPE,0.32323232,0.65151515,en,1.0,,-1,,,,,,,Heat Wave
-201,the Central Highlands,the Central Highlands,LOC,0.06818182,0.35227273,en,1.0,,-1,,,,,,,Heat Wave
-200,Saudi Arabia,Saudi Arabia,GPE,0.0,0.25,en,1.0,4051788-3,102358,X,25.0,45.0,ASIA,Saudi Arabia,ARP,Heat Wave
-189,protecti,protecti,GPE,0.21428571,0.42857143,en,1.0,,-1,,,,,,,Heat Wave
-181,West Africa,West Africa,GPE,0.245,0.67,en,1.0,,-1,,,,,,,Heat Wave
-182,Northern Indiana,Northern Indiana,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-183,South,South,LOC,0.0875,0.45,en,1.0,,-1,,,,,,,Heat Wave
-184,Valley,Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-185,France,France,GPE,0.08333333,0.28333333,en,1.0,,-1,,,,,,,Heat Wave
-186,New York Unheated,New York Unheated,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Heat Wave
-187,Yuan,Yuan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-188,Santa,Santa,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-190,Santa Claus,Santa Claus,GPE,0.25,0.85,en,1.0,,-1,,,,,,,Heat Wave
-199,TOKYO,TOKYO,GPE,-0.24,0.42,en,1.0,,-1,,,,,,,Heat Wave
-191,"AU$1,300","AU$1,300",GPE,0.21111111,0.54444444,en,1.0,,-1,,,,,,,Heat Wave
-192,MIAMI,MIAMI,GPE,-0.43333333,0.6,en,1.0,,-1,,,,,,,Heat Wave
-193,oscillationsrecurring,oscillationsrecurring,GPE,0.3,0.45,en,1.0,,-1,,,,,,,Heat Wave
-194,TN,TN,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Heat Wave
-195,Chile,Chile,GPE,0.0,0.25,en,1.0,4009929-5,3895114,X,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Heat Wave
-196,Manchester United,Manchester United,GPE,-0.05,0.08125,en,1.0,,-1,,,,,,,Heat Wave
-197,The Atacama Desert,The Atacama Desert,LOC,0.36666667,0.75,en,1.0,,-1,,,,,,,Heat Wave
-198,The United States,The United States,GPE,0.175,0.435,en,1.0,,-1,,,,,,,Heat Wave
-312,Hastings,Hastings,GPE,0.16666667,0.56666667,en,1.0,4023626-2,2647356,X,50.85519,0.57292,EUROPE,,NEU,Heat Wave
+0,Jamaica,Jamaica,GPE,-0.00605549,0.52664085,en,101.9,127193-3,3489940,A,18.16667,-77.25,CENTRAL-AMERICA,Jamaica,CAR,Storm
+1,U.S.,U.S.,GPE,0.15490126,0.42736105,en,71.5,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
+2,Northeast,Northeast,LOC,0.24430476,0.59215805,en,65.7,,11887749,L,42.80019,-74.11805,NORTH-AMERICA,United States,ENA,Storm
+3,US,US,GPE,0.08155201,0.45723352,en,63.8,,12217089,L,8.62,-170.11,PACIFIC,,NPO,Storm
+4,Caribbean,Caribbean,LOC,-0.03645901,0.59859184,en,55.6,,7729891,L,20.38583,-72.33398,CENTRAL-AMERICA,,CAR,Storm
+5,California,California,GPE,0.0459918,0.48052932,en,51.4,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Storm
+6,Midwest,Midwest,LOC,0.10087748,0.49290709,en,49.8,4074909-5,12212748,L,43.61327,-88.28917,NORTH-AMERICA,United States,ENA,Storm
+7,Philippines,Philippines,GPE,0.00546144,0.35085862,en,49.4,4045771-0,1694008,A,13.40882,122.56155,ASIA,Philippines,SEA,Storm
+8,Houston,Houston,GPE,0.13382964,0.38854552,en,45.1,4095673-8,4699066,P,29.76328,-95.36327,NORTH-AMERICA,United States,CNA,Storm
+9,Southern California,Southern California,LOC,0.0448027,0.36559767,en,44.2,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Storm
+10,Chicago,Chicago,GPE,0.095921,0.40590296,en,32.8,4009921-0,4887398,P,41.85003,-87.65005,NORTH-AMERICA,United States,ENA,Storm
+11,Great Lakes,Great Lakes,LOC,0.51616975,0.68303743,en,32.6,4022167-2,12212304,L,44.57143,-84.69022,NORTH-AMERICA,United States,ENA,Storm
+12,Europe,Europe,LOC,-0.02422402,0.435081,en,29.2,,12217848,L,50.28762,15.1903,EUROPE,Czechia,WCE,Storm
+13,Brazil,Brazil,GPE,0.11714742,0.37425452,en,27.7,4008003-1,3469034,A,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Storm
+14,Gaza,Gaza,GPE,-0.08498939,0.32947546,en,27.6,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Storm
+15,Queensland,Queensland,GPE,0.05795455,0.41258385,en,26.2,4103475-2,11523972,L,-16.56884,142.4846,OCEANIA,Australia,NAU,Storm
+16,the United States,the United States,GPE,0.06952659,0.46714067,en,24.4,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
+17,Michigan,Michigan,GPE,0.15397122,0.44406519,en,23.1,4115139-2,5001836,A,44.25029,-85.50033,NORTH-AMERICA,United States,ENA,Storm
+18,Texas,Texas,GPE,-0.02442934,0.34072262,en,21.7,4059594-8,12217092,L,28.9204,-98.5772,CENTRAL-AMERICA,United States,NCA,Storm
+19,New York,New York,GPE,0.11484131,0.5202597,en,19.7,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Storm
+20,Vietnam,Vietnam,GPE,-0.02808187,0.34773099,en,19.0,4063514-4,1562822,A,16.16667,107.83333,ASIA,Vietnam,SEA,Storm
+21,Atlantic,Atlantic,LOC,0.06442528,0.50293086,en,17.5,,12110846,L,40.58629,-76.28807,NORTH-AMERICA,United States,ENA,Storm
+22,Earth,Earth,LOC,0.26659785,0.68915997,en,17.3,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Storm
+23,Britain,Britain,GPE,-0.11901961,0.34527544,en,17.0,4321693-6,4839292,P,41.66121,-72.77954,NORTH-AMERICA,United States,ENA,Storm
+24,Mars,Mars,LOC,0.09379944,0.31949125,en,16.6,,6621751,T,-76.66667,161.95,POLAR,Antarctica,EAN,Storm
+25,Canada,Canada,GPE,0.23063219,0.62596282,en,16.1,4029456-0,6251999,A,60.10867,-113.64258,NORTH-AMERICA,Canada,NWN,Storm
+26,United States,United States,GPE,0.08901437,0.42712058,en,16.1,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
+27,UK,UK,GPE,0.0377442,0.55454823,en,15.6,4022153-2,2635167,A,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Storm
+29,New Jersey,New Jersey,GPE,0.0875563,0.45787365,en,15.4,4442932-0,5099836,P,40.72816,-74.07764,NORTH-AMERICA,United States,ENA,Storm
+28,Australia,Australia,GPE,0.02861395,0.54932746,en,15.4,4003900-6,2077456,A,-25.0,135.0,OCEANIA,Australia,CAU,Storm
+30,Cuba,Cuba,GPE,0.04890189,0.42093596,en,14.5,4033340-1,3562981,A,22.0,-79.5,CENTRAL-AMERICA,Cuba,CAR,Storm
+31,Alaska,Alaska,GPE,-0.12118782,0.54521755,en,14.4,4001016-8,5879092,A,64.00028,-150.00028,NORTH-AMERICA,United States,NWN,Storm
+32,Haiti,Haiti,GPE,-0.01667083,0.44572095,en,14.3,4022974-9,3723988,A,19.07582,-72.29616,CENTRAL-AMERICA,Haiti,CAR,Storm
+33,New York City,New York City,GPE,0.11280506,0.55594759,en,14.3,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Storm
+34,Los Angeles,Los Angeles,GPE,0.1196705,0.4016117,en,13.9,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Storm
+35,Washington,Washington,GPE,0.11838578,0.47645688,en,13.0,4064682-8,4140963,P,38.89511,-77.03637,NORTH-AMERICA,United States,ENA,Storm
+36,Ireland,Ireland,GPE,-0.29313333,0.63108571,en,12.5,4027667-3,2963597,A,53.0,-8.0,EUROPE,Ireland,NEU,Storm
+37,Manitoba,Manitoba,GPE,-0.00677227,0.1620753,en,12.1,4119124-9,6183235,P,49.8844,-97.14704,NORTH-AMERICA,Canada,CNA,Storm
+38,Massachusetts,Massachusetts,GPE,-0.00420519,0.40547423,en,11.8,4037858-5,6254926,A,42.36565,-71.10832,NORTH-AMERICA,United States,ENA,Storm
+39,Iowa,Iowa,GPE,0.18046969,0.76888286,en,11.4,4109226-0,4862182,A,42.00027,-93.50049,NORTH-AMERICA,United States,CNA,Storm
+40,Florida,Florida,GPE,0.06392142,0.73224303,en,11.2,4017585-6,12217087,L,26.5,-81.0,NORTH-AMERICA,United States,ENA,Storm
+41,Southeast Asia,Southeast Asia,LOC,0.05045872,0.35550459,en,10.9,,11497301,L,10.75053,106.7505,ASIA,Vietnam,SEA,Storm
+42,the Great Lakes,the Great Lakes,LOC,0.33854138,0.70962144,en,10.9,,12212304,L,44.57143,-84.69022,NORTH-AMERICA,United States,ENA,Storm
+43,Thailand,Thailand,GPE,0.25382263,0.56192661,en,10.9,4078228-1,1605651,A,15.5,101.0,ASIA,Thailand,SEA,Storm
+44,France,France,GPE,-0.02752294,0.24388379,en,10.9,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Storm
+45,Germany,Germany,GPE,0.05088141,0.21634615,en,10.4,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Storm
+46,America,America,GPE,0.18122977,0.56092233,en,10.3,10107251-X,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
+47,Taiwan,Taiwan,GPE,0.10592488,0.41815967,en,10.1,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Storm
+48,Sri Lanka,Sri Lanka,GPE,0.12833333,0.41,en,10.0,4009696-8,1227603,A,7.75,80.75,INDIAN,Sri Lanka,BOB,Storm
+49,Oklahoma,Oklahoma,GPE,0.14402778,0.33458333,en,10.0,4043423-0,4544349,P,35.46756,-97.51643,NORTH-AMERICA,United States,CNA,Storm
+50,the East Coast,the East Coast,LOC,0.14230177,0.4567096,en,10.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Storm
+51,Oregon,Oregon,GPE,0.20396904,0.84897892,en,9.2,4043760-7,5744337,A,44.00013,-120.50139,NORTH-AMERICA,United States,WNA,Storm
+52,Parana,Parana,GPE,0.08702409,0.37648463,en,9.1,,3455077,A,-24.5,-51.33333,SOUTH-AMERICA,Brazil,SES,Storm
+53,New England,New England,LOC,0.19454355,0.51341397,en,9.1,4075306-2,11919979,L,44.0,-71.0,NORTH-AMERICA,United States,ENA,Storm
+56,England,England,GPE,0.07456778,0.38456286,en,8.9,4014770-8,11919979,L,44.0,-71.0,NORTH-AMERICA,United States,ENA,Storm
+55,Israel,Israel,GPE,-0.10861423,0.37921348,en,8.9,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Storm
+54,Pacific,Pacific,LOC,0.07459872,0.49640182,en,8.9,,12217089,L,8.62,-170.11,PACIFIC,,NPO,Storm
+58,Rio Bonito,Rio Bonito,GPE,0.06744272,0.22099039,en,8.2,,6323588,A,-27.46968,-53.17038,SOUTH-AMERICA,Brazil,SES,Storm
+59,Wisconsin,Wisconsin,GPE,0.21690379,0.44769648,en,8.2,4119135-3,5279468,A,44.50024,-90.00041,NORTH-AMERICA,United States,CNA,Storm
+60,Indonesia,Indonesia,GPE,0.06300813,0.47764228,en,8.2,4026761-1,1643084,A,-5.0,120.0,ASIA,Indonesia,SEA,Storm
+57,Sweden,Sweden,GPE,0.26311899,0.70768662,en,8.2,4077258-5,2661886,A,62.0,15.0,EUROPE,Sweden,NEU,Storm
+61,Alberta,Alberta,GPE,0.04531963,0.25616438,en,7.3,4085533-8,5946768,P,53.55014,-113.46871,NORTH-AMERICA,Canada,NWN,Storm
+62,India,India,GPE,0.168379,0.61415525,en,7.3,4026722-2,1269750,A,22.0,79.0,ASIA,India,SAS,Storm
+63,NEW YORK,NEW YORK,GPE,0.07121212,0.60453508,en,7.3,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Storm
+65,Arctic,Arctic,LOC,0.03740219,0.28169014,en,7.1,4002924-4,2960860,H,85.0,0.0,ARCTIC,,ARO,Storm
+64,Greece,Greece,GPE,0.00538832,0.53279145,en,7.1,4022047-3,390903,A,39.0,22.0,EUROPE-AFRICA,Greece,MED,Storm
+66,New Zealand,New Zealand,GPE,0.13035671,0.41995803,en,6.9,4041915-0,2186224,A,-42.0,174.0,OCEANIA,New Zealand,NZ,Storm
+67,Pennsylvania,Pennsylvania,GPE,0.11594203,0.58373591,en,6.9,4045103-3,12217723,L,40.64575,-79.91382,NORTH-AMERICA,United States,ENA,Storm
+68,Typhoon Halong,Typhoon Halong,GPE,-0.03636364,0.19116162,en,6.6,,0,,,,,,,Storm
+69,B.C.,B.C.,GPE,0.00153846,0.29589744,en,6.5,,7315164,P,32.71904,-114.66005,CENTRAL-AMERICA,United States,NCA,Storm
+74,Rockies,Rockies,LOC,-0.08244978,0.6140718,en,6.4,4050243-0,8593704,A,59.00196,-123.75412,NORTH-AMERICA,Canada,NWN,Storm
+76,Lake Superior,Lake Superior,LOC,0.36848958,0.91710069,en,6.4,4075549-6,6048728,H,48.33222,-87.09861,NORTH-AMERICA,Canada,ENA,Storm
+75,Faroe Islands,Faroe Islands,GPE,-0.29166667,0.6171875,en,6.4,4016258-8,2622320,A,62.0,-7.0,EUROPE,Faroe Islands,NEU,Storm
+77,Milan,Milan,GPE,0.0718316,0.26068793,en,6.4,4037100-1,3173435,P,45.46427,9.18951,EUROPE,Italy,WCE,Storm
+73,Ontario,Ontario,GPE,0.07060448,0.41298138,en,6.4,4060459-7,6167865,P,43.70643,-79.39864,NORTH-AMERICA,Canada,ENA,Storm
+71,Bermuda,Bermuda,LOC,-0.07052083,0.30125,en,6.4,4005759-8,3573345,A,32.33022,-64.74003,ATLANTIC,Bermuda,NAO,Storm
+70,China,China,GPE,-0.02083333,0.2890625,en,6.4,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Storm
+72,Maine,Maine,GPE,0.10320391,0.47273122,en,6.4,4114929-4,4971068,A,45.50032,-69.24977,NORTH-AMERICA,United States,ENA,Storm
+78,Minnesota,Minnesota,GPE,0.16597222,0.43148148,en,6.0,4101012-7,5037779,A,46.25024,-94.25055,NORTH-AMERICA,United States,CNA,Storm
+79,Dubai,Dubai,GPE,-0.01331019,0.42824074,en,6.0,4204044-9,292223,P,25.07725,55.30927,ASIA,United Arab Emirates,ARP,Storm
+80,the Caribbean Sea,the Caribbean Sea,LOC,-0.02701271,0.48022599,en,5.9,4051667-2,3448439,P,-23.5475,-46.63611,SOUTH-AMERICA,Brazil,SES,Storm
+84,HOUSTON,HOUSTON,GPE,0.33535354,0.42525253,en,5.5,4095673-8,4699066,P,29.76328,-95.36327,NORTH-AMERICA,United States,CNA,Storm
+86,Attica,Attica,GPE,-0.02076299,0.37376443,en,5.5,,6692632,A,37.92037,23.9035,EUROPE-AFRICA,Greece,MED,Storm
+85,Northern California,Northern California,LOC,-0.08080808,0.44444444,en,5.5,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Storm
+87,Phoenix,Phoenix,GPE,-0.27272727,0.62727273,en,5.5,4119970-4,5308655,P,33.44838,-112.07404,CENTRAL-AMERICA,United States,NCA,Storm
+83,Mississippi,Mississippi,GPE,-0.1,0.34545455,en,5.5,4039588-1,4436296,A,32.75041,-89.75036,NORTH-AMERICA,United States,ENA,Storm
+82,Asia,Asia,LOC,0.09242424,0.51969697,en,5.5,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB,Storm
+81,BOSTON,BOSTON,GPE,0.35069854,0.53627509,en,5.5,4007840-1,4930956,P,42.35843,-71.05977,NORTH-AMERICA,United States,ENA,Storm
+88,Wales,Wales,GPE,0.24074074,0.40740741,en,5.4,4058708-3,2147714,P,-33.86785,151.20732,OCEANIA,Australia,EAU,Storm
+89,Philadelphia,Philadelphia,GPE,0.10062893,0.4245283,en,5.3,4103331-0,4560349,P,39.95238,-75.16362,NORTH-AMERICA,United States,ENA,Storm
+90,Plains,Plains,LOC,0.01693405,0.60383244,en,5.1,,12212750,L,42.58598,-100.51728,NORTH-AMERICA,United States,CNA,Storm
+91,NY,NY,GPE,0.01960784,0.46732026,en,5.1,,3042198,P,54.22209,-4.69099,EUROPE,Isle of Man,NEU,Storm
+92,the Atlantic Ocean,the Atlantic Ocean,LOC,0.15380952,0.36992063,en,5.0,,4504476,P,39.95373,-74.19792,NORTH-AMERICA,United States,ENA,Storm
+93,Venezuela,Venezuela,GPE,0.18367347,0.21598639,en,4.9,4062512-6,3625428,A,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Storm
+94,the Dominican Republic,the Dominican Republic,GPE,-0.05208333,0.36111111,en,4.8,,3651297,P,-0.25368,-79.17628,SOUTH-AMERICA,Ecuador,NWS,Storm
+101,Japan,Japan,GPE,-0.05797101,0.20108696,en,4.6,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS,Storm
+105,Sumatra,Sumatra,GPE,-0.05615942,0.72826087,en,4.6,4058586-4,1626198,T,0.0,102.0,ASIA,Indonesia,SEA,Storm
+104,San Luis Obispo County,San Luis Obispo County,GPE,0.06521739,0.20289855,en,4.6,4342348-6,5392323,P,35.28275,-120.65962,NORTH-AMERICA,United States,WNA,Storm
+103,East Coast,East Coast,LOC,-0.11141304,0.82246377,en,4.6,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Storm
+102,Palm Springs,Palm Springs,GPE,0.04594862,0.27816206,en,4.6,4140870-6,5380668,P,33.8303,-116.54529,NORTH-AMERICA,United States,WNA,Storm
+98,NYC,NYC,GPE,0.03449087,0.54578393,en,4.6,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Storm
+100,SLO County,SLO County,GPE,0.09486166,0.24011858,en,4.6,,2273878,H,5.96278,-9.66889,AFRICA,Liberia,WAF,Storm
+95,Patagonia,Patagonia,GPE,-0.10778986,0.50724638,en,4.6,,3841798,L,-44.0,-68.0,SOUTH-AMERICA,Argentina,SSA,Storm
+97,South,South,LOC,-0.04619565,0.25679348,en,4.6,,11887752,L,33.45876,-90.15081,NORTH-AMERICA,United States,CNA,Storm
+96,arctic,arctic,LOC,-0.27173913,0.64855072,en,4.6,,2960860,H,85.0,0.0,ARCTIC,,ARO,Storm
+99,Chile,Chile,GPE,-0.04981884,0.57971014,en,4.6,4009929-5,3895114,A,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Storm
+106,Western Alaska,Western Alaska,LOC,-0.11111111,0.13333333,en,4.5,,5555920,H,57.24794,-135.45027,NORTH-AMERICA,United States,NWN,Storm
+107,Georgia,Georgia,GPE,0.01704545,0.12878788,en,4.4,4022406-5,614540,A,41.99998,43.4999,ASIA,Georgia,WCA,Storm
+108,New Orleans,New Orleans,GPE,0.05621134,0.52450865,en,4.3,4042008-5,4335045,P,29.95465,-90.07507,NORTH-AMERICA,United States,CNA,Storm
+109,the National Oceanic,the National Oceanic,LOC,0.04960317,0.27579365,en,4.2,,4775488,S,38.97539,-77.48166,NORTH-AMERICA,United States,ENA,Storm
+110,Melbourne,Melbourne,GPE,0.08455087,0.41047379,en,4.2,4038526-7,2158177,P,-37.814,144.96332,OCEANIA,Australia,SAU,Storm
+112,Waterford,Waterford,GPE,0.00526316,0.10175439,en,3.8,4471434-8,2960992,P,52.25833,-7.11194,EUROPE,Ireland,NEU,Storm
+111,Wexford,Wexford,GPE,0.00526316,0.10175439,en,3.8,4405190-6,2960964,P,52.33417,-6.4575,EUROPE,Ireland,NEU,Storm
+122,Hawaii,Hawaii,GPE,0.06756757,0.06756757,en,3.7,251184-8,5855797,A,20.78785,-156.38612,PACIFIC,United States,NPO,Storm
+130,Nova Scotia,Nova Scotia,GPE,0.03316953,0.55200655,en,3.7,4089126-4,6324729,P,44.64269,-63.57688,NORTH-AMERICA,Canada,ENA,Storm
+129,Hispaniola,Hispaniola,GPE,-0.09149775,0.36936937,en,3.7,4094983-7,3504558,T,19.0,-71.0,CENTRAL-AMERICA,Dominican Republic,CAR,Storm
+128,Puerto Rico,Puerto Rico,GPE,-0.14414414,0.40540541,en,3.7,4076429-1,4566967,T,18.2494,-66.50101,CENTRAL-AMERICA,Puerto Rico,CAR,Storm
+127,Sandstorm,Sandstorm,GPE,-0.21621622,0.32432432,en,3.7,,5511798,S,37.71938,-117.14341,NORTH-AMERICA,United States,WNA,Storm
+126,SAN JUAN,SAN JUAN,GPE,-0.14414414,0.40540541,en,3.7,4105287-0,4568127,P,18.46633,-66.10572,CENTRAL-AMERICA,Puerto Rico,CAR,Storm
+125,Louisville,Louisville,GPE,0.129914,0.25788288,en,3.7,4138296-1,4299276,P,38.25424,-85.75941,NORTH-AMERICA,United States,ENA,Storm
+124,St. Louis,St. Louis,GPE,0.09213759,0.33640459,en,3.7,4118223-6,4407066,P,38.62727,-90.19789,NORTH-AMERICA,United States,CNA,Storm
+123,Kansas,Kansas,GPE,0.23648649,0.29279279,en,3.7,4114131-3,4273857,A,38.50029,-98.50063,NORTH-AMERICA,United States,CNA,Storm
+113,Montana,Montana,GPE,0.3203317,0.62678133,en,3.7,4262460-5,729114,P,43.41285,23.22174,EUROPE-AFRICA,Bulgaria,MED,Storm
+121,the Gaza Strip,the Gaza Strip,GPE,-0.07747748,0.43558559,en,3.7,,6269611,S,31.77614,35.23549,EUROPE-AFRICA,Palestinian Territory,MED,Storm
+120,U.S,U.S,GPE,0.18918919,0.95720721,en,3.7,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
+119,New Hampshire,New Hampshire,GPE,0.04402129,0.33817909,en,3.7,4442653-7,5084868,P,43.20814,-71.53757,NORTH-AMERICA,United States,ENA,Storm
+118,West,West,LOC,0.0487988,0.6478979,en,3.7,,11887751,L,42.77268,-116.9579,NORTH-AMERICA,United States,WNA,Storm
+117,Illinois,Illinois,GPE,0.02702703,0.37837838,en,3.7,4109206-5,4896861,A,40.00032,-89.25037,NORTH-AMERICA,United States,ENA,Storm
+116,Detroit,Detroit,GPE,0.0,0.29279279,en,3.7,4011559-8,4990729,P,42.33143,-83.04575,NORTH-AMERICA,United States,ENA,Storm
+115,Saskatchewan,Saskatchewan,GPE,0.11531532,0.33873874,en,3.7,4280218-0,6119109,P,50.45008,-104.6178,NORTH-AMERICA,Canada,NEN,Storm
+114,San Diego,San Diego,GPE,-0.08108108,0.21621622,en,3.7,4269521-1,5391811,P,32.71571,-117.16472,CENTRAL-AMERICA,United States,NCA,Storm
+131,Utah,Utah,GPE,0.18444444,0.56190476,en,3.5,4062214-9,5549030,A,39.25024,-111.75103,NORTH-AMERICA,United States,WNA,Storm
+132,Miami,Miami,GPE,-0.02573529,0.33823529,en,3.4,4039108-5,4164138,P,25.77427,-80.19366,NORTH-AMERICA,United States,ENA,Storm
+133,Scotland,Scotland,GPE,0.11447811,0.26936027,en,3.3,4053233-1,5057190,A,40.4526,-92.14705,NORTH-AMERICA,United States,CNA,Storm
+154,Harris County,Harris County,GPE,0.26190476,0.88095238,en,2.8,,4717782,P,29.69106,-95.2091,NORTH-AMERICA,United States,CNA,Storm
+152,Des Moines,Des Moines,GPE,-0.03571429,0.5,en,2.8,4294593-8,4853828,P,41.60054,-93.60911,NORTH-AMERICA,United States,CNA,Storm
+157,Central,Central,LOC,0.06154337,0.47502126,en,2.8,,12217848,L,50.28762,15.1903,EUROPE,Czechia,WCE,Storm
+162,Emirates,Emirates,GPE,-0.17881944,0.47197421,en,2.8,4062742-1,290557,A,23.75,54.5,ASIA,United Arab Emirates,ARP,Storm
+158,Brisbane,Brisbane,GPE,0.035579,0.4360119,en,2.8,4212528-5,2174003,P,-27.46794,153.02809,OCEANIA,Australia,EAU,Storm
+159,Birmingham,Birmingham,GPE,0.11607143,0.23214286,en,2.8,4006934-5,2655603,P,52.48142,-1.89983,EUROPE,United Kingdom,NEU,Storm
+160,Boston,Boston,GPE,-0.07142857,0.23809524,en,2.8,4007840-1,4930956,P,42.35843,-71.05977,NORTH-AMERICA,United States,ENA,Storm
+161,Sydney,Sydney,GPE,0.16513605,0.55458668,en,2.8,4058708-3,2147714,P,-33.86785,151.20732,OCEANIA,Australia,EAU,Storm
+168,Mount Everest,Mount Everest,LOC,-0.3125,0.71428571,en,2.8,4040417-1,1283416,T,27.98791,86.92529,ASIA,China,TIB,Storm
+163,Pakistan,Pakistan,GPE,0.17857143,0.42460317,en,2.8,4075812-6,1168579,A,30.0,70.0,ASIA,Pakistan,WCA,Storm
+164,Finland,Finland,GPE,0.0,0.0,en,2.8,4017243-0,660013,A,64.0,26.0,EUROPE,Finland,NEU,Storm
+165,Maritimes,Maritimes,GPE,0.08492063,0.55873016,en,2.8,4075416-9,2990440,P,43.70313,7.26608,EUROPE-AFRICA,France,MED,Storm
+166,the West Coast,the West Coast,LOC,0.08571429,0.70892857,en,2.8,,12492673,L,39.28,-155.26,PACIFIC,United States,NPO,Storm
+167,Ukraine,Ukraine,GPE,0.1421131,0.96949405,en,2.8,4061496-7,690791,A,49.0,32.0,EUROPE,Ukraine,WCE,Storm
+169,Oahu,Oahu,GPE,0.0,0.0,en,2.8,4434640-2,4034107,T,-17.73333,-149.53333,PACIFIC,French Polynesia,SPO,Storm
+170,Central Florida,Central Florida,LOC,-0.01785714,0.53571429,en,2.8,,12217913,L,28.58944,-81.88916,NORTH-AMERICA,United States,ENA,Storm
+171,N.Y.,N.Y.,GPE,0.32251082,0.5254329,en,2.8,4044569-0,2088628,A,-6.0,147.0,ASIA,Papua New Guinea,SEA,Storm
+153,Indiana,Indiana,GPE,0.13203463,0.60281385,en,2.8,4109219-3,12213684,L,38.30308,-85.68222,NORTH-AMERICA,United States,ENA,Storm
+156,North Carolina,North Carolina,GPE,-0.05925325,0.44237013,en,2.8,4042551-4,4563243,P,18.38078,-65.95739,CENTRAL-AMERICA,Puerto Rico,CAR,Storm
+151,Madrid,Madrid,GPE,0.34802296,0.49904337,en,2.8,4036862-2,3117735,P,40.4165,-3.70256,EUROPE-AFRICA,Spain,MED,Storm
+141,Nigeria,Nigeria,GPE,-0.11904762,0.1547619,en,2.8,4042300-1,2328926,A,10.0,8.0,AFRICA,Nigeria,WAF,Storm
+150,PORTLAND,PORTLAND,GPE,0.13938492,0.46825397,en,2.8,4226095-4,5746545,P,45.52345,-122.67621,NORTH-AMERICA,United States,WNA,Storm
+134,Paris,Paris,GPE,-0.0952381,0.3452381,en,2.8,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Storm
+135,Minneapolis,Minneapolis,GPE,-0.25,0.25,en,2.8,4039497-9,5037649,P,44.97997,-93.26384,NORTH-AMERICA,United States,CNA,Storm
+136,Taman,Taman,GPE,0.0625,0.09821429,en,2.8,7575825-8,1734660,L,4.767,102.44381,ASIA,Malaysia,SEA,Storm
+137,Newfoundland,Newfoundland,GPE,0.26595238,0.57095238,en,2.8,7672559-5,6354959,A,52.0,-56.0,NORTH-AMERICA,Canada,NEN,Storm
+138,the Fraser Valley,the Fraser Valley,LOC,-0.30952381,0.48809524,en,2.8,,6164463,T,49.51639,-121.61926,NORTH-AMERICA,Canada,WNA,Storm
+139,Rochester,Rochester,GPE,0.14448052,0.68993506,en,2.8,4358771-9,5007400,P,42.68059,-83.13382,NORTH-AMERICA,United States,ENA,Storm
+140,aurora borealis,aurora borealis,LOC,0.58630952,0.7202381,en,2.8,,8125128,S,58.59278,-134.86278,NORTH-AMERICA,United States,NWN,Storm
+155,Lancaster County,Lancaster County,GPE,0.05357143,0.39285714,en,2.8,4224165-0,5197079,P,40.03788,-76.30551,NORTH-AMERICA,United States,ENA,Storm
+142,Qatar,Qatar,GPE,0.0,0.44642857,en,2.8,4029924-7,289688,A,25.5,51.25,ASIA,Qatar,ARP,Storm
+144,Chivirico,Chivirico,GPE,0.11904762,0.4702381,en,2.8,,3564252,P,19.97507,-76.40987,CENTRAL-AMERICA,Cuba,CAR,Storm
+145,San Diego County,San Diego County,GPE,-0.0682398,0.29570578,en,2.8,4269521-1,5391811,P,32.71571,-117.16472,CENTRAL-AMERICA,United States,NCA,Storm
+146,Kimberley,Kimberley,GPE,0.03928571,0.19285714,en,2.8,4097902-7,990930,P,-28.73226,24.76232,AFRICA,South Africa,WSAF,Storm
+147,the Coachella Valley,the Coachella Valley,LOC,0.20535714,0.27678571,en,2.8,,12217074,L,33.5765,-116.0859,CENTRAL-AMERICA,United States,NCA,Storm
+148,Berlin,Berlin,GPE,0.13257576,0.3030303,en,2.8,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Storm
+149,Syria,Syria,GPE,0.0,0.05952381,en,2.8,4058794-0,163843,A,35.0,38.0,EUROPE-AFRICA,Syria,MED,Storm
+143,the aurora borealis,the aurora borealis,LOC,0.15652056,0.47362013,en,2.8,,8125128,S,58.59278,-134.86278,NORTH-AMERICA,United States,NWN,Storm
+176,Atlanta,Atlanta,GPE,0.03125,0.17307692,en,2.6,4086063-2,4180439,P,33.749,-84.38798,NORTH-AMERICA,United States,ENA,Storm
+178,British Columbia,British Columbia,GPE,0.03846154,0.34230769,en,2.6,4119364-7,6173331,P,49.24966,-123.11934,NORTH-AMERICA,Canada,WNA,Storm
+177,WASHINGTON,WASHINGTON,GPE,0.10926573,0.13986014,en,2.6,4064682-8,4140963,P,38.89511,-77.03637,NORTH-AMERICA,United States,ENA,Storm
+173,Netherlands,Netherlands,GPE,-0.03846154,0.2275641,en,2.6,4042203-3,2750405,A,52.25,5.75,EUROPE,The Netherlands,NEU,Storm
+175,Ohio,Ohio,GPE,0.1078158,0.52471417,en,2.6,4043387-0,5165418,A,40.25034,-83.00018,NORTH-AMERICA,United States,ENA,Storm
+174,North America,North America,LOC,0.26767677,0.43142968,en,2.6,,6255149,L,46.07323,-100.54688,NORTH-AMERICA,United States,CNA,Storm
+172,Italy,Italy,GPE,0.00694444,0.51028312,en,2.6,4027833-5,3175395,A,42.83333,12.83333,EUROPE-AFRICA,Italy,MED,Storm
+179,Typhoon Fung-wong,Typhoon Fung-wong,GPE,0.08190476,0.37714286,en,2.5,,0,,,,,,,Storm
+183,Colorado,Colorado,GPE,0.02840909,0.6155303,en,2.4,4010406-0,5417618,A,39.00027,-105.50083,NORTH-AMERICA,United States,WNA,Storm
+185,the Northern Lights,the Northern Lights,LOC,0.08333333,1.25,en,2.4,,4981383,L,43.56064,-70.20588,NORTH-AMERICA,United States,ENA,Storm
+184,Western Europe,Western Europe,LOC,-0.16666667,0.40277778,en,2.4,,9408659,L,50.21909,7.42676,EUROPE,Germany,WCE,Storm
+181,Cornwall,Cornwall,GPE,-0.11458333,0.29166667,en,2.4,4010579-9,3490851,L,18.25,-77.9,CENTRAL-AMERICA,Jamaica,CAR,Storm
+182,Coast,Coast,LOC,0.06944444,0.06944444,en,2.4,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Storm
+180,Tonga,Tonga,GPE,0.07575758,0.26641414,en,2.4,4060396-9,4032283,A,-20.0,-175.0,PACIFIC,Tonga,SPO,Storm
+258,Boise,Boise,GPE,0.15789474,0.52631579,en,1.9,4268673-8,5586437,P,43.6135,-116.20345,NORTH-AMERICA,United States,WNA,Storm
+270,Estonia,Estonia,GPE,0.18660287,0.62200957,en,1.9,4015587-0,453733,A,59.0,26.0,EUROPE,Estonia,NEU,Storm
+269,Tallinn,Tallinn,GPE,0.22966507,0.76555024,en,1.9,5093293-7,588409,P,59.43696,24.75353,EUROPE,Estonia,NEU,Storm
+268,HELSINKI,HELSINKI,GPE,0.0,0.0,en,1.9,4024351-5,658225,P,60.16952,24.93545,EUROPE,Finland,NEU,Storm
+267,Baltic Sea,Baltic Sea,LOC,0.22966507,0.76555024,en,1.9,4044107-6,2633321,H,56.0,18.0,EUROPE,,NEU,Storm
+266,VANCOUVER,VANCOUVER,GPE,-0.45614035,0.42105263,en,1.9,4119364-7,6173331,P,49.24966,-123.11934,NORTH-AMERICA,Canada,WNA,Storm
+265,Abbotsford,Abbotsford,GPE,-0.75438596,0.73684211,en,1.9,,5243517,P,44.94636,-90.31597,NORTH-AMERICA,United States,CNA,Storm
+264,Airdrie,Airdrie,GPE,-0.07894737,0.05263158,en,1.9,,5882799,P,51.30011,-114.03528,NORTH-AMERICA,Canada,NWN,Storm
+263,Calgary,Calgary,GPE,-0.07894737,0.05263158,en,1.9,4085122-9,5913490,P,51.05011,-114.08529,NORTH-AMERICA,Canada,NWN,Storm
+262,Erie County,Erie County,GPE,0.05263158,0.19298246,en,1.9,4695406-5,5188843,P,42.12922,-80.08506,NORTH-AMERICA,United States,ENA,Storm
+261,the North Sea,the North Sea,LOC,0.06578947,0.28070175,en,1.9,4433188-5,5334320,P,36.55524,-121.92329,NORTH-AMERICA,United States,WNA,Storm
+260,Phobos,Phobos,LOC,0.26315789,0.28070175,en,1.9,,6623241,T,-71.86889,-68.47073,POLAR,Antarctica,WAN,Storm
+259,Alice Springs,Alice Springs,GPE,-0.08187135,0.15204678,en,1.9,4206728-5,2077895,P,-23.69748,133.88362,OCEANIA,Australia,CAU,Storm
+248,Gaza Strip,Gaza Strip,GPE,0.0,0.0,en,1.9,4019325-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Storm
+257,Paraná,Paraná,GPE,0.08187135,0.43274854,en,1.9,,3455077,A,-24.5,-51.33333,SOUTH-AMERICA,Brazil,SES,Storm
+256,Liverpool,Liverpool,GPE,0.0,0.42105263,en,1.9,4036068-4,2644210,P,53.41058,-2.97794,EUROPE,United Kingdom,NEU,Storm
+255,Barcelona,Barcelona,GPE,-0.10526316,0.10526316,en,1.9,4004503-1,3128760,P,41.38879,2.15899,EUROPE-AFRICA,Spain,MED,Storm
+254,Aurora province,Aurora province,GPE,0.30701754,0.61403509,en,1.9,,3555392,L,22.98333,-82.26667,CENTRAL-AMERICA,Cuba,CAR,Storm
+253,Samoa,Samoa,GPE,0.22488038,0.29784689,en,1.9,4079249-3,4034894,A,-13.8,-172.13333,PACIFIC,Samoa,SPO,Storm
+252,Quebec,Quebec,GPE,0.02912679,0.32822967,en,1.9,4103473-9,6325494,P,46.81228,-71.21454,NORTH-AMERICA,Canada,ENA,Storm
+251,Mission Hills,Mission Hills,LOC,0.01674641,0.45055821,en,1.9,,4275614,P,39.01778,-94.6169,NORTH-AMERICA,United States,CNA,Storm
+250,Marin County,Marin County,GPE,0.1108453,0.20574163,en,1.9,4280590-9,5392567,P,37.97353,-122.53109,NORTH-AMERICA,United States,WNA,Storm
+249,Bay Area,Bay Area,LOC,0.1108453,0.20574163,en,1.9,,2562541,P,35.95064,14.41561,EUROPE-AFRICA,Malta,MED,Storm
+272,Western Australia's,Western Australia's,LOC,0.05789474,0.28421053,en,1.9,,11523932,L,-20.04148,123.72189,OCEANIA,Australia,CAU,Storm
+247,the Polar Vortex,the Polar Vortex,LOC,0.0871345,0.42105263,en,1.9,,0,,,,,,,Storm
+246,Topeka,Topeka,GPE,0.13157895,0.1754386,en,1.9,4411436-9,4280539,P,39.04833,-95.67804,NORTH-AMERICA,United States,CNA,Storm
+271,Northern Lights,Northern Lights,LOC,0.48245614,0.87719298,en,1.9,,6084210,A,57.46822,-118.00252,NORTH-AMERICA,Canada,NWN,Storm
+283,Calif.,Calif.,GPE,0.17473684,0.59368421,en,1.9,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Storm
+273,Sask,Sask,GPE,0.00877193,0.28070175,en,1.9,4280218-0,6119109,P,50.45008,-104.6178,NORTH-AMERICA,Canada,NEN,Storm
+288,LOS ANGELES,LOS ANGELES,GPE,0.07017544,0.40350877,en,1.9,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Storm
+300,Macedonia,Macedonia,GPE,-0.03070175,0.11695906,en,1.9,4114937-3,718075,A,41.66667,21.75,EUROPE-AFRICA,North Macedonia,MED,Storm
+299,Mauna Loa,Mauna Loa,LOC,-0.10526316,0.26315789,en,1.9,4100675-6,5850299,T,19.47217,-155.59221,PACIFIC,United States,NPO,Storm
+298,the Northern Hemisphere,the Northern Hemisphere,LOC,0.24548113,0.52764487,en,1.9,,0,,,,,,,Storm
+297,the Federal Territories of Kuala Lumpur,the Federal Territories of Kuala Lumpur,GPE,-0.06578947,0.53947368,en,1.9,,0,,,,,,,Storm
+296,London,London,GPE,0.25263158,0.53684211,en,1.9,4074335-4,2643743,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Storm
+295,Western North Carolina,Western North Carolina,LOC,-0.35087719,0.43859649,en,1.9,,4452672,S,35.19509,-83.86518,NORTH-AMERICA,United States,ENA,Storm
+294,BUFFALO,BUFFALO,GPE,0.22328549,0.47527911,en,1.9,4080569-4,5110629,P,42.88645,-78.87837,NORTH-AMERICA,United States,ENA,Storm
+293,Crete,Crete,GPE,-0.03070175,0.11695906,en,1.9,4073791-3,258764,L,35.16667,25.0,EUROPE-AFRICA,Greece,MED,Storm
+292,Caracas,Caracas,GPE,-0.05263158,0.42105263,en,1.9,4009457-1,3646738,P,10.48801,-66.87919,SOUTH-AMERICA,Venezuela,NSA,Storm
+291,the United Kingdom,the United Kingdom,GPE,-0.13157895,0.36842105,en,1.9,4022153-2,2635167,A,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Storm
+290,Gaza City,Gaza City,GPE,-0.08187135,0.41520468,en,1.9,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Storm
+289,Alaska Native,Alaska Native,LOC,0.0,0.03508772,en,1.9,,7276557,L,65.1452,-165.06798,NORTH-AMERICA,United States,NWN,Storm
+287,NZ,NZ,GPE,0.0,0.0,en,1.9,,12217089,L,8.62,-170.11,PACIFIC,,NPO,Storm
+274,Lemmon,Lemmon,GPE,0.34210526,0.36842105,en,1.9,,5766453,P,45.94083,-102.15932,NORTH-AMERICA,United States,CNA,Storm
+286,Portugal,Portugal,GPE,-0.03289474,0.26315789,en,1.9,4046843-4,2264397,A,39.6945,-8.13057,EUROPE-AFRICA,Portugal,MED,Storm
+285,San Bernardino,San Bernardino,GPE,0.0,0.0,en,1.9,4215729-8,5391710,P,34.10834,-117.28977,NORTH-AMERICA,United States,WNA,Storm
+284,Twickenham,Twickenham,GPE,-0.02091086,0.1655148,en,1.9,4128199-8,8168214,T,-25.08333,143.96666,OCEANIA,Australia,CAU,Storm
+244,the Central Coast,the Central Coast,LOC,0.03508772,0.32894737,en,1.9,,12217722,L,35.26068,-120.16654,NORTH-AMERICA,United States,WNA,Storm
+282,Binghamton,Binghamton,GPE,0.16447368,0.31798246,en,1.9,4279526-6,5109177,P,42.09869,-75.91797,NORTH-AMERICA,United States,ENA,Storm
+281,Mauna Kea,Mauna Kea,LOC,-0.10526316,0.26315789,en,1.9,4115045-4,5850911,T,19.82361,-155.47083,PACIFIC,United States,NPO,Storm
+280,the San Francisco Bay Area,the San Francisco Bay Area,LOC,0.02631579,0.42105263,en,1.9,4051520-5,5391959,P,37.77493,-122.41942,NORTH-AMERICA,United States,WNA,Storm
+279,Tanishqprastha,Tanishqprastha,GPE,0.6754386,0.94736842,en,1.9,,0,,,,,,,Storm
+278,KALSOY ISLAND,KALSOY ISLAND,GPE,-0.21052632,0.57894737,en,1.9,,2619161,T,62.31326,-6.76003,EUROPE,Faroe Islands,NEU,Storm
+277,the east coast,the east coast,LOC,-0.31578947,0.47368421,en,1.9,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Storm
+276,Alabama,Alabama,GPE,0.07811195,0.65998329,en,1.9,4084839-5,12217076,L,34.60739,-86.97977,NORTH-AMERICA,United States,ENA,Storm
+275,Storm Byron,Storm Byron,GPE,-0.09064327,0.40204678,en,1.9,,0,,,,,,,Storm
+245,Knoxville,Knoxville,GPE,-0.0545809,0.18908382,en,1.9,4110326-9,4634946,P,35.96064,-83.92074,NORTH-AMERICA,United States,ENA,Storm
+237,North Texas,North Texas,LOC,0.38596491,0.9122807,en,1.9,,12217092,L,28.9204,-98.5772,CENTRAL-AMERICA,United States,NCA,Storm
+243,Hawaii Island,Hawaii Island,LOC,-0.63157895,0.94736842,en,1.9,,5855799,T,19.54814,-155.66494,PACIFIC,United States,NPO,Storm
+199,northern Manitoba,northern Manitoba,LOC,-0.01973684,0.47368421,en,1.9,4119124-9,6183235,P,49.8844,-97.14704,NORTH-AMERICA,Canada,CNA,Storm
+211,the Cascade Mountains,the Cascade Mountains,LOC,0.0,0.0,en,1.9,,5789316,T,46.85289,-121.76037,NORTH-AMERICA,United States,WNA,Storm
+210,Long Island,Long Island,GPE,0.02906699,0.43987241,en,1.9,,3572005,A,23.21667,-75.11167,CENTRAL-AMERICA,Bahamas,CAR,Storm
+242,New Yorks,New Yorks,GPE,0.21232057,0.55861244,en,1.9,,4983664,L,43.1837,-70.61116,NORTH-AMERICA,United States,ENA,Storm
+208,Latvia,Latvia,GPE,0.42105263,0.21052632,en,1.9,4074187-4,458258,A,57.0,25.0,EUROPE,Latvia,WCE,Storm
+207,Maricopa County,Maricopa County,GPE,-0.42105263,0.73684211,en,1.9,4106832-4,5313457,P,33.50921,-111.89903,CENTRAL-AMERICA,United States,NCA,Storm
+206,Spain,Spain,GPE,0.24634503,0.43512427,en,1.9,4055964-6,2510769,A,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Storm
+205,La Liga,La Liga,GPE,0.10526316,0.15789474,en,1.9,,11200512,T,-28.58575,-70.8384,SOUTH-AMERICA,Chile,SWS,Storm
+204,Chenango,Chenango,GPE,0.08240298,0.19670388,en,1.9,,5112398,A,42.49351,-75.61158,NORTH-AMERICA,United States,ENA,Storm
+203,Appalachian,Appalachian,GPE,0.0,0.0,en,1.9,,5178401,T,40.00037,-78.0,NORTH-AMERICA,United States,ENA,Storm
+202,Malaysia,Malaysia,GPE,0.27192982,0.45175439,en,1.9,4037203-0,1733045,A,2.5,112.5,ASIA,Malaysia,SEA,Storm
+201,the Atlantic basin,the Atlantic basin,LOC,0.0,0.0,en,1.9,,5128639,P,43.04673,-77.09525,NORTH-AMERICA,United States,ENA,Storm
+200,Los Angeles County,Los Angeles County,GPE,0.14181287,0.36476608,en,1.9,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Storm
+198,Americas,Americas,LOC,0.23245614,0.47222222,en,1.9,,3496393,L,21.0,-86.0,CENTRAL-AMERICA,,SCA,Storm
+213,Harris,Harris,GPE,0.0,0.0,en,1.9,4750398-1,4717782,P,29.69106,-95.2091,NORTH-AMERICA,United States,CNA,Storm
+197,West Michigan,West Michigan,GPE,0.28899522,0.61244019,en,1.9,,7259621,P,42.56891,-83.38356,NORTH-AMERICA,United States,ENA,Storm
+196,the Upper Midwest,the Upper Midwest,LOC,0.25986842,0.49342105,en,1.9,,12212748,L,43.61327,-88.28917,NORTH-AMERICA,United States,ENA,Storm
+195,Lumut,Lumut,GPE,0.18421053,0.28947368,en,1.9,4528889-6,1735450,P,4.2323,100.6298,ASIA,Malaysia,SEA,Storm
+194,Delaware,Delaware,GPE,0.08240298,0.19670388,en,1.9,4085407-3,4142224,A,39.00039,-75.49992,NORTH-AMERICA,United States,ENA,Storm
+193,The United States,The United States,GPE,-0.10315789,0.29263158,en,1.9,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
+192,Dakotas,Dakotas,GPE,0.30845295,0.42408293,en,1.9,,9675315,S,46.8419,-100.90697,NORTH-AMERICA,United States,CNA,Storm
+191,the Ohio Valley,the Ohio Valley,LOC,0.36842105,0.55701754,en,1.9,,5151630,L,41.26085,-81.57116,NORTH-AMERICA,United States,ENA,Storm
+190,Ottawa,Ottawa,GPE,0.28899522,0.61244019,en,1.9,4122012-2,6094817,P,45.41117,-75.69812,NORTH-AMERICA,Canada,ENA,Storm
+189,Western Sydney,Western Sydney,LOC,-0.04385965,0.04385965,en,1.9,,12547696,S,-33.8862,150.69948,OCEANIA,Australia,EAU,Storm
+188,Muskegon,Muskegon,GPE,0.28899522,0.61244019,en,1.9,4449482-8,5003132,P,43.23418,-86.24839,NORTH-AMERICA,United States,ENA,Storm
+187,Southwest California,Southwest California,LOC,-0.07017544,0.5754386,en,1.9,,5397932,L,38.41241,-122.73304,NORTH-AMERICA,United States,WNA,Storm
+186,New Brunswick,New Brunswick,GPE,0.15311005,0.70334928,en,1.9,4323664-9,5957776,P,45.94541,-66.66558,NORTH-AMERICA,Canada,ENA,Storm
+212,Vancouver Island,Vancouver Island,GPE,0.10526316,0.35087719,en,1.9,10356200-X,8630140,L,49.75152,-126.48958,NORTH-AMERICA,Canada,WNA,Storm
+209,West Bengal,West Bengal,LOC,0.07894737,0.89473684,en,1.9,4029344-0,1275004,P,22.56263,88.36304,ASIA,India,SAS,Storm
+214,Montgomery,Montgomery,GPE,0.0,0.0,en,1.9,4040179-0,4076784,P,32.36681,-86.29997,NORTH-AMERICA,United States,ENA,Storm
+228,Hurricane Sandy,Hurricane Sandy,LOC,0.0994152,0.44093567,en,1.9,,4201829,T,34.16149,-84.74466,NORTH-AMERICA,United States,ENA,Storm
+241,Lapland,Lapland,GPE,0.0,0.0,en,1.9,,830603,A,67.75,26.5,EUROPE,Finland,NEU,Storm
+240,Purcell,Purcell,GPE,0.29605263,0.69078947,en,1.9,,4404843,P,37.24228,-94.43523,NORTH-AMERICA,United States,CNA,Storm
+239,the white sandy beaches,the white sandy beaches,LOC,0.13277512,0.34389952,en,1.9,,0,,,,,,,Storm
+238,Andhra Pradesh,Andhra Pradesh,GPE,-0.18421053,0.5,en,1.9,4001934-2,1278629,A,15.83333,79.75,ASIA,India,SAS,Storm
+236,Arkansas,Arkansas,GPE,0.38596491,0.9122807,en,1.9,4079828-8,12217090,L,35.0,-90.5,NORTH-AMERICA,United States,CNA,Storm
+235,Prince George,Prince George,GPE,0.0,0.05263158,en,1.9,4529627-3,4349159,P,38.94278,-76.73028,NORTH-AMERICA,United States,ENA,Storm
+234,Arizona,Arizona,GPE,0.0,0.0,en,1.9,4002920-7,5551752,A,34.5003,-111.50098,NORTH-AMERICA,United States,WNA,Storm
+233,Louisiana,Louisiana,GPE,-0.26315789,0.63157895,en,1.9,4036394-6,4331987,A,31.00047,-92.0004,NORTH-AMERICA,United States,CNA,Storm
+215,valley,valley,LOC,0.56860902,0.53571429,en,1.9,,3573374,P,18.21704,-63.05783,CENTRAL-AMERICA,Anguilla,CAR,Storm
+231,Traverse City,Traverse City,GPE,0.00877193,0.24122807,en,1.9,4272638-4,5012495,P,44.76306,-85.62063,NORTH-AMERICA,United States,ENA,Storm
+230,Idaho,Idaho,GPE,-0.03790157,0.25586694,en,1.9,4026462-2,5596512,A,44.5002,-114.25118,NORTH-AMERICA,United States,WNA,Storm
+229,Indore,Indore,GPE,0.26315789,0.31578947,en,1.9,4368406-3,1269743,P,22.71792,75.8333,ASIA,India,SAS,Storm
+232,Lower Michigan,Lower Michigan,GPE,0.00877193,0.24122807,en,1.9,4509037-3,4985180,P,43.59447,-83.88886,NORTH-AMERICA,United States,ENA,Storm
+227,Atlantic City,Atlantic City,GPE,0.0994152,0.44093567,en,1.9,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Storm
+220,the Pacific Ocean,the Pacific Ocean,LOC,-0.02631579,0.21052632,en,1.9,,7670505,H,7.113,171.254,PACIFIC,Marshall Islands,EPO,Storm
+226,midwest,midwest,LOC,0.41374269,0.72076023,en,1.9,,12212748,L,43.61327,-88.28917,NORTH-AMERICA,United States,ENA,Storm
+217,Evansville,Evansville,GPE,0.0,1.05263158,en,1.9,4424136-7,4257227,P,37.97476,-87.55585,NORTH-AMERICA,United States,ENA,Storm
+218,the Pacific Northwest,the Pacific Northwest,LOC,0.01644737,0.13157895,en,1.9,,9881905,L,45.99696,-118.49854,NORTH-AMERICA,United States,WNA,Storm
+219,Tamil Nadu,Tamil Nadu,GPE,-0.18421053,0.5,en,1.9,5351481-6,1264527,P,13.08784,80.27847,ASIA,India,SAS,Storm
+216,Norway,Norway,GPE,0.4981203,0.72180451,en,1.9,4042640-3,3144096,A,62.0,10.0,EUROPE,Norway,NEU,Storm
+221,Vaughan,Vaughan,GPE,-0.0625,0.56578947,en,1.9,,6173577,P,43.8361,-79.49827,NORTH-AMERICA,Canada,ENA,Storm
+222,Peninsular,Peninsular,LOC,0.0130117,0.5130117,en,1.9,,1745185,L,4.0,102.0,ASIA,Malaysia,SEA,Storm
+223,the Lower Peninsula,the Lower Peninsula,LOC,-0.12280702,0.35964912,en,1.9,,5868006,H,59.99351,-154.48788,NORTH-AMERICA,United States,NWN,Storm
+224,the Melaka Straits,the Melaka Straits,LOC,0.18421053,0.28947368,en,1.9,,0,,,,,,,Storm
+225,Hamburg,Hamburg,GPE,0.0,0.0,en,1.9,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Storm
+322,Broncos,Broncos,GPE,0.36987522,0.95588235,en,1.7,,8853785,T,-42.46,146.97,OCEANIA,Australia,SAU,Storm
+321,South Africa,South Africa,GPE,0.44117647,0.66176471,en,1.7,4078012-0,953987,A,-29.0,24.0,AFRICA,South Africa,WSAF,Storm
+320,Mexico,Mexico,GPE,-0.1372549,0.39215686,en,1.7,4039058-5,3996063,A,23.0,-102.0,CENTRAL-AMERICA,Mexico,NCA,Storm
+319,le chiacchiere,le chiacchiere,GPE,0.0,0.58823529,en,1.7,,0,,,,,,,Storm
+318,auroras,auroras,GPE,0.05882353,1.17647059,en,1.7,,9181904,T,24.46629,-103.43819,CENTRAL-AMERICA,Mexico,NCA,Storm
+317,Cape Town,Cape Town,GPE,0.44117647,0.66176471,en,1.7,4029615-5,3369157,P,-33.92584,18.42322,AFRICA,South Africa,WSAF,Storm
+316,Caribbean Sea,Caribbean Sea,LOC,0.02941176,0.33823529,en,1.7,4051667-2,3448439,P,-23.5475,-46.63611,SOUTH-AMERICA,Brazil,SES,Storm
+315,Kingston,Kingston,GPE,-0.32352941,0.54411765,en,1.7,4198339-7,3489854,P,17.99702,-76.79358,CENTRAL-AMERICA,Jamaica,CAR,Storm
+314,Truro,Truro,GPE,0.0,0.0,en,1.7,4370103-6,1820989,U,16.31667,116.68333,ASIA,,SEA,Storm
+312,EVANSVILLE,EVANSVILLE,GPE,0.0,0.0,en,1.7,4424136-7,4257227,P,37.97476,-87.55585,NORTH-AMERICA,United States,ENA,Storm
+313,the Strait of Gibraltar,the Strait of Gibraltar,LOC,0.0,0.47058824,en,1.7,,0,,,,,,,Storm
+311,Ind.,Ind.,GPE,0.0,0.0,en,1.7,,13060601,A,25.14438,55.23202,ASIA,United Arab Emirates,ARP,Storm
+305,Diablo IV,Diablo IV,GPE,-0.10499109,0.32976827,en,1.7,,6632077,T,-63.7992,-57.28892,POLAR,Antarctica,WAN,Storm
+310,The Quad City Storm,The Quad City Storm,LOC,0.0,0.0,en,1.7,,0,,,,,,,Storm
+302,LONDON,LONDON,GPE,0.0,0.0,en,1.7,4074335-4,2643743,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Storm
+303,Norfolk,Norfolk,GPE,0.0,0.0,en,1.7,4294928-2,2155115,A,-29.03333,167.95,PACIFIC,Norfolk Island,SPO,Storm
+304,Hemsby,Hemsby,GPE,0.0,0.0,en,1.7,,2647123,P,52.69714,1.69181,EUROPE,United Kingdom,NEU,Storm
+301,TAIPEI,TAIPEI,GPE,0.12885154,0.49579832,en,1.7,4078134-3,1668341,P,25.05306,121.52639,ASIA,Taiwan,EAS,Storm
+306,Isles,Isles,LOC,-0.16176471,0.41176471,en,1.7,,4978544,T,42.98063,-70.61774,NORTH-AMERICA,United States,ENA,Storm
+307,Syracuse,Syracuse,GPE,-0.14705882,0.70588235,en,1.7,4205703-6,5140405,P,43.04812,-76.14742,NORTH-AMERICA,United States,ENA,Storm
+308,Saudi Arabia,Saudi Arabia,GPE,0.135918,0.18672014,en,1.7,4051788-3,102358,A,25.0,45.0,ASIA,Saudi Arabia,ARP,Storm
+309,New Mexico,New Mexico,GPE,0.04010695,0.86898396,en,1.7,4217452-1,5454711,P,35.08449,-106.65114,NORTH-AMERICA,United States,WNA,Storm
+323,CUBA,CUBA,GPE,0.2244898,0.55612245,en,1.4,4033340-1,3562981,A,22.0,-79.5,CENTRAL-AMERICA,Cuba,CAR,Storm
+324,Azeroth,Azeroth,GPE,0.54545455,0.90909091,en,1.1,,0,,,,,,,Storm
+522,Aurora,Aurora,LOC,0.5,0.5,en,1.0,,5146233,P,41.31755,-81.34539,NORTH-AMERICA,United States,ENA,Storm
+529,New South Wales,New South Wales,GPE,0.05909091,0.2969697,en,1.0,4058708-3,2147714,P,-33.86785,151.20732,OCEANIA,Australia,EAU,Storm
+528,Strait,Strait,LOC,0.0,0.0,en,1.0,,6640370,H,62.0,-70.0,NORTH-AMERICA,,NEN,Storm
+527,sunzzs,sunzzs,GPE,0.0,0.0,en,1.0,,0,,,,,,,Storm
+526,South Dakota,South Dakota,GPE,0.6,0.9,en,1.0,4442891-1,5231851,P,43.54369,-96.72796,NORTH-AMERICA,United States,CNA,Storm
+525,North Dakota,North Dakota,GPE,0.6,0.9,en,1.0,4218173-2,5688025,P,46.80833,-100.78374,NORTH-AMERICA,United States,CNA,Storm
+524,Western Greece,Western Greece,LOC,-0.0152381,0.42619048,en,1.0,4115867-2,255683,P,38.24444,21.73444,EUROPE-AFRICA,Greece,MED,Storm
+523,CHICAGO,CHICAGO,GPE,0.75,0.95,en,1.0,4009921-0,4887398,P,41.85003,-87.65005,NORTH-AMERICA,United States,ENA,Storm
+517,Central US,Central US,LOC,-0.03333333,0.55,en,1.0,,12110879,L,42.74936,-96.39971,NORTH-AMERICA,United States,CNA,Storm
+521,the Harris County,the Harris County,GPE,0.11481481,0.27962963,en,1.0,,4717782,P,29.69106,-95.2091,NORTH-AMERICA,United States,CNA,Storm
+520,Metro Detroit,Metro Detroit,GPE,-0.0075,0.3,en,1.0,4011559-8,4990729,P,42.33143,-83.04575,NORTH-AMERICA,United States,ENA,Storm
+519,the Upper Peninsula,the Upper Peninsula,LOC,-0.0075,0.3,en,1.0,,12217946,T,46.67299,-89.17453,NORTH-AMERICA,United States,ENA,Storm
+518,CYPRESS,CYPRESS,GPE,-0.1,0.35,en,1.0,,5341256,P,33.81696,-118.03729,NORTH-AMERICA,United States,WNA,Storm
+531,Skinker,Skinker,GPE,0.0,0.0,en,1.0,,7206440,P,38.6521,-90.294,NORTH-AMERICA,United States,CNA,Storm
+516,Townhome,Townhome,GPE,-0.3,0.4,en,1.0,,12129660,P,13.83144,100.46663,ASIA,Thailand,SEA,Storm
+515,west Wales,west Wales,GPE,0.35,0.45,en,1.0,,5877563,P,65.60721,-168.08869,ASIA,United States,RAR,Storm
+530,the Great Lakes region,the Great Lakes region,LOC,0.23333333,0.75,en,1.0,,12212304,L,44.57143,-84.69022,NORTH-AMERICA,United States,ENA,Storm
+538,CHAMPAIGN,CHAMPAIGN,GPE,0.0,0.0,en,1.0,,4887158,P,40.11642,-88.24338,NORTH-AMERICA,United States,ENA,Storm
+532,Black Friday,Black Friday,GPE,0.20833333,0.60833333,en,1.0,,5902653,H,59.58583,-129.97222,NORTH-AMERICA,Canada,NWN,Storm
+533,Delta Connection,Delta Connection,LOC,-0.03333333,0.56666667,en,1.0,,10297869,S,43.30206,5.38535,EUROPE-AFRICA,France,MED,Storm
+548,NORTH CAROLINA,NORTH CAROLINA,GPE,-0.0625,0.1875,en,1.0,,4563243,P,18.38078,-65.95739,CENTRAL-AMERICA,Puerto Rico,CAR,Storm
+547,the Central U.S.,the Central U.S.,LOC,-0.015,0.4,en,1.0,,7729892,L,25.32417,-99.66797,CENTRAL-AMERICA,Mexico,NCA,Storm
+546,the Central U.s,the Central U.s,LOC,-0.015,0.4,en,1.0,,7729892,L,25.32417,-99.66797,CENTRAL-AMERICA,Mexico,NCA,Storm
+545,the East Coastparticularly New Jersey,the East Coastparticularly New Jersey,LOC,0.03905724,0.3993266,en,1.0,,0,,,,,,,Storm
+544,Ann Arbor,Ann Arbor,GPE,-0.16666667,0.16666667,en,1.0,4079792-2,4984247,P,42.27756,-83.74088,NORTH-AMERICA,United States,ENA,Storm
+543,Chicagos,Chicagos,GPE,-0.00059524,0.7,en,1.0,,5845306,T,57.87361,-135.77639,NORTH-AMERICA,United States,NWN,Storm
+542,sprea,sprea,GPE,0.0,0.25,en,1.0,,3065504,H,52.53622,13.20883,EUROPE,Germany,WCE,Storm
+541,Tylertown,Tylertown,GPE,0.0,0.0,en,1.0,,4449106,P,31.11601,-90.14203,NORTH-AMERICA,United States,CNA,Storm
+540,mountain ridge,mountain ridge,LOC,0.0,0.0,en,1.0,,7626421,T,-0.53062,166.91679,PACIFIC,Nauru,EPO,Storm
+539,Illini,Illini,GPE,0.1,0.2,en,1.0,,4896789,L,41.3217,-88.71591,NORTH-AMERICA,United States,ENA,Storm
+513,the NSW Central West,the NSW Central West,LOC,-0.13111111,0.32777778,en,1.0,,5038922,P,45.06635,-96.43978,NORTH-AMERICA,United States,CNA,Storm
+537,Ill.,Ill.,GPE,0.0,0.0,en,1.0,,3012855,H,48.70112,7.93062,EUROPE,France,WCE,Storm
+536,Sunda,Sunda,GPE,0.17884199,0.35844156,en,1.0,,1626052,T,-2.0,110.0,ASIA,Indonesia,SEA,Storm
+535,Blackpool,Blackpool,GPE,0.0,0.0,en,1.0,4292786-9,2655459,P,53.81667,-3.05,EUROPE,United Kingdom,NEU,Storm
+534,Wydown,Wydown,GPE,0.0,0.0,en,1.0,,7206449,P,38.6395,-90.3036,NORTH-AMERICA,United States,CNA,Storm
+514,Rainy South,Rainy South,GPE,0.15972222,0.36666667,en,1.0,,4548829,T,34.997,-98.84951,NORTH-AMERICA,United States,CNA,Storm
+506,HANOI,HANOI,GPE,0.23333333,0.5,en,1.0,4094713-0,1581130,P,21.0245,105.84117,ASIA,Vietnam,EAS,Storm
+512,KUALA LUMPUR,KUALA LUMPUR,GPE,0.11666667,0.61666667,en,1.0,4110404-3,1735161,P,3.1412,101.68653,ASIA,Malaysia,SEA,Storm
+493,Indio,Indio,GPE,0.13636364,0.45454545,en,1.0,,6269134,T,22.20775,76.97021,ASIA,India,SAS,Storm
+491,Brooklyn,Brooklyn,GPE,0.06818182,0.22727273,en,1.0,4224069-4,5110302,P,40.6501,-73.94958,NORTH-AMERICA,United States,ENA,Storm
+490,Mich.,Mich.,GPE,0.27454545,0.58181818,en,1.0,,124021,P,28.82082,58.29648,ASIA,Iran,WCA,Storm
+489,Las Vegas',Las Vegas',GPE,0.0,1.0,en,1.0,4034659-6,5506956,P,36.17497,-115.13722,NORTH-AMERICA,United States,WNA,Storm
+488,Ventura,Ventura,GPE,-0.06666667,0.54666667,en,1.0,4218469-1,5405878,P,34.27834,-119.29317,NORTH-AMERICA,United States,WNA,Storm
+487,Antarctica,Antarctica,LOC,-0.25,0.5,en,1.0,4002208-0,6255152,L,-78.15856,16.40626,POLAR,,EAN,Storm
+486,mid-Atlantic,mid-Atlantic,LOC,0.25,0.33333333,en,1.0,,12110846,L,40.58629,-76.28807,NORTH-AMERICA,United States,ENA,Storm
+485,West Antarctica,West Antarctica,LOC,-0.25,0.5,en,1.0,,6627952,L,-80.0,-90.0,POLAR,Antarctica,WAN,Storm
+484,The Thwaites glacier,The Thwaites glacier,LOC,-0.25,0.5,en,1.0,,0,,,,,,,Storm
+483,Russia,Russia,GPE,-0.36666667,1.36666667,en,1.0,4076899-5,2017370,A,60.0,100.0,ASIA,Russia,ESB,Storm
+482,Thwaites,Thwaites,LOC,-0.2,0.0,en,1.0,,6626717,H,-75.5,-106.75,POLAR,Antarctica,WAN,Storm
+481,Snow Forecast Worsens,Snow Forecast Worsens,LOC,0.0,0.0,en,1.0,,0,,,,,,,Storm
+480,Southwest,Southwest,LOC,-0.04285714,0.41428571,en,1.0,,12503510,A,-0.87125,131.28162,ASIA,Indonesia,SEA,Storm
+479,the United States of America,the United States of America,GPE,-0.2,0.5,en,1.0,,11887752,L,33.45876,-90.15081,NORTH-AMERICA,United States,CNA,Storm
+478,Kansas City,Kansas City,GPE,0.06818182,0.22727273,en,1.0,4109999-0,4393217,P,39.09973,-94.57857,NORTH-AMERICA,United States,CNA,Storm
+477,Missouri,Missouri,GPE,-0.1625,0.4375,en,1.0,4039591-1,4398678,A,38.25031,-92.50046,NORTH-AMERICA,United States,CNA,Storm
+492,Tunisia,Tunisia,GPE,0.0,0.0,en,1.0,4061206-5,2464461,A,34.0,9.0,EUROPE-AFRICA,Tunisia,MED,Storm
+494,SAN DIEGO,SAN DIEGO,GPE,-0.02857143,0.39047619,en,1.0,4269521-1,5391811,P,32.71571,-117.16472,CENTRAL-AMERICA,United States,NCA,Storm
+511,Los… Skip,Los… Skip,GPE,0.0,0.0,en,1.0,,0,,,,,,,Storm
+495,NC,NC,GPE,-0.1,0.2,en,1.0,,6255151,L,-18.31281,138.51562,OCEANIA,Australia,NAU,Storm
+510,GRAND RAPIDS,GRAND RAPIDS,GPE,0.27454545,0.58181818,en,1.0,4274722-3,4994358,P,42.96336,-85.66809,NORTH-AMERICA,United States,ENA,Storm
+509,Appalachia,Appalachia,LOC,0.0125,0.26458333,en,1.0,,12212302,L,37.94632,-80.21925,NORTH-AMERICA,United States,ENA,Storm
+508,the Northeastern U.S.,the Northeastern U.S.,LOC,0.25,0.33333333,en,1.0,,12217906,L,41.30225,-76.02801,NORTH-AMERICA,United States,ENA,Storm
+507,Albufeira Camping Park,Albufeira Camping Park,GPE,0.0,0.0,en,1.0,,0,,,,,,,Storm
+550,Tzoumerka,Tzoumerka,GPE,0.109375,0.45729167,en,1.0,4761899-1,264382,T,39.44766,21.15341,EUROPE-AFRICA,Greece,MED,Storm
+505,Miss.,Miss.,GPE,-0.4,0.53333333,en,1.0,,6033428,H,47.2084,-78.67758,NORTH-AMERICA,Canada,ENA,Storm
+504,Los Angeles',Los Angeles',GPE,0.0,0.0,en,1.0,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Storm
+503,Californias,Californias,GPE,0.05909091,0.18863636,en,1.0,,8936186,P,18.00528,-96.15917,CENTRAL-AMERICA,Mexico,SCA,Storm
+502,Northern,Northern,LOC,0.5,0.9,en,1.0,,7729890,L,54.77535,-105.64453,NORTH-AMERICA,Canada,NWN,Storm
+501,Pasadena,Pasadena,GPE,0.03333333,0.3,en,1.0,4205363-8,5381396,P,34.14778,-118.14452,NORTH-AMERICA,United States,WNA,Storm
+500,the Red Planet's,the Red Planet's,LOC,0.03333333,0.3,en,1.0,,0,,,,,,,Storm
+499,Martian dust,Martian dust,LOC,0.03333333,0.3,en,1.0,,0,,,,,,,Storm
+498,the Red Planet',the Red Planet',LOC,0.03333333,0.3,en,1.0,,0,,,,,,,Storm
+497,Viet Nam,Viet Nam,GPE,0.25,0.375,en,1.0,4063514-4,1562822,A,16.16667,107.83333,ASIA,Vietnam,SEA,Storm
+496,Abu Dhabi,Abu Dhabi,GPE,-0.15555556,0.28888889,en,1.0,4000287-1,292968,P,24.45118,54.39696,ASIA,United Arab Emirates,ARP,Storm
+549,Camp Osborn,Camp Osborn,GPE,0.02222222,0.53333333,en,1.0,,4439964,P,33.52151,-88.72227,NORTH-AMERICA,United States,ENA,Storm
+556,South Island,South Island,LOC,0.01111111,0.31111111,en,1.0,,2182504,T,-43.0,171.0,OCEANIA,New Zealand,NZ,Storm
+551,the Gulf States,the Gulf States,LOC,-0.08888889,0.60555556,en,1.0,,12218088,L,26.35058,50.16805,ASIA,Saudi Arabia,ARP,Storm
+607,St. Louis',St. Louis',GPE,0.5,1.1,en,1.0,4118223-6,4407066,P,38.62727,-90.19789,NORTH-AMERICA,United States,CNA,Storm
+605,Holyhead,Holyhead,GPE,0.125,0.325,en,1.0,4748140-7,2646686,P,53.30621,-4.63211,EUROPE,United Kingdom,NEU,Storm
+604,Nebraska,Nebraska,GPE,0.13333333,0.60833333,en,1.0,4117792-7,5073708,A,41.50028,-99.75067,NORTH-AMERICA,United States,CNA,Storm
+603,Cyprus,Cyprus,GPE,-0.2,0.5,en,1.0,4241756-9,146669,A,35.0,33.0,EUROPE-AFRICA,Cyprus,MED,Storm
+602,NEW YORK Space,NEW YORK Space,GPE,0.20075758,0.3469697,en,1.0,,7156152,L,40.82222,-73.86,NORTH-AMERICA,United States,ENA,Storm
+601,California Desert,California Desert,GPE,-0.4,0.4,en,1.0,4433227-0,5380626,P,33.72255,-116.37697,CENTRAL-AMERICA,United States,NCA,Storm
+600,triboelectric,triboelectric,GPE,0.075,0.59166667,en,1.0,,0,,,,,,,Storm
+599,Northern US,Northern US,LOC,0.9,1.0,en,1.0,,7729890,L,54.77535,-105.64453,NORTH-AMERICA,Canada,NWN,Storm
+598,Taipei,Taipei,GPE,0.24444444,0.57777778,en,1.0,4078134-3,1668341,P,25.05306,121.52639,ASIA,Taiwan,EAS,Storm
+597,Kilauea,Kilauea,GPE,0.25,0.25,en,1.0,4241215-8,5849346,P,22.21208,-159.41342,PACIFIC,United States,NPO,Storm
+596,Perth,Perth,GPE,0.31238095,0.41142857,en,1.0,4232458-0,2063523,P,-31.95224,115.8614,OCEANIA,Australia,SAU,Storm
+595,Pa.,Pa.,GPE,0.0,0.0,en,1.0,,3496393,L,21.0,-86.0,CENTRAL-AMERICA,,SCA,Storm
+594,Iceland,Iceland,GPE,0.3,0.9,en,1.0,4027754-9,2629691,A,65.0,-18.0,POLAR,Iceland,GIC,Storm
+593,The National Oceanic,The National Oceanic,LOC,0.0,0.0,en,1.0,,4775488,S,38.97539,-77.48166,NORTH-AMERICA,United States,ENA,Storm
+592,the Northern Plains,the Northern Plains,LOC,-0.15,0.95,en,1.0,,12212750,L,42.58598,-100.51728,NORTH-AMERICA,United States,CNA,Storm
+591,aurora activity,aurora activity,GPE,0.0,0.06666667,en,1.0,,0,,,,,,,Storm
+606,Abington,Abington,GPE,0.1,0.4,en,1.0,,4928662,P,42.10482,-70.94532,NORTH-AMERICA,United States,ENA,Storm
+608,Ottowa,Ottowa,GPE,0.0,0.0,en,1.0,,7223505,H,44.96396,-84.63578,NORTH-AMERICA,United States,ENA,Storm
+589,Atletico Ottawa,Atletico Ottawa,GPE,0.45,0.39166667,en,1.0,,0,,,,,,,Storm
+609,the Nooksack River,the Nooksack River,LOC,0.0,0.56666667,en,1.0,,5804868,H,48.77483,-122.59906,NORTH-AMERICA,United States,WNA,Storm
+624,Fraser Valley,Fraser Valley,LOC,0.02,0.12,en,1.0,4671933-7,5881791,P,49.05798,-122.25257,NORTH-AMERICA,Canada,WNA,Storm
+623,turkey,turkey,GPE,-0.11666667,0.8,en,1.0,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED,Storm
+622,Atmospheric river,Atmospheric river,LOC,0.0,0.0,en,1.0,,0,,,,,,,Storm
+621,Strip,Strip,LOC,-0.2,0.5,en,1.0,,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Storm
+620,Tuguegarao City,Tuguegarao City,GPE,0.0,0.0,en,1.0,,1680932,P,17.61577,121.72285,ASIA,Philippines,SEA,Storm
+619,Interstate 95,Interstate 95,LOC,0.09333333,0.46666667,en,1.0,,7267097,L,34.61434,-79.04046,NORTH-AMERICA,United States,ENA,Storm
+618,the Irish Sea,the Irish Sea,LOC,0.0,0.0,en,1.0,,5765864,H,45.2272,-101.56626,NORTH-AMERICA,United States,CNA,Storm
+617,Manchester,Manchester,GPE,-0.155,0.405,en,1.0,4114959-2,5089178,P,42.99564,-71.45479,NORTH-AMERICA,United States,ENA,Storm
+616,Dublin,Dublin,GPE,-0.155,0.405,en,1.0,4013170-1,2964574,P,53.33306,-6.24889,EUROPE,Ireland,NEU,Storm
+615,Cagayan,Cagayan,GPE,0.0,0.0,en,1.0,4085111-4,1680932,P,17.61577,121.72285,ASIA,Philippines,SEA,Storm
+614,Atmospheric River,Atmospheric River,LOC,0.0,0.0,en,1.0,,0,,,,,,,Storm
+613,Moscow,Moscow,GPE,0.8,0.9,en,1.0,4074987-3,524901,P,55.75222,37.61556,EUROPE,Russia,WCE,Storm
+612,Brussels,Brussels,GPE,0.0,0.0,en,1.0,4008460-7,2800866,P,50.85045,4.34878,EUROPE,Belgium,WCE,Storm
+611,West coast,West coast,LOC,0.6,0.6,en,1.0,,12492673,L,39.28,-155.26,PACIFIC,United States,NPO,Storm
+610,NW Indiana,NW Indiana,GPE,0.0625,0.5,en,1.0,,6512071,S,39.9091,-86.2662,NORTH-AMERICA,United States,ENA,Storm
+590,South Lanarkshire,South Lanarkshire,GPE,0.1,0.4,en,1.0,1053948271,3333236,A,55.58333,-3.83333,EUROPE,United Kingdom,NEU,Storm
+588,Kolkata,Kolkata,GPE,-0.15111111,0.43777778,en,1.0,4029344-0,1275004,P,22.56263,88.36304,ASIA,India,SAS,Storm
+552,Blizzard Beach,Blizzard Beach,GPE,0.0,0.0,en,1.0,,11128333,L,28.35192,-81.57501,NORTH-AMERICA,United States,ENA,Storm
+569,Winter's,Winter's,GPE,-0.13333333,0.6,en,1.0,,4178559,S,28.06063,-81.75339,NORTH-AMERICA,United States,ENA,Storm
+567,Greater Cincinnati,Greater Cincinnati,GPE,0.375,0.5,en,1.0,,9856034,S,39.0286,-84.61562,NORTH-AMERICA,United States,ENA,Storm
+566,Northern Kentucky,Northern Kentucky,LOC,0.375,0.5,en,1.0,4097823-0,6254925,A,38.20042,-84.87762,NORTH-AMERICA,United States,ENA,Storm
+565,Luzon island,Luzon island,LOC,0.3,1.0,en,1.0,,1704846,T,16.0,121.0,ASIA,Philippines,SEA,Storm
+564,the Northern peninsula,the Northern peninsula,LOC,0.09333333,0.28166667,en,1.0,,5867113,A,57.00056,-158.00056,NORTH-AMERICA,United States,NWN,Storm
+563,the Bay of Exploits and Gander region,the Bay of Exploits and Gander region,LOC,0.24716667,0.51283333,en,1.0,,0,,,,,,,Storm
+562,Western Sydney S,Western Sydney S,LOC,-0.07777778,0.14444444,en,1.0,,12547696,S,-33.8862,150.69948,OCEANIA,Australia,EAU,Storm
+561,the Isle of Thunder,the Isle of Thunder,GPE,0.12727273,0.19090909,en,1.0,,0,,,,,,,Storm
+560,Martian Storms,Martian Storms,LOC,0.8,0.9,en,1.0,,0,,,,,,,Storm
+559,Pacific Northwest,Pacific Northwest,LOC,0.15,0.5,en,1.0,,11961321,L,59.89723,30.32512,EUROPE,Russia,NEU,Storm
+558,the Pacific Northw,the Pacific Northw,LOC,0.01666667,0.45833333,en,1.0,,9845311,S,28.03471,-82.65496,NORTH-AMERICA,United States,ENA,Storm
+557,the North Island,the North Island,LOC,-0.12777778,0.34444444,en,1.0,4229389-3,4796512,P,17.72751,-64.74698,CENTRAL-AMERICA,U.S. Virgin Islands,CAR,Storm
+475,Kentucky,Kentucky,GPE,0.16818182,0.35,en,1.0,4097823-0,6254925,A,38.20042,-84.87762,NORTH-AMERICA,United States,ENA,Storm
+555,Ironforge,Ironforge,GPE,0.0,0.0,en,1.0,,0,,,,,,,Storm
+554,Qld,Qld,GPE,-0.2,0.5,en,1.0,4266006-3,2165087,P,-28.00029,153.43088,OCEANIA,Australia,EAU,Storm
+553,Tokyo,Tokyo,GPE,0.025,0.25,en,1.0,4078337-6,1850147,P,35.6895,139.69171,ASIA,Japan,EAS,Storm
+568,megastore,megastore,GPE,0.12029478,0.29297052,en,1.0,,10280567,S,12.51488,-70.01151,CENTRAL-AMERICA,Aruba,CAR,Storm
+570,Gibraltar,Gibraltar,GPE,0.0,0.0,en,1.0,4020965-9,2411585,P,36.14474,-5.35257,EUROPE-AFRICA,Gibraltar,MED,Storm
+587,USA,USA,GPE,0.0,0.0,en,1.0,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Storm
+571,Brazils,Brazils,GPE,0.15,0.375,en,1.0,,12217728,L,-7.75193,-63.03794,SOUTH-AMERICA,Brazil,NSA,Storm
+586,Prairies,Prairies,LOC,0.4,0.9,en,1.0,,12830704,L,55.53163,-106.48639,NORTH-AMERICA,Canada,NWN,Storm
+585,Northwest,Northwest,LOC,0.05,0.75,en,1.0,,11961321,L,59.89723,30.32512,EUROPE,Russia,NEU,Storm
+584,Puget,Puget,GPE,0.4,0.4,en,1.0,,12217094,L,47.833,-122.435,NORTH-AMERICA,United States,WNA,Storm
+583,Puget Sound,Puget Sound,GPE,0.0,0.0,en,1.0,4217703-0,12217094,L,47.833,-122.435,NORTH-AMERICA,United States,WNA,Storm
+582,Seattle,Seattle,GPE,0.0,0.0,en,1.0,,5809844,P,47.60621,-122.33207,NORTH-AMERICA,United States,WNA,Storm
+581,Snohomish,Snohomish,GPE,0.0,0.0,en,1.0,,5810988,P,47.91288,-122.09818,NORTH-AMERICA,United States,WNA,Storm
+580,King,King,GPE,0.0,0.0,en,1.0,7824665-9,3426414,P,-54.28298,-36.49398,SOUTHERN,Iran,SOO,Storm
+579,Whatcom,Whatcom,GPE,0.0,0.0,en,1.0,4112705-5,5786899,P,48.75955,-122.48822,NORTH-AMERICA,United States,WNA,Storm
+578,Skagit,Skagit,GPE,0.0,0.0,en,1.0,4465372-4,5804127,P,48.42122,-122.33405,NORTH-AMERICA,United States,WNA,Storm
+577,south Brazil,south Brazil,GPE,-0.2,0.0,en,1.0,4008003-1,3469034,A,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Storm
+576,SAO PAULO,SAO PAULO,GPE,0.20833333,0.66666667,en,1.0,4051667-2,3448439,P,-23.5475,-46.63611,SOUTH-AMERICA,Brazil,SES,Storm
+575,PITTSBURGH,PITTSBURGH,GPE,0.05,0.15,en,1.0,4115567-1,5206379,P,40.44062,-79.99589,NORTH-AMERICA,United States,ENA,Storm
+574,Pittsburgh,Pittsburgh,GPE,-0.1,0.2,en,1.0,4115567-1,5206379,P,40.44062,-79.99589,NORTH-AMERICA,United States,ENA,Storm
+573,Pune,Pune,GPE,0.09166667,0.35833333,en,1.0,16035299-X,1259229,P,18.51957,73.85535,ASIA,India,SAS,Storm
+572,Maharashtra,Maharashtra,GPE,0.09166667,0.35833333,en,1.0,4037057-4,8659036,L,19.28911,76.95374,ASIA,India,SAS,Storm
+476,Eastern Mediterranean,Eastern Mediterranean,LOC,-0.00625,0.54375,en,1.0,,10922505,L,39.42657,41.23464,ASIA,Turkey,WCA,Storm
+469,Groks,Groks,GPE,-0.03125,0.21875,en,1.0,,0,,,,,,,Storm
+474,South West,South West,GPE,-0.13333333,0.16666667,en,1.0,,12110881,L,32.83468,-95.56338,NORTH-AMERICA,United States,CNA,Storm
+379,Western Alaskas,Western Alaskas,LOC,0.05,0.175,en,1.0,,0,,,,,,,Storm
+377,Montego Bay,Montego Bay,LOC,-1.0,1.0,en,1.0,4366583-4,3489460,P,18.47116,-77.91883,CENTRAL-AMERICA,Jamaica,CAR,Storm
+376,2nd Alberta,2nd Alberta,LOC,-0.05,0.2,en,1.0,,0,,,,,,,Storm
+375,Typhoon Kalmaegi,Typhoon Kalmaegi,LOC,0.0,0.0,en,1.0,,0,,,,,,,Storm
+374,Tel Aviv,Tel Aviv,GPE,0.0,0.625,en,1.0,4119545-0,293397,P,32.08088,34.78057,EUROPE-AFRICA,Israel,MED,Storm
+373,Santa Teresa,Santa Teresa,GPE,0.0,0.0,en,1.0,4760278-8,3167359,P,41.23859,9.18873,EUROPE-AFRICA,Italy,MED,Storm
+372,Sharjah,Sharjah,GPE,0.18125,0.7,en,1.0,4497280-5,292672,P,25.33737,55.41206,ASIA,United Arab Emirates,ARP,Storm
+371,Pali Hill,Pali Hill,LOC,-0.1,0.35,en,1.0,,1088498,T,-14.04333,39.57806,AFRICA,Mozambique,ESAF,Storm
+370,KINGSTON,KINGSTON,GPE,-0.06666667,0.43333333,en,1.0,4198339-7,3489854,P,17.99702,-76.79358,CENTRAL-AMERICA,Jamaica,CAR,Storm
+369,"Northeast
+","Northeast
+",LOC,0.0,1.0,en,1.0,,11887749,L,42.80019,-74.11805,NORTH-AMERICA,United States,ENA,Storm
+368,Eastern Seaboard,Eastern Seaboard,LOC,0.09939394,0.51992424,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Storm
+367,Mandeville,Mandeville,GPE,0.5,0.5,en,1.0,221873-2,3489577,P,18.04168,-77.50714,CENTRAL-AMERICA,Jamaica,CAR,Storm
+366,Sudan,Sudan,GPE,0.06666667,0.66666667,en,1.0,4058378-8,366755,A,16.0,30.0,AFRICA,Sudan,SAH,Storm
+365,Bronx,Bronx,GPE,0.15,0.7,en,1.0,,5110266,P,40.84985,-73.86641,NORTH-AMERICA,United States,ENA,Storm
+364,Trumpishness,Trumpishness,GPE,-0.15,0.28125,en,1.0,,0,,,,,,,Storm
+363,Redding,Redding,GPE,0.0875,0.19166667,en,1.0,,5570160,P,40.58654,-122.39168,NORTH-AMERICA,United States,WNA,Storm
+378,Magic Mountain,Magic Mountain,LOC,0.09166667,0.49166667,en,1.0,,5599951,S,43.2824,-114.39532,NORTH-AMERICA,United States,WNA,Storm
+380,Mount Etna,Mount Etna,LOC,0.13166667,0.41,en,1.0,,2524810,T,37.75029,14.99466,EUROPE-AFRICA,Italy,MED,Storm
+361,Broome,Broome,GPE,0.15656566,0.37373737,en,1.0,4279526-6,5109177,P,42.09869,-75.91797,NORTH-AMERICA,United States,ENA,Storm
+381,Kazakhstan,Kazakhstan,GPE,0.0,1.0,en,1.0,1009150-6,1522867,A,48.0,68.0,ASIA,Kazakhstan,WSB,Storm
+396,Martian moon,Martian moon,LOC,0.0,0.03333333,en,1.0,,0,,,,,,,Storm
+395,the North East,the North East,LOC,0.13636364,0.45454545,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Storm
+394,San Bernardino County,San Bernardino County,GPE,0.0,0.0,en,1.0,4215729-8,5391710,P,34.10834,-117.28977,NORTH-AMERICA,United States,WNA,Storm
+393,ALASKA,ALASKA,GPE,0.125,0.16666667,en,1.0,4001016-8,5879092,A,64.00028,-150.00028,NORTH-AMERICA,United States,NWN,Storm
+392,Russi,Russi,GPE,0.06666667,0.30833333,en,1.0,4076899-5,2017370,A,60.0,100.0,ASIA,Russia,ESB,Storm
+391,Islamabad,Islamabad,GPE,0.0,0.18888889,en,1.0,4245023-8,1176615,P,33.72148,73.04329,ASIA,Pakistan,WCA,Storm
+390,New York City Airports,New York City Airports,GPE,0.13636364,0.45454545,en,1.0,,5122732,S,40.63983,-73.77874,NORTH-AMERICA,United States,ENA,Storm
+389,New Hope,New Hope,GPE,0.19393939,0.71757576,en,1.0,,5039094,P,45.03802,-93.38662,NORTH-AMERICA,United States,CNA,Storm
+388,Eastern Pennsylvania,Eastern Pennsylvania,LOC,-0.15454545,0.45151515,en,1.0,,12217940,L,40.93299,-76.03777,NORTH-AMERICA,United States,ENA,Storm
+387,NJ,NJ,GPE,-0.1,0.4,en,1.0,,12213808,L,40.77331,-73.87989,NORTH-AMERICA,United States,ENA,Storm
+386,Etna,Etna,GPE,0.13166667,0.41,en,1.0,4084764-0,2524810,T,37.75029,14.99466,EUROPE-AFRICA,Italy,MED,Storm
+385,Sicily,Sicily,GPE,0.13166667,0.41,en,1.0,4055193-3,2523118,T,37.62304,13.93457,EUROPE-AFRICA,Italy,MED,Storm
+384,Delta,Delta,LOC,0.0,0.0,en,1.0,,11497250,L,21.03498,105.8455,ASIA,Vietnam,EAS,Storm
+383,Erie,Erie,GPE,0.16818182,0.32727273,en,1.0,4695406-5,5188843,P,42.12922,-80.08506,NORTH-AMERICA,United States,ENA,Storm
+382,Black River,Black River,LOC,-0.16666667,0.43333333,en,1.0,,934718,A,-20.33333,57.41667,INDIAN,Mauritius,SIO,Storm
+362,Brixton,Brixton,GPE,0.5,0.5,en,1.0,,11495349,A,18.02039,-77.31744,CENTRAL-AMERICA,Jamaica,CAR,Storm
+360,atmospheric river,atmospheric river,LOC,0.025,0.375,en,1.0,,0,,,,,,,Storm
+473,TORONTO,TORONTO,GPE,0.25,0.925,en,1.0,4060459-7,6167865,P,43.70643,-79.39864,NORTH-AMERICA,Canada,ENA,Storm
+341,the Bay of Bengal,the Bay of Bengal,LOC,0.05333333,0.31333333,en,1.0,,5128897,P,43.23007,-75.74824,NORTH-AMERICA,United States,ENA,Storm
+339,Toronto,Toronto,GPE,-0.02,0.52,en,1.0,4060459-7,6167865,P,43.70643,-79.39864,NORTH-AMERICA,Canada,ENA,Storm
+338,Maldives,Maldives,GPE,0.5,0.9,en,1.0,4037212-1,1282028,A,3.2,73.0,INDIAN,Maldives,EIO,Storm
+337,the ⁠US northeast,the ⁠US northeast,LOC,0.03905724,0.3993266,en,1.0,,0,,,,,,,Storm
+336,N.J.,N.J.,GPE,0.0,0.0,en,1.0,,4503800,S,39.92707,-74.29304,NORTH-AMERICA,United States,ENA,Storm
+335,Manama,Manama,GPE,0.02,0.4,en,1.0,4100079-1,290340,P,26.22787,50.58565,ASIA,Bahrain,ARP,Storm
+334,Queens,Queens,GPE,0.13636364,0.45454545,en,1.0,,5133273,P,40.68149,-73.83652,NORTH-AMERICA,United States,ENA,Storm
+333,Mercer,Mercer,GPE,-0.2,0.3,en,1.0,4120075-5,5105496,P,40.21705,-74.74294,NORTH-AMERICA,United States,ENA,Storm
+332,N.J,N.J,GPE,0.47878788,0.56818182,en,1.0,,4503800,S,39.92707,-74.29304,NORTH-AMERICA,United States,ENA,Storm
+331,US Northeast,US Northeast,GPE,0.8,0.75,en,1.0,,11887749,L,42.80019,-74.11805,NORTH-AMERICA,United States,ENA,Storm
+330,Portmore,Portmore,GPE,0.22222222,0.47777778,en,1.0,,3488981,P,17.97102,-76.88691,CENTRAL-AMERICA,Jamaica,CAR,Storm
+329,Hellshire,Hellshire,GPE,0.22222222,0.47777778,en,1.0,,11495065,A,17.89669,-76.96187,CENTRAL-AMERICA,Jamaica,CAR,Storm
+328,the Central Plains,the Central Plains,LOC,0.25,0.375,en,1.0,,4526215,P,39.36896,-82.13237,NORTH-AMERICA,United States,ENA,Storm
+327,Victoria,Victoria,GPE,0.13636364,0.45454545,en,1.0,,241131,P,-4.62001,55.45501,INDIAN,Seychelles,EIO,Storm
+326,Valencia,Valencia,GPE,0.3,0.5,en,1.0,4062284-8,3625549,P,10.16153,-68.00044,SOUTH-AMERICA,Venezuela,NSA,Storm
+325,WNY,WNY,GPE,-0.125,0.375,en,1.0,4119124-9,6183235,P,49.8844,-97.14704,NORTH-AMERICA,Canada,CNA,Storm
+340,cyclone.&#821,cyclone.&#821,GPE,-0.28181818,0.62727273,en,1.0,,0,,,,,,,Storm
+342,Southern California for,Southern California for,LOC,0.06818182,0.22727273,en,1.0,,5332861,S,33.9439,-117.37921,NORTH-AMERICA,United States,WNA,Storm
+359,Malacca,Malacca,GPE,0.0,0.0,en,1.0,4037200-5,1734759,P,2.196,102.2405,ASIA,Malaysia,SEA,Storm
+343,Estonias,Estonias,GPE,0.21818182,0.72727273,en,1.0,,0,,,,,,,Storm
+358,Bahrain,Bahrain,GPE,0.02,0.4,en,1.0,4004268-6,290291,A,26.03333,50.55,ASIA,Bahrain,ARP,Storm
+357,las,las,GPE,0.09090909,0.39393939,en,1.0,4034571-3,1655842,A,18.0,105.0,ASIA,Laos,SEA,Storm
+356,the Gulf Coast,the Gulf Coast,LOC,0.26666667,0.80416667,en,1.0,,12212749,L,30.3314,-89.73221,NORTH-AMERICA,United States,ENA,Storm
+355,Ohio Valley,Ohio Valley,LOC,0.8,0.75,en,1.0,,5151630,L,41.26085,-81.57116,NORTH-AMERICA,United States,ENA,Storm
+354,Upper Midwest,Upper Midwest,LOC,0.42,0.54,en,1.0,4359276-4,12212748,L,43.61327,-88.28917,NORTH-AMERICA,United States,ENA,Storm
+353,LAKE SUPERIOR,LAKE SUPERIOR,GPE,0.35,0.75,en,1.0,,6048728,H,48.33222,-87.09861,NORTH-AMERICA,Canada,ENA,Storm
+352,Myanmar,Myanmar,GPE,0.5,0.9,en,1.0,4069500-1,1327865,A,21.0,96.0,ASIA,Myanmar,SAS,Storm
+351,Bangladesh,Bangladesh,GPE,0.5,0.9,en,1.0,4130903-0,1210997,A,24.0,90.0,ASIA,Bangladesh,SAS,Storm
+350,Oman,Oman,GPE,0.5,0.9,en,1.0,4075653-1,286963,A,21.0,57.0,ASIA,Oman,ARP,Storm
+349,the Indian Ocean,the Indian Ocean,LOC,0.5,0.9,en,1.0,,235616,H,27.0,51.0,ASIA,,ARP,Storm
+348,Hispan,Hispan,GPE,-0.36666667,0.56666667,en,1.0,,0,,,,,,,Storm
+347,vIP,vIP,GPE,0.0,0.0,en,1.0,,8200736,P,21.05226,105.32052,ASIA,Vietnam,EAS,Storm
+346,Hai,Hai,GPE,-0.14583333,0.5,en,1.0,4448983-3,1809078,P,20.03421,110.34651,ASIA,China,EAS,Storm
+345,Dominican Republic,Dominican Republic,GPE,0.0,0.0,en,1.0,4012694-8,3508796,A,19.0,-70.66667,CENTRAL-AMERICA,Dominican Republic,CAR,Storm
+344,BC Hydro,BC Hydro,GPE,0.04,0.385,en,1.0,,5979073,L,49.16555,-122.55482,NORTH-AMERICA,Canada,WNA,Storm
+397,the Cayman Islands,the Cayman Islands,GPE,0.1,0.4,en,1.0,,3580719,T,19.5,-80.66667,CENTRAL-AMERICA,Cayman Islands,CAR,Storm
+398,New Idaho,New Idaho,GPE,0.13636364,0.45454545,en,1.0,,5601933,P,43.54072,-116.56346,NORTH-AMERICA,United States,WNA,Storm
+399,Typhoon Halong's,Typhoon Halong's,GPE,-0.03333333,0.64166667,en,1.0,,0,,,,,,,Storm
+454,Africa,Africa,LOC,0.0,0.0,en,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Storm
+452,eastern Caribbean sea,eastern Caribbean sea,LOC,0.0,0.0,en,1.0,,10115069,S,22.29638,114.17281,ASIA,Hong Kong,EAS,Storm
+451,the Red Planet’s Surface,the Red Planet’s Surface,LOC,0.16666667,0.36666667,en,1.0,,0,,,,,,,Storm
+450,MANILA,MANILA,GPE,0.0,0.31,en,1.0,4037344-7,1701668,P,14.6042,120.9822,ASIA,Philippines,SEA,Storm
+449,Google Earth,Google Earth,LOC,0.0,0.0,en,1.0,,1182851,P,32.82111,73.95528,ASIA,Pakistan,WCA,Storm
+448,the Red Planet,the Red Planet,LOC,0.0,0.03333333,en,1.0,,0,,,,,,,Storm
+447,Way,Way,LOC,0.5,0.5,en,1.0,,1818558,P,22.45679,114.00234,ASIA,Hong Kong,EAS,Storm
+446,TonightForbes Northern,TonightForbes Northern,LOC,0.1125,0.50833333,en,1.0,,0,,,,,,,Storm
+445,CARIBBEAN,CARIBBEAN,LOC,0.0,0.0,en,1.0,,7729891,L,20.38583,-72.33398,CENTRAL-AMERICA,,CAR,Storm
+444,CUMBERLAND,CUMBERLAND,GPE,0.0,0.0,en,1.0,4198300-2,4975802,P,43.65737,-70.2589,NORTH-AMERICA,United States,ENA,Storm
+443,scho,scho,GPE,-0.1,0.26923077,en,1.0,,2223226,P,3.98333,11.6,AFRICA,Cameroon,CAF,Storm
+442,SoCal,SoCal,LOC,0.0,0.0,en,1.0,,12963898,P,-8.11943,-70.70158,SOUTH-AMERICA,Brazil,SAM,Storm
+441,Tropical Storm Melissa,Tropical Storm Melissa,GPE,-0.5,0.7,en,1.0,,0,,,,,,,Storm
+440,the Scottish Highlands,the Scottish Highlands,LOC,0.65,0.7,en,1.0,,2646943,L,57.12,-4.71,EUROPE,United Kingdom,NEU,Storm
+439,Comet Lemmon,Comet Lemmon,LOC,0.35555556,0.74444444,en,1.0,,0,,,,,,,Storm
+438,Tropical Storm,Tropical Storm,LOC,0.0,0.125,en,1.0,,0,,,,,,,Storm
+453,Niger,Niger,GPE,-0.06666667,0.0,en,1.0,4042298-7,2440476,A,18.0,9.0,AFRICA,Niger,SAH,Storm
+455,Niger state's,Niger state's,GPE,0.0,0.0,en,1.0,,2323127,T,9.9787,6.82849,AFRICA,Nigeria,WAF,Storm
+400,Deep South,Deep South,LOC,0.15,0.7,en,1.0,,12217079,L,33.37,-85.94,NORTH-AMERICA,United States,ENA,Storm
+456,east coast,east coast,LOC,-0.04166667,0.6,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Storm
+472,Cebu,Cebu,LOC,-0.16666667,0.21666667,en,1.0,4323998-5,1717512,P,10.31672,123.89071,ASIA,Philippines,SEA,Storm
+471,Typhoon Kalmaegis,Typhoon Kalmaegis,LOC,-0.1,0.4,en,1.0,,0,,,,,,,Storm
+470,Sacramento,Sacramento,GPE,0.0,0.0,en,1.0,4118202-9,5389489,P,38.58157,-121.4944,NORTH-AMERICA,United States,WNA,Storm
+468,Greenland,Greenland,GPE,0.25,0.25,en,1.0,4022113-1,3425505,A,72.0,-40.0,POLAR,Greenland,GIC,Storm
+467,Denmark,Denmark,GPE,-0.16666667,0.33333333,en,1.0,4010877-6,2623032,A,56.0,10.0,EUROPE,Denmark,NEU,Storm
+466,Brandenburg,Brandenburg,GPE,0.10416667,0.41666667,en,1.0,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Storm
+465,Manhattan,Manhattan,GPE,0.10416667,0.41666667,en,1.0,,5370082,P,33.88474,-118.41091,NORTH-AMERICA,United States,WNA,Storm
+464,Putrajaya,Putrajaya,GPE,-0.2,0.5,en,1.0,7653184-3,1996552,A,2.91667,101.7,ASIA,Malaysia,SEA,Storm
+463,Labuan,Labuan,GPE,-0.2,0.5,en,1.0,4647704-4,1733782,P,5.28028,115.2475,ASIA,Malaysia,SEA,Storm
+462,Mali,Mali,LOC,0.10416667,0.41666667,en,1.0,4074505-3,2453866,A,18.0,-2.0,AFRICA,Mali,SAH,Storm
+461,Mountain Shepherd,Mountain Shepherd,GPE,0.0,0.0,en,1.0,,5677483,P,45.94357,-108.34235,NORTH-AMERICA,United States,WNA,Storm
+460,the north Atlantic,the north Atlantic,LOC,-0.2,0.55,en,1.0,,12110846,L,40.58629,-76.28807,NORTH-AMERICA,United States,ENA,Storm
+459,HONOLULU,HONOLULU,GPE,-0.6,0.9,en,1.0,4123398-0,5856195,P,21.30694,-157.85833,PACIFIC,United States,NPO,Storm
+458,KHON2,KHON2,GPE,-0.6,0.9,en,1.0,,0,,,,,,,Storm
+457,Philly,Philly,LOC,-0.2,0.2,en,1.0,4103331-0,4560349,P,39.95238,-75.16362,NORTH-AMERICA,United States,ENA,Storm
+437,Oswego County,Oswego County,GPE,0.0,0.0,en,1.0,,5735724,P,45.42067,-122.67065,NORTH-AMERICA,United States,WNA,Storm
+436,Chignecto Isthmus,Chignecto Isthmus,LOC,0.0,0.0,en,1.0,,6941999,P,45.91664,-64.16581,NORTH-AMERICA,Canada,ENA,Storm
+435,New Year’s,New Year’s,GPE,0.13636364,0.45454545,en,1.0,,0,,,,,,,Storm
+434,Warrenton,Warrenton,GPE,-0.125,0.375,en,1.0,,5759289,P,46.1651,-123.92376,NORTH-AMERICA,United States,WNA,Storm
+415,Pacific typhoon,Pacific typhoon,LOC,0.0,0.0,en,1.0,,6620642,L,28.36584,-81.52961,NORTH-AMERICA,United States,ENA,Storm
+414,Typhoon Halong’s,Typhoon Halong’s,GPE,-0.1,0.025,en,1.0,,0,,,,,,,Storm
+413,Kenya,Kenya,GPE,0.25,0.33333333,en,1.0,4030236-2,192950,A,1.0,38.0,AFRICA,Kenya,SEAF,Storm
+412,Huntsville,Huntsville,GPE,0.0,0.0,en,1.0,,4068590,P,34.7304,-86.58594,NORTH-AMERICA,United States,ENA,Storm
+411,Uttarakhand,Uttarakhand,GPE,0.0,0.0,en,1.0,1358877971,1444366,A,30.25,79.25,ASIA,India,TIB,Storm
+410,the Red Storm,the Red Storm,LOC,0.0,0.0,en,1.0,,5673490,H,45.02656,-109.69607,NORTH-AMERICA,United States,WNA,Storm
+409,Casterton,Casterton,GPE,0.125,0.33125,en,1.0,16028366-8,2172132,P,-37.58489,141.40297,OCEANIA,Australia,SAU,Storm
+408,Lebanon,Lebanon,GPE,0.0,0.16666667,en,1.0,4035567-6,272103,A,33.83333,35.83333,EUROPE-AFRICA,Lebanon,MED,Storm
+407,Meteo France,Meteo France,GPE,0.0,0.0,en,1.0,,1546266,H,-49.35247,70.25269,SOUTHERN,French Southern Territories,SOO,Storm
+406,Kerry,Kerry,GPE,0.0,0.06666667,en,1.0,,7668220,S,52.1809,-9.52378,EUROPE,Ireland,NEU,Storm
+405,Getafe,Getafe,GPE,0.2,0.3,en,1.0,4768909-2,3121437,P,40.30571,-3.73295,EUROPE-AFRICA,Spain,MED,Storm
+404,Gulf of Mexico,Gulf of Mexico,LOC,-0.125,0.375,en,1.0,,3523271,H,25.0,-90.0,NORTH-AMERICA,,CNA,Storm
+403,the Netherlands,the Netherlands,GPE,-0.1,0.46666667,en,1.0,4042203-3,2750405,A,52.25,5.75,EUROPE,The Netherlands,NEU,Storm
+402,Belgium,Belgium,GPE,-0.1,0.46666667,en,1.0,4005406-8,2802361,A,50.75,4.5,EUROPE,Belgium,WCE,Storm
+401,Southeast,Southeast,LOC,0.15,0.7,en,1.0,,11497301,L,10.75053,106.7505,ASIA,Vietnam,SEA,Storm
+416,Morocco,Morocco,GPE,0.25,0.33333333,en,1.0,4037680-1,2542007,A,28.5,-10.0,AFRICA,Morocco,SAH,Storm
+417,Hollywood,Hollywood,GPE,0.4,0.55,en,1.0,4408912-0,4158928,P,26.0112,-80.14949,NORTH-AMERICA,United States,ENA,Storm
+418,Barbuda,Barbuda,GPE,0.0,0.0,en,1.0,,3576390,A,17.63333,-61.8,CENTRAL-AMERICA,Antigua and Barbuda,CAR,Storm
+427,the United St…,the United St…,GPE,0.2,0.45833333,en,1.0,,0,,,,,,,Storm
+433,Madagascar,Madagascar,GPE,0.25,0.33333333,en,1.0,4074425-5,1062947,A,-20.0,47.0,AFRICA,Madagascar,MDG,Storm
+432,Roman,Roman,GPE,0.0,0.15,en,1.0,,727598,P,43.15,23.91667,EUROPE-AFRICA,Bulgaria,MED,Storm
+431,eastern Pacific,eastern Pacific,LOC,0.06818182,0.72727273,en,1.0,,11961320,L,55.0,40.0,EUROPE,Russia,WCE,Storm
+430,the Melbourne Storm,the Melbourne Storm,LOC,0.21212121,0.83333333,en,1.0,,0,,,,,,,Storm
+429,Etowah,Etowah,GPE,0.14444444,0.3,en,1.0,7691861-0,4063619,P,34.01434,-86.00639,NORTH-AMERICA,United States,ENA,Storm
+428,NRL,NRL,LOC,0.21212121,0.83333333,en,1.0,,7871379,S,13.58283,144.83534,PACIFIC,Guam,NPO,Storm
+426,Svalbard,Svalbard,LOC,0.0,0.0,en,1.0,4118926-7,2729907,P,78.22334,15.64689,ARCTIC,Svalbard and Jan Mayen,ARO,Storm
+419,West Midlands,West Midlands,GPE,0.15,0.6,en,1.0,4079200-6,2634343,L,52.5,-1.96667,EUROPE,United Kingdom,NEU,Storm
+425,Northern Ireland,Northern Ireland,GPE,0.0,0.0,en,1.0,4027667-3,2963597,A,53.0,-8.0,EUROPE,Ireland,NEU,Storm
+424,indore,indore,GPE,0.01666667,0.08333333,en,1.0,4368406-3,1269743,P,22.71792,75.8333,ASIA,India,SAS,Storm
+423,Coedpoeth,Coedpoeth,GPE,-0.1,0.1,en,1.0,,2652648,P,53.05391,-3.06234,EUROPE,United Kingdom,NEU,Storm
+422,north Wales,north Wales,GPE,-0.1,0.1,en,1.0,,4161400,P,27.90141,-81.58591,NORTH-AMERICA,United States,ENA,Storm
+421,Éowyn,Éowyn,GPE,-0.22685185,0.7212963,en,1.0,,5725744,H,43.98614,-119.89044,NORTH-AMERICA,United States,WNA,Storm
+420,Staffordshire,Staffordshire,GPE,0.0,0.0,en,1.0,4118781-7,11609018,L,52.8577,-2.03686,EUROPE,United Kingdom,NEU,Storm
+625,Worldsoul Saga,Worldsoul Saga,GPE,0.0,0.03333333,en,1.0,,0,,,,,,,Storm
