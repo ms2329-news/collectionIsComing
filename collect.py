@@ -138,8 +138,13 @@ def removeDuplicates(df1):
         df1.loc[index,'md5'] = md5
         day = '1970-01-01'
         if(len(str(column['published']))>5):
-          pubDate = parser.parse(column['published'])
-          day = pubDate.strftime('%Y-%m-%d')
+          
+          try:
+            pubDate = parser.parse(column['published'])
+            day = pubDate.strftime('%Y-%m-%d')
+          except:
+            print(['removeDuplicates',column['published']])
+          
          
         groupTxt = str(column['domain']) +  ' ' + day
         group = hashlib.md5(groupTxt.encode('utf-8')).hexdigest()  
