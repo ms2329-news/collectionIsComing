@@ -1,356 +1,281 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Deutschland,Deutschland,LOC,0.06410256,0.12820513,de,15.6,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Heat Wave
-1,Berlin,Berlin,LOC,-0.24806202,0.03875969,de,12.9,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Heat Wave
-2,Belém,Belém,LOC,-0.08264463,0.08264463,de,12.1,4208294-8,3405870,P,-1.45583,-48.50444,SOUTH-AMERICA,Brazil,NES,Heat Wave
-3,Brasilien,Brasilien,LOC,0.33035714,0.0,de,11.2,4008003-1,3469034,A,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Heat Wave
-4,Spanien,Spanien,LOC,0.10606061,0.15151515,de,9.9,4055964-6,2510769,A,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Heat Wave
-5,…,…,LOC,-0.35443038,0.06329114,de,7.9,,0,,,,,,,Heat Wave
-6,Iran,Iran,LOC,-0.11956522,0.43478261,de,6.9,4027653-3,130758,A,32.0,53.0,ASIA,Iran,WCA,Heat Wave
-7,Staaten,Staaten,LOC,0.19806763,0.04830918,de,6.9,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA,Heat Wave
-8,Sachsen,Sachsen,LOC,0.2734375,0.078125,de,6.4,4051181-9,2842565,A,52.0,11.7333,EUROPE,Germany,WCE,Heat Wave
-9,China,China,LOC,-0.16666667,0.55555556,de,6.3,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Heat Wave
-10,Landtag,Landtag,LOC,-0.09615385,0.09615385,de,5.2,,7302299,S,48.77856,9.1834,EUROPE,Germany,WCE,Heat Wave
-11,Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.1372549,0.0,de,5.1,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Heat Wave
-13,Ibiza,Ibiza,LOC,0.02898551,0.14492754,de,4.6,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Heat Wave
-12,Freistaat,Freistaat,LOC,-0.44927536,0.39855072,de,4.6,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Heat Wave
-14,Italien,Italien,LOC,0.72093023,0.0,de,4.3,4027833-5,3175395,A,42.83333,12.83333,EUROPE-AFRICA,Italy,MED,Heat Wave
-15,Hessen,Hessen,LOC,-0.52380952,1.07142857,de,4.2,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Heat Wave
-16,Stadt,Stadt,LOC,0.07894737,0.0,de,3.8,,2661604,P,47.55839,7.57327,EUROPE,Switzerland,WCE,Heat Wave
-17,Frankreich,Frankreich,LOC,-0.69369369,0.09009009,de,3.7,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Heat Wave
-18,Bund,Bund,LOC,0.0,0.0,de,3.7,,10519668,L,20.49241,79.45535,ASIA,India,SAS,Heat Wave
-19,Pariser,Pariser,LOC,0.18918919,0.27027027,de,3.7,,2943127,T,47.40555,11.28725,EUROPE,Germany,WCE,Heat Wave
-20,Europa,Europa,LOC,-0.47222222,0.27777778,de,3.6,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Heat Wave
-21,USA,USA,LOC,-0.90909091,0.3030303,de,3.3,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Heat Wave
-22,Tiroler,Tiroler,LOC,0.0,0.0,de,3.0,,2783037,H,47.85,12.5,EUROPE,Germany,WCE,Heat Wave
-23,Athen,Athen,LOC,-0.23333333,0.0,de,3.0,4003366-1,264371,P,37.98376,23.72784,EUROPE-AFRICA,Greece,MED,Heat Wave
-27,Dresden,Dresden,LOC,0.0,0.71428571,de,2.8,4012995-0,2935022,P,51.05089,13.73832,EUROPE,Germany,WCE,Heat Wave
-26,Klimawandel,Klimawandel,LOC,-0.25,0.71428571,de,2.8,,0,,,,,,,Heat Wave
-28,Kalifornien,Kalifornien,LOC,-0.46428571,0.0,de,2.8,4029307-5,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Heat Wave
-25,Blitz-Flaute,Blitz-Flaute,LOC,0.75,0.0,de,2.8,,0,,,,,,,Heat Wave
-29,Griechenlands,Griechenlands,LOC,-0.71428571,0.0,de,2.8,,0,,,,,,,Heat Wave
-24,La Bañeza,La Bañeza,LOC,0.35714286,0.0,de,2.8,4271109-5,3119979,P,42.30026,-5.89772,EUROPE-AFRICA,Spain,MED,Heat Wave
-32,Berlins,Berlins,LOC,0.0,0.0,de,2.6,,2193381,T,-41.9,171.83333,OCEANIA,New Zealand,NZ,Heat Wave
-30,Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,2.6,,0,,,,,,,Heat Wave
-31,Amazonas,Amazonas,LOC,0.0,0.0,de,2.6,4001626-2,3689982,A,-1.16667,-71.5,SOUTH-AMERICA,Colombia,NSA,Heat Wave
-33,Bayern,Bayern,LOC,-0.92,0.2,de,2.5,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Heat Wave
-34,Brasiliens,Brasiliens,LOC,0.0,0.0,de,2.2,,0,,,,,,,Heat Wave
-35,Teheran,Teheran,LOC,-1.1547619,0.23809524,de,2.1,4059304-6,112931,P,35.69439,51.42151,ASIA,Iran,WCA,Heat Wave
-42,Inntal,Inntal,LOC,0.0,0.0,de,2.0,4297240-1,2770041,P,47.29823,11.08611,EUROPE,Austria,WCE,Heat Wave
-40,Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.7,0.0,de,2.0,,0,,,,,,,Heat Wave
-41,Hitzehotspots,Hitzehotspots,LOC,0.0,0.0,de,2.0,,0,,,,,,,Heat Wave
-37,Schweiz,Schweiz,LOC,0.35,0.5,de,2.0,4053881-3,2658434,A,47.00016,8.01427,EUROPE,Switzerland,WCE,Heat Wave
-36,Brüssel,Brüssel,LOC,0.0,0.0,de,2.0,4008460-7,2800866,P,50.85045,4.34878,EUROPE,Belgium,WCE,Heat Wave
-39,Ozeane,Ozeane,LOC,0.0,0.0,de,2.0,,0,,,,,,,Heat Wave
-38,Madrid,Madrid,LOC,0.7,0.0,de,2.0,4036862-2,3117735,P,40.4165,-3.70256,EUROPE-AFRICA,Spain,MED,Heat Wave
-53,Verkehrswende,Verkehrswende,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Heat Wave
-54,Wasserreserven,Wasserreserven,LOC,0.0,0.0,de,1.9,,0,,,,,,,Heat Wave
-52,Kanada,Kanada,LOC,0.0,0.52631579,de,1.9,4029456-0,6251999,A,60.10867,-113.64258,NORTH-AMERICA,Canada,NWN,Heat Wave
-51,Mittelmeer,Mittelmeer,LOC,-0.52631579,0.0,de,1.9,4074895-9,363196,H,35.0,20.0,EUROPE-AFRICA,,MED,Heat Wave
-44,Deutschlands,Deutschlands,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Heat Wave
-45,Süddeutschland,Süddeutschland,LOC,0.0,1.05263158,de,1.9,4078022-3,12909096,L,48.58781,10.71652,EUROPE,Germany,WCE,Heat Wave
-43,Abgeordnetenhaus,Abgeordnetenhaus,LOC,-1.05263158,0.0,de,1.9,,0,,,,,,,Heat Wave
-57,Schleswig-Holstein,Schleswig-Holstein,LOC,0.0,0.0,de,1.9,4052692-6,2838632,A,54.2,9.75,EUROPE,Germany,NEU,Heat Wave
-56,Land,Land,LOC,-0.52631579,0.0,de,1.9,,3421288,L,81.9,-56.75,POLAR,Greenland,GIC,Heat Wave
-55,Wassernotstand,Wassernotstand,LOC,0.0,0.0,de,1.9,,0,,,,,,,Heat Wave
-50,Extremfall,Extremfall,LOC,0.18421053,0.26315789,de,1.9,,0,,,,,,,Heat Wave
-48,UNHCR-Chef,UNHCR-Chef,LOC,0.0,0.0,de,1.9,,0,,,,,,,Heat Wave
-49,Malaysia,Malaysia,LOC,0.36842105,0.0,de,1.9,4037203-0,1733045,A,2.5,112.5,ASIA,Malaysia,SEA,Heat Wave
-47,München,München,LOC,0.73684211,0.0,de,1.9,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Heat Wave
-46,Formentera,Formentera,LOC,0.29824561,0.1754386,de,1.9,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Heat Wave
-65,Türkei,Türkei,LOC,-0.37037037,0.74074074,de,1.8,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED,Heat Wave
-66,TotalEnergies,TotalEnergies,LOC,-0.55555556,0.0,de,1.8,,0,,,,,,,Heat Wave
-64,Offenbach,Offenbach,LOC,0.38888889,0.0,de,1.8,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Heat Wave
-63,Österreich,Österreich,LOC,0.0,0.0,de,1.8,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Heat Wave
-59,Wegner,Wegner,LOC,0.0,0.0,de,1.8,,5407707,H,37.84145,-119.53668,NORTH-AMERICA,United States,WNA,Heat Wave
-60,Kollaps,Kollaps,LOC,0.0,0.0,de,1.8,,0,,,,,,,Heat Wave
-58,Milliardenpaket,Milliardenpaket,LOC,0.0,0.0,de,1.8,,0,,,,,,,Heat Wave
-62,Kraft,Kraft,LOC,0.0,0.0,de,1.8,,5159995,P,40.6459,-80.59785,NORTH-AMERICA,United States,ENA,Heat Wave
-61,Hitze,Hitze,LOC,0.0,0.55555556,de,1.8,,2903464,S,50.36667,12.0,EUROPE,Germany,WCE,Heat Wave
-69,Agrarbereich,Agrarbereich,LOC,0.0,0.0,de,1.7,,0,,,,,,,Heat Wave
-68,Niedersachsen,Niedersachsen,LOC,1.17647059,0.0,de,1.7,4042226-4,2862926,A,52.83333,9.16667,EUROPE,Germany,WCE,Heat Wave
-67,Paris,Paris,LOC,0.0,0.0,de,1.7,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Heat Wave
-74,Chemieverbands,Chemieverbands,LOC,-0.875,0.0,de,1.6,,0,,,,,,,Heat Wave
-72,Potsdamer,Potsdamer,LOC,0.0,0.0,de,1.6,,2852454,S,52.50939,13.37638,EUROPE,Germany,WCE,Heat Wave
-73,Frankfurt,Frankfurt,LOC,-0.4375,0.0,de,1.6,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Heat Wave
-71,Park Babelsberg,Park Babelsberg,LOC,-0.625,0.0,de,1.6,,0,,,,,,,Heat Wave
-76,Staatsmitteln,Staatsmitteln,LOC,0.0,0.0,de,1.6,,0,,,,,,,Heat Wave
-75,Potsdam,Potsdam,LOC,-0.625,0.0,de,1.6,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Heat Wave
-70,Rheingau,Rheingau,LOC,0.4375,0.625,de,1.6,4049757-4,2847636,L,50.03552,8.08212,EUROPE,Germany,WCE,Heat Wave
-77,Klimaziele,Klimaziele,LOC,0.0,0.0,de,1.5,,0,,,,,,,Heat Wave
-78,Bursa,Bursa,LOC,-0.47619048,0.95238095,de,1.4,4009173-9,750269,P,40.19559,29.06013,EUROPE-AFRICA,Turkey,MED,Heat Wave
-81,Klimaabkommens,Klimaabkommens,LOC,0.53846154,0.0,de,1.3,,0,,,,,,,Heat Wave
-80,Hamburg,Hamburg,LOC,0.0,0.0,de,1.3,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Heat Wave
-82,Anpassungen,Anpassungen,LOC,0.0,0.0,de,1.3,,0,,,,,,,Heat Wave
-79,Landes,Landes,LOC,-0.65384615,0.0,de,1.3,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Heat Wave
-83,US-Präsident,US-Präsident,LOC,0.53846154,0.0,de,1.3,,0,,,,,,,Heat Wave
-84,Privacy Center,Privacy Center,LOC,0.0,0.0,de,1.3,,0,,,,,,,Heat Wave
-86,Wien,Wien,LOC,-0.58333333,0.0,de,1.2,4066009-6,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE,Heat Wave
-85,Hamburgs,Hamburgs,LOC,0.0,0.0,de,1.2,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Heat Wave
-89,Great Ethiopian Renaissance Dam,Great Ethiopian Renaissance Dam,LOC,0.63636364,0.0,de,1.1,,0,,,,,,,Heat Wave
-88,Ägypten,Ägypten,LOC,0.0,0.0,de,1.1,4000556-2,357994,A,27.0,30.0,AFRICA,Egypt,SAH,Heat Wave
-87,GERD,GERD,LOC,0.63636364,0.0,de,1.1,,6633787,T,-60.666,-45.75,SOUTHERN,Antarctica,SOO,Heat Wave
-276,Äthiopien,Äthiopien,LOC,0.0,0.0,de,1.0,4000639-6,337996,A,9.0,39.5,AFRICA,Ethiopia,NEAF,Heat Wave
-240,Uderns,Uderns,LOC,0.0,0.0,de,1.0,4625629-5,7872638,A,47.31502,11.85193,EUROPE,Austria,WCE,Heat Wave
-239,Bezirk Schwaz,Bezirk Schwaz,LOC,0.0,0.0,de,1.0,4053811-4,2765389,A,47.26667,11.76667,EUROPE,Austria,WCE,Heat Wave
-238,Louvre-Museum,Louvre-Museum,LOC,0.0,0.0,de,1.0,,2997319,S,48.86102,2.33587,EUROPE,France,WCE,Heat Wave
-237,Louvre,Louvre,LOC,0.0,0.0,de,1.0,,2997319,S,48.86102,2.33587,EUROPE,France,WCE,Heat Wave
-236,Meer,Meer,LOC,0.0,0.0,de,1.0,,1627362,H,-3.33333,133.8,ASIA,Indonesia,SEA,Heat Wave
-235,Jahrhundertmitte,Jahrhundertmitte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-250,Gletscher-Sterben,Gletscher-Sterben,LOC,-0.23333333,0.0,de,1.0,,0,,,,,,,Heat Wave
-249,Gestein,Gestein,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-248,Bregenz,Bregenz,LOC,0.0,0.0,de,1.0,1081844590,2781503,P,47.50311,9.7471,EUROPE,Austria,WCE,Heat Wave
-247,Österreichs,Österreichs,LOC,0.0,0.0,de,1.0,,13513071,S,48.2043,16.37016,EUROPE,Austria,WCE,Heat Wave
-241,Zillertal,Zillertal,LOC,0.0,0.0,de,1.0,4109019-6,7602524,L,47.24321,12.0249,EUROPE,Austria,WCE,Heat Wave
-275,Äthiopiens,Äthiopiens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-290,Berliner Baumgesetzes,Berliner Baumgesetzes,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-289,Erl,Erl,LOC,0.0,0.0,de,1.0,4015298-4,7873648,A,47.69897,12.21398,EUROPE,Austria,WCE,Heat Wave
-288,Landeck,Landeck,LOC,0.0,0.0,de,1.0,4098984-7,2773069,A,47.12575,10.56679,EUROPE,Austria,WCE,Heat Wave
-287,Innsbruck,Innsbruck,LOC,-1.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Heat Wave
-286,Bahnchaos,Bahnchaos,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-285,Kopenhagen,Kopenhagen,LOC,-1.0,0.0,de,1.0,4032399-7,2618425,P,55.67594,12.56553,EUROPE,Denmark,NEU,Heat Wave
-284,Taunus,Taunus,LOC,1.0,0.0,de,1.0,4025498-7,2902533,P,50.09019,8.4493,EUROPE,Germany,WCE,Heat Wave
-242,F.A.Z.-Hauptwache,F.A.Z.-Hauptwache,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-234,Grüner Strom,Grüner Strom,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-233,Israels,Israels,LOC,0.0,0.0,de,1.0,,4832418,T,43.24398,-70.58866,NORTH-AMERICA,United States,ENA,Heat Wave
-232,Wasserstoffkerne,Wasserstoffkerne,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-231,Reaktion di…,Reaktion di…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-230,Himalaya,Himalaya,LOC,0.0,0.0,de,1.0,4024923-2,1252558,T,28.0,84.0,ASIA,Nepal,TIB,Heat Wave
-229,Schmelzwasser,Schmelzwasser,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-228,Lobzang D…,Lobzang D…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-227,Achs-Photovoltaik,Achs-Photovoltaik,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
-283,Chile,Chile,LOC,0.0,0.0,de,1.0,4009929-5,3895114,A,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Heat Wave
-195,Marktkeller,Marktkeller,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-210,Handgelenk,Handgelenk,LOC,0.85,0.0,de,1.0,,0,,,,,,,Heat Wave
-209,Landwirtschaftskam…,Landwirtschaftskam…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-208,Oak Park,Oak Park,LOC,-0.7,0.0,de,1.0,,5004188,P,42.45948,-83.18271,NORTH-AMERICA,United States,ENA,Heat Wave
-207,Weltklimakonferenz,Weltklimakonferenz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-206,Verkehrswende im Taunus,Verkehrswende im Taunus,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-205,Tor der Bundeswehr,Tor der Bundeswehr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-246,Jahrtausenden,Jahrtausenden,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-203,Spaltöffnungen,Spaltöffnungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-218,Miyun,Miyun,LOC,0.0,0.0,de,1.0,,2035740,A,40.53013,116.9873,ASIA,China,EAS,Heat Wave
-217,Wassermangel,Wassermangel,LOC,0.0,0.0,de,1.0,,7911102,P,51.33281,6.95615,EUROPE,Germany,WCE,Heat Wave
-216,Händewaschen,Händewaschen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-215,Top-Urlaubsziele,Top-Urlaubsziele,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-214,Touris,Touris,LOC,0.0,0.0,de,1.0,,2262549,P,38.90726,-7.53425,EUROPE-AFRICA,Portugal,MED,Heat Wave
-213,Griechenland-Fans,Griechenland-Fans,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-212,Mittelmeerraum,Mittelmeerraum,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-204,Saarbrücken,Saarbrücken,LOC,0.7,0.0,de,1.0,4076912-4,2842647,P,49.23262,7.00982,EUROPE,Germany,WCE,Heat Wave
-245,WM-Debatte,WM-Debatte,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-244,DFB-Fans,DFB-Fans,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-243,Nebel,Nebel,LOC,-0.7,0.0,de,1.0,,12152659,S,56.37689,107.07058,ASIA,Russia,ESB,Heat Wave
-258,Flughafen Kopenhagen,Flughafen Kopenhagen,LOC,0.0,0.0,de,1.0,4658816-4,2619034,S,55.61792,12.65597,EUROPE,Denmark,NEU,Heat Wave
-257,Luftraums,Luftraums,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-256,Taiwan,Taiwan,LOC,0.0,0.0,de,1.0,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Heat Wave
-255,Italiener,Italiener,LOC,-0.7,0.0,de,1.0,,12216629,R,46.60614,13.84133,EUROPE,Austria,WCE,Heat Wave
-254,Passau,Passau,LOC,-1.4,0.0,de,1.0,4044828-9,2855328,P,48.5665,13.43122,EUROPE,Germany,WCE,Heat Wave
-196,Burgenland,Burgenland,LOC,-0.85,0.0,de,1.0,4009114-4,2781194,A,47.5,16.41667,EUROPE,Austria,WCE,Heat Wave
-252,London,London,LOC,0.7,0.0,de,1.0,4074335-4,2643743,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Heat Wave
-251,Tokio,Tokio,LOC,0.7,0.0,de,1.0,4078337-6,1850147,P,35.6895,139.69171,ASIA,Japan,EAS,Heat Wave
-202,Mieming,Mieming,LOC,0.35,0.5,de,1.0,4685355-8,2771606,P,47.3,10.98333,EUROPE,Austria,WCE,Heat Wave
-201,Green Deal,Green Deal,LOC,0.35,0.5,de,1.0,,5527495,H,31.49567,-100.51444,NORTH-AMERICA,United States,CNA,Heat Wave
-200,Düsseldorf,Düsseldorf,LOC,-1.0,0.0,de,1.0,4013255-9,2934246,P,51.22172,6.77616,EUROPE,Germany,WCE,Heat Wave
-199,Irre,Irre,LOC,-3.0,0.0,de,1.0,,2703527,H,65.31667,16.31667,EUROPE,Sweden,NEU,Heat Wave
-198,Sommerhitze,Sommerhitze,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-197,Mangrovenwald,Mangrovenwald,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-253,Hochdruck,Hochdruck,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-344,Söder,Söder,LOC,0.0,0.0,de,1.0,7536603-4,2676209,P,59.31278,18.07577,EUROPE,Sweden,NEU,Heat Wave
-345,Heizwärme,Heizwärme,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-346,Sommerfeeling,Sommerfeeling,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-331,San Francisco,San Francisco,LOC,0.0,0.0,de,1.0,4344631-0,3600949,P,14.0818,-87.20681,CENTRAL-AMERICA,Honduras,SCA,Heat Wave
-332,Japantown,Japantown,LOC,0.0,0.0,de,1.0,,6947911,L,37.7845,-122.431,NORTH-AMERICA,United States,WNA,Heat Wave
-333,Sandwich,Sandwich,LOC,0.0,0.0,de,1.0,10072912-5,3474415,A,-56.0,-33.0,SOUTHERN,South Georgia and South Sandwich Islands,SOO,Heat Wave
-334,Sushi,Sushi,LOC,0.0,0.0,de,1.0,,485984,P,56.32461,51.09862,EUROPE,Russia,EEU,Heat Wave
-342,Bergen,Bergen,LOC,-0.7,0.0,de,1.0,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Heat Wave
-336,Burggartens,Burggartens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-337,Herzinfarkte,Herzinfarkte,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
-338,Römer,Römer,LOC,-0.7,0.0,de,1.0,,3198863,H,44.91062,19.75835,EUROPE-AFRICA,Serbia,MED,Heat Wave
-323,Extreme,Extreme,LOC,0.0,0.0,de,1.0,4258492-9,2228373,P,10.59095,14.31593,AFRICA,Cameroon,CAF,Heat Wave
-324,Sonnenkorona,Sonnenkorona,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-325,Niedersachsens,Niedersachsens,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
-326,Glatteis,Glatteis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-278,Havel,Havel,LOC,0.0,0.0,de,1.0,4023868-4,2908646,H,52.8751,12.00459,EUROPE,Germany,WCE,Heat Wave
-315,Irans,Irans,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-316,Steinen,Steinen,LOC,0.7,0.0,de,1.0,,2658488,P,47.04975,8.61214,EUROPE,Switzerland,WCE,Heat Wave
-317,Brandenburgs,Brandenburgs,LOC,-0.7,0.0,de,1.0,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Heat Wave
-318,Temperaturen,Temperaturen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-319,EU-Regeln,EU-Regeln,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-320,Klimafaktenpapier,Klimafaktenpapier,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-321,Mini-Windräder,Mini-Windräder,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-298,Umweltminister,Umweltminister,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-307,Dürre,Dürre,LOC,0.0,0.0,de,1.0,,2934402,T,50.63333,13.3,EUROPE,Germany,WCE,Heat Wave
-308,Maschhad,Maschhad,LOC,0.0,0.0,de,1.0,4115118-5,124665,P,36.29807,59.60567,ASIA,Iran,WCA,Heat Wave
-309,Getränke-Produktion,Getränke-Produktion,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-310,Bermuda-Dreieck,Bermuda-Dreieck,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-311,Brandenburg,Brandenburg,LOC,-1.4,0.0,de,1.0,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Heat Wave
-312,Baruth/Mark,Baruth/Mark,LOC,-0.7,0.0,de,1.0,4550655-3,7602464,A,52.05,13.5,EUROPE,Germany,WCE,Heat Wave
-313,Baruth,Baruth,LOC,0.7,0.0,de,1.0,,7602464,A,52.05,13.5,EUROPE,Germany,WCE,Heat Wave
-327,Sturm,Sturm,LOC,0.0,0.0,de,1.0,,6626207,T,-71.05,162.96667,POLAR,Antarctica,EAN,Heat Wave
-277,Erde,Erde,LOC,2.0,0.0,de,1.0,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Heat Wave
-314,Trockenperiode …,Trockenperiode …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-279,Müggelsee,Müggelsee,LOC,0.0,0.0,de,1.0,,2916161,H,52.43781,13.64981,EUROPE,Germany,WCE,Heat Wave
-280,Auftrag,Auftrag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-281,Bezirk Steglitz-Zehlendorf,Bezirk Steglitz-Zehlendorf,LOC,0.0,0.0,de,1.0,,2805059,P,52.43333,13.25,EUROPE,Germany,WCE,Heat Wave
-282,Strategielosigkeit,Strategielosigkeit,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-110,Islamischen Republik Iran,Islamischen Republik Iran,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-111,Klimaprotest,Klimaprotest,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-112,Blockaden,Blockaden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-113,Komet 3I/Atlas,Komet 3I/Atlas,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-114,Volksrepublik,Volksrepublik,LOC,0.0,0.0,de,1.0,4075468-6,1873107,A,40.0,127.0,ASIA,North Korea,EAS,Heat Wave
-99,Weltklimagipfel,Weltklimagipfel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-100,Klimagipfel,Klimagipfel,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Heat Wave
-340,Brücke…,Brücke…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-102,Elektroautos,Elektroautos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-343,Garmisch,Garmisch,LOC,0.0,0.0,de,1.0,4019275-1,2922530,P,47.49209,11.09576,EUROPE,Germany,WCE,Heat Wave
-297,Schattenparkens,Schattenparkens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-296,Hitzesommer,Hitzesommer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-266,Essen,Essen,LOC,0.0,1.0,de,1.0,4015557-2,2928810,P,51.45657,7.01228,EUROPE,Germany,WCE,Heat Wave
-265,Museumsquartier,Museumsquartier,LOC,0.0,0.0,de,1.0,,6354987,S,48.20328,16.35783,EUROPE,Austria,WCE,Heat Wave
-264,Münchner Flughafen,Münchner Flughafen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-329,Möhren,Möhren,LOC,0.0,0.0,de,1.0,4115174-4,2870148,P,48.93543,10.87277,EUROPE,Germany,WCE,Heat Wave
-328,Fenchel,Fenchel,LOC,0.0,0.0,de,1.0,,4856525,H,42.62971,-91.56904,NORTH-AMERICA,United States,CNA,Heat Wave
-103,Chinas CO2-Emissionen,Chinas CO2-Emissionen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-98,hohen Aufwand,hohen Aufwand,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Heat Wave
-97,Bundes,Bundes,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-96,Planeten,Planeten,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
-95,Schwarz-Rot,Schwarz-Rot,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-94,Berliner Abgeordnetenhaus,Berliner Abgeordnetenhaus,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-93,Abgeordnetenhaus da,Abgeordnetenhaus da,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-92,Haiti,Haiti,LOC,0.0,0.0,de,1.0,4022974-9,3723988,A,19.07582,-72.29616,CENTRAL-AMERICA,Haiti,CAR,Heat Wave
-91,Bürgerschaft,Bürgerschaft,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-90,Sahara-Staub,Sahara-Staub,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-130,Kanadas Waldbrände,Kanadas Waldbrände,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-115,Nordhälfte,Nordhälfte,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-116,Celsius,Celsius,LOC,0.0,0.0,de,1.0,,3424134,T,73.11667,-23.25,POLAR,Greenland,GIC,Heat Wave
-117,Sahara,Sahara,LOC,0.7,0.0,de,1.0,4051293-9,2212709,T,26.0,13.0,AFRICA,Libya,SAH,Heat Wave
-118,halbe Land,halbe Land,LOC,0.0,0.0,de,1.0,4403736-3,2911691,P,52.11667,13.7,EUROPE,Germany,WCE,Heat Wave
-119,Deutschland</li><li,Deutschland</li><li,LOC,0.15,0.0,de,1.0,,0,,,,,,,Heat Wave
-120,Klim…,Klim…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-121,Israel,Israel,LOC,0.0,0.0,de,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Heat Wave
-122,Katar,Katar,LOC,0.0,0.0,de,1.0,4029924-7,289688,A,25.5,51.25,ASIA,Qatar,ARP,Heat Wave
-107,US-Bundesstaaten,US-Bundesstaaten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-108,Schuldenkrise,Schuldenkrise,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-341,Herbstferien,Herbstferien,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-299,Kronberg im Taunus,Kronberg im Taunus,LOC,1.0,0.0,de,1.0,4033265-2,2883754,P,50.181,8.513,EUROPE,Germany,WCE,Heat Wave
-300,Bahnhof,Bahnhof,LOC,0.0,0.0,de,1.0,,2761346,S,48.22568,16.36105,EUROPE,Austria,WCE,Heat Wave
-301,Harz,Harz,LOC,0.0,1.0,de,1.0,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Heat Wave
-211,Europas,Europas,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-158,Waldbränden,Waldbränden,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-157,Hektar Land,Hektar Land,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-156,Waldbrand,Waldbrand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-155,Stadt Glendales,Stadt Glendales,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-106,Schwäbischen Alb,Schwäbischen Alb,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-105,Meßstetten,Meßstetten,LOC,-0.7,0.0,de,1.0,4038848-7,2871601,P,48.18317,8.96565,EUROPE,Germany,WCE,Heat Wave
-104,Herbstzeit,Herbstzeit,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-302,COP30,COP30,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-294,Raiding,Raiding,LOC,0.0,0.0,de,1.0,4104840-4,2768071,P,47.56581,16.53056,EUROPE,Austria,WCE,Heat Wave
-293,Boden,Boden,LOC,0.0,0.0,de,1.0,,12683357,A,20.25975,82.52063,ASIA,India,SAS,Heat Wave
-292,Winterflucht Gran Canaria,Winterflucht Gran Canaria,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-291,Atlantik,Atlantik,LOC,0.0,0.0,de,1.0,4003388-0,2395914,P,6.44852,2.35566,AFRICA,Benin,WAF,Heat Wave
-306,Ettelaat,Ettelaat,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-305,Stauseen,Stauseen,LOC,-0.925,0.0,de,1.0,,0,,,,,,,Heat Wave
-304,Amazonas-Metropole Belém,Amazonas-Metropole Belém,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-303,Konfliktregionen,Konfliktregionen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-295,Bodens,Bodens,LOC,0.0,0.0,de,1.0,,606530,A,66.04393,21.29977,EUROPE,Sweden,NEU,Heat Wave
-268,Britischen Inseln,Britischen Inseln,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-267,Sizilien,Sizilien,LOC,0.0,0.0,de,1.0,4055193-3,2523118,T,37.62304,13.93457,EUROPE-AFRICA,Italy,MED,Heat Wave
-339,Heizkurve,Heizkurve,LOC,0.56666667,0.33333333,de,1.0,,0,,,,,,,Heat Wave
-330,Nordamerikas,Nordamerikas,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-353,haben.weiterlesen,haben.weiterlesen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-352,t3n.de,t3n.de,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-351,Dax,Dax,LOC,0.0,0.0,de,1.0,1214333-9,3021670,P,43.71032,-1.05366,EUROPE-AFRICA,France,MED,Heat Wave
-129,Dreck,Dreck,LOC,0.0,0.0,de,1.0,,4142120,H,38.96595,-75.33714,NORTH-AMERICA,United States,ENA,Heat Wave
-349,Fuerteventura,Fuerteventura,LOC,0.0,0.0,de,1.0,4018826-7,6297185,S,28.45272,-13.86376,AFRICA,Spain,SAH,Heat Wave
-348,Malta,Malta,LOC,0.0,0.0,de,1.0,508790-9,2562770,A,35.91667,14.43333,EUROPE-AFRICA,Malta,MED,Heat Wave
-347,Chemie-Chef,Chemie-Chef,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-354,Mittleren Ring,Mittleren Ring,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-322,Newcastle,Newcastle,LOC,1.0,0.0,de,1.0,4117860-9,2641673,P,54.97328,-1.61396,EUROPE,United Kingdom,NEU,Heat Wave
-335,Brüsseler Ratsgebäude,Brüsseler Ratsgebäude,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-109,Berliner Landgerichts,Berliner Landgerichts,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-101,Entwicklungsstaaten,Entwicklungsstaaten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-350,Konsens,Konsens,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-128,Wasserstand,Wasserstand,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-127,Strandbesuch am Toten Meer,Strandbesuch am Toten Meer,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-126,Risiko,Risiko,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-125,Toten Meer,Toten Meer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-124,Teherans,Teherans,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-123,Landesvorstandes,Landesvorstandes,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-263,Polizeihubschrauber,Polizeihubschrauber,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-269,sol…,sol…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
-261,Oslo,Oslo,LOC,-1.0,0.0,de,1.0,1013733-6,3143244,P,59.91273,10.74609,EUROPE,Norway,NEU,Heat Wave
-260,Lösungen,Lösungen,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-259,Drohnenalarm,Drohnenalarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-274,Blauen Nil,Blauen Nil,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-273,Flughafen!,Flughafen!,LOC,1.4,0.0,de,1.0,,0,,,,,,,Heat Wave
-272,Afrika,Afrika,LOC,0.0,0.0,de,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Heat Wave
-271,Haupthofs,Haupthofs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-270,MQ,MQ,LOC,0.0,1.0,de,1.0,,3496393,L,21.0,-86.0,CENTRAL-AMERICA,,SCA,Heat Wave
-262,Drohnen-Alarm,Drohnen-Alarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-177,der Schweiz,der Schweiz,LOC,0.7,0.0,de,1.0,,2661324,P,47.14035,7.37175,EUROPE,Switzerland,WCE,Heat Wave
-176,Bündnis,Bündnis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-175,Asien,Asien,LOC,0.0,0.0,de,1.0,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB,Heat Wave
-174,Indonesien,Indonesien,LOC,-1.2,0.5,de,1.0,4026761-1,1643084,A,-5.0,120.0,ASIA,Indonesia,SEA,Heat Wave
-173,Hitzewellen,Hitzewellen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-172,Welthandel,Welthandel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-171,Saarlandes,Saarlandes,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-159,Klimaanlagen,Klimaanlagen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-185,Werkstattbrand,Werkstattbrand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-184,Drachenwand,Drachenwand,LOC,0.0,0.0,de,1.0,,2780725,T,47.81667,13.33333,EUROPE,Austria,WCE,Heat Wave
-183,Sankt Lorenz,Sankt Lorenz,LOC,0.0,0.0,de,1.0,,12059765,A,47.43333,19.17595,EUROPE,Hungary,WCE,Heat Wave
-182,Mondsee,Mondsee,LOC,0.0,0.0,de,1.0,4333077-0,2771278,H,47.81667,13.38333,EUROPE,Austria,WCE,Heat Wave
-181,saarländischen Landtag,saarländischen Landtag,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-180,Nachbarhaus,Nachbarhaus,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-179,Verbrennerverbot,Verbrennerverbot,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-194,Innenstadt,Innenstadt,LOC,0.0,0.0,de,1.0,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Heat Wave
-186,dpa/bb)-,dpa/bb)-,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-226,Klim... Belém,Klim... Belém,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-225,Rhein-Main,Rhein-Main,LOC,0.0,0.0,de,1.0,,2847616,L,50.0,8.66667,EUROPE,Germany,WCE,Heat Wave
-224,Australien,Australien,LOC,0.7,0.0,de,1.0,4003900-6,2077456,A,-25.0,135.0,OCEANIA,Australia,CAU,Heat Wave
-223,den USA,den USA,LOC,0.2,1.5,de,1.0,4011446-6,2747373,P,52.07667,4.29861,EUROPE,The Netherlands,NEU,Heat Wave
-222,Universums im Urknall,Universums im Urknall,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-221,Sterbefälle,Sterbefälle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-220,Hitzewelle,Hitzewelle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-178,Elektroauto,Elektroauto,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-170,Nordamerika,Nordamerika,LOC,0.0,1.0,de,1.0,4042483-2,6255149,L,46.07323,-100.54688,NORTH-AMERICA,United States,CNA,Heat Wave
-169,Wäldern,Wäldern,LOC,0.0,0.0,de,1.0,1075219485,3314082,L,49.11669,10.18334,EUROPE,Germany,WCE,Heat Wave
-168,Land Tirol,Land Tirol,LOC,0.0,0.0,de,1.0,4023019-3,2764958,P,47.28333,11.51667,EUROPE,Austria,WCE,Heat Wave
-167,Tirol,Tirol,LOC,0.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Heat Wave
-166,Marburger Uni…,Marburger Uni…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
-165,Siedlungsgebieten,Siedlungsgebieten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-164,Nordtirol,Nordtirol,LOC,-0.33333333,0.0,de,1.0,4440212-0,2775541,P,47.4498,12.15659,EUROPE,Austria,WCE,Heat Wave
-163,Könige,Könige,LOC,0.0,1.0,de,1.0,,2780688,T,47.08333,11.86667,EUROPE,Austria,WCE,Heat Wave
-219,Statistische Bundesamt am Dienstag,Statistische Bundesamt am Dienstag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-143,Edmonton,Edmonton,LOC,0.0,1.0,de,1.0,4085533-8,5946768,P,53.55014,-113.46871,NORTH-AMERICA,Canada,NWN,Heat Wave
-142,Meeresfauna,Meeresfauna,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-141,Roten Meer,Roten Meer,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-140,Wintersturm,Wintersturm,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-139,US-Bundesstaat,US-Bundesstaat,LOC,-1.0,0.0,de,1.0,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Heat Wave
-154,Notstand,Notstand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-153,Offenbach/Mainz,Offenbach/Mainz,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-193,Hauptbahnhof,Hauptbahnhof,LOC,0.0,0.0,de,1.0,,8581471,S,48.18479,16.37803,EUROPE,Austria,WCE,Heat Wave
-151,Robben,Robben,LOC,-1.0,0.0,de,1.0,,3362356,T,-33.80642,18.36876,AFRICA,South Africa,WSAF,Heat Wave
-150,Thüringen,Thüringen,LOC,1.0,0.0,de,1.0,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Heat Wave
-149,Altglas,Altglas,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-148,Bayerns,Bayerns,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-147,Vesuv-Ausbruchs,Vesuv-Ausbruchs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-162,Remedur,Remedur,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-161,Südkorea,Südkorea,LOC,0.0,1.0,de,1.0,4078029-6,1835841,A,36.5,127.75,ASIA,South Korea,EAS,Heat Wave
-160,Japan,Japan,LOC,0.0,1.0,de,1.0,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS,Heat Wave
-152,Indien,Indien,LOC,0.0,1.0,de,1.0,4026722-2,1269750,A,22.0,79.0,ASIA,India,SAS,Heat Wave
-192,Thailand,Thailand,LOC,-1.2,0.5,de,1.0,4078228-1,1605651,A,15.5,101.0,ASIA,Thailand,SEA,Heat Wave
-191,Dresden/Wien,Dresden/Wien,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-190,Belem,Belem,LOC,0.7,0.0,de,1.0,4208294-8,3405870,P,-1.45583,-48.50444,SOUTH-AMERICA,Brazil,NES,Heat Wave
-189,Kassel/Frankfurt/Darmstadt,Kassel/Frankfurt/Darmstadt,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Heat Wave
-188,Sri Lanka,Sri Lanka,LOC,-1.2,0.5,de,1.0,4009696-8,1227603,A,7.75,80.75,INDIAN,Sri Lanka,BOB,Heat Wave
-187,Park Babelsberg“,Park Babelsberg“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-138,Andernach,Andernach,LOC,0.0,0.0,de,1.0,4001919-6,2956206,P,50.43109,7.40425,EUROPE,Germany,WCE,Heat Wave
-144,Kanada-Kältehammer,Kanada-Kältehammer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-136,Griechenland,Griechenland,LOC,0.0,0.0,de,1.0,4022047-3,390903,A,39.0,22.0,EUROPE-AFRICA,Greece,MED,Heat Wave
-135,Gefährdungsgebieten,Gefährdungsgebieten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-134,Nachschiebeliste,Nachschiebeliste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-133,Potsdamer Stadtverordneten,Potsdamer Stadtverordneten,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
-132,Bangladesch,Bangladesch,LOC,0.0,0.0,de,1.0,4130903-0,1210997,A,24.0,90.0,ASIA,Bangladesh,SAS,Heat Wave
-131,Haus der Kopf,Haus der Kopf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
-146,Jahresverlauf,Jahresverlauf,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
-145,Pompeji,Pompeji,LOC,0.0,0.0,de,1.0,4046755-7,3170336,S,40.75,14.48333,EUROPE-AFRICA,Italy,MED,Heat Wave
-137,Behördenangaben,Behördenangaben,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+0,Südtirol,Südtirol,LOC,-0.18441065,0.04435995,de,78.9,4060814-1,3165244,A,46.5,11.33333,EUROPE,Italy,WCE,Snow Avalanche
+1,Tirol,Tirol,LOC,0.25384615,0.08974359,de,39.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Snow Avalanche
+2,Alpen,Alpen,LOC,-0.10493827,0.0308642,de,32.4,4001328-5,682673,T,45.5,24.25,EUROPE,Romania,WCE,Snow Avalanche
+3,Bayern,Bayern,LOC,0.00460829,0.0,de,21.7,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Snow Avalanche
+4,Deutschland,Deutschland,LOC,-0.19745223,0.06369427,de,15.7,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Snow Avalanche
+5,Ortlergebirge,Ortlergebirge,LOC,-0.16,0.13333333,de,15.0,,0,,,,,,,Snow Avalanche
+6,Stubaier,Stubaier,LOC,0.0,0.0,de,13.6,,2764095,T,47.08333,11.16667,EUROPE,Austria,WCE,Snow Avalanche
+7,Himalaya,Himalaya,LOC,-0.17910448,0.0,de,13.4,4024923-2,1252558,T,28.0,84.0,ASIA,Nepal,TIB,Snow Avalanche
+8,Nepal,Nepal,LOC,0.08196721,0.0,de,12.2,4041612-4,1282988,A,28.0,84.0,ASIA,Nepal,TIB,Snow Avalanche
+9,Norditalien,Norditalien,LOC,-0.11864407,0.0,de,11.8,,0,,,,,,,Snow Avalanche
+10,Lawinenunglück,Lawinenunglück,LOC,-0.0877193,0.0,de,11.4,,0,,,,,,,Snow Avalanche
+12,Lawinenabgang,Lawinenabgang,LOC,0.0,0.0,de,10.1,,0,,,,,,,Snow Avalanche
+11,Lawinen,Lawinen,LOC,0.0,0.0990099,de,10.1,,3868469,H,-49.36246,-74.65861,SOUTH-AMERICA,Chile,SSA,Snow Avalanche
+13,Lawine,Lawine,LOC,0.4,0.0,de,10.0,,11355774,P,31.72819,-6.8798,EUROPE-AFRICA,Morocco,MED,Snow Avalanche
+14,Baden-Württemberg,Baden-Württemberg,LOC,-0.485,0.0,de,10.0,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Snow Avalanche
+15,Himalaya-Gebirge,Himalaya-Gebirge,LOC,-0.51052632,0.0,de,9.5,,0,,,,,,,Snow Avalanche
+16,Italien,Italien,LOC,-0.05952381,0.05952381,de,8.4,4027833-5,3175395,A,42.83333,12.83333,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+17,…,…,LOC,0.08536585,0.0,de,8.2,,0,,,,,,,Snow Avalanche
+18,Tiroler,Tiroler,LOC,0.0,0.0,de,8.2,,2783037,H,47.85,12.5,EUROPE,Germany,WCE,Snow Avalanche
+19,Bozen,Bozen,LOC,0.17948718,0.0,de,7.8,4007901-6,3181913,P,46.49067,11.33982,EUROPE,Italy,WCE,Snow Avalanche
+20,Stubaier Gletscher,Stubaier Gletscher,LOC,0.09589041,0.0,de,7.3,,0,,,,,,,Snow Avalanche
+21,Lawinenabgängen,Lawinenabgängen,LOC,-0.3125,0.0,de,6.4,,0,,,,,,,Snow Avalanche
+22,Frankreich,Frankreich,LOC,-0.421875,0.0,de,6.4,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Snow Avalanche
+23,Ortler-Gebirge,Ortler-Gebirge,LOC,-0.16666667,0.0,de,6.0,,0,,,,,,,Snow Avalanche
+24,Österreich,Österreich,LOC,-0.42105263,0.0,de,5.7,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Snow Avalanche
+25,Kitzbühel,Kitzbühel,LOC,0.0,0.0,de,5.5,4030895-9,2774347,P,47.44637,12.39215,EUROPE,Austria,WCE,Snow Avalanche
+26,Ri,Ri,LOC,-0.21276596,0.0,de,4.7,4042300-1,2328926,A,10.0,8.0,AFRICA,Nigeria,WAF,Snow Avalanche
+28,Schneemassen,Schneemassen,LOC,-0.22340426,0.10638298,de,4.7,,0,,,,,,,Snow Avalanche
+27,Bergen,Bergen,LOC,0.0,0.0,de,4.7,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Snow Avalanche
+29,Mount Everest,Mount Everest,LOC,0.0,0.0,de,3.9,4040417-1,1283416,T,27.98791,86.92529,ASIA,China,TIB,Snow Avalanche
+30,Lawinen-Drama,Lawinen-Drama,LOC,-0.51282051,0.0,de,3.9,,0,,,,,,,Snow Avalanche
+31,Griechenland,Griechenland,LOC,0.0,0.0,de,3.7,4022047-3,390903,A,39.0,22.0,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+32,Zentralgriechenland,Zentralgriechenland,LOC,-0.27027027,0.0,de,3.7,,0,,,,,,,Snow Avalanche
+33,Rettungseinsatz,Rettungseinsatz,LOC,0.0,0.0,de,3.7,,0,,,,,,,Snow Avalanche
+34,Goch,Goch,LOC,-0.48571429,0.0,de,3.5,4021402-3,6696828,T,53.0128,-4.24137,EUROPE,United Kingdom,NEU,Snow Avalanche
+35,Hamburg,Hamburg,LOC,-0.21875,0.625,de,3.2,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Snow Avalanche
+36,Himalaja,Himalaja,LOC,0.0,0.0,de,2.9,4024923-2,12631325,T,61.47832,22.29583,EUROPE,Finland,NEU,Snow Avalanche
+42,Allgäuer Alpen,Allgäuer Alpen,LOC,-0.35714286,0.0,de,2.8,4001265-7,2958341,T,47.4,10.25,EUROPE,Germany,WCE,Snow Avalanche
+45,Neukölln,Neukölln,LOC,0.0,0.0,de,2.8,4102500-3,2864695,P,52.47719,13.43126,EUROPE,Germany,WCE,Snow Avalanche
+44,Italiener,Italiener,LOC,-0.5,0.0,de,2.8,,12216629,R,46.60614,13.84133,EUROPE,Austria,WCE,Snow Avalanche
+43,Valle Maira,Valle Maira,LOC,0.0,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+38,Piemont,Piemont,LOC,0.0,0.0,de,2.8,4046039-3,3170831,A,45.0,8.0,EUROPE,Italy,WCE,Snow Avalanche
+41,französischen Alpen,französischen Alpen,LOC,-0.35714286,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+40,bayerischen Alpen,bayerischen Alpen,LOC,0.25,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+39,Nepals,Nepals,LOC,0.0,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+37,Daunscharte,Daunscharte,LOC,0.125,0.17857143,de,2.8,,11808634,T,46.9914,11.0916,EUROPE,Austria,WCE,Snow Avalanche
+46,Regen,Regen,LOC,-0.26923077,0.0,de,2.6,4048975-9,2849495,P,48.9719,13.12824,EUROPE,Germany,WCE,Snow Avalanche
+52,Rolwalingtal,Rolwalingtal,LOC,0.0,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+55,Bobojach,Bobojach,LOC,0.35,0.0,de,2.0,,2781662,P,47.01667,12.4,EUROPE,Austria,WCE,Snow Avalanche
+54,Probanden,Probanden,LOC,1.0,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+53,Salzburg,Salzburg,LOC,0.35,0.0,de,2.0,4076982-3,2766824,P,47.79941,13.04399,EUROPE,Austria,WCE,Snow Avalanche
+47,Unfälle,Unfälle,LOC,0.0,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+51,Trentino,Trentino,LOC,-0.35,0.0,de,2.0,4060814-1,3165244,A,46.5,11.33333,EUROPE,Italy,WCE,Snow Avalanche
+49,bergen,bergen,LOC,0.0,0.0,de,2.0,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Snow Avalanche
+48,Großen Schmiedinger,Großen Schmiedinger,LOC,0.7,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+50,Schwaben,Schwaben,LOC,0.0,0.0,de,2.0,4053668-3,2824481,L,48.0,9.0,EUROPE,Germany,WCE,Snow Avalanche
+79,Kapuzinerberg,Kapuzinerberg,LOC,0.0,0.0,de,1.9,,2774753,T,47.80399,13.05734,EUROPE,Austria,WCE,Snow Avalanche
+74,Omachi,Omachi,LOC,0.0,0.0,de,1.9,,6201387,U,29.21667,140.76667,PACIFIC,,NPO,Snow Avalanche
+75,Zweier-Gruppe,Zweier-Gruppe,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+76,Dolomiten,Dolomiten,LOC,-1.05263158,0.0,de,1.9,4012682-1,6299589,S,46.46019,11.32638,EUROPE,Italy,WCE,Snow Avalanche
+77,Norditaliens,Norditaliens,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+78,"Ringe""-Dreh","Ringe""-Dreh",LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+80,Skifahrern,Skifahrern,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+71,Vardousia-Bergen,Vardousia-Bergen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+81,Landkreis Göppingen,Landkreis Göppingen,LOC,0.0,0.0,de,1.9,4021434-5,2919054,P,48.70354,9.65209,EUROPE,Germany,WCE,Snow Avalanche
+82,Notfälle,Notfälle,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+83,Maira-Tal,Maira-Tal,LOC,-0.07894737,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+84,Reutte,Reutte,LOC,-0.36842105,0.0,de,1.9,4049661-2,2767510,A,47.41667,10.55,EUROPE,Austria,WCE,Snow Avalanche
+85,Toyama,Toyama,LOC,0.0,0.0,de,1.9,4230546-9,1849876,P,36.7,137.21667,ASIA,Japan,EAS,Snow Avalanche
+72,Karabiner,Karabiner,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+73,Rom,Rom,LOC,0.0,0.0,de,1.9,4050471-2,3169070,P,41.89193,12.51133,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+70,Japanischen Alpen,Japanischen Alpen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+62,Deutschlands,Deutschlands,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+56,Berlin,Berlin,LOC,-1.78947368,0.0,de,1.9,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Snow Avalanche
+57,Brandenburg,Brandenburg,LOC,-1.78947368,0.0,de,1.9,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Snow Avalanche
+58,Unglücke,Unglücke,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+69,Japan,Japan,LOC,-0.36842105,0.0,de,1.9,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS,Snow Avalanche
+60,Pyrenäen,Pyrenäen,LOC,-1.05263158,0.0,de,1.9,4047911-0,6299377,S,43.38,-0.41861,EUROPE-AFRICA,France,MED,Snow Avalanche
+61,Tateyama-Kurobe-Alpenroute,Tateyama-Kurobe-Alpenroute,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+59,Fokida,Fokida,LOC,0.0,0.0,de,1.9,,262322,A,38.5,22.25,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+63,Land,Land,LOC,-0.73684211,0.0,de,1.9,,3421288,L,81.9,-56.75,POLAR,Greenland,GIC,Snow Avalanche
+64,Ortler-Alpen,Ortler-Alpen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+65,Süddeutschland,Süddeutschland,LOC,-0.52631579,0.0,de,1.9,4078022-3,12909096,L,48.58781,10.71652,EUROPE,Germany,WCE,Snow Avalanche
+66,Japans Alpen,Japans Alpen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+67,Marmolata,Marmolata,LOC,-1.05263158,0.0,de,1.9,4074592-2,3173892,T,46.43459,11.8509,EUROPE,Italy,WCE,Snow Avalanche
+68,Leitstelle Tirol,Leitstelle Tirol,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+86,Reißleine,Reißleine,LOC,-0.77777778,0.0,de,1.8,,0,,,,,,,Snow Avalanche
+87,Stadt,Stadt,LOC,-0.77777778,0.0,de,1.8,,2661604,P,47.55839,7.57327,EUROPE,Switzerland,WCE,Snow Avalanche
+88,Ballast,Ballast,LOC,-0.38888889,0.0,de,1.8,,2077282,T,-35.75013,137.75534,OCEANIA,Australia,SAU,Snow Avalanche
+89,Schneelast,Schneelast,LOC,1.3125,0.0,de,1.6,,0,,,,,,,Snow Avalanche
+90,Schnee,Schnee,LOC,0.5,0.0,de,1.4,,2728679,T,80.42142,19.61903,ARCTIC,Svalbard and Jan Mayen,ARO,Snow Avalanche
+95,Trainingsplätze,Trainingsplätze,LOC,0.0,0.0,de,1.3,,0,,,,,,,Snow Avalanche
+98,Hoffenheim,Hoffenheim,LOC,-1.53846154,0.0,de,1.3,4815169-5,2902584,P,49.272,8.84099,EUROPE,Germany,WCE,Snow Avalanche
+97,China,China,LOC,-0.76923077,0.76923077,de,1.3,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Snow Avalanche
+96,Hamburgs,Hamburgs,LOC,-0.35897436,0.25641026,de,1.3,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Snow Avalanche
+94,Wind,Wind,LOC,-1.53846154,0.0,de,1.3,,8335343,L,31.29,18.03,EUROPE-AFRICA,,MED,Snow Avalanche
+91,Kalifornien,Kalifornien,LOC,-0.76923077,0.0,de,1.3,4029307-5,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Snow Avalanche
+93,Glatteis,Glatteis,LOC,-1.53846154,0.0,de,1.3,,0,,,,,,,Snow Avalanche
+92,Liga-Restart,Liga-Restart,LOC,-1.53846154,0.0,de,1.3,,0,,,,,,,Snow Avalanche
+99,Willingen,Willingen,LOC,0.0,0.0,de,1.2,5350718-6,2808544,P,51.29418,8.6091,EUROPE,Germany,WCE,Snow Avalanche
+100,Hessens,Hessens,LOC,0.0,0.0,de,1.2,,0,,,,,,,Snow Avalanche
+101,Hessen,Hessen,LOC,0.0,0.0,de,1.2,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Snow Avalanche
+102,Zillertal,Zillertal,LOC,-0.83333333,0.0,de,1.2,4109019-6,7602524,L,47.24321,12.0249,EUROPE,Austria,WCE,Snow Avalanche
+103,Wochenmitte,Wochenmitte,LOC,0.0,0.83333333,de,1.2,,0,,,,,,,Snow Avalanche
+104,Wasserkuppe,Wasserkuppe,LOC,0.0,0.0,de,1.1,4064748-1,2813735,T,50.4982,9.93739,EUROPE,Germany,WCE,Snow Avalanche
+217,SZ,SZ,LOC,0.0,0.0,de,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Snow Avalanche
+218,Weltmeeren,Weltmeeren,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+219,Mittelmeer,Mittelmeer,LOC,-0.7,0.0,de,1.0,4074895-9,363196,H,35.0,20.0,EUROPE-AFRICA,,MED,Snow Avalanche
+220,Böen,Böen,LOC,0.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Snow Avalanche
+221,Sturmtief,Sturmtief,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+222,Ostsee,Ostsee,LOC,0.0,0.0,de,1.0,4021328-6,2919765,P,54.83503,9.55218,EUROPE,Germany,NEU,Snow Avalanche
+225,Iseltal,Iseltal,LOC,0.7,0.0,de,1.0,4699408-7,3217409,T,46.91444,12.61583,EUROPE,Austria,WCE,Snow Avalanche
+223,Tibet,Tibet,LOC,-0.7,0.0,de,1.0,4111286-6,1280737,P,29.65,91.1,ASIA,China,TIB,Snow Avalanche
+224,Lupe,Lupe,LOC,0.0,0.0,de,1.0,,11881015,L,-14.29531,-178.12616,PACIFIC,Wallis and Futuna,SPO,Snow Avalanche
+229,Cholatse,Cholatse,LOC,1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+226,Bezirk Reutte,Bezirk Reutte,LOC,0.0,0.0,de,1.0,4049663-6,2767510,A,47.41667,10.55,EUROPE,Austria,WCE,Snow Avalanche
+227,Neustift im Stubaital,Neustift im Stubaital,LOC,0.7,0.0,de,1.0,4126139-2,2770651,P,47.11667,11.31667,EUROPE,Austria,WCE,Snow Avalanche
+228,Staaten,Staaten,LOC,-1.0,0.0,de,1.0,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA,Snow Avalanche
+215,Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,1.0,4003191-3,2955272,P,49.97704,9.15214,EUROPE,Germany,WCE,Snow Avalanche
+230,Bergs,Bergs,LOC,1.0,0.0,de,1.0,7773827-5,2722709,A,62.86106,13.71181,EUROPE,Sweden,NEU,Snow Avalanche
+231,Stadt Salzburg,Stadt Salzburg,LOC,0.0,0.0,de,1.0,4076982-3,2766824,P,47.79941,13.04399,EUROPE,Austria,WCE,Snow Avalanche
+232,Steinschlagschutz-Netze,Steinschlagschutz-Netze,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+233,Gefahrenstufen,Gefahrenstufen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+234,Lawinenprobleme,Lawinenprobleme,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+216,Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1.0,4005574-7,2950881,P,47.63236,13.00187,EUROPE,Germany,WCE,Snow Avalanche
+210,Nordsee,Nordsee,LOC,-2.0,0.0,de,1.0,4042579-4,2960848,H,55.33333,3.0,EUROPE,,NEU,Snow Avalanche
+214,Freistaat,Freistaat,LOC,0.0,0.0,de,1.0,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Snow Avalanche
+213,Hochgebirge,Hochgebirge,LOC,-0.7,0.0,de,1.0,4252330-8,2768175,P,47.63333,15.93333,EUROPE,Austria,WCE,Snow Avalanche
+194,Arlberg,Arlberg,LOC,-0.7,0.0,de,1.0,4196372-6,2766757,P,47.1275,10.26372,EUROPE,Austria,WCE,Snow Avalanche
+195,Favelas,Favelas,LOC,0.0,0.0,de,1.0,,3400448,H,-6.01532,-40.26168,SOUTH-AMERICA,Brazil,NES,Snow Avalanche
+196,Rio de Janeiro,Rio de Janeiro,LOC,0.0,0.0,de,1.0,4076741-3,3451190,P,-22.90642,-43.18223,SOUTH-AMERICA,Brazil,SES,Snow Avalanche
+197,Fährausfälle,Fährausfälle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+198,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+199,Bergsteigerlagern,Bergsteigerlagern,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+200,Schneesturm,Schneesturm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+201,Neuschnee,Neuschnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+202,Unterfranken,Unterfranken,LOC,-1.0,0.0,de,1.0,4061905-9,2822571,P,50.20097,10.31906,EUROPE,Germany,WCE,Snow Avalanche
+203,Wetterexperten,Wetterexperten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+204,Dauerregen,Dauerregen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+205,Franken,Franken,LOC,0.0,0.0,de,1.0,4018093-1,2803465,L,50.0,9.0,EUROPE,Germany,WCE,Snow Avalanche
+206,Oberfranken,Oberfranken,LOC,0.0,0.0,de,1.0,4049080-4,2849446,P,50.24921,12.03422,EUROPE,Germany,WCE,Snow Avalanche
+207,Oberpfalz,Oberpfalz,LOC,0.0,0.0,de,1.0,4041837-6,2864549,P,49.28028,11.46278,EUROPE,Germany,WCE,Snow Avalanche
+208,Alpennähe,Alpennähe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+209,Klimakurve,Klimakurve,LOC,1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+236,Ausschaufeln,Ausschaufeln,LOC,1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+211,Klima-Experte,Klima-Experte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+212,Notbremse,Notbremse,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+235,Schneedeckenaufbau,Schneedeckenaufbau,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+241,Rettungskräfte,Rettungskräfte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+237,Bezirk Innsbruck-Land…,Bezirk Innsbruck-Land…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+269,Lärchen,Lärchen,LOC,0.0,0.0,de,1.0,,2880419,T,50.61056,9.45018,EUROPE,Germany,WCE,Snow Avalanche
+261,Vertai…,Vertai…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Snow Avalanche
+262,Bergwacht,Bergwacht,LOC,0.0,1.0,de,1.0,,0,,,,,,,Snow Avalanche
+263,Lawinendrama,Lawinendrama,LOC,-0.35,0.5,de,1.0,,0,,,,,,,Snow Avalanche
+264,Sch…,Sch…,LOC,-0.35,0.5,de,1.0,,0,,,,,,,Snow Avalanche
+265,Vertainspitze,Vertainspitze,LOC,-0.7,0.0,de,1.0,,6690374,T,46.53832,10.63537,EUROPE,Italy,WCE,Snow Avalanche
+266,Italiens,Italiens,LOC,0.0,0.0,de,1.0,,6116880,H,46.36199,-74.81286,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+267,Samstagnachmi…,Samstagnachmi…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+268,Ital…,Ital…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+270,Ortler-Massiv,Ortler-Massiv,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+259,Südtiroler Ortlergebirge,Südtiroler Ortlergebirge,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+271,Sa…,Sa…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+272,bayerischen Landeskriminalamt,bayerischen Landeskriminalamt,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+273,Landkreis…,Landkreis…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+274,Behördenangaben,Behördenangaben,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+275,Saisonbeginn,Saisonbeginn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+276,Lawinenseminar,Lawinenseminar,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+277,Niedernsill,Niedernsill,LOC,0.7,0.0,de,1.0,4538098-3,7872245,A,47.26303,12.64877,EUROPE,Austria,WCE,Snow Avalanche
+278,Pinz…,Pinz…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+260,Südtiroler Alpen,Südtiroler Alpen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+258,Sulden,Sulden,LOC,0.0,0.0,de,1.0,4058547-5,3166437,P,46.52715,10.58905,EUROPE,Italy,WCE,Snow Avalanche
+238,“,“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+247,Österreichs Bergen,Österreichs Bergen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+239,St…,St…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+240,Taiwan,Taiwan,LOC,0.0,0.0,de,1.0,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Snow Avalanche
+192,Hahntennjoch,Hahntennjoch,LOC,0.7,0.0,de,1.0,,2777043,T,47.28333,10.65,EUROPE,Austria,WCE,Snow Avalanche
+242,P…,P…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+243,Skipiste hinunterstürze,Skipiste hinunterstürze,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+244,Stuben,Stuben,LOC,0.0,0.0,de,1.0,,4926796,A,41.64387,-85.00077,NORTH-AMERICA,United States,ENA,Snow Avalanche
+245,Landkreis Ostallgäu,Landkreis Ostallgäu,LOC,0.0,0.0,de,1.0,4018831-0,2923507,P,47.57143,10.70171,EUROPE,Germany,WCE,Snow Avalanche
+246,Donnerstag am …,Donnerstag am …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+248,Lawinen-Rucksack,Lawinen-Rucksack,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+257,L…,L…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+249,Sicherheitsarmband,Sicherheitsarmband,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+250,Anti-Erstickungspumpe,Anti-Erstickungspumpe,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+251,Ehrwald,Ehrwald,LOC,0.0,0.0,de,1.0,4232857-3,3319581,P,47.4,10.91667,EUROPE,Austria,WCE,Snow Avalanche
+252,Wintersaison,Wintersaison,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+253,Bergsteigern im Himalaya,Bergsteigern im Himalaya,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+254,Berg Yalung Ri,Berg Yalung Ri,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+255,Kitzsteinhorn-Gebiet,Kitzsteinhorn-Gebiet,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+256,Landes,Landes,LOC,0.0,0.0,de,1.0,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Snow Avalanche
+193,Imst,Imst,LOC,0.7,0.0,de,1.0,4026692-8,2775307,P,47.24504,10.73974,EUROPE,Austria,WCE,Snow Avalanche
+140,Vorschein,Vorschein,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+191,Tirols Bergen,Tirols Bergen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+135,Schneemasse,Schneemasse,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+127,US-Bundesstaates,US-Bundesstaates,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+128,Kitzbühel von…,Kitzbühel von…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+129,Streif,Streif,LOC,0.0,0.0,de,1.0,,11523528,T,50.12575,10.80012,EUROPE,Germany,WCE,Snow Avalanche
+130,Kitzbüheler,Kitzbüheler,LOC,-1.0,0.0,de,1.0,,2774342,T,47.46667,12.41667,EUROPE,Austria,WCE,Snow Avalanche
+131,Cuneo,Cuneo,LOC,0.0,0.0,de,1.0,4010768-1,6299587,S,44.54702,7.62322,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+132,Freitag ob…,Freitag ob…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+133,Landes am Morgen,Landes am Morgen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+134,Ski-Tour,Ski-Tour,LOC,0.0,0.0,de,1.0,,11592437,P,50.8648,4.34651,EUROPE,Belgium,WCE,Snow Avalanche
+136,Mailand,Mailand,LOC,0.0,0.0,de,1.0,4037100-1,3173435,P,45.46427,9.18951,EUROPE,Italy,WCE,Snow Avalanche
+125,Reformstau,Reformstau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+137,Glätte-Unfälle,Glätte-Unfälle,LOC,0.0,1.0,de,1.0,,0,,,,,,,Snow Avalanche
+138,Tiroler Bergen,Tiroler Bergen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+139,Fügen-Kaltenbach,Fügen-Kaltenbach,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+141,Sicherheitsgründen,Sicherheitsgründen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+142,Leipzig-Spiel,Leipzig-Spiel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+143,St. Pauli,St. Pauli,LOC,0.0,0.0,de,1.0,4118227-3,5045360,P,44.94441,-93.09327,NORTH-AMERICA,United States,CNA,Snow Avalanche
+144,Bundesliga-Partien,Bundesliga-Partien,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+145,Meterhohe Schneeverwehungen,Meterhohe Schneeverwehungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+126,Sporthallen,Sporthallen,LOC,0.0,0.0,de,1.0,,6951789,S,52.34026,4.85396,EUROPE,The Netherlands,NEU,Snow Avalanche
+124,Führerrolle,Führerrolle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+147,Schneeräumen,Schneeräumen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+113,Österreich…,Österreich…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+105,Schlammlawine,Schlammlawine,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+106,Wrightwood,Wrightwood,LOC,-1.0,0.0,de,1.0,,5410682,P,34.36083,-117.63339,NORTH-AMERICA,United States,WNA,Snow Avalanche
+107,Südkalifornien,Südkalifornien,LOC,-1.0,0.0,de,1.0,4096903-4,5404905,S,34.0218,-118.28664,NORTH-AMERICA,United States,WNA,Snow Avalanche
+108,Los Angeles,Los Angeles,LOC,0.0,0.0,de,1.0,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Snow Avalanche
+109,Vorschau,Vorschau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+110,Witz,Witz,LOC,0.0,0.0,de,1.0,,2976557,P,49.091,2.57122,EUROPE,France,WCE,Snow Avalanche
+111,Großglockner-Fall,Großglockner-Fall,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+112,USA,USA,LOC,0.0,0.0,de,1.0,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+114,Österreichs,Österreichs,LOC,0.7,0.0,de,1.0,,13513071,S,48.2043,16.37016,EUROPE,Austria,WCE,Snow Avalanche
+123,Pinzgauer Straße,Pinzgauer Straße,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+115,Europa,Europa,LOC,0.66666667,0.33333333,de,1.0,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Snow Avalanche
+116,Was-wäre-wenn,Was-wäre-wenn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+117,Pinzgau,Pinzgau,LOC,0.7,0.0,de,1.0,4046112-9,2762000,P,47.24643,12.22731,EUROPE,Austria,WCE,Snow Avalanche
+118,Lofer,Lofer,LOC,0.7,0.0,de,1.0,4036192-5,2772330,P,47.58475,12.69333,EUROPE,Austria,WCE,Snow Avalanche
+119,Gletscher-Sterben,Gletscher-Sterben,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+120,Weißbach,Weißbach,LOC,0.7,0.0,de,1.0,,2812018,H,51.03505,10.9736,EUROPE,Germany,WCE,Snow Avalanche
+121,Kreis Kleve,Kreis Kleve,LOC,-1.0,0.0,de,1.0,4031156-9,2887835,P,51.78826,6.13865,EUROPE,Germany,WCE,Snow Avalanche
+122,B311,B311,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+146,Eisregen,Eisregen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+148,Schneesturmwarnung,Schneesturmwarnung,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+190,Tirols,Tirols,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+180,Erdsystems,Erdsystems,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+172,Alpendorf,Alpendorf,LOC,0.0,0.0,de,1.0,117068968X,2605968,P,47.31667,13.2,EUROPE,Austria,WCE,Snow Avalanche
+173,Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+174,Wochenanfang,Wochenanfang,LOC,-1.4,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+175,Meteorologen,Meteorologen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+176,Niederbayern,Niederbayern,LOC,-0.7,0.0,de,1.0,4034367-4,2881485,P,48.52961,12.16179,EUROPE,Germany,WCE,Snow Avalanche
+177,Näh…,Näh…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+178,Mount-Everest-Gebiet,Mount-Everest-Gebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+179,Erde,Erde,LOC,-1.85,0.0,de,1.0,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Snow Avalanche
+181,Australien,Australien,LOC,-0.81666667,0.83333333,de,1.0,4003900-6,2077456,A,-25.0,135.0,OCEANIA,Australia,CAU,Snow Avalanche
+170,Universität Innsbruck,Universität Innsbruck,LOC,0.85,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+182,München,München,LOC,0.0,0.0,de,1.0,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Snow Avalanche
+183,Wallis,Wallis,LOC,0.0,0.0,de,1.0,4210894-9,4034749,A,-13.3,-176.2,PACIFIC,Wallis and Futuna,SPO,Snow Avalanche
+184,Bayerns,Bayerns,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+185,Osttirol,Osttirol,LOC,0.7,0.0,de,1.0,4100637-9,2771828,P,47.0,12.53333,EUROPE,Austria,WCE,Snow Avalanche
+186,Temperaturen,Temperaturen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+187,Montagnachmittag,Montagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+188,Hochfügenerstraße,Hochfügenerstraße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+189,Bezirk Schwaz,Bezirk Schwaz,LOC,0.0,0.0,de,1.0,4053811-4,2765389,A,47.26667,11.76667,EUROPE,Austria,WCE,Snow Avalanche
+171,Zugspitze19-Jähriger,Zugspitze19-Jähriger,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+169,Pistenwacht,Pistenwacht,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+149,di…,di…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+158,Sturmböen,Sturmböen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+150,La Plagne/Valloire,La Plagne/Valloire,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+151,Savoie  ,Savoie  ,LOC,0.0,0.0,de,1.0,,2975517,A,45.46805,6.48547,EUROPE,France,WCE,Snow Avalanche
+152,Valloire,Valloire,LOC,0.0,0.0,de,1.0,4288453-6,2976895,P,45.28774,4.94903,EUROPE,France,WCE,Snow Avalanche
+153,Savoie,Savoie,LOC,0.0,0.0,de,1.0,117150-1,2975517,A,45.46805,6.48547,EUROPE,France,WCE,Snow Avalanche
+154,Schaufel,Schaufel,LOC,0.0,0.0,de,1.0,7832124-4,2840157,T,51.0,11.4,EUROPE,Germany,WCE,Snow Avalanche
+155,Athen,Athen,LOC,0.0,0.0,de,1.0,4003366-1,264371,P,37.98376,23.72784,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+156,Ökonom Feld,Ökonom Feld,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+157,Industrie-Krise,Industrie-Krise,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+159,Frankreichs,Frankreichs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+168,Tauferer Ahrntal,Tauferer Ahrntal,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+160,Ungar,Ungar,LOC,0.0,0.0,de,1.0,4078541-5,719819,A,47.0,20.0,EUROPE,Hungary,WCE,Snow Avalanche
+161,Union,Union,LOC,0.0,0.0,de,1.0,1383822557,3584767,A,13.55,-87.9,CENTRAL-AMERICA,El Salvador,SCA,Snow Avalanche
+162,Riesernock,Riesernock,LOC,0.0,0.0,de,1.0,,7627990,T,46.92993,12.13191,EUROPE,Italy,WCE,Snow Avalanche
+163,Jugendfreizeiteinrichtungen,Jugendfreizeiteinrichtungen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+164,Rieserfernergruppe,Rieserfernergruppe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+165,Bezirk,Bezirk,LOC,0.7,0.0,de,1.0,5173948-3,598098,P,55.7068,21.13912,EUROPE,Lithuania,WCE,Snow Avalanche
+166,Gebäuden,Gebäuden,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+167,Winterchaos,Winterchaos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+279,Dachs,Dachs,LOC,-1.0,0.0,de,1.0,4119971-6,5132143,P,41.70037,-73.92097,NORTH-AMERICA,United States,ENA,Snow Avalanche
