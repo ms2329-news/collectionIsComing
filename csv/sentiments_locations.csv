@@ -1,100 +1,293 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Mars,Mars,LOC,0.02542373,0.0,de,11.8,,6621751,T,-76.66667,161.95,POLAR,Antarctica,EAN,Thunderstorm
-1,Hessen,Hessen,LOC,0.0,0.0,de,9.1,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Thunderstorm
-2,Saarland,Saarland,LOC,-0.08536585,0.0,de,8.2,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE,Thunderstorm
-3,Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.08536585,0.0,de,8.2,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Thunderstorm
-4,Ibiza,Ibiza,LOC,-0.17073171,0.0,de,8.2,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Thunderstorm
-5,Tourette,Tourette,LOC,0.05479452,0.1369863,de,7.3,4328062-6,3006197,P,43.38057,2.33399,EUROPE-AFRICA,France,MED,Thunderstorm
-6,Formentera,Formentera,LOC,-0.19178082,0.0,de,7.3,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Thunderstorm
-7,Baden-Württemberg,Baden-Württemberg,LOC,0.02205882,0.0,de,6.8,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Thunderstorm
-8,Deutschland,Deutschland,LOC,-0.02238806,0.0,de,6.7,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Thunderstorm
-9,Berlin,Berlin,LOC,-0.43636364,0.54545455,de,5.5,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Thunderstorm
-10,Sturmböen,Sturmböen,LOC,-0.15217391,0.0,de,4.6,,0,,,,,,,Thunderstorm
-11,Brandenburg,Brandenburg,LOC,-0.30434783,0.65217391,de,4.6,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Thunderstorm
-12,Erde,Erde,LOC,0.67391304,0.0,de,4.6,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Thunderstorm
-13,Bonn,Bonn,LOC,0.39130435,0.0,de,4.6,4007666-0,6296510,S,50.87894,7.12292,EUROPE,Germany,WCE,Thunderstorm
-14,Jupiter,Jupiter,LOC,0.83783784,0.0,de,3.7,,4160610,P,26.93422,-80.09421,NORTH-AMERICA,United States,ENA,Thunderstorm
-15,Saturn,Saturn,LOC,0.83783784,0.0,de,3.7,,6624777,T,-66.13333,101.15,POLAR,Antarctica,EAN,Thunderstorm
-16,…,…,LOC,0.0,0.0,de,3.0,,0,,,,,,,Thunderstorm
-19,Olympia,Olympia,LOC,-0.35714286,0.0,de,2.8,4271795-4,5805687,P,47.04491,-122.90169,NORTH-AMERICA,United States,WNA,Thunderstorm
-20,NRW,NRW,LOC,0.0,0.35714286,de,2.8,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
-17,Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.35714286,0.0,de,2.8,4036934-1,2874545,P,52.12773,11.62916,EUROPE,Germany,WCE,Thunderstorm
-18,Gewitter,Gewitter,LOC,0.0,0.0,de,2.8,,0,,,,,,,Thunderstorm
-21,Deutschlands,Deutschlands,LOC,0.0,0.0,de,2.0,,0,,,,,,,Thunderstorm
-22,Kaltfront,Kaltfront,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-23,Museum von Olympia,Museum von Olympia,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-24,Gewitterwolken,Gewitterwolken,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-25,Youtube-Szene,Youtube-Szene,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-26,Offenbach,Offenbach,LOC,0.0,0.0,de,1.9,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Thunderstorm
-27,Youtube-Kanal,Youtube-Kanal,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
-28,Instagram,Instagram,LOC,0.0,0.0,de,1.9,,12070367,S,40.63591,22.94217,EUROPE-AFRICA,Greece,MED,Thunderstorm
-29,Lübeck,Lübeck,LOC,-0.36842105,0.0,de,1.9,4036483-5,2875601,P,53.86893,10.68729,EUROPE,Germany,NEU,Thunderstorm
-30,Bali,Bali,LOC,0.0,0.0,de,1.9,4004327-7,1650534,T,-8.33333,115.0,ASIA,Indonesia,SEA,Thunderstorm
-31,Potsdam,Potsdam,LOC,-0.52631579,0.0,de,1.9,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Thunderstorm
-32,Sturmböen fegen,Sturmböen fegen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
-33,Gewittern,Gewittern,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-34,Tramuntana-Gebirge,Tramuntana-Gebirge,LOC,0.0,0.0,de,1.8,,0,,,,,,,Thunderstorm
-35,CDU-Landeschef,CDU-Landeschef,LOC,-0.46666667,0.0,de,1.5,,0,,,,,,,Thunderstorm
-36,Syrien,Syrien,LOC,-0.5,0.0,de,1.4,4058794-0,163843,A,35.0,38.0,EUROPE-AFRICA,Syria,MED,Thunderstorm
-38,Union,Union,LOC,-0.58333333,0.0,de,1.2,,3584767,A,13.55,-87.9,CENTRAL-AMERICA,El Salvador,SCA,Thunderstorm
-39,CSU-Chef,CSU-Chef,LOC,1.66666667,0.83333333,de,1.2,,0,,,,,,,Thunderstorm
-37,Landtagswahl,Landtagswahl,LOC,0.58333333,0.0,de,1.2,,0,,,,,,,Thunderstorm
-40,Stuttgart,Stuttgart,LOC,0.0,0.0,de,1.1,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Thunderstorm
-41,Rückführungen,Rückführungen,LOC,0.0,0.0,de,1.1,,0,,,,,,,Thunderstorm
-78,Böen,Böen,LOC,0.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Thunderstorm
-82,Tornados,Tornados,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-81,lsw,lsw,LOC,0.0,0.0,de,1.0,,1214658,P,5.1801,97.1507,ASIA,Indonesia,SEA,Thunderstorm
-80,CDU-Chef,CDU-Chef,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-79,Äste,Äste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-75,Freitagnachmittag,Freitagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-77,Orkanartige Böen,Orkanartige Böen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-76,Windböen,Windböen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-84,Flughafenstraße,Flughafenstraße,LOC,0.0,0.0,de,1.0,,10387153,S,47.1879,7.40601,EUROPE,Switzerland,WCE,Thunderstorm
-74,Harz,Harz,LOC,0.0,0.0,de,1.0,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Thunderstorm
-73,Tirol,Tirol,LOC,0.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Thunderstorm
-72,Wirtschaftskammer,Wirtschaftskammer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-83,lhe,lhe,LOC,0.0,0.0,de,1.0,4034107-0,1172451,P,31.558,74.35071,ASIA,Pakistan,WCA,Thunderstorm
-87,Landes,Landes,LOC,-0.7,0.0,de,1.0,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Thunderstorm
-85,Klimawandels,Klimawandels,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-86,Bayern,Bayern,LOC,0.0,0.0,de,1.0,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Thunderstorm
-88,Wetterkapriolen,Wetterkapriolen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-89,Theaterfestivals,Theaterfestivals,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-90,Wochenend-Wetter,Wochenend-Wetter,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-70,Schreihälse,Schreihälse,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-91,Oberharz,Oberharz,LOC,0.0,0.0,de,1.0,4042923-4,2860465,T,51.83224,10.469,EUROPE,Germany,WCE,Thunderstorm
-92,Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-93,Mallorca,Mallorca,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Thunderstorm
-94,Bucht vom Purt de Sóller,Bucht vom Purt de Sóller,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-95,Puig Major,Puig Major,LOC,0.0,0.0,de,1.0,7847917-4,2513992,T,39.80768,2.7943,EUROPE-AFRICA,Spain,MED,Thunderstorm
-96,Steiermark Gewitter,Steiermark Gewitter,LOC,-0.66666667,0.33333333,de,1.0,,0,,,,,,,Thunderstorm
-97,Peloponnes,Peloponnes,LOC,-1.0,0.0,de,1.0,4045064-8,255620,L,37.5,22.33333,EUROPE-AFRICA,Greece,MED,Thunderstorm
-71,Stadtbild-Debatte,Stadtbild-Debatte,LOC,0.85,0.0,de,1.0,,0,,,,,,,Thunderstorm
-49,Klosterneuburg,Klosterneuburg,LOC,0.0,0.0,de,1.0,4031235-5,2773913,P,48.30521,16.32522,EUROPE,Austria,WCE,Thunderstorm
-69,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.0,0.0,de,1.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
-68,Youtube,Youtube,LOC,0.7,0.0,de,1.0,,11789508,T,38.5173,-8.9055,EUROPE-AFRICA,Portugal,MED,Thunderstorm
-42,Abendstunden Sturmböen,Abendstunden Sturmböen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-43,YouTube-Kanal Gewitter,YouTube-Kanal Gewitter,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-44,Meteorologen,Meteorologen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-45,YouTube-Star,YouTube-Star,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-46,b…,b…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-47,Umständen,Umständen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-48,Blitze,Blitze,LOC,0.0,0.0,de,1.0,,2948144,P,50.7569,7.48473,EUROPE,Germany,WCE,Thunderstorm
-50,blitzarm,blitzarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-51,Erklärungen,Erklärungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-52,Schweigen,Schweigen,LOC,0.0,0.0,de,1.0,,2834579,T,51.4,10.81667,EUROPE,Germany,WCE,Thunderstorm
-53,Brandenburgs,Brandenburgs,LOC,-0.7,0.0,de,1.0,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Thunderstorm
-54,Skijäger-Kosmos,Skijäger-Kosmos,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-55,Stunden in der Luft,Stunden in der Luft,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-56,aufgewirbe…,aufgewirbe…,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-57,Gewitter-Gefahr,Gewitter-Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-58,Streaming-Partner,Streaming-Partner,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-59,Israel,Israel,LOC,0.0,0.0,de,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Thunderstorm
-60,Z…,Z…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-61,Gaza,Gaza,LOC,0.0,0.0,de,1.0,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
-62,Gazastreifen,Gazastreifen,LOC,-0.5,0.5,de,1.0,4019325-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
-63,Gewitter-im-Kopf,Gewitter-im-Kopf,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-64,Aufruhr,Aufruhr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-65,Pityusen,Pityusen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-66,November-Modus,November-Modus,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-67,Königswinter,Königswinter,LOC,-0.15,0.0,de,1.0,4031563-0,2885734,P,50.67734,7.19245,EUROPE,Germany,WCE,Thunderstorm
-98,Jahresverlauf,Jahresverlauf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+0,Philippinen,Philippinen,LOC,-0.16177929,0.10837229,de,235.3,,-1,,,,,,,Tropical Cyclone
+1,Jamaika,Jamaika,LOC,-0.2921519,0.09367089,de,197.5,,-1,,,,,,,Tropical Cyclone
+2,Vietnam,Vietnam,LOC,-0.02535697,0.0713934,de,67.7,,-1,,,,,,,Tropical Cyclone
+3,Kuba,Kuba,LOC,-0.24242424,0.03496503,de,57.2,,-1,,,,,,,Tropical Cyclone
+4,Südostasien,Südostasien,LOC,-0.07497858,0.14138817,de,38.9,,-1,,,,,,,Tropical Cyclone
+5,Karibik,Karibik,LOC,-0.25022222,0.18666667,de,37.5,,-1,,,,,,,Tropical Cyclone
+6,Wirbelsturm,Wirbelsturm,LOC,-0.2308642,0.0617284,de,27.0,,-1,,,,,,,Tropical Cyclone
+7,Haiti,Haiti,LOC,-0.17783094,0.0,de,20.9,,-1,,,,,,,Tropical Cyclone
+8,Karibikinsel,Karibikinsel,LOC,-0.26861702,0.15957447,de,18.8,,-1,,,,,,,Tropical Cyclone
+9,USA,USA,LOC,0.15243902,0.09146341,de,16.4,,-1,,,,,,,Tropical Cyclone
+10,Bahamas,Bahamas,LOC,-0.92253521,0.0,de,14.2,,-1,,,,,,,Tropical Cyclone
+11,Land,Land,LOC,0.06034483,0.0,de,11.6,,-1,,,,,,,Tropical Cyclone
+12,Bermuda,Bermuda,LOC,-0.33333333,0.0,de,10.8,,-1,,,,,,,Tropical Cyclone
+13,…,…,LOC,-0.14901961,0.03921569,de,8.5,,-1,,,,,,,Tropical Cyclone
+14,Taiwan,Taiwan,LOC,-0.25,0.0,de,8.4,,-1,,,,,,,Tropical Cyclone
+15,Sri Lanka,Sri Lanka,LOC,-0.26829268,0.06097561,de,8.2,,-1,,,,,,,Tropical Cyclone
+16,Atlantik,Atlantik,LOC,-1.04329004,0.12987013,de,7.7,,-1,,,,,,,Tropical Cyclone
+17,Karibikstaat,Karibikstaat,LOC,0.7,0.0,de,7.0,,-1,,,,,,,Tropical Cyclone
+18,Starkregen,Starkregen,LOC,0.0,0.0,de,6.7,,-1,,,,,,,Tropical Cyclone
+19,Stundenkilometern,Stundenkilometern,LOC,-0.59701493,0.2238806,de,6.7,,-1,,,,,,,Tropical Cyclone
+20,Behördenangaben,Behördenangaben,LOC,-0.8510101,0.12626263,de,6.6,,-1,,,,,,,Tropical Cyclone
+21,Indonesien,Indonesien,LOC,-0.5078125,0.15625,de,6.4,,-1,,,,,,,Tropical Cyclone
+22,Pazifik,Pazifik,LOC,-0.328125,0.0,de,6.4,,-1,,,,,,,Tropical Cyclone
+24,Kingston,Kingston,LOC,-0.11864407,0.0,de,5.9,,-1,,,,,,,Tropical Cyclone
+25,Jamaikas,Jamaikas,LOC,0.0,0.0,de,5.9,,-1,,,,,,,Tropical Cyclone
+23,Hurrikan,Hurrikan,LOC,-0.16949153,0.0,de,5.9,,-1,,,,,,,Tropical Cyclone
+26,Thailand,Thailand,LOC,0.49122807,0.0,de,5.7,,-1,,,,,,,Tropical Cyclone
+27,Sturm,Sturm,LOC,0.0,0.1754386,de,5.7,,-1,,,,,,,Tropical Cyclone
+28,Böen,Böen,LOC,-0.24561404,0.1754386,de,5.7,,-1,,,,,,,Tropical Cyclone
+29,Sturmböen,Sturmböen,LOC,0.0,0.0,de,5.7,,-1,,,,,,,Tropical Cyclone
+30,Brasiliens,Brasiliens,LOC,-0.36904762,0.32738095,de,5.6,,-1,,,,,,,Tropical Cyclone
+31,US-Präsident,US-Präsident,LOC,0.18181818,0.18181818,de,5.5,,-1,,,,,,,Tropical Cyclone
+32,Melissa,Melissa,LOC,-1.14,0.0,de,5.0,,-1,,,,,,,Tropical Cyclone
+33,Hurrikan-Katastrophe,Hurrikan-Katastrophe,LOC,0.0,0.4,de,5.0,,-1,,,,,,,Tropical Cyclone
+34,Notunterkünften,Notunterkünften,LOC,0.0,0.0,de,5.0,,-1,,,,,,,Tropical Cyclone
+35,Regierungsangaben,Regierungsangaben,LOC,0.0,0.0,de,4.9,,-1,,,,,,,Tropical Cyclone
+36,Tropensturm,Tropensturm,LOC,0.14893617,0.21276596,de,4.7,,-1,,,,,,,Tropical Cyclone
+38,Nordaustralien,Nordaustralien,LOC,0.45652174,0.0,de,4.6,,-1,,,,,,,Tropical Cyclone
+39,Krisha,Krisha,LOC,-0.2173913,0.0,de,4.6,,-1,,,,,,,Tropical Cyclone
+37,Rio Bonito do Iguaçu,Rio Bonito do Iguaçu,LOC,-0.27536232,0.28985507,de,4.6,,-1,,,,,,,Tropical Cyclone
+40,Windböen,Windböen,LOC,-0.17948718,0.0,de,3.9,,-1,,,,,,,Tropical Cyclone
+41,Provinz Aurora,Provinz Aurora,LOC,-0.26923077,0.12820513,de,3.9,,-1,,,,,,,Tropical Cyclone
+42,Black River,Black River,LOC,-0.17948718,0.0,de,3.9,,-1,,,,,,,Tropical Cyclone
+43,Staaten,Staaten,LOC,0.36842105,0.0,de,3.8,,-1,,,,,,,Tropical Cyclone
+44,Vietnams,Vietnams,LOC,0.55263158,0.0,de,3.8,,-1,,,,,,,Tropical Cyclone
+45,Fung-Wong,Fung-Wong,LOC,-0.18421053,0.0,de,3.8,,-1,,,,,,,Tropical Cyclone
+46,Florida,Florida,LOC,-0.78947368,0.0,de,3.8,,-1,,,,,,,Tropical Cyclone
+53,Nordatlantik,Nordatlantik,LOC,-0.37837838,0.0,de,3.7,,-1,,,,,,,Tropical Cyclone
+51,Japan,Japan,LOC,1.08108108,0.0,de,3.7,,-1,,,,,,,Tropical Cyclone
+52,Schweden,Schweden,LOC,0.0,0.0,de,3.7,,-1,,,,,,,Tropical Cyclone
+49,Taifun,Taifun,LOC,0.0,0.0,de,3.7,,-1,,,,,,,Tropical Cyclone
+50,Sumatra,Sumatra,LOC,0.0,0.27027027,de,3.7,,-1,,,,,,,Tropical Cyclone
+48,Darwin,Darwin,LOC,0.18918919,0.0,de,3.7,,-1,,,,,,,Tropical Cyclone
+47,Brasilien,Brasilien,LOC,-0.27027027,0.0,de,3.7,,-1,,,,,,,Tropical Cyclone
+58,Dominikanischen Republik,Dominikanischen Republik,LOC,-0.23333333,0.0,de,3.0,,-1,,,,,,,Tropical Cyclone
+61,Küste,Küste,LOC,-0.23333333,0.0,de,3.0,,-1,,,,,,,Tropical Cyclone
+59,Überschwemmungen,Überschwemmungen,LOC,0.54444444,0.0,de,3.0,,-1,,,,,,,Tropical Cyclone
+60,Dächer,Dächer,LOC,-0.23333333,0.0,de,3.0,,-1,,,,,,,Tropical Cyclone
+57,Insel,Insel,LOC,-0.23333333,0.0,de,3.0,,-1,,,,,,,Tropical Cyclone
+56,Meteorologen,Meteorologen,LOC,-1.0,0.0,de,3.0,,-1,,,,,,,Tropical Cyclone
+55,Bäume,Bäume,LOC,-0.23333333,0.0,de,3.0,,-1,,,,,,,Tropical Cyclone
+54,Bezirken,Bezirken,LOC,0.0,0.66666667,de,3.0,,-1,,,,,,,Tropical Cyclone
+62,Kubas,Kubas,LOC,-0.5862069,0.0,de,2.9,,-1,,,,,,,Tropical Cyclone
+63,,,LOC,-0.05172414,0.0,de,2.9,,-1,,,,,,,Tropical Cyclone
+64,Treibstoff,Treibstoff,LOC,0.0,0.0,de,2.9,,-1,,,,,,,Tropical Cyclone
+65,Provinz Cebu,Provinz Cebu,LOC,-0.24137931,0.0,de,2.9,,-1,,,,,,,Tropical Cyclone
+70,Karibikinseln,Karibikinseln,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Tropical Cyclone
+73,Stadt,Stadt,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Tropical Cyclone
+72,Stromausfälle,Stromausfälle,LOC,0.5,0.35714286,de,2.8,,-1,,,,,,,Tropical Cyclone
+71,Zyklon,Zyklon,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Tropical Cyclone
+66,Indien,Indien,LOC,0.5,0.0,de,2.8,,-1,,,,,,,Tropical Cyclone
+69,Zyklon Fina,Zyklon Fina,LOC,-0.71428571,0.0,de,2.8,,-1,,,,,,,Tropical Cyclone
+68,Berlin,Berlin,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Tropical Cyclone
+67,Inselstaat,Inselstaat,LOC,0.25,0.71428571,de,2.8,,-1,,,,,,,Tropical Cyclone
+82,Landgang am Sonntag,Landgang am Sonntag,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+88,Cebu,Cebu,LOC,0.35,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+87,Hilfsgüter,Hilfsgüter,LOC,-0.23333333,0.66666667,de,2.0,,-1,,,,,,,Tropical Cyclone
+86,Jamaicas,Jamaicas,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+85,Kurs,Kurs,LOC,-0.35,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+84,Jamaica,Jamaica,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+83,Landes,Landes,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+75,Trümmer,Trümmer,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+81,Pagasa,Pagasa,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+79,offenen Meer,offenen Meer,LOC,-0.15,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+78,Zentrum von Fung-Wong,Zentrum von Fung-Wong,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+77,Inselstaates,Inselstaates,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+76,Díaz-Canel,Díaz-Canel,LOC,-1.5,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+74,Naturkatastrophe,Naturkatastrophe,LOC,0.35,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+80,US-Hurrikanzentrum,US-Hurrikanzentrum,LOC,-0.35,0.0,de,2.0,,-1,,,,,,,Tropical Cyclone
+106,Zentralvietnam,Zentralvietnam,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+103,Malaysias,Malaysias,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+104,Asien,Asien,LOC,-0.52631579,0.52631579,de,1.9,,-1,,,,,,,Tropical Cyclone
+105,Australiens,Australiens,LOC,-1.05263158,0.52631579,de,1.9,,-1,,,,,,,Tropical Cyclone
+110,Australien,Australien,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+107,Nordaustraliens,Nordaustraliens,LOC,-1.05263158,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+108,Trauminsel,Trauminsel,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+109,Fort Lauderdale,Fort Lauderdale,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+100,Haus,Haus,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+101,Straße von Malakka,Straße von Malakka,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+102,Thailands,Thailands,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+99,Jahren,Jahren,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+89,Indonesiens,Indonesiens,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+97,Nutznießern,Nutznießern,LOC,-0.73684211,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+96,Luzon,Luzon,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+95,Überflutungen,Überflutungen,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+94,Manila,Manila,LOC,-0.52631579,0.52631579,de,1.9,,-1,,,,,,,Tropical Cyclone
+93,Supertaifun,Supertaifun,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+92,Santiago de Cuba,Santiago de Cuba,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+91,Kürze,Kürze,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+90,“,“,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+98,Munich,Munich,LOC,-0.73684211,0.0,de,1.9,,-1,,,,,,,Tropical Cyclone
+111,Prüfstand,Prüfstand,LOC,0.0,0.0,de,1.7,,-1,,,,,,,Tropical Cyclone
+112,Washington,Washington,LOC,0.0,0.0,de,1.6,,-1,,,,,,,Tropical Cyclone
+115,Landstriche,Landstriche,LOC,0.0,0.76923077,de,1.3,,-1,,,,,,,Tropical Cyclone
+113,Kanadas,Kanadas,LOC,-0.38461538,0.38461538,de,1.3,,-1,,,,,,,Tropical Cyclone
+114,Notstand,Notstand,LOC,0.0,0.0,de,1.3,,-1,,,,,,,Tropical Cyclone
+116,Deutschland,Deutschland,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Tropical Cyclone
+230,Alaskas,Alaskas,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+231,Taifun Halong,Taifun Halong,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+232,Klimawandel,Klimawandel,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+233,Alaska,Alaska,LOC,1.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+234,Halong,Halong,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+237,noc…,noc…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+235,Hurrikan-Stärke,Hurrikan-Stärke,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+229,Dörfern,Dörfern,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+236,US-Hurrikanzentr…,US-Hurrikanzentr…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+244,Dominikanischen Republik g,Dominikanischen Republik g,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+238,Port-au-Prince,Port-au-Prince,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+239,Jahrhundertsturm,Jahrhundertsturm,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+240,Miami,Miami,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+241,Vereinigten Staaten,Vereinigten Staaten,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+242,Hurrikan-Schäden,Hurrikan-Schäden,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+243,Wi…,Wi…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+227,Puerto Rico,Puerto Rico,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+245,Milliardenhöhe,Milliardenhöhe,LOC,-1.0,1.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+246,Bermuda-Inselgruppe,Bermuda-Inselgruppe,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+228,Bad Bunny,Bad Bunny,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+220,No…,No…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+226,Trump-Lager,Trump-Lager,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+225,Starke Regenfälle,Starke Regenfälle,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+206,Wirbelsturm d…,Wirbelsturm d…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+207,Paris,Paris,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+208,Bangladesch,Bangladesch,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+209,Dienstagmorgen,Dienstagmorgen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+210,Chinas,Chinas,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+211,Südchina,Südchina,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+212,Bualoi,Bualoi,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+213,Dock,Dock,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+214,Spaniens,Spaniens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+215,Spanien,Spanien,LOC,-0.23333333,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+216,Ang…,Ang…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+217,Zentrum des Sturms der Stufe,Zentrum des Sturms der Stufe,LOC,1.4,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+218,Bermuda-Inseln,Bermuda-Inseln,LOC,1.4,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+219,Stromversorger,Stromversorger,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+248,Wirbelsturm in der Karibik,Wirbelsturm in der Karibik,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+221,Hanoi,Hanoi,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+222,Bualoi a,Bualoi a,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+223,Yukon-Kuskokwim-Delta,Yukon-Kuskokwim-Delta,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+224,Samar,Samar,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+247,offene Meer,offene Meer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+256,Hurrikan-Toten,Hurrikan-Toten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+249,Petit-Goâve,Petit-Goâve,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+282,Krokodile,Krokodile,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+274,Bil…,Bil…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+275,Israel,Israel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+276,Inselstaates auf Land,Inselstaates auf Land,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+277,Live-Karte,Live-Karte,LOC,-2.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+278,d…,d…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+279,Wirbelsturm Melissa,Wirbelsturm Melissa,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+280,US-Hurrikanwarnz,US-Hurrikanwarnz,LOC,-0.5,0.5,de,1.0,,-1,,,,,,,Tropical Cyclone
+281,Katastrophengebiet,Katastrophengebiet,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+283,Kat…,Kat…,LOC,-0.6,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+272,Kingston Monstersturm Melissa,Kingston Monstersturm Melissa,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+284,Landfall,Landfall,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+285,Flutkatastrophe im Ahrtal,Flutkatastrophe im Ahrtal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+286,Län…,Län…,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+287,Hurrikans,Hurrikans,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+288,Barry,Barry,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+289,Cantal,Cantal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+290,Gabrielle,Gabrielle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+204,Inselstaats,Inselstaats,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+273,Sonnenaufgang,Sonnenaufgang,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+271,Küste von Jamaika,Küste von Jamaika,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+250,Straße,Straße,LOC,0.0,2.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+260,Sturm Melissa,Sturm Melissa,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+251,Dominikanische Republik,Dominikanische Republik,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+252,Nimand,Nimand,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+253,Sangster International Airport …,Sangster International Airport …,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+254,Krankenhäuser,Krankenhäuser,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+255,Feldlazarette,Feldlazarette,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+257,Verisk,Verisk,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+258,Onshore-Immobilien,Onshore-Immobilien,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+259,Holland Bamboo,Holland Bamboo,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+261,südostasiatischen Land,südostasiatischen Land,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+270,Ahrtal,Ahrtal,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+262,Havanna,Havanna,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+263,Hurrikan Melissa,Hurrikan Melissa,LOC,-0.15,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+264,Petit-Goave,Petit-Goave,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+265,s…,s…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+266,jamaikanische Küste,jamaikanische Küste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+267,Europa,Europa,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+268,Sturmflut,Sturmflut,LOC,-0.56666667,0.33333333,de,1.0,,-1,,,,,,,Tropical Cyclone
+269,Zentrum des Hurrikans,Zentrum des Hurrikans,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+205,Land reg…,Land reg…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+146,Nord-,Nord-,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+203,Port Royal,Port Royal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+148,Westsumatra,Westsumatra,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+139,Darwin …,Darwin …,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+140,Sturm Kurs,Sturm Kurs,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+141,Hofors,Hofors,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+142,wellig-ungezähmte Haar,wellig-ungezähmte Haar,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+143,Südchinesischen Meer,Südchinesischen Meer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+144,bergen,bergen,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+145,Toten,Toten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+147,Südthailand,Südthailand,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+149,Klima-Risiko-Index,Klima-Risiko-Index,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+137,Sturm Kalmaegi,Sturm Kalmaegi,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+150,Dax-Konzern,Dax-Konzern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+151,Sri Lank…,Sri Lank…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+152,Irland,Irland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+153,Aceh,Aceh,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+154,Archipel,Archipel,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+155,Provinz Nueva Vizcaya,Provinz Nueva Vizcaya,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+156,Supertaifun Fung-Wong,Supertaifun Fung-Wong,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+157,Aurora,Aurora,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+138,Sprintlegende Usain Bolt,Sprintlegende Usain Bolt,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+136,Atlantiks,Atlantiks,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+159,Supertaifun Fung-wong,Supertaifun Fung-wong,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+125,Provinz Cebu …,Provinz Cebu …,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+117,zentralvietnamesische Küste,zentralvietnamesische Küste,LOC,-0.35,0.5,de,1.0,,-1,,,,,,,Tropical Cyclone
+118,chars,chars,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+119,Kalmaegi,Kalmaegi,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+120,Provinz Gia Lai,Provinz Gia Lai,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+121,Norwegen,Norwegen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+122,Mehr,Mehr,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+123,Fünf Tote,Fünf Tote,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+124,Land ge…,Land ge…,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+126,Anm…,Anm…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+135,i…,i…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+127,Anmarsch,Anmarsch,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+128,New York,New York,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+129,Hat Yai,Hat Yai,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+130,Umständen,Umständen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+131,Wirbelsturm i…,Wirbelsturm i…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+132,SüdostasienMillionen,SüdostasienMillionen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+133,Betroffenen,Betroffenen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+134,Gävleborgs län ,Gävleborgs län ,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+158,Magdeburger,Magdeburger,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+160,Supertaifun „Fung-Wong,Supertaifun „Fung-Wong,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+202,Tropensturm Melissa,Tropensturm Melissa,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+192,Ärmelkanal,Ärmelkanal,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+184,US-Westküste,US-Westküste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+185,Orkanböen,Orkanböen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+186,Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+187,Nordsee,Nordsee,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+188,Irawan,Irawan,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+189,Nordmeer,Nordmeer,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+190,Joshua,Joshua,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+191,Bretagne,Bretagne,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+193,Herbststurm Joshua,Herbststurm Joshua,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+182,Herbststurm,Herbststurm,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+194,Schlimmste,Schlimmste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+195,Notunterkünfte,Notunterkünfte,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+196,Jamaik…,Jamaik…,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+197,Gliedstaates besingen,Gliedstaates besingen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+198,Meeres,Meeres,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+199,Abendhimmel,Abendhimmel,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+200,Wirbelsturm…,Wirbelsturm…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+201,Bewohner,Bewohner,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+183,Ermont…,Ermont…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+181,Str,Str,LOC,-0.35,0.5,de,1.0,,-1,,,,,,,Tropical Cyclone
+161,Asiens,Asiens,LOC,-0.5,0.5,de,1.0,,-1,,,,,,,Tropical Cyclone
+170,Urlaubsparadies,Urlaubsparadies,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+162,Taiwans,Taiwans,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+163,Hippie-Klamotten,Hippie-Klamotten,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+164,Inselreich,Inselreich,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+165,Paraná,Paraná,LOC,-0.56666667,0.33333333,de,1.0,,-1,,,,,,,Tropical Cyclone
+166,Schiffswrack,Schiffswrack,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+167,Str…,Str…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+168,US-Bundesstaat,US-Bundesstaat,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+169,Sturmschäden,Sturmschäden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+171,Sumatra Barat,Sumatra Barat,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+180,Bermudas,Bermudas,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+172,Taifun Fung-wong,Taifun Fung-wong,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+173,Sulawesi,Sulawesi,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+174,Auswärtige Amt,Auswärtige Amt,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+175,Küstengemeinden,Küstengemeinden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+176,Wirbelsturm-Skala,Wirbelsturm-Skala,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+177,Sturms,Sturms,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+178,Sumatra Utara,Sumatra Utara,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+179,KI,KI,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
+291,U-Bahnhof Krumme Lanke,U-Bahnhof Krumme Lanke,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Tropical Cyclone
