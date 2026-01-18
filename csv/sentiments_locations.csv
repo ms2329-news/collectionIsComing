@@ -1,127 +1,390 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Äthiopien,Äthiopien,LOC,0.0,0.11439842,de,16.9,4000639-6,337996,X,8.0,38.0,AFRICA,Ethiopia,NEAF,Volcano
-1,Indonesien,Indonesien,LOC,0.24358974,0.0,de,15.6,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Volcano
-2,Java,Java,LOC,0.04666667,0.0,de,15.0,,-1,,,,,,,Volcano
-3,Sizilien,Sizilien,LOC,0.10526316,0.0,de,13.3,,-1,,,,,,,Volcano
-4,Lewotobi Laki-Laki,Lewotobi Laki-Laki,LOC,0.0,0.0,de,9.0,,-1,,,,,,,Volcano
-5,Flores,Flores,LOC,-0.0875,0.0,de,8.0,,-1,,,,,,,Volcano
-6,Mittelmeerinsel,Mittelmeerinsel,LOC,0.30434783,0.0,de,6.9,,-1,,,,,,,Volcano
-7,Ätna,Ätna,LOC,0.0942029,0.07246377,de,6.9,,-1,,,,,,,Volcano
-8,Semeru,Semeru,LOC,0.06779661,0.0,de,5.9,,-1,,,,,,,Volcano
-9,Flughafen,Flughafen,LOC,-0.28,0.0,de,5.0,,-1,,,,,,,Volcano
-10,Arabische Halbinsel,Arabische Halbinsel,LOC,-0.4375,0.0,de,4.8,,-1,,,,,,,Volcano
-12,Vulkans Semeru,Vulkans Semeru,LOC,0.0,0.0,de,4.6,,-1,,,,,,,Volcano
-11,Aschesäule,Aschesäule,LOC,0.65217391,0.0,de,4.6,,-1,,,,,,,Volcano
-13,Europas,Europas,LOC,0.3452381,0.11904762,de,4.2,,-1,,,,,,,Volcano
-14,Erde,Erde,LOC,0.0,0.0,de,4.0,,-1,,,,,,,Volcano
-15,Feuerberg,Feuerberg,LOC,0.38888889,0.0,de,3.6,,-1,,,,,,,Volcano
-16,Hawaii,Hawaii,LOC,0.45588235,0.0,de,3.4,4023877-5,5855797,X,20.75028,-156.50028,PACIFIC,,NPO,Volcano
-17,Neapel,Neapel,LOC,0.0,0.0,de,3.0,4041476-0,3172394,X,40.833329,14.25,EUROPE-AFRICA,Italy,MED,Volcano
-18,Philippinen,Philippinen,LOC,0.56666667,0.0,de,3.0,4045771-0,1694008,X,13.0,122.0,ASIA,,SEA,Volcano
-20,Gipfelkratern,Gipfelkratern,LOC,0.0,0.0,de,2.9,,-1,,,,,,,Volcano
-21,Mount Kanlaon,Mount Kanlaon,LOC,-0.06034483,0.25862069,de,2.9,,-1,,,,,,,Volcano
-19,Jahrtausenden,Jahrtausenden,LOC,0.0,0.0,de,2.9,,-1,,,,,,,Volcano
-22,Europa,Europa,LOC,-0.46428571,0.0,de,2.8,4015701-5,6255148,X,48.690959,9.14062,EUROPE,Germany,WCE,Volcano
-23,Notunterkünften,Notunterkünften,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Volcano
-24,Tag,Tag,LOC,0.0,0.0,de,2.7,,-1,,,,,,,Volcano
-25,Indien,Indien,LOC,0.11538462,0.0,de,2.6,4026722-2,1269750,X,20.0,77.0,ASIA,India,SAS,Volcano
-26,Lava,Lava,LOC,0.0,0.0,de,2.6,,-1,,,,,,,Volcano
-27,Mount Semeru,Mount Semeru,LOC,0.53846154,0.0,de,2.6,,-1,,,,,,,Volcano
-28,Aschewolke,Aschewolke,LOC,0.26923077,0.0,de,2.6,,-1,,,,,,,Volcano
-33,Iran,Iran,LOC,-0.125,0.0,de,2.0,4027653-3,130758,X,32.0,53.0,ASIA,Iran,WCA,Volcano
-32,Vulkans Taal,Vulkans Taal,LOC,0.5,0.0,de,2.0,,-1,,,,,,,Volcano
-31,Manila,Manila,LOC,0.5,0.0,de,2.0,4037344-7,1701668,X,14.6042,120.9822,ASIA,Philippines,SEA,Volcano
-29,Kilauea-Caldera,Kilauea-Caldera,LOC,0.35,0.0,de,2.0,,-1,,,,,,,Volcano
-30,Negros,Negros,LOC,-0.175,0.25,de,2.0,,-1,,,,,,,Volcano
-34,Afar,Afar,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Volcano
-35,Jakarta,Jakarta,LOC,0.0,0.0,de,1.9,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Volcano
-36,Vulkanausbruch,Vulkanausbruch,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Volcano
-37,sch…,sch…,LOC,0.0,1.05263158,de,1.9,,-1,,,,,,,Volcano
-38,Gestein,Gestein,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Volcano
-46,Vulkane,Vulkane,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
-43,Äthiopiens,Äthiopiens,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
-45,Ähthiopien,Ähthiopien,LOC,0.55555556,0.0,de,1.8,,-1,,,,,,,Volcano
-44,…,…,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
-42,Bergs,Bergs,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
-41,Catania,Catania,LOC,0.0,0.0,de,1.8,4085181-3,2525068,X,37.50213,15.087189,EUROPE-AFRICA,Italy,MED,Volcano
-40,Kilauea,Kilauea,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
-39,Berlin,Berlin,LOC,0.38888889,0.0,de,1.8,4005728-8,2950157,X,52.5,13.416669,EUROPE,Germany,WCE,Volcano
-47,Pompeji,Pompeji,LOC,0.0,0.0,de,1.6,4046755-7,3170335,X,40.745833,14.496944,EUROPE-AFRICA,Italy,MED,Volcano
-48,Vesuv,Vesuv,LOC,1.07692308,0.0,de,1.3,,-1,,,,,,,Volcano
-49,Lake Toba,Lake Toba,LOC,0.0,0.0,de,1.3,,-1,,,,,,,Volcano
-50,Nevado del Ruiz,Nevado del Ruiz,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Volcano
-51,Armero,Armero,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Volcano
-99,Bali,Bali,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-105,Orang-Utan-Trekking,Orang-Utan-Trekking,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-104,Pazifik,Pazifik,LOC,0.0,0.0,de,1.0,4044981-6,2363254,X,3.51342,-132.1875,PACIFIC,,EPO,Volcano
-103,Azoren,Azoren,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-102,Afrikas,Afrikas,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-101,pass… Inseln,pass… Inseln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-100,Mount Batur,Mount Batur,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-95,Evakuierungen,Evakuierungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-98,türkisen Meer,türkisen Meer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-97,Gili-Inseln,Gili-Inseln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-96,Reisterrassen,Reisterrassen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-107,Unterkünften,Unterkünften,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-94,Außenpo…,Außenpo…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-93,Iran-Pakistan,Iran-Pakistan,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-92,Heißer Lavasee,Heißer Lavasee,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-91,Abständen,Abständen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-106,Gasen,Gasen,LOC,-1.0,0.0,de,1.0,4527588-9,2778832,X,47.38333,15.56667,EUROPE,Austria,WCE,Volcano
-112,Mittwoch,Mittwoch,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-108,Flügen,Flügen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-109,Orang Utan-Abenteuer,Orang Utan-Abenteuer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-124,Japan,Japan,LOC,0.0,0.0,de,1.0,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Volcano
-123,Kagoshima,Kagoshima,LOC,0.0,0.0,de,1.0,4308810-7,1860827,X,31.560179,130.55814,ASIA,,EAS,Volcano
-122,Sakurajima,Sakurajima,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-121,Japans,Japans,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-120,Wunschliste,Wunschliste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-119,Hohen Norden,Hohen Norden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-118,,,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-117,Urlaubsinsel Bali,Urlaubsinsel Bali,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-116,Beobachter,Beobachter,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-115,Urlaubsinsel,Urlaubsinsel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-114,Spaniens,Spaniens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-113,Insel Java,Insel Java,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-89,Taal,Taal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-111,Semeru Asche,Semeru Asche,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-110,Rätsel,Rätsel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-90,Lavafontänen,Lavafontänen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-63,Mittelmeer-Insel Sizilien,Mittelmeer-Insel Sizilien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-88,Grindavík,Grindavík,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-69,Bonn,Bonn,LOC,1.0,0.0,de,1.0,4007666-0,2946447,X,50.734166,7.095277,EUROPE,Germany,WCE,Volcano
-67,Asche-Wolken,Asche-Wolken,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-66,Lavafontänen am Ätna,Lavafontänen am Ätna,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-65,Vesuvs,Vesuvs,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-64,Vulkanausbrüche,Vulkanausbrüche,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-62,wi…,wi…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-61,Vul…,Vul…,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-60,Insel Sizilien,Insel Sizilien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-59,Äthiopier,Äthiopier,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
-58,Afar hinauszieht,Afar hinauszieht,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
-57,Afrika,Afrika,LOC,-0.7,0.0,de,1.0,4000695-5,6255146,X,7.1881,21.09375,AFRICA,Central African Republic,CAF,Volcano
-56,Jahrtausen,Jahrtausen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-55,Arabien,Arabien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-54,Lavastrom,Lavastrom,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-53,Ätna rumort,Ätna rumort,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-52,Ereignissen,Ereignissen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
-68,Pest-Katastrophe,Pest-Katastrophe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-70,Reisemobil,Reisemobil,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
-87,Lissabon,Lissabon,LOC,0.0,0.0,de,1.0,4035919-0,2267057,X,38.71667,-9.13333,EUROPE-AFRICA,Portugal,MED,Volcano
-71,Eifel,Eifel,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
-86,Portugal,Portugal,LOC,0.0,0.0,de,1.0,4046843-4,2264397,X,39.5,-8.0,EUROPE-AFRICA,Portugal,MED,Volcano
-85,Algarve,Algarve,LOC,0.0,0.0,de,1.0,4001155-0,2271989,X,37.16667,-8.25,EUROPE-AFRICA,Portugal,MED,Volcano
-84,Taftan,Taftan,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-83,Medan,Medan,LOC,0.0,0.0,de,1.0,4469031-9,1214520,X,3.58333,98.666669,ASIA,Indonesia,SEA,Volcano
-82,Aschepartikeln,Aschepartikeln,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Volcano
-81,Guatemala,Guatemala,LOC,0.85,0.0,de,1.0,4022428-4,3595528,X,15.5,-90.25,CENTRAL-AMERICA,Guatemala,SCA,Volcano
-80,Vulkanisches Erbe,Vulkanisches Erbe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-79,Traumziel,Traumziel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-78,Sumatra,Sumatra,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-77,Römisches Reich,Römisches Reich,LOC,0.7,0.0,de,1.0,4076778-4,8354456,X,41.8925,12.485,EUROPE-AFRICA,Italy,MED,Volcano
-76,Bewohner,Bewohner,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-75,Danakil-Senke,Danakil-Senke,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-74,Gubbi,Gubbi,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-73,Römer,Römer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-72,Survival-Extraction-Spiel,Survival-Extraction-Spiel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
-125,Stadt für Tage,Stadt für Tage,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+0,Südtirol,Südtirol,LOC,-0.17213983,0.03707627,de,94.4,,3165244.0,A,46.5,11.33333,EUROPE,Italien,WCE,Landslide
+1,Alpen,Alpen,LOC,-0.07053942,0.24896266,de,24.1,,682673.0,T,45.5,24.25,EUROPE,Rumänien,WCE,Landslide
+2,Himalaya,Himalaya,LOC,-0.11428571,0.0,de,21.0,,1252558.0,T,28.0,84.0,ASIA,,TIB,Landslide
+3,Ortlergebirge,Ortlergebirge,LOC,-0.12631579,0.0,de,19.0,,0.0,,,,,,,Landslide
+4,Bayern,Bayern,LOC,0.04069767,0.0,de,17.2,,2951839.0,A,49.0,11.5,EUROPE,Deutschland,WCE,Landslide
+5,Nepal,Nepal,LOC,0.08235294,0.05882353,de,17.0,,1282988.0,A,28.0,84.0,ASIA,Nepal,TIB,Landslide
+6,Italien,Italien,LOC,-0.18589744,0.28846154,de,15.6,,3175395.0,A,42.83333,12.83333,EUROPE-AFRICA,Italien,MED,Landslide
+7,Lawinenunglück,Lawinenunglück,LOC,-0.06756757,0.0,de,14.8,,0.0,,,,,,,Landslide
+8,Himalaya-Gebirge,Himalaya-Gebirge,LOC,-0.44090909,0.0,de,11.0,,0.0,,,,,,,Landslide
+9,Berlin,Berlin,LOC,-0.035,0.15,de,10.0,,2950159.0,P,52.52437,13.41053,EUROPE,Deutschland,WCE,Landslide
+10,Vietnam,Vietnam,LOC,-0.37,0.0,de,10.0,4063514-4,-1.0,,,,ASIA,Vietnam,SEA,Landslide
+11,Ortler-Gebirge,Ortler-Gebirge,LOC,-0.37765957,0.0,de,9.4,,0.0,,,,,,,Landslide
+12,Deutschland,Deutschland,LOC,-0.06593407,0.0,de,9.1,,2921044.0,A,51.5,10.5,EUROPE,Deutschland,WCE,Landslide
+13,Lawinenabgang,Lawinenabgang,LOC,-0.11363636,0.0,de,8.8,,0.0,,,,,,,Landslide
+14,Ri,Ri,LOC,-0.125,0.0,de,8.0,,2328926.0,A,10.0,8.0,AFRICA,Nigeria,WAF,Landslide
+15,Schnee,Schnee,LOC,0.0,0.4109589,de,7.3,,2837468.0,T,50.72938,8.54329,EUROPE,Deutschland,WCE,Landslide
+16,…,…,LOC,0.09848485,0.07575758,de,6.6,,0.0,,,,,,,Landslide
+17,Atlantik,Atlantik,LOC,-0.109375,0.0,de,6.4,4003388-0,2395914.0,P,6.44852,2.35566,AFRICA,Benin,WAF,Landslide
+18,Kanarischen Inseln,Kanarischen Inseln,LOC,-0.109375,0.0,de,6.4,,0.0,,,,,,,Landslide
+19,Teneriffa,Teneriffa,LOC,0.0,0.0,de,6.4,4277900-5,-1.0,,,,AFRICA,Spain,SAH,Landslide
+20,Bozen,Bozen,LOC,0.0,0.0,de,6.0,4007901-6,-1.0,,,,EUROPE,Italy,WCE,Landslide
+21,Nepals,Nepals,LOC,0.0,0.0,de,6.0,,0.0,,,,,,,Landslide
+22,Thüringen,Thüringen,LOC,0.0,0.0,de,5.5,,2822542.0,A,50.91667,11.0,EUROPE,Deutschland,WCE,Landslide
+23,Trient,Trient,LOC,0.0,0.0,de,5.5,4078405-8,-1.0,,,,EUROPE,Italy,WCE,Landslide
+24,Erde,Erde,LOC,-0.20754717,0.0,de,5.3,,6295630.0,L,0.0,0.0,ATLANTIC,,EAO,Landslide
+25,Erdrutsch,Erdrutsch,LOC,-0.14893617,0.0,de,4.7,,0.0,,,,,,,Landslide
+26,Sachsen,Sachsen,LOC,-0.50724638,0.0,de,4.6,,2842565.0,A,52.0,11.7333,EUROPE,Deutschland,WCE,Landslide
+27,Lawinen-Drama,Lawinen-Drama,LOC,-0.51282051,0.0,de,3.9,,0.0,,,,,,,Landslide
+29,Sulden,Sulden,LOC,0.0,0.0,de,3.8,4058547-5,-1.0,,,,EUROPE,Italy,WCE,Landslide
+30,Bergwacht,Bergwacht,LOC,0.0,0.78947368,de,3.8,,0.0,,,,,,,Landslide
+28,Stadt,Stadt,LOC,0.0,0.0,de,3.8,,2950159.0,P,52.52437,13.41053,EUROPE,Deutschland,WCE,Landslide
+31,Österreich,Österreich,LOC,0.37837838,0.0,de,3.7,,2782113.0,A,47.33333,13.33333,EUROPE,Österreich,WCE,Landslide
+32,Schweiz,Schweiz,LOC,0.37837838,0.0,de,3.7,,2658434.0,A,47.00016,8.01427,EUROPE,Schweiz,WCE,Landslide
+33,Monte Bondone,Monte Bondone,LOC,0.0,0.0,de,3.7,4579335-9,-1.0,,,,EUROPE,Italy,WCE,Landslide
+34,Urlauberinsel,Urlauberinsel,LOC,0.0,0.0,de,3.7,,0.0,,,,,,,Landslide
+35,Lawine,Lawine,LOC,0.0,0.0,de,3.0,,-1.0,,,,EUROPE-AFRICA,Morocco,MED,Landslide
+36,Osttirol,Osttirol,LOC,0.23333333,0.0,de,3.0,,2771828.0,P,47.0,12.53333,EUROPE,Österreich,WCE,Landslide
+37,Bergen,Bergen,LOC,0.33333333,0.33333333,de,3.0,,3161732.0,P,60.39299,5.32415,EUROPE,Norwegen,NEU,Landslide
+38,Oberstdorf,Oberstdorf,LOC,0.0,0.0,de,3.0,4042985-4,-1.0,,,,EUROPE,Germany,WCE,Landslide
+39,Salzburg,Salzburg,LOC,0.24137931,0.0,de,2.9,4076982-3,-1.0,,,,EUROPE,Austria,WCE,Landslide
+45,Notfälle,Notfälle,LOC,0.0,0.0,de,2.8,,0.0,,,,,,,Landslide
+49,Washington,Washington,LOC,0.0,0.0,de,2.8,4064682-8,-1.0,,,,NORTH-AMERICA,United States,ENA,Landslide
+48,Kanada,Kanada,LOC,-0.35714286,0.0,de,2.8,4029456-0,-1.0,,,,NORTH-AMERICA,Canada,NWN,Landslide
+47,Oberwiesenthal,Oberwiesenthal,LOC,0.0,0.71428571,de,2.8,4043017-0,2882332.0,P,50.41943,12.96836,EUROPE,Czechia,WCE,Landslide
+46,Indiens,Indiens,LOC,0.39285714,0.35714286,de,2.8,,-1.0,,,,NORTH-AMERICA,Canada,ENA,Landslide
+42,Rheins,Rheins,LOC,0.05952381,0.0,de,2.8,,0.0,,,,,,,Landslide
+44,Alpenraum,Alpenraum,LOC,0.5,0.0,de,2.8,,0.0,,,,,,,Landslide
+43,Urlaubsinsel,Urlaubsinsel,LOC,-0.55357143,0.0,de,2.8,,0.0,,,,,,,Landslide
+41,Nachbarn,Nachbarn,LOC,0.25,0.0,de,2.8,,0.0,,,,,,,Landslide
+40,Deutschlands,Deutschlands,LOC,0.0,0.0,de,2.8,,0.0,,,,,,,Landslide
+66,Kena,Kena,LOC,-0.7,0.0,de,2.0,4030236-2,-1.0,,,,AFRICA,Kenya,SEAF,Landslide
+62,Rift Valley,Rift Valley,LOC,-0.35,0.5,de,2.0,4117018-0,-1.0,,,,AFRICA,Kenya,SEAF,Landslide
+64,Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2.0,,1283416.0,T,27.98791,86.92529,ASIA,Nepal,TIB,Landslide
+65,Vertainspitze,Vertainspitze,LOC,0.0,0.0,de,2.0,,-1.0,,,,EUROPE,Italy,WCE,Landslide
+60,Italiener,Italiener,LOC,-0.35,0.0,de,2.0,,12216629.0,R,46.60614,13.84133,EUROPE,Österreich,WCE,Landslide
+67,Vertai…,Vertai…,LOC,0.0,1.0,de,2.0,,0.0,,,,,,,Landslide
+68,Schwaben,Schwaben,LOC,0.0,0.0,de,2.0,4053668-3,-1.0,,,,EUROPE,Germany,WCE,Landslide
+69,bergen,bergen,LOC,0.0,0.0,de,2.0,1027742-0,-1.0,,,,EUROPE,,NEU,Landslide
+70,Rolwalingtal,Rolwalingtal,LOC,0.0,0.0,de,2.0,,0.0,,,,,,,Landslide
+61,Unfälle,Unfälle,LOC,0.0,0.0,de,2.0,,0.0,,,,,,,Landslide
+63,Ortler-Alpen,Ortler-Alpen,LOC,-0.35,0.0,de,2.0,,0.0,,,,,,,Landslide
+59,Behördenangaben,Behördenangaben,LOC,0.0,0.0,de,2.0,,0.0,,,,,,,Landslide
+54,Großen Schmiedinger,Großen Schmiedinger,LOC,0.7,0.0,de,2.0,,0.0,,,,,,,Landslide
+58,Kenia,Kenia,LOC,0.0,0.0,de,2.0,4030236-2,-1.0,,,,AFRICA,Kenya,SEAF,Landslide
+52,Rubihorn,Rubihorn,LOC,-1.275,0.0,de,2.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+53,Rio de Janeiro,Rio de Janeiro,LOC,0.0,0.0,de,2.0,4076741-3,-1.0,,,,SOUTH-AMERICA,Brazil,SES,Landslide
+51,Wintersaison,Wintersaison,LOC,0.0,0.0,de,2.0,,0.0,,,,,,,Landslide
+55,Lawinen,Lawinen,LOC,0.0,0.0,de,2.0,,3868469.0,H,-49.36246,-74.65861,SOUTH-AMERICA,Chile,SSA,Landslide
+56,Zweier-Gruppe,Zweier-Gruppe,LOC,0.0,0.0,de,2.0,,0.0,,,,,,,Landslide
+57,Himalaja,Himalaja,LOC,0.0,0.0,de,2.0,,12631325.0,T,61.47832,22.29583,EUROPE,Finnland,NEU,Landslide
+50,Bobojach,Bobojach,LOC,0.35,0.0,de,2.0,,-1.0,,,,EUROPE,Austria,WCE,Landslide
+100,Pongau,Pongau,LOC,0.36842105,0.0,de,1.9,4046758-2,2766642.0,A,47.3,13.3,EUROPE,Austria,WCE,Landslide
+92,Stunden,Stunden,LOC,0.0,0.0,de,1.9,,0.0,,,,,,,Landslide
+93,Ibiza,Ibiza,LOC,-0.5,0.1754386,de,1.9,,6299339.0,S,38.87286,1.37312,EUROPE-AFRICA,Spanien,MED,Landslide
+95,IbizaHEUTE,IbizaHEUTE,LOC,-0.36842105,0.0,de,1.9,,0.0,,,,,,,Landslide
+96,Pakistan,Pakistan,LOC,0.0,0.0,de,1.9,,0.0,,,,,,,Landslide
+97,Formentera,Formentera,LOC,-0.05263158,0.1754386,de,1.9,,2517690.0,T,38.69467,1.46919,EUROPE-AFRICA,Spanien,MED,Landslide
+98,Schleswig-Holstein,Schleswig-Holstein,LOC,0.0,0.0,de,1.9,,2838632.0,A,54.2,9.75,EUROPE,Deutschland,NEU,Landslide
+99,Indien,Indien,LOC,-0.89473684,2.10526316,de,1.9,,1269750.0,A,22.0,79.0,ASIA,Indien,SAS,Landslide
+105,Berchtesgaden,Berchtesgaden,LOC,-0.18421053,0.26315789,de,1.9,4005574-7,-1.0,,,,EUROPE,Germany,WCE,Landslide
+101,Industriechemikalien,Industriechemikalien,LOC,-1.05263158,0.0,de,1.9,,0.0,,,,,,,Landslide
+102,M…,M…,LOC,0.0,0.0,de,1.9,,0.0,,,,,,,Landslide
+103,Arc Raiders,Arc Raiders,LOC,0.73684211,0.0,de,1.9,,0.0,,,,,,,Landslide
+104,Sölden,Sölden,LOC,0.0,0.0,de,1.9,4208193-2,-1.0,,,,EUROPE,Italy,WCE,Landslide
+90,Trentino,Trentino,LOC,-0.36842105,0.0,de,1.9,,3165244.0,A,46.5,11.33333,EUROPE,Italien,WCE,Landslide
+106,Winters,Winters,LOC,0.0,0.0,de,1.9,,-1.0,,,,NORTH-AMERICA,United States,WNA,Landslide
+107,Weltcup-Aufgebot,Weltcup-Aufgebot,LOC,1.05263158,0.0,de,1.9,,0.0,,,,,,,Landslide
+108,Vierschanzentournee,Vierschanzentournee,LOC,1.05263158,0.0,de,1.9,,0.0,,,,,,,Landslide
+109,Reich von Russlands,Reich von Russlands,LOC,0.28947368,0.0,de,1.9,,0.0,,,,,,,Landslide
+91,Friaul-Julisch Venetien,Friaul-Julisch Venetien,LOC,-0.52631579,0.0,de,1.9,,-1.0,,,,EUROPE,Italy,WCE,Landslide
+94,italienischen Alpen,italienischen Alpen,LOC,0.52631579,0.0,de,1.9,,0.0,,,,,,,Landslide
+89,Nevado del Ruiz,Nevado del Ruiz,LOC,0.0,0.0,de,1.9,4331771-6,-1.0,,,,SOUTH-AMERICA,Colombia,NWS,Landslide
+79,USA,USA,LOC,-0.52631579,0.52631579,de,1.9,,6255150.0,L,-14.60485,-57.65625,SOUTH-AMERICA,,SAM,Landslide
+88,Rømø,Rømø,LOC,0.0,0.0,de,1.9,4050471-2,-1.0,,,,EUROPE-AFRICA,Italy,MED,Landslide
+72,Indonesien,Indonesien,LOC,0.0,0.0,de,1.9,,1643084.0,A,-5.0,120.0,ASIA,Indonesien,SEA,Landslide
+73,Klingenthal,Klingenthal,LOC,0.0,0.0,de,1.9,4031187-9,-1.0,,,,EUROPE,Germany,WCE,Landslide
+74,Beaver Creek,Beaver Creek,LOC,-0.52631579,0.0,de,1.9,,-1.0,,,,NORTH-AMERICA,Canada,NWN,Landslide
+75,Dänemark,Dänemark,LOC,0.0,0.0,de,1.9,,2623032.0,A,56.0,10.0,EUROPE,Dänemark,NEU,Landslide
+76,München,München,LOC,-0.42105263,0.0,de,1.9,,2867714.0,P,48.13743,11.57549,EUROPE,Deutschland,WCE,Landslide
+77,Zentralvietnam,Zentralvietnam,LOC,0.0,0.0,de,1.9,,0.0,,,,,,,Landslide
+78,Unglücksstelle,Unglücksstelle,LOC,0.0,0.0,de,1.9,,0.0,,,,,,,Landslide
+71,Armero,Armero,LOC,0.0,0.0,de,1.9,,-1.0,,,,SOUTH-AMERICA,Colombia,NWS,Landslide
+80,London,London,LOC,0.52631579,0.0,de,1.9,4074335-4,2643743.0,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Landslide
+81,Sumatra,Sumatra,LOC,0.0,0.52631579,de,1.9,4058586-4,-1.0,,,,ASIA,Indonesia,SEA,Landslide
+82,Brand,Brand,LOC,0.36842105,0.0,de,1.9,4278589-3,-1.0,,,,EUROPE,Germany,WCE,Landslide
+83,BVG,BVG,LOC,-0.89473684,0.0,de,1.9,,-1.0,,,,EUROPE,Norway,NEU,Landslide
+84,Vietnam Felsbrocken,Vietnam Felsbrocken,LOC,0.0,0.0,de,1.9,,0.0,,,,,,,Landslide
+85,Felsbrocken,Felsbrocken,LOC,0.0,0.0,de,1.9,,0.0,,,,,,,Landslide
+86,e…,e…,LOC,0.89473684,0.0,de,1.9,,0.0,,,,,,,Landslide
+87,Japans,Japans,LOC,1.05263158,0.0,de,1.9,,0.0,,,,,,,Landslide
+110,Kuba,Kuba,LOC,-0.5,0.0,de,1.7,,3562981.0,A,22.0,-79.5,CENTRAL-AMERICA,Kuba,CAR,Landslide
+111,Haiti,Haiti,LOC,-0.60714286,0.0,de,1.4,4022974-9,-1.0,,,,CENTRAL-AMERICA,Haiti,CAR,Landslide
+115,Bahamas,Bahamas,LOC,-0.76923077,0.0,de,1.3,502239-3,-1.0,,,,NORTH-AMERICA,Bahamas,ENA,Landslide
+114,Bremen,Bremen,LOC,0.0,0.0,de,1.3,,2944388.0,P,53.07582,8.80717,EUROPE,Deutschland,NEU,Landslide
+113,Philippinen,Philippinen,LOC,-0.26923077,0.38461538,de,1.3,,1694008.0,A,13.40882,122.56155,ASIA,Philippinen,SEA,Landslide
+112,Jamaika,Jamaika,LOC,-1.53846154,0.0,de,1.3,,3489940.0,A,18.16667,-77.25,CENTRAL-AMERICA,Jamaika,CAR,Landslide
+116,Russlands,Russlands,LOC,0.0,0.0,de,1.2,,-1.0,,,,OCEANIA,New Zealand,NZ,Landslide
+117,Methan,Methan,LOC,0.0,0.0,de,1.2,,-1.0,,,,ASIA,India,WCA,Landslide
+118,Karibik,Karibik,LOC,0.95833333,0.0,de,1.2,,7729891.0,L,20.38583,-72.33398,CENTRAL-AMERICA,,CAR,Landslide
+119,Montreux,Montreux,LOC,0.0,0.0,de,1.2,4114631-1,-1.0,,,,EUROPE,Switzerland,WCE,Landslide
+128,Neckar,Neckar,LOC,0.0,0.0,de,1.1,4041522-3,-1.0,,,,EUROPE,Germany,WCE,Landslide
+135,Bilster Berg,Bilster Berg,LOC,-0.39393939,0.0,de,1.1,,0.0,,,,,,,Landslide
+134,Sacharow-Preisträger Poczobut,Sacharow-Preisträger Poczobut,LOC,0.0,0.0,de,1.1,,0.0,,,,,,,Landslide
+133,Belarus,Belarus,LOC,0.0,0.0,de,1.1,1009143-9,-1.0,,,,EUROPE,Belarus,WCE,Landslide
+132,Alberto,Alberto,LOC,0.95454545,0.45454545,de,1.1,,-1.0,,,,SOUTH-AMERICA,Venezuela,NSA,Landslide
+131,Belém,Belém,LOC,0.0,0.0,de,1.1,,3405870.0,P,-1.45583,-48.50444,SOUTH-AMERICA,Brasilien,NES,Landslide
+129,Diego,Diego,LOC,0.95454545,0.45454545,de,1.1,4269521-1,-1.0,,,,CENTRAL-AMERICA,United States,NCA,Landslide
+130,Lac Léman,Lac Léman,LOC,0.0,0.0,de,1.1,4020144-2,-1.0,,,,EUROPE,Switzerland,WCE,Landslide
+127,Stampa,Stampa,LOC,0.95454545,0.45454545,de,1.1,4601703-3,-1.0,,,,EUROPE-AFRICA,,MED,Landslide
+123,Alaska,Alaska,LOC,0.63636364,0.0,de,1.1,4001016-8,5879092.0,A,64.00028,-150.00028,NORTH-AMERICA,United States,NWN,Landslide
+126,Bosporus,Bosporus,LOC,0.0,0.0,de,1.1,4007830-9,-1.0,,,,EUROPE-AFRICA,,MED,Landslide
+121,Barrikaden,Barrikaden,LOC,0.0,0.0,de,1.1,,0.0,,,,,,,Landslide
+122,Bermuda,Bermuda,LOC,0.0,0.0,de,1.1,4005759-8,-1.0,,,,ATLANTIC,Bermuda,NAO,Landslide
+120,Wirbelsturm,Wirbelsturm,LOC,0.0,0.0,de,1.1,,0.0,,,,,,,Landslide
+124,Istanbul,Istanbul,LOC,0.0,0.0,de,1.1,4088772-8,-1.0,,,,EUROPE-AFRICA,Turkey,MED,Landslide
+125,Ottilia,Ottilia,LOC,0.95454545,0.45454545,de,1.1,,0.0,,,,,,,Landslide
+264,Ankara,Ankara,LOC,-1.7,0.0,de,1.0,4002075-7,-1.0,,,,EUROPE-AFRICA,Turkey,MED,Landslide
+310,Regen,Regen,LOC,0.0,0.0,de,1.0,,2849495.0,P,48.9719,13.12824,EUROPE,Deutschland,WCE,Landslide
+297,Mittelmeerinsel,Mittelmeerinsel,LOC,-1.85,0.0,de,1.0,,0.0,,,,,,,Landslide
+298,Baleareninsel,Baleareninsel,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+299,Hamburg,Hamburg,LOC,0.0,0.0,de,1.0,,2911298.0,P,53.55073,9.99302,EUROPE,Deutschland,WCE,Landslide
+300,Niederbayern,Niederbayern,LOC,-0.7,0.0,de,1.0,4034367-4,-1.0,,,,EUROPE,Germany,WCE,Landslide
+301,Meteorologen,Meteorologen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+302,Neuschnee,Neuschnee,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+303,Wochenanfang,Wochenanfang,LOC,-1.4,0.0,de,1.0,,0.0,,,,,,,Landslide
+304,Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+305,Dauerregen,Dauerregen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+306,Fährausfälle,Fährausfälle,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+307,Permafrostböden,Permafrostböden,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+308,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+309,Ostsee,Ostsee,LOC,0.0,0.0,de,1.0,,2919765.0,P,54.83503,9.55218,EUROPE,Deutschland,NEU,Landslide
+311,Sturmtief,Sturmtief,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+265,Insel wiedervereinigen,Insel wiedervereinigen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+312,Böen,Böen,LOC,0.0,0.0,de,1.0,,3160910.0,P,59.75,8.78333,EUROPE,Norwegen,NEU,Landslide
+313,Permafrostboden,Permafrostboden,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+314,Kohlendioxidgehalt,Kohlendioxidgehalt,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+315,Grönlands,Grönlands,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+316,Innsbrucker,Innsbrucker,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Austria,WCE,Landslide
+317,Erda…,Erda…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+318,Saisonbeginn,Saisonbeginn,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+319,D…,D…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+320,Landkreis…,Landkreis…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+321,bayerischen Landeskriminalamt,bayerischen Landeskriminalamt,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+322,Mitternacht,Mitternacht,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+323,Wohnhaus,Wohnhaus,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+324,Fels,Fels,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE-AFRICA,Gibraltar,MED,Landslide
+296,Hotel-Evakuierung,Hotel-Evakuierung,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+295,Felssturz am Rubihorn,Felssturz am Rubihorn,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+325,Berggemeinde Sulden,Berggemeinde Sulden,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+293,lby,lby,LOC,0.0,0.0,de,1.0,,7898825.0,T,50.38527,109.87245,ASIA,Russia,ESB,Landslide
+266,Nordzypern,Nordzypern,LOC,0.0,0.0,de,1.0,4241756-9,-1.0,,,,EUROPE-AFRICA,Cyprus,MED,Landslide
+267,Release-Woche,Release-Woche,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+268,Tower-Defense,Tower-Defense,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+269,Dino-Parks,Dino-Parks,LOC,-1.0,0.0,de,1.0,,-1.0,,,,NORTH-AMERICA,United States,ENA,Landslide
+270,Sibirien,Sibirien,LOC,0.15,0.0,de,1.0,4054780-2,-1.0,,,,ASIA,Russia,ESB,Landslide
+271,Bergtal,Bergtal,LOC,0.35,0.5,de,1.0,,-1.0,,,,NORTH-AMERICA,United States,CNA,Landslide
+272,Alpendorf,Alpendorf,LOC,0.0,0.0,de,1.0,117068968X,-1.0,,,,EUROPE,Austria,WCE,Landslide
+273,Wallis,Wallis,LOC,0.0,0.0,de,1.0,4210894-9,-1.0,,,,PACIFIC,Wallis and Futuna,SPO,Landslide
+274,Hoeneß Kehl,Hoeneß Kehl,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+275,Biathlon-Olympiasiegerin,Biathlon-Olympiasiegerin,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+276,Karakorum-Gebirge,Karakorum-Gebirge,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+277,L223,L223,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+278,Forstau,Forstau,LOC,0.0,0.0,de,1.0,10054368-6,7873311.0,A,47.32963,13.56679,EUROPE,Austria,WCE,Landslide
+279,Taiwan,Taiwan,LOC,-0.7,0.0,de,1.0,,1668284.0,A,24.0,121.0,ASIA,Taiwan,EAS,Landslide
+280,Franken,Franken,LOC,0.0,0.0,de,1.0,,2803465.0,L,50.0,9.0,EUROPE,Deutschland,WCE,Landslide
+281,Felssturz,Felssturz,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+282,Leichensäcke,Leichensäcke,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+283,Krankenhäusern,Krankenhäusern,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+284,Berg Rubihorn im Allgäu,Berg Rubihorn im Allgäu,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+285,Nebel,Nebel,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+286,Hochgebirge,Hochgebirge,LOC,0.0,0.0,de,1.0,4252330-8,2768175.0,P,47.63333,15.93333,EUROPE,Austria,WCE,Landslide
+287,Bondo,Bondo,LOC,0.7,0.0,de,1.0,,-1.0,,,,AFRICA,Kenya,SEAF,Landslide
+288,Schweizer Berge,Schweizer Berge,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+289,Freistaat,Freistaat,LOC,0.0,0.0,de,1.0,,2822542.0,A,50.91667,11.0,EUROPE,Deutschland,WCE,Landslide
+290,SZ,SZ,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+291,Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,1.0,4003191-3,-1.0,,,,EUROPE,Germany,WCE,Landslide
+292,Allgäuer Alpen,Allgäuer Alpen,LOC,-0.7,0.0,de,1.0,4001265-7,-1.0,,,,EUROPE,Germany,WCE,Landslide
+294,Polizeipräsidiums Schwaben Sü…,Polizeipräsidiums Schwaben Sü…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+326,Südtirols,Südtirols,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+327,­Afghanistans,­Afghanistans,LOC,-0.33333333,0.66666667,de,1.0,,0.0,,,,,,,Landslide
+372,Florida Keys,Florida Keys,LOC,0.0,1.0,de,1.0,4219634-6,-1.0,,,,CENTRAL-AMERICA,,CAR,Landslide
+359,Dahlmeier-Drama,Dahlmeier-Drama,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+360,Bewohner,Bewohner,LOC,-0.5,0.5,de,1.0,,0.0,,,,,,,Landslide
+361,Igel,Igel,LOC,1.0,0.0,de,1.0,,-1.0,,,,ASIA,Iran,WCA,Landslide
+362,Abendhimmel,Abendhimmel,LOC,-0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+363,Klima-News,Klima-News,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+364,Brienz,Brienz,LOC,-0.81666667,0.83333333,de,1.0,4008256-8,-1.0,,,,EUROPE,Switzerland,WCE,Landslide
+365,Dörfchens,Dörfchens,LOC,-0.46666667,0.33333333,de,1.0,,0.0,,,,,,,Landslide
+366,Genf,Genf,LOC,-1.0,0.0,de,1.0,,2660646.0,P,46.20222,6.14569,EUROPE,Schweiz,WCE,Landslide
+367,Dorf Brienz,Dorf Brienz,LOC,-1.0,0.0,de,1.0,,-1.0,,,,EUROPE,Switzerland,WCE,Landslide
+368,Erdgas,Erdgas,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+369,Meeres,Meeres,LOC,-0.7,0.0,de,1.0,,-1.0,,,,AFRICA,Eritrea,SAH,Landslide
+370,Oslo,Oslo,LOC,1.4,0.0,de,1.0,1013733-6,-1.0,,,,EUROPE,Norway,NEU,Landslide
+371,Sch…,Sch…,LOC,-0.35,0.5,de,1.0,,0.0,,,,,,,Landslide
+373,Lawinendrama,Lawinendrama,LOC,-0.35,0.5,de,1.0,,0.0,,,,,,,Landslide
+328,Afghanistans,Afghanistans,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+374,Tirol,Tirol,LOC,0.0,0.0,de,1.0,4027096-8,-1.0,,,,EUROPE,Austria,WCE,Landslide
+375,Südtiroler Alpen,Südtiroler Alpen,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+376,Südtiroler Ortlergebirge,Südtiroler Ortlergebirge,LOC,-0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+377,Samstagnachmittag,Samstagnachmittag,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+378,Florida Keys zwische…,Florida Keys zwische…,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+379,Korallensterben,Korallensterben,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+380,Erdrutschen,Erdrutschen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+381,Iseltal,Iseltal,LOC,0.7,0.0,de,1.0,4699408-7,-1.0,,,,EUROPE,Austria,WCE,Landslide
+382,Favelas,Favelas,LOC,0.0,0.0,de,1.0,,-1.0,,,,SOUTH-AMERICA,Brazil,NES,Landslide
+383,Bergs,Bergs,LOC,0.1,0.33333333,de,1.0,7773827-5,-1.0,,,,EUROPE,Sweden,NEU,Landslide
+384,Annapurna,Annapurna,LOC,0.1,0.33333333,de,1.0,4002120-8,-1.0,,,,ASIA,Nepal,TIB,Landslide
+385,Dominikanische Republik,Dominikanische Republik,LOC,-1.0,0.0,de,1.0,4012694-8,-1.0,,,,CENTRAL-AMERICA,Dominican Republic,CAR,Landslide
+386,Norwegen,Norwegen,LOC,0.7,0.0,de,1.0,,3144096.0,A,62.0,10.0,EUROPE,Norwegen,NEU,Landslide
+358,Steinschlag,Steinschlag,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+357,Laila Peak,Laila Peak,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+356,Alaskas,Alaskas,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+355,Gliedstaates besingen,Gliedstaates besingen,LOC,-0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+262,Ninja-Action,Ninja-Action,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+329,Erdbeben,Erdbeben,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+330,Sa…,Sa…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+331,Ortler-Massiv,Ortler-Massiv,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+332,Lärchen,Lärchen,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+333,Lawinenseminar,Lawinenseminar,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+334,Niedernsill,Niedernsill,LOC,0.7,0.0,de,1.0,4538098-3,-1.0,,,,EUROPE,Austria,WCE,Landslide
+335,Pinz…,Pinz…,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+336,Nachschub,Nachschub,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+337,Kreml,Kreml,LOC,0.0,0.0,de,1.0,,2116480.0,T,59.29103,162.17127,ASIA,Russland,RFE,Landslide
+338,Atomkraftwerk vorbeifü…,Atomkraftwerk vorbeifü…,LOC,1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+339,Sonnenschein,Sonnenschein,LOC,0.0,1.0,de,1.0,,2831137.0,T,54.08202,10.7591,EUROPE,Germany,NEU,Landslide
+340,“,“,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+341,Seca Raceway,Seca Raceway,LOC,-0.43333333,0.0,de,1.0,,0.0,,,,,,,Landslide
+342,Teutoburger Waldes,Teutoburger Waldes,LOC,0.8,0.0,de,1.0,,0.0,,,,,,,Landslide
+343,Geduld,Geduld,LOC,-1.0,0.0,de,1.0,,-1.0,,,,AFRICA,South Africa,ESAF,Landslide
+344,Kitzsteinhorn-Gebiet,Kitzsteinhorn-Gebiet,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+345,le…,le…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+346,Engländer,Engländer,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+347,Yogis,Yogis,LOC,0.0,0.0,de,1.0,,-1.0,,,,NORTH-AMERICA,United States,ENA,Landslide
+348,Türkei,Türkei,LOC,0.0,0.0,de,1.0,,298795.0,A,39.0,35.0,EUROPE-AFRICA,Türkei,MED,Landslide
+349,Bergsteigern im Himalaya,Bergsteigern im Himalaya,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+350,Berg Yalung Ri,Berg Yalung Ri,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+351,Ital…,Ital…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+352,Samstagnachmi…,Samstagnachmi…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+353,Italiens,Italiens,LOC,0.0,0.0,de,1.0,,6116880.0,H,46.36199,-74.81286,NORTH-AMERICA,Kanada,ENA,Landslide
+354,Dachs,Dachs,LOC,1.0,0.0,de,1.0,4119971-6,-1.0,,,,NORTH-AMERICA,United States,ENA,Landslide
+263,All,All,LOC,-0.7,0.0,de,1.0,,-1.0,,,,CENTRAL-AMERICA,Antigua and Barbuda,CAR,Landslide
+194,Saison-Aus,Saison-Aus,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+261,Westsibirien,Westsibirien,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+181,Schnee-Kanonen,Schnee-Kanonen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+168,E-Paper,E-Paper,LOC,-0.1,0.33333333,de,1.0,,-1.0,,,,EUROPE-AFRICA,Albania,MED,Landslide
+169,Winterschlaf,Winterschlaf,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+170,Nordsee-Fans,Nordsee-Fans,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+171,Erdmassen,Erdmassen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+172,Hanoi,Hanoi,LOC,-1.0,0.0,de,1.0,4094713-0,-1.0,,,,ASIA,Vietnam,EAS,Landslide
+173,Delhi,Delhi,LOC,0.0,0.0,de,1.0,4011371-1,-1.0,,,,ASIA,India,SAS,Landslide
+174,Dänemarks,Dänemarks,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+175,Watt,Watt,LOC,0.0,0.0,de,1.0,,-1.0,,,,CENTRAL-AMERICA,Dominica,CAR,Landslide
+176,Sylt,Sylt,LOC,0.0,0.0,de,1.0,,2824454.0,T,54.90439,8.33819,EUROPE,Deutschland,NEU,Landslide
+177,Khanh-Le-Pass,Khanh-Le-Pass,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+178,Skijäger-Kosmos,Skijäger-Kosmos,LOC,-1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+179,Mühlbach,Mühlbach,LOC,0.7,0.0,de,1.0,,-1.0,,,,EUROPE,Italy,WCE,Landslide
+180,s…,s…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+182,Hoffenheim,Hoffenheim,LOC,0.0,0.0,de,1.0,4815169-5,-1.0,,,,EUROPE,Germany,WCE,Landslide
+166,Naturschnees,Naturschnees,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+183,Winterberg,Winterberg,LOC,0.0,0.0,de,1.0,4262019-3,-1.0,,,,EUROPE,Germany,WCE,Landslide
+184,Augentest,Augentest,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+185,Frühlingsgefühle,Frühlingsgefühle,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+186,Frühlingsgefühlen,Frühlingsgefühlen,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+187,Herbstrückfall,Herbstrückfall,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+188,Flusses Struma,Flusses Struma,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+189,Bulgarien,Bulgarien,LOC,0.0,0.0,de,1.0,4008866-2,-1.0,,,,EUROPE-AFRICA,Bulgaria,MED,Landslide
+190,Allgäu,Allgäu,LOC,-1.0,0.0,de,1.0,,2891621.0,P,47.72674,10.31389,EUROPE,Deutschland,WCE,Landslide
+191,wegschmilzt,wegschmilzt,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+192,Zorns,Zorns,LOC,0.0,0.0,de,1.0,,-1.0,,,,NORTH-AMERICA,United States,CNA,Landslide
+193,Horror-Sturz,Horror-Sturz,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+195,Supermond,Supermond,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+196,Reisch,Reisch,LOC,0.7,0.0,de,1.0,7830676-0,-1.0,,,,EUROPE,Germany,WCE,Landslide
+167,beschneien,beschneien,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+165,Südostasiens,Südostasiens,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+260,Rätsel,Rätsel,LOC,0.0,0.0,de,1.0,,-1.0,,,,ARCTIC,,ARO,Landslide
+149,Oldenburg,Oldenburg,LOC,-1.0,0.0,de,1.0,,2857458.0,P,53.14118,8.21467,EUROPE,Deutschland,NEU,Landslide
+136,Rumänien,Rumänien,LOC,0.0,0.0,de,1.0,4050939-4,-1.0,,,,EUROPE,Romania,WCE,Landslide
+137,den USA,den USA,LOC,0.0,0.0,de,1.0,,2747373.0,P,52.07667,4.29861,EUROPE,Niederlande,NEU,Landslide
+138,Aufruhr,Aufruhr,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+139,Aceh,Aceh,LOC,0.0,0.0,de,1.0,4195742-8,-1.0,,,,ASIA,Indonesia,SEA,Landslide
+140,Skegness an der Ostküste,Skegness an der Ostküste,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+141,Pillnitzer Palmenhaus,Pillnitzer Palmenhaus,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+142,Winterstarre,Winterstarre,LOC,-0.35,0.5,de,1.0,,0.0,,,,,,,Landslide
+143,Glasbe…,Glasbe…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+144,Rettungskräfte,Rettungskräfte,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+145,Palmenhaus,Palmenhaus,LOC,0.7,0.0,de,1.0,,-1.0,,,,EUROPE,Austria,WCE,Landslide
+146,Insta-Filter,Insta-Filter,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+147,Österreicherin,Österreicherin,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+148,Kurzstrecken,Kurzstrecken,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+150,Niedersachsen,Niedersachsen,LOC,-1.0,0.0,de,1.0,,2862926.0,A,52.83333,9.16667,EUROPE,Deutschland,WCE,Landslide
+164,Flut,Flut,LOC,-0.7,0.0,de,1.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+151,Busunglück,Busunglück,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+152,Bad Langensalza,Bad Langensalza,LOC,-0.7,0.0,de,1.0,4034508-7,-1.0,,,,EUROPE,Germany,WCE,Landslide
+153,Elversberg-Stars,Elversberg-Stars,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+154,Thüringer,Thüringer,LOC,0.0,0.0,de,1.0,,2822540.0,T,50.66667,10.83333,EUROPE,Deutschland,WCE,Landslide
+155,Hochkeil,Hochkeil,LOC,0.7,0.0,de,1.0,,-1.0,,,,EUROPE,Austria,WCE,Landslide
+156,Café Hattesgaard,Café Hattesgaard,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+157,Schweigen,Schweigen,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+158,Reetdach,Reetdach,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+159,Winteranfang,Winteranfang,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+160,Cormons,Cormons,LOC,0.0,0.0,de,1.0,4230237-7,-1.0,,,,EUROPE,Italy,WCE,Landslide
+161,Brazzano di Cormons,Brazzano di Cormons,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Italy,WCE,Landslide
+162,Hochkönig,Hochkönig,LOC,0.7,0.0,de,1.0,4089252-9,-1.0,,,,EUROPE,Austria,WCE,Landslide
+163,Gorizia,Gorizia,LOC,-1.0,0.0,de,1.0,4071921-2,-1.0,,,,EUROPE,Slovenia,WCE,Landslide
+197,Streaming-Partner,Streaming-Partner,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+198,Wisla,Wisla,LOC,0.0,0.0,de,1.0,4283874-5,-1.0,,,,EUROPE,Poland,WCE,Landslide
+199,Isny,Isny,LOC,0.0,0.0,de,1.0,4027758-6,-1.0,,,,EUROPE,Germany,WCE,Landslide
+245,Bremer Theaters,Bremer Theaters,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+232,Jahresbilanz,Jahresbilanz,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+233,Picknickplatz,Picknickplatz,LOC,-0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+234,Italien-Klub,Italien-Klub,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+235,Höhenlagen,Höhenlagen,LOC,0.35,0.5,de,1.0,,0.0,,,,,,,Landslide
+236,Herbstprogramm,Herbstprogramm,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+237,Privacy Center,Privacy Center,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+238,Langstrecke,Langstrecke,LOC,1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+239,Faktencheck,Faktencheck,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+240,Bulgaren,Bulgaren,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+241,Gestein,Gestein,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+242,Wirtschaftskammer,Wirtschaftskammer,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+243,Forstauer Landesstraße,Forstauer Landesstraße,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+244,Kohlenstoff,Kohlenstoff,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+246,Kleinen Haus des,Kleinen Haus des,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+200,Netflix-Geheimtipps,Netflix-Geheimtipps,LOC,0.85,0.0,de,1.0,,0.0,,,,,,,Landslide
+247,Steilküsten Ibizas,Steilküsten Ibizas,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+248,Mexiko,Mexiko,LOC,0.0,1.0,de,1.0,,3996063.0,A,23.0,-102.0,CENTRAL-AMERICA,Mexiko,NCA,Landslide
+249,Wanderern,Wanderern,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+250,Jungfrau-Region,Jungfrau-Region,LOC,0.0,0.0,de,1.0,,-1.0,,,,AFRICA,Namibia,WSAF,Landslide
+251,Aletsch-Panoramaweg,Aletsch-Panoramaweg,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+252,Thurgauer,Thurgauer,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+253,Darjeeling,Darjeeling,LOC,0.0,2.0,de,1.0,4011057-6,-1.0,,,,ASIA,India,TIB,Landslide
+254,Himachal P…,Himachal P…,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+255,Bezirk Bilaspur im,Bezirk Bilaspur im,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+256,Nordindien,Nordindien,LOC,-0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+257,Neu-Delhi,Neu-Delhi,LOC,0.7,0.0,de,1.0,,1261481.0,P,28.62137,77.2148,ASIA,Indien,SAS,Landslide
+258,Bezirk Bilaspur im …,Bezirk Bilaspur im …,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+259,absacken,absacken,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+231,Nieselregen,Nieselregen,LOC,1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+230,zunichtegemacht,zunichtegemacht,LOC,1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+229,Kampagne,Kampagne,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+228,Siedlungsnähe,Siedlungsnähe,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+201,Mill Valley,Mill Valley,LOC,0.0,0.0,de,1.0,7617871-7,-1.0,,,,NORTH-AMERICA,United States,WNA,Landslide
+202,Mond,Mond,LOC,1.0,0.0,de,1.0,,293354.0,P,32.24995,34.91737,EUROPE-AFRICA,Israel,MED,Landslide
+203,Vollmond,Vollmond,LOC,1.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+204,Grauens,Grauens,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+205,Bauernprotest,Bauernprotest,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+206,Stadt Amritsar,Stadt Amritsar,LOC,-0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+207,Münchens,Münchens,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Germany,WCE,Landslide
+208,Staatsoper,Staatsoper,LOC,-1.0,0.0,de,1.0,,-1.0,,,,EUROPE,Austria,WCE,Landslide
+209,Bayerischen Staatsoper,Bayerischen Staatsoper,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+210,Berlins,Berlins,LOC,0.0,0.0,de,1.0,,-1.0,,,,OCEANIA,New Zealand,NZ,Landslide
+211,Rechtslage,Rechtslage,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+212,Thailand,Thailand,LOC,0.0,0.0,de,1.0,4078228-1,1605651.0,A,15.5,101.0,ASIA,Thailand,SEA,Landslide
+213,di…,di…,LOC,0.7,0.0,de,1.0,,0.0,,,,,,,Landslide
+214,Sri Lanka,Sri Lanka,LOC,0.0,0.0,de,1.0,4009696-8,-1.0,,,,INDIAN,Sri Lanka,BOB,Landslide
+215,Ahrtal,Ahrtal,LOC,0.0,0.0,de,1.0,,12470173.0,T,50.5333,7.0667,EUROPE,Deutschland,WCE,Landslide
+216,Katastrophen,Katastrophen,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+217,China-Route,China-Route,LOC,-0.7,0.0,de,1.0,,-1.0,,,,EUROPE,France,WCE,Landslide
+218,Arktis,Arktis,LOC,-0.7,0.0,de,1.0,4002924-4,-1.0,,,,ASIA,Russia,RAR,Landslide
+219,Dresden,Dresden,LOC,0.0,0.0,de,1.0,,2935022.0,P,51.05089,13.73832,EUROPE,Deutschland,WCE,Landslide
+220,sn,sn,LOC,0.0,0.0,de,1.0,,6255146.0,L,7.1881,21.09375,AFRICA,,CAF,Landslide
+221,Pariser,Pariser,LOC,0.0,0.0,de,1.0,,2943127.0,T,47.40555,11.28725,EUROPE,Deutschland,WCE,Landslide
+222,Skitest,Skitest,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+223,Zinne,Zinne,LOC,0.0,0.0,de,1.0,,-1.0,,,,EUROPE,Poland,WCE,Landslide
+224,Altenburger Land,Altenburger Land,LOC,0.7,0.0,de,1.0,4001409-5,-1.0,,,,EUROPE,Germany,WCE,Landslide
+225,Wintersport-Saison,Wintersport-Saison,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+226,Pfas im Schnee,Pfas im Schnee,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+227,Winter-Langstrecke,Winter-Langstrecke,LOC,0.0,0.0,de,1.0,,0.0,,,,,,,Landslide
+387,Elektronik-Last,Elektronik-Last,LOC,0.0,1.0,de,1.0,,0.0,,,,,,,Landslide
+388,276,,,,,,,,3508796.0,A,19.0,-70.66667,,Dominican Republic,,Landslide
