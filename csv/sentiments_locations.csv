@@ -1,446 +1,356 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Iran,Iran,GPE,-0.16526472,0.67352775,en,65.0,4027653-3,130758,X,32.0,53.0,ASIA,Iran,WCA,Drought
-1,Tehran,Tehran,GPE,-0.20423093,0.70770453,en,42.4,4059304-6,112931,X,35.694389,51.421509,ASIA,Iran,WCA,Drought
-2,Delhi,Delhi,GPE,0.00340858,0.44539995,en,25.6,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Drought
-3,India,India,GPE,0.21387354,0.61906132,en,20.8,,-1,,,,,,,Drought
-4,California,California,GPE,0.14551377,1.11376735,en,15.45,,-1,,,,,,,Drought
-5,New Delhi,New Delhi,GPE,0.01335513,0.49380712,en,14.7,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Drought
-6,Brazil,Brazil,GPE,0.13329966,0.93260382,en,7.5,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Drought
-7,U.S.,U.S.,GPE,0.38365655,1.74551971,en,6.2,,-1,,,,,,,Drought
-8,PHOENIX,PHOENIX,GPE,0.09482759,0.26149425,en,5.8,,-1,,,,,,,Drought
-9,Indonesia,Indonesia,GPE,-0.40904344,1.16071429,en,5.7,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Drought
-10,B.C.,B.C.,GPE,-0.0625,0.28794643,en,5.6,,-1,,,,,,,Drought
-11,US,US,GPE,0.34870479,1.31539589,en,4.65,,-1,,,,,,,Drought
-12,Kashmir,Kashmir,LOC,-0.01449275,0.27717391,en,4.6,,-1,,,,,,,Drought
-13,the Middle East,the Middle East,LOC,-0.02264836,0.78693182,en,4.4,,-1,,,,,,,Drought
-14,China,China,GPE,0.25103306,0.57541322,en,4.4,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Drought
-15,Florida,Florida,GPE,-0.07081718,0.75371447,en,4.3,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Drought
-16,Morocco,Morocco,GPE,-0.32170543,0.54108527,en,4.3,4037680-1,2542007,X,32.0,-5.0,EUROPE-AFRICA,Morocco,MED,Drought
-17,Earth,Earth,LOC,0.30757576,1.41427061,en,4.3,,-1,,,,,,,Drought
-18,Sri Lanka,Sri Lanka,GPE,0.09418605,0.94366925,en,4.3,4009696-8,1227603,X,7.0,81.0,INDIAN,Sri Lanka,BOB,Drought
-19,Türkiye,Türkiye,GPE,0.01175595,0.81309524,en,4.0,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Drought
-20,Kathmandu,Kathmandu,GPE,-0.04385965,0.42690058,en,3.8,4030036-5,1283240,X,27.701689,85.320599,ASIA,Nepal,TIB,Drought
-23,Andhra Pradesh,Andhra Pradesh,GPE,0.00804376,0.22039897,en,3.7,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Drought
-22,agriforest-crops,agriforest-crops,LOC,0.0,0.0,en,3.7,,-1,,,,,,,Drought
-21,Dujiangyan,Dujiangyan,GPE,0.41523342,0.60933661,en,3.7,,-1,,,,,,,Drought
-24,Israel,Israel,GPE,-0.06097884,0.43865741,en,3.6,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Drought
-25,Calgary,Calgary,GPE,-0.04877345,0.28398268,en,3.3,4085122-9,5913490,X,51.05,-114.085277,NORTH-AMERICA,Canada,NWN,Drought
-26,Ukraine,Ukraine,GPE,0.05168569,0.50393546,en,3.3,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Drought
-27,Ottawa,Ottawa,GPE,-0.046875,0.36588542,en,3.2,4122012-2,6094817,X,45.411111,-75.698055,NORTH-AMERICA,Canada,ENA,Drought
-28,Jammu,Jammu,GPE,0.31584821,0.57328869,en,3.2,4387357-1,1269321,X,32.735689,74.86911,ASIA,India,WCA,Drought
-29,Thailand,Thailand,GPE,-0.53219898,1.53113553,en,3.1,4078228-1,1605651,X,15.0,100.0,ASIA,Thailand,SEA,Drought
-30,TEHRAN,TEHRAN,GPE,-0.26777778,0.93,en,3.0,,-1,,,,,,,Drought
-37,Kanpur,Kanpur,GPE,0.04464286,0.25595238,en,2.8,4029504-7,1267995,X,26.4478,80.34627,ASIA,India,SAS,Drought
-36,Southern Zambia,Southern Zambia,LOC,0.0,0.0,en,2.8,,-1,,,,,,,Drought
-35,Istanbul,Istanbul,GPE,0.10204082,0.20408163,en,2.8,4027821-9,745044,X,41.013611,28.949444,EUROPE-AFRICA,Turkey,MED,Drought
-34,Chennai,Chennai,GPE,0.05357143,0.30238095,en,2.8,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Drought
-32,Europe,Europe,LOC,0.07305195,0.90322872,en,2.8,,-1,,,,,,,Drought
-31,Afghanistan,Afghanistan,GPE,-0.31309524,1.1172619,en,2.8,4000687-6,1149361,X,33.0,66.0,ASIA,Afghanistan,WCA,Drought
-33,Hyderabad,Hyderabad,GPE,0.11309524,0.42142857,en,2.8,,-1,,,,,,,Drought
-38,Newfoundland,Newfoundland,GPE,0.20092593,0.39166667,en,2.7,,-1,,,,,,,Drought
-39,Labrador,Labrador,GPE,0.20092593,0.39166667,en,2.7,,-1,,,,,,,Drought
-40,Southeast Asia,Southeast Asia,LOC,-0.79012346,0.86419753,en,2.7,,-1,,,,,,,Drought
-41,Russia,Russia,GPE,-0.02425044,0.44135802,en,2.7,,-1,,,,,,,Drought
-48,Los Angeles,Los Angeles,GPE,-0.01923077,0.5,en,2.6,,-1,,,,,,,Drought
-46,New Delhi's,New Delhi's,GPE,0.13636364,0.48339161,en,2.6,,-1,,,,,,,Drought
-47,Summerland,Summerland,GPE,0.0,0.11538462,en,2.6,,-1,,,,,,,Drought
-43,UK,UK,GPE,0.46153846,1.44444444,en,2.6,,-1,,,,,,,Drought
-45,Athens,Athens,GPE,-0.03571429,0.05769231,en,2.6,4003366-1,264371,X,37.979449,23.716219,EUROPE-AFRICA,Greece,MED,Drought
-44,NEW DELHI,NEW DELHI,GPE,-0.06876457,0.43638306,en,2.6,,-1,,,,,,,Drought
-42,Nepal,Nepal,GPE,0.89423077,0.86446886,en,2.6,4041612-4,1282988,X,28.0,84.0,ASIA,Nepal,TIB,Drought
-49,Louisiana,Louisiana,GPE,0.07454545,0.42181818,en,2.5,4036394-6,4331987,X,31.699999,-92.999999,NORTH-AMERICA,United States,CNA,Drought
-50,Tripureshwor,Tripureshwor,GPE,0.0,0.10416667,en,2.4,,-1,,,,,,,Drought
-51,CALGARY,CALGARY,GPE,-0.0640873,0.2952381,en,2.4,,-1,,,,,,,Drought
-52,England,England,GPE,0.20089286,0.50595238,en,2.4,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Drought
-53,Canada,Canada,GPE,0.28221344,0.59288538,en,2.3,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Drought
-54,Iraq,Iraq,GPE,-0.22463768,1.88405797,en,2.3,,-1,,,,,,,Drought
-55,Gaza,Gaza,GPE,0.11363636,0.14204545,en,2.2,,-1,,,,,,,Drought
-56,Queensland,Queensland,GPE,0.27982955,0.99810606,en,2.2,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Drought
-57,Argentina,Argentina,GPE,-0.03592746,1.34067952,en,2.2,,-1,,,,,,,Drought
-59,Dublin,Dublin,GPE,0.05102041,0.99433107,en,2.1,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Drought
-58,Calif.,Calif.,GPE,-0.05385488,0.69160998,en,2.1,,-1,,,,,,,Drought
-60,JAMMU,JAMMU,GPE,0.0,0.2125,en,2.0,,-1,,,,,,,Drought
-61,Ganderbal,Ganderbal,GPE,0.0,0.2125,en,2.0,,-1,,,,,,,Drought
-62,Attica,Attica,GPE,-0.07321429,0.7375,en,2.0,,-1,,,,,,,Drought
-73,ISTANBUL,ISTANBUL,GPE,0.33834586,0.67669173,en,1.9,,-1,,,,,,,Drought
-81,Jigawa,Jigawa,GPE,-0.26315789,0.26315789,en,1.9,,-1,,,,,,,Drought
-80,Krishna district,Krishna district,LOC,-0.07205514,0.2537594,en,1.9,,-1,,,,,,,Drought
-79,Bengaluru,Bengaluru,GPE,0.07894737,0.44561404,en,1.9,4004431-2,1277333,X,12.97194,77.593689,ASIA,India,SAS,Drought
-78,CHENGDU,CHENGDU,GPE,0.44019139,0.71291866,en,1.9,,-1,,,,,,,Drought
-77,vineyards,vineyards,LOC,0.04775828,0.5380117,en,1.9,,-1,,,,,,,Drought
-76,PITTSBURGH,PITTSBURGH,GPE,0.0,0.28947368,en,1.9,,-1,,,,,,,Drought
-75,Egypt,Egypt,GPE,0.07894737,0.44561404,en,1.9,4000556-2,357994,X,27.0,30.0,AFRICA,Egypt,SAH,Drought
-74,Romania,Romania,GPE,0.04385965,0.70175439,en,1.9,4288396-9,4560808,X,39.793419,-79.044749,NORTH-AMERICA,United States,ENA,Drought
-66,Ontario,Ontario,GPE,1.05263158,1.05263158,en,1.9,4102089-3,6093943,X,49.25014,-84.49983,NORTH-AMERICA,Canada,ENA,Drought
-72,Yunnan Province,Yunnan Province,GPE,-0.26315789,1.05263158,en,1.9,,-1,,,,,,,Drought
-71,Shasta County,Shasta County,GPE,0.0,0.03508772,en,1.9,,-1,,,,,,,Drought
-70,Sichuan province,Sichuan province,GPE,0.44019139,0.71291866,en,1.9,,-1,,,,,,,Drought
-69,Covington,Covington,GPE,0.02631579,0.31578947,en,1.9,,-1,,,,,,,Drought
-68,Washington,Washington,GPE,-0.16666667,0.42105263,en,1.9,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Drought
-67,Malaysia,Malaysia,GPE,-0.79949875,1.19047619,en,1.9,4037203-0,1733045,X,2.5,112.5,ASIA,Malaysia,SEA,Drought
-65,The City of Dawson Creek,The City of Dawson Creek,GPE,0.03349282,0.62699362,en,1.9,,-1,,,,,,,Drought
-64,Texas,Texas,GPE,0.10526316,1.0877193,en,1.9,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Drought
-63,Colorado,Colorado,GPE,0.39440457,1.00746943,en,1.9,,-1,,,,,,,Drought
-86,Patmos,Patmos,GPE,-0.02579365,0.04166667,en,1.8,,-1,,,,,,,Drought
-90,Safi,Safi,GPE,-0.44444444,0.64814815,en,1.8,4482785-4,2537881,X,32.299444,-9.237222,EUROPE-AFRICA,Morocco,MED,Drought
-89,the Pacific Ocean,the Pacific Ocean,LOC,-0.46212121,0.95959596,en,1.8,,-1,,,,,,,Drought
-88,crisi,crisi,GPE,-0.09511785,0.49158249,en,1.8,,-1,,,,,,,Drought
-87,Okanagan,Okanagan,GPE,0.0,0.0,en,1.8,,-1,,,,,,,Drought
-82,Mexico,Mexico,GPE,0.23148148,1.89444444,en,1.8,,-1,,,,,,,Drought
-84,Leros,Leros,GPE,-0.02579365,0.04166667,en,1.8,,-1,,,,,,,Drought
-83,Mars,Mars,LOC,0.22023008,0.92124018,en,1.8,,-1,,,,,,,Drought
-85,the Colorado River Basin,the Colorado River Basin,LOC,0.0,0.0,en,1.8,,-1,,,,,,,Drought
-94,SAN DIEGO,SAN DIEGO,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Drought
-97,Nunavut,Nunavut,GPE,-0.24509804,0.23529412,en,1.7,4248598-8,6091732,X,70.167839,-90.733249,NORTH-AMERICA,,NEN,Drought
-95,Turlock Irrigation District,Turlock Irrigation District,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Drought
-96,Kugaaruk,Kugaaruk,GPE,-0.24509804,0.23529412,en,1.7,,-1,,,,,,,Drought
-93,Ocean,Ocean,LOC,0.03921569,0.25490196,en,1.7,,-1,,,,,,,Drought
-92,Kelantan,Kelantan,GPE,-0.02941176,0.31176471,en,1.7,4097779-1,1733044,X,5.33333,102.0,ASIA,Malaysia,SEA,Drought
-91,New South Wales,New South Wales,GPE,0.43137255,0.8627451,en,1.7,,-1,,,,,,,Drought
-98,Australia,Australia,GPE,0.41856061,2.75284091,en,1.6,,-1,,,,,,,Drought
-99,Black Sea,Black Sea,LOC,0.09288194,0.89236111,en,1.6,,-1,,,,,,,Drought
-100,Senegal,Senegal,GPE,0.0,0.0,en,1.6,4054529-5,2245662,X,14.0,-14.0,AFRICA,Senegal,WAF,Drought
-101,Oregon,Oregon,GPE,-0.0625,0.4140625,en,1.6,4043760-7,5744337,X,44.299999,-120.50139,NORTH-AMERICA,United States,WNA,Drought
-103,Somalia,Somalia,GPE,-0.625,1.0,en,1.6,4077509-4,51537,X,6.0,48.0,AFRICA,Somalia,NEAF,Drought
-102,Moscow,Moscow,GPE,0.0,0.03125,en,1.6,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Drought
-105,the United States,the United States,GPE,0.00555556,0.73611111,en,1.5,,-1,,,,,,,Drought
-106,Northeast,Northeast,LOC,-0.13160173,1.62720058,en,1.5,,-1,,,,,,,Drought
-104,Jordan,Jordan,GPE,0.11784848,1.55927273,en,1.5,,-1,,,,,,,Drought
-107,South Africa,South Africa,GPE,0.0,0.23809524,en,1.4,4078012-0,953987,X,-29.0,24.0,AFRICA,South Africa,WSAF,Drought
-108,Virginia,Virginia,GPE,-0.39285714,0.60714286,en,1.4,4063592-2,6254928,X,37.548119,-77.446749,NORTH-AMERICA,United States,ENA,Drought
-109,TORONTO,TORONTO,GPE,0.49107143,0.85714286,en,1.4,,-1,,,,,,,Drought
-110,Japan,Japan,GPE,0.42012987,1.18376623,en,1.4,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Drought
-111,Africa,Africa,LOC,0.13095238,1.11904762,en,1.4,,-1,,,,,,,Drought
-112,Hollywood,Hollywood,GPE,-0.08801948,1.27779221,en,1.4,,-1,,,,,,,Drought
-128,the Red Planet,the Red Planet,LOC,-0.03554779,0.30244755,en,1.3,,-1,,,,,,,Drought
-129,Madhya Pradesh,Madhya Pradesh,GPE,0.10302198,0.49450549,en,1.3,4234626-5,1264542,X,23.5,78.5,ASIA,India,SAS,Drought
-130,Toulouse,Toulouse,GPE,0.87393162,1.01709402,en,1.3,4060518-8,2972315,X,43.604259,1.44367,EUROPE-AFRICA,France,MED,Drought
-133,Quinte,Quinte,GPE,0.76923077,0.76923077,en,1.3,,-1,,,,,,,Drought
-132,Kerrville,Kerrville,GPE,0.0,0.0,en,1.3,,-1,,,,,,,Drought
-131,the Snoqualmie River,the Snoqualmie River,LOC,0.0,0.0,en,1.3,,-1,,,,,,,Drought
-134,Uruguay,Uruguay,GPE,-0.24125874,0.88811189,en,1.3,4062186-8,3439705,X,-33.0,-56.0,SOUTH-AMERICA,Uruguay,SES,Drought
-135,New Zealand,New Zealand,GPE,0.20979021,0.6993007,en,1.3,,-1,,,,,,,Drought
-136,Venezuela,Venezuela,GPE,0.0,0.0,en,1.3,4062512-6,3625428,X,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Drought
-137,New York,New York,GPE,-0.07342657,0.90909091,en,1.3,,-1,,,,,,,Drought
-138,Midwest,Midwest,LOC,-0.06075175,0.98339161,en,1.3,,-1,,,,,,,Drought
-126,Dawson Creek,Dawson Creek,GPE,-0.23076923,0.38461538,en,1.3,,-1,,,,,,,Drought
-127,Mississippi Valley,Mississippi Valley,LOC,0.76923077,0.76923077,en,1.3,,-1,,,,,,,Drought
-125,Cairns,Cairns,GPE,-0.15384615,0.30769231,en,1.3,4376462-9,2172797,X,-16.92304,145.76625,OCEANIA,Australia,NAU,Drought
-115,TAMPA,TAMPA,GPE,0.52884615,0.875,en,1.3,,-1,,,,,,,Drought
-123,Haryana,Haryana,GPE,0.11153846,0.61410256,en,1.3,4239291-3,1270260,X,29.0,76.0,ASIA,India,SAS,Drought
-122,Staten Island,Staten Island,GPE,-0.25811966,0.71452991,en,1.3,,-1,,,,,,,Drought
-121,Filly Mangassa,Filly Mangassa,LOC,0.0,0.0,en,1.3,,-1,,,,,,,Drought
-120,Wivenhoe Dam,Wivenhoe Dam,LOC,0.01201923,0.47115385,en,1.3,,-1,,,,,,,Drought
-119,LONDON,LONDON,GPE,-0.05128205,0.6039886,en,1.3,,-1,,,,,,,Drought
-118,America,America,GPE,0.0,0.23076923,en,1.3,,-1,,,,,,,Drought
-117,Caribbean,Caribbean,LOC,-0.61538462,0.65384615,en,1.3,,-1,,,,,,,Drought
-116,New York City,New York City,GPE,0.1951049,1.42727273,en,1.3,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Drought
-124,Rajasthan,Rajasthan,GPE,0.11153846,0.61410256,en,1.3,4076502-7,1258899,X,26.0,74.0,ASIA,India,SAS,Drought
-114,Fla.,Fla.,GPE,0.52884615,0.875,en,1.3,,-1,,,,,,,Drought
-113,Iowa,Iowa,GPE,-0.12820513,0.57692308,en,1.3,4109226-0,4862182,X,42.7,-93.500489,NORTH-AMERICA,United States,CNA,Drought
-152,Colorado River,Colorado River,LOC,-0.10416667,0.625,en,1.2,,-1,,,,,,,Drought
-150,the Middle East's,the Middle East's,LOC,0.16666667,1.16666667,en,1.2,,-1,,,,,,,Drought
-151,Chicago,Chicago,GPE,-0.03661616,0.42424242,en,1.2,4009921-0,4887398,X,41.850029,-87.650049,NORTH-AMERICA,United States,ENA,Drought
-145,Seneca,Seneca,GPE,0.25252525,0.87878788,en,1.2,,-1,,,,,,,Drought
-153,the United Kingdom,the United Kingdom,GPE,-0.33854167,1.28125,en,1.2,,-1,,,,,,,Drought
-154,Jragung Dam,Jragung Dam,GPE,0.0,0.41666667,en,1.2,,-1,,,,,,,Drought
-148,San Francisco,San Francisco,GPE,-0.55555556,0.98611111,en,1.2,,-1,,,,,,,Drought
-149,CBD,CBD,GPE,0.47869318,1.52272727,en,1.2,,-1,,,,,,,Drought
-143,Sacramento County,Sacramento County,GPE,-0.24583333,0.42638889,en,1.2,,-1,,,,,,,Drought
-147,BAGHDAD,BAGHDAD,GPE,0.16666667,1.16666667,en,1.2,,-1,,,,,,,Drought
-146,New Jersey,New Jersey,GPE,0.35774411,1.1986532,en,1.2,4042004-8,5101760,X,40.167059,-74.49987,NORTH-AMERICA,United States,ENA,Drought
-144,North America,North America,LOC,0.08928571,1.10119048,en,1.2,,-1,,,,,,,Drought
-142,Ladakh,Ladakh,GPE,0.38095238,0.72619048,en,1.2,,-1,,,,,,,Drought
-141,Turkey,Turkey,GPE,0.0,0.0,en,1.2,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Drought
-140,Seoul,Seoul,GPE,0.74621212,0.91792929,en,1.2,4122021-3,1835848,X,37.56826,126.977829,ASIA,South Korea,EAS,Drought
-139,Massachusetts,Massachusetts,GPE,0.10416667,0.83333333,en,1.2,4037858-5,6254926,X,42.36565,-71.10832,NORTH-AMERICA,United States,ENA,Drought
-181,Lancaster city,Lancaster city,GPE,0.12396694,0.41322314,en,1.1,,-1,,,,,,,Drought
-184,Los Gatos,Los Gatos,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-183,Zanzibar,Zanzibar,GPE,0.0,0.0,en,1.1,4051641-6,148730,X,-6.16394,39.197929,AFRICA,Tanzania,SEAF,Drought
-182,West Palm Beach,West Palm Beach,GPE,-0.28282828,0.52525253,en,1.1,,-1,,,,,,,Drought
-186,Mediterranean,Mediterranean,LOC,0.81818182,1.18181818,en,1.1,,-1,,,,,,,Drought
-180,South Korea,South Korea,GPE,0.1322314,0.31955923,en,1.1,4078029-6,1835841,X,37.0,127.5,ASIA,South Korea,EAS,Drought
-179,Minnesota,Minnesota,GPE,0.24242424,1.33333333,en,1.1,4101012-7,5037779,X,46.250239,-94.25055,NORTH-AMERICA,United States,CNA,Drought
-178,Pontian,Pontian,GPE,-0.1375,0.58068182,en,1.1,,-1,,,,,,,Drought
-185,Kansas,Kansas,GPE,0.12396694,0.41322314,en,1.1,4114131-3,4273857,X,38.500289,-98.50063,NORTH-AMERICA,United States,CNA,Drought
-176,Amherst,Amherst,GPE,0.15151515,1.16161616,en,1.1,,-1,,,,,,,Drought
-187,Lantang Valley,Lantang Valley,LOC,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-188,Louisville,Louisville,GPE,-0.12121212,0.36363636,en,1.1,,-1,,,,,,,Drought
-189,Cayman Islands,Cayman Islands,GPE,0.29090909,0.43636364,en,1.1,4310479-4,3580718,X,19.5,-80.666669,CENTRAL-AMERICA,,CAR,Drought
-190,Pakistan,Pakistan,GPE,0.25568182,0.53030303,en,1.1,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Drought
-191,Kamloops,Kamloops,GPE,0.5,0.86363636,en,1.1,4250976-2,5989045,X,50.66648,-120.319199,NORTH-AMERICA,Canada,NWN,Drought
-192,Western Australia,Western Australia,LOC,0.08815427,0.46556474,en,1.1,,-1,,,,,,,Drought
-193,Alaska,Alaska,GPE,-0.67045455,0.80681818,en,1.1,4001016-8,5879092,X,64.8,-150.8,NORTH-AMERICA,United States,NWN,Drought
-194,A.L.,A.L.,GPE,0.0,0.27272727,en,1.1,,-1,,,,,,,Drought
-195,Maritimes,Maritimes,GPE,0.45643939,1.0625,en,1.1,,-1,,,,,,,Drought
-177,Mass.,Mass.,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-160,JAMAICA,JAMAICA,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-175,Nev.,Nev.,GPE,0.04545455,0.18181818,en,1.1,,-1,,,,,,,Drought
-164,Central Java,Central Java,GPE,0.0,0.45454545,en,1.1,,-1,,,,,,,Drought
-174,Kerala,Kerala,GPE,0.40909091,0.36363636,en,1.1,4030266-0,1267254,X,10.0,76.5,ASIA,India,SAS,Drought
-155,Operation Cloudburst,Operation Cloudburst,LOC,0.90909091,1.54545455,en,1.1,,-1,,,,,,,Drought
-156,Sacramento,Sacramento,GPE,-0.63636364,0.63636364,en,1.1,,-1,,,,,,,Drought
-157,The United Kingdom,The United Kingdom,GPE,0.23140496,0.80165289,en,1.1,,-1,,,,,,,Drought
-158,Mauritius,Mauritius,GPE,0.17045455,0.58522727,en,1.1,4074641-0,934292,X,-20.3,57.583329,INDIAN,Mauritius,SIO,Drought
-161,Atlantic,Atlantic,LOC,-0.54545455,0.72727273,en,1.1,,-1,,,,,,,Drought
-162,Greece,Greece,GPE,0.12396694,0.9258494,en,1.1,,-1,,,,,,,Drought
-163,Semarang District,Semarang District,GPE,0.0,0.45454545,en,1.1,,-1,,,,,,,Drought
-159,Atlanta,Atlanta,GPE,0.0,1.81818182,en,1.1,4086063-2,4180439,X,33.748888,-84.387777,NORTH-AMERICA,United States,ENA,Drought
-165,Las Vegas,Las Vegas,GPE,-0.14545455,0.61212121,en,1.1,,-1,,,,,,,Drought
-173,the Space Coast,the Space Coast,LOC,0.12396694,0.50413223,en,1.1,,-1,,,,,,,Drought
-167,Qonto,Qonto,GPE,0.25974026,0.48701299,en,1.1,,-1,,,,,,,Drought
-168,Jammu North,Jammu North,GPE,-0.12662338,0.91774892,en,1.1,,-1,,,,,,,Drought
-169,the East Coast,the East Coast,LOC,0.24793388,0.82644628,en,1.1,,-1,,,,,,,Drought
-170,North Dakota,North Dakota,GPE,0.45454545,1.54545455,en,1.1,4075498-4,5690763,X,47.50027,-100.8,NORTH-AMERICA,United States,CNA,Drought
-171,Fargo,Fargo,GPE,0.45454545,1.54545455,en,1.1,,-1,,,,,,,Drought
-172,Vadodara,Vadodara,GPE,0.54545455,0.86363636,en,1.1,4349634-9,1253573,X,22.299399,73.208119,ASIA,India,SAS,Drought
-166,Doctolib,Doctolib,GPE,0.25974026,0.48701299,en,1.1,,-1,,,,,,,Drought
-364,Cappadocia,Cappadocia,GPE,0.25,0.55,en,1.0,,-1,,,,,,,Drought
-363,United States,United States,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-362,feasibili,feasibili,GPE,0.05844156,0.34520202,en,1.0,,-1,,,,,,,Drought
-361,Switzerland,Switzerland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-360,Kholm,Kholm,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-356,Haruai,Haruai,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-359,Johor,Johor,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-358,farmingrebuilding soil health,farmingrebuilding soil health,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-357,Tabalong,Tabalong,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-355,Tarquinia,Tarquinia,GPE,0.0,0.0,en,1.0,4105777-6,3165919,X,42.25419,11.75657,EUROPE-AFRICA,Italy,MED,Drought
-366,Brazils,Brazils,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-354,Italy,Italy,GPE,-0.2,0.375,en,1.0,,-1,,,,,,,Drought
-365,ICC,ICC,GPE,0.0,0.03333333,en,1.0,,-1,,,,,,,Drought
-375,Lokal,Lokal,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-367,Honolulu,Honolulu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-368,LOUISVILLE,LOUISVILLE,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
-369,KY,KY,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
-370,Bronx,Bronx,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-371,solarpunk city,solarpunk city,GPE,0.03333333,0.43333333,en,1.0,,-1,,,,,,,Drought
-372,Tacoma,Tacoma,GPE,0.07454545,0.43181818,en,1.0,,-1,,,,,,,Drought
-373,Germany,Germany,GPE,0.1,0.275,en,1.0,,-1,,,,,,,Drought
-374,Kuta Cot Glie,Kuta Cot Glie,GPE,-0.09583333,0.4875,en,1.0,,-1,,,,,,,Drought
-352,Las Vegas Desert,Las Vegas Desert,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
-376,Queens,Queens,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-377,Brooklyn,Brooklyn,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-378,north Wales,north Wales,GPE,-0.05,0.225,en,1.0,,-1,,,,,,,Drought
-379,Pacific Ocean,Pacific Ocean,LOC,0.06666667,0.2,en,1.0,,-1,,,,,,,Drought
-380,the Great Lakes,the Great Lakes,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Drought
-353,Spain,Spain,GPE,0.1,0.4,en,1.0,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Drought
-343,Portland,Portland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-351,The National Oceanic,The National Oceanic,LOC,0.125,0.4375,en,1.0,,-1,,,,,,,Drought
-335,Ukrai,Ukrai,GPE,0.03333333,0.16666667,en,1.0,,-1,,,,,,,Drought
-322,Crete,Crete,GPE,0.04545455,0.38207071,en,1.0,,-1,,,,,,,Drought
-323,Jakarta,Jakarta,GPE,0.0,0.25,en,1.0,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Drought
-324,Delhi NCR,Delhi NCR,GPE,0.3,0.95,en,1.0,,-1,,,,,,,Drought
-325,Caribbean beaches,Caribbean beaches,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Drought
-326,the Sargassum Belt,the Sargassum Belt,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-327,earth,earth,LOC,0.0,0.06666667,en,1.0,,-1,,,,,,,Drought
-328,Galveston,Galveston,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-329,Galveston Island Brewing,Galveston Island Brewing,GPE,0.0125,0.2,en,1.0,,-1,,,,,,,Drought
-330,Ghost Coast,Ghost Coast,GPE,0.0125,0.2,en,1.0,,-1,,,,,,,Drought
-331,Northwest Delhi,Northwest Delhi,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Drought
-332,New Glenn,New Glenn,GPE,0.06818182,0.27727273,en,1.0,,-1,,,,,,,Drought
-333,Tauranga,Tauranga,GPE,0.19318182,0.47727273,en,1.0,4379727-1,2208032,X,-37.686109,176.16667,OCEANIA,New Zealand,NZ,Drought
-334,UMass Amherst,UMass Amherst,GPE,0.1,0.4,en,1.0,,-1,,,,,,,Drought
-336,votar,votar,GPE,0.14166667,0.2,en,1.0,,-1,,,,,,,Drought
-350,San Diego,San Diego,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-337,kingdom,kingdom,GPE,0.04927273,0.57890909,en,1.0,,-1,,,,,,,Drought
-338,Missouri,Missouri,GPE,0.2,0.2,en,1.0,,-1,,,,,,,Drought
-339,South Sudan,South Sudan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-340,Jamaica,Jamaica,GPE,0.0,0.0,en,1.0,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Drought
-341,sma,sma,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-342,Empire,Empire,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-382,Central-Southeast Europe,Central-Southeast Europe,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-344,El Paso,El Paso,GPE,0.2,1.0,en,1.0,,-1,,,,,,,Drought
-345,Omaha,Omaha,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-346,Sonapurs,Sonapurs,GPE,-0.05555556,0.44444444,en,1.0,,-1,,,,,,,Drought
-347,Bellingham,Bellingham,GPE,-0.1,0.5,en,1.0,,-1,,,,,,,Drought
-348,the Gulf of California,the Gulf of California,LOC,0.23888889,0.63777778,en,1.0,,-1,,,,,,,Drought
-349,Dolgarrog village,Dolgarrog village,GPE,-0.05,0.225,en,1.0,,-1,,,,,,,Drought
-381,SAN JOSE,SAN JOSE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-392,Latyan dam,Latyan dam,LOC,0.0625,0.69166667,en,1.0,,-1,,,,,,,Drought
-383,Rainfall,Rainfall,GPE,-0.24333333,0.59333333,en,1.0,,-1,,,,,,,Drought
-430,NEW YORK,NEW YORK,GPE,-0.09848485,0.56060606,en,1.0,,-1,,,,,,,Drought
-417,San Luis Valley,San Luis Valley,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-418,Valley,Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-419,the San Luis Valley,the San Luis Valley,LOC,0.24659091,0.4219697,en,1.0,,-1,,,,,,,Drought
-420,New Mexico,New Mexico,GPE,0.24659091,0.4219697,en,1.0,4042006-1,5481136,X,34.50034,-106.499999,NORTH-AMERICA,United States,WNA,Drought
-421,Lancaster city council,Lancaster city council,GPE,-0.1,0.1,en,1.0,,-1,,,,,,,Drought
-422,the City Sinks Into the Desert,the City Sinks Into the Desert,GPE,-0.1,0.0,en,1.0,,-1,,,,,,,Drought
-423,the City Sinks Into,the City Sinks Into,GPE,-0.1,0.0,en,1.0,,-1,,,,,,,Drought
-424,The United Arab Emirates,The United Arab Emirates,GPE,0.175,0.275,en,1.0,,-1,,,,,,,Drought
-425,Lake Tefé,Lake Tefé,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-426,Port Hedland,Port Hedland,GPE,-0.45,0.3,en,1.0,1213932335,2063042,X,-20.311944,118.610555,OCEANIA,Australia,CAU,Drought
-427,Nanofluids,Nanofluids,GPE,-0.15,0.05,en,1.0,,-1,,,,,,,Drought
-428,FREMONT,FREMONT,GPE,0.05357143,0.28571429,en,1.0,,-1,,,,,,,Drought
-429,Shap,Shap,LOC,0.25,0.625,en,1.0,,-1,,,,,,,Drought
-431,Cumbria,Cumbria,GPE,0.25,0.625,en,1.0,,-1,,,,,,,Drought
-384,Kyiv,Kyiv,GPE,0.0,0.0,en,1.0,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Drought
-432,the Kingdom of Saudi Arabia,the Kingdom of Saudi Arabia,GPE,0.35714286,0.77142857,en,1.0,,-1,,,,,,,Drought
-433,RENO,RENO,GPE,0.05,0.1,en,1.0,,-1,,,,,,,Drought
-434,Preclinic,Preclinic,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-435,New UK,New UK,GPE,0.06818182,0.62727273,en,1.0,,-1,,,,,,,Drought
-436,Galilee,Galilee,GPE,0.0,0.3,en,1.0,,-1,,,,,,,Drought
-437,Sea of Galilee,Sea of Galilee,LOC,0.06666667,0.17333333,en,1.0,,-1,,,,,,,Drought
-438,Skies,Skies,LOC,0.9,1.0,en,1.0,,-1,,,,,,,Drought
-439,Haiti,Haiti,GPE,0.0,0.0,en,1.0,4022974-9,3723988,X,19.0,-72.416669,CENTRAL-AMERICA,Haiti,CAR,Drought
-440,Ethiopia,Ethiopia,GPE,0.0,0.0,en,1.0,4000639-6,337996,X,8.0,38.0,AFRICA,Ethiopia,NEAF,Drought
-441,Belém,Belém,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Drought
-442,Soil Moisture and Ocean Salinity,Soil Moisture and Ocean Salinity,LOC,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
-443,Janus,Janus,LOC,-0.07142857,0.14285714,en,1.0,,-1,,,,,,,Drought
-320,Capital,Capital,GPE,-0.3,0.2,en,1.0,,-1,,,,,,,Drought
-416,NORTH ANDOVER,NORTH ANDOVER,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-415,Glasgow Central,Glasgow Central,GPE,0.25,0.625,en,1.0,,-1,,,,,,,Drought
-414,Redding,Redding,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-413,Shasta Countys,Shasta Countys,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-385,Southeast Asia's,Southeast Asia's,LOC,0.6,0.9,en,1.0,,-1,,,,,,,Drought
-386,The Bay Area's,The Bay Area's,LOC,-0.1,0.4,en,1.0,,-1,,,,,,,Drought
-387,Donbas,Donbas,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-388,previou,previou,GPE,0.35,0.05,en,1.0,,-1,,,,,,,Drought
-389,Adediran,Adediran,GPE,0.0,0.6,en,1.0,,-1,,,,,,,Drought
-390,the Urmia lake basin,the Urmia lake basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-391,Urmia lake basin,Urmia lake basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-393,Middle East,Middle East,LOC,0.0625,0.69166667,en,1.0,,-1,,,,,,,Drought
-394,Bitcoin,Bitcoin,GPE,-0.08181818,0.52727273,en,1.0,,-1,,,,,,,Drought
-395,Kingston,Kingston,GPE,0.0,0.3,en,1.0,,-1,,,,,,,Drought
-396,visibil,visibil,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Drought
-397,the Global South,the Global South,LOC,-0.25,0.25,en,1.0,,-1,,,,,,,Drought
-398,the Sunshine State,the Sunshine State,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-399,eastern Ontario,eastern Ontario,LOC,0.25,0.4,en,1.0,,-1,,,,,,,Drought
-400,Florida Everglades,Florida Everglades,GPE,-0.1,0.05,en,1.0,,-1,,,,,,,Drought
-401,Jaunti,Jaunti,GPE,-0.15,0.2,en,1.0,,-1,,,,,,,Drought
-402,Colo.,Colo.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-403,Kiskatinaw River,Kiskatinaw River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-404,Rockies,Rockies,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-405,Myers,Myers,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-406,N.,N.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-407,Syria,Syria,GPE,-0.4,0.65,en,1.0,4058794-0,163843,X,35.0,38.0,EUROPE-AFRICA,Syria,MED,Drought
-408,Yemen,Yemen,GPE,-0.4,0.65,en,1.0,4073009-8,69543,X,15.5,47.5,ASIA,Yemen,ARP,Drought
-409,Southern Thailand,Southern Thailand,LOC,-0.15,0.2,en,1.0,,-1,,,,,,,Drought
-410,Pettinga D,Pettinga D,GPE,0.0,0.125,en,1.0,,-1,,,,,,,Drought
-411,et al,et al,GPE,0.0,0.125,en,1.0,,-1,,,,,,,Drought
-412,Amirkabir dam,Amirkabir dam,LOC,-0.6,0.8,en,1.0,,-1,,,,,,,Drought
-321,Peloponnese,Peloponnese,GPE,0.04545455,0.38207071,en,1.0,,-1,,,,,,,Drought
-222,West Maui,West Maui,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-319,the Tibetan Plateau,the Tibetan Plateau,LOC,0.0625,0.5,en,1.0,,-1,,,,,,,Drought
-241,oscillationsrecurring,oscillationsrecurring,GPE,0.3,0.45,en,1.0,,-1,,,,,,,Drought
-228,Turlock,Turlock,GPE,0.5,1.0,en,1.0,,-1,,,,,,,Drought
-229,the Aegean Sea,the Aegean Sea,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-230,Santorini,Santorini,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-231,Central Iowa,Central Iowa,LOC,0.125,0.29166667,en,1.0,,-1,,,,,,,Drought
-232,Williams,Williams,GPE,0.03333333,0.35,en,1.0,,-1,,,,,,,Drought
-233,Sheffield,Sheffield,GPE,-0.4,0.4,en,1.0,4118617-5,2638077,X,53.38297,-1.4659,EUROPE,United Kingdom,NEU,Drought
-234,Kyrgyzstan,Kyrgyzstan,GPE,0.1,0.43333333,en,1.0,4030848-0,1527747,X,41.0,75.0,ASIA,Kyrgyzstan,WCA,Drought
-235,RUSTON,RUSTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-236,Southwest,Southwest,LOC,0.25714286,0.66428571,en,1.0,,-1,,,,,,,Drought
-237,Vishwamitri River,Vishwamitri River,LOC,0.6,0.95,en,1.0,,-1,,,,,,,Drought
-238,Gujarat,Gujarat,GPE,0.0,1.0,en,1.0,4118450-6,1270770,X,23.0,72.0,ASIA,India,SAS,Drought
-239,Vishwamitri river,Vishwamitri river,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-240,Guwahati,Guwahati,GPE,0.0,0.5,en,1.0,4368296-0,1271476,X,26.18617,91.75095,ASIA,India,SAS,Drought
-242,Islamic Republic,Islamic Republic,GPE,-0.10333333,0.50666667,en,1.0,,-1,,,,,,,Drought
-318,Jurassic Park,Jurassic Park,GPE,0.3,0.35,en,1.0,,-1,,,,,,,Drought
-243,Colorado River Basin,Colorado River Basin,LOC,0.2,0.2,en,1.0,,-1,,,,,,,Drought
-244,MENA,MENA,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-245,the Kiskatinaw River,the Kiskatinaw River,LOC,-0.05,0.8125,en,1.0,,-1,,,,,,,Drought
-246,the Jammu Region,the Jammu Region,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-247,La.,La.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-248,Denham Springs,Denham Springs,GPE,-0.11666667,0.25,en,1.0,,-1,,,,,,,Drought
-249,West Bengal,West Bengal,GPE,0.0825,0.29833333,en,1.0,4079196-8,1252881,X,24.0,88.0,ASIA,India,SAS,Drought
-250,Imperial Irrigation District,Imperial Irrigation District,LOC,0.3,1.0,en,1.0,,-1,,,,,,,Drought
-251,Arizona,Arizona,GPE,0.2,0.6,en,1.0,4002920-7,5551752,X,34.5003,-111.500979,NORTH-AMERICA,United States,WNA,Drought
-252,the Navajo County Sheriffs Office,the Navajo County Sheriffs Office,GPE,0.2,0.6,en,1.0,,-1,,,,,,,Drought
-253,K.D.,K.D.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-254,Andhra,Andhra,GPE,0.0,0.0,en,1.0,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Drought
-255,west Ottawa,west Ottawa,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-227,the San Joaquin Valley,the San Joaquin Valley,LOC,0.0,0.125,en,1.0,,-1,,,,,,,Drought
-226,driest springs,driest springs,GPE,0.13333333,0.46666667,en,1.0,,-1,,,,,,,Drought
-225,J.G.,J.G.,GPE,-0.16666667,0.16666667,en,1.0,,-1,,,,,,,Drought
-224,Aceh province,Aceh province,GPE,-0.46666667,0.5,en,1.0,,-1,,,,,,,Drought
-196,the Paris of South America,the Paris of South America,GPE,0.375,0.75,en,1.0,,-1,,,,,,,Drought
-197,the Guadalupe River,the Guadalupe River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-198,Glasgow mount,Glasgow mount,GPE,0.9,0.9,en,1.0,,-1,,,,,,,Drought
-199,South Australia,South Australia,LOC,-0.06333333,0.46,en,1.0,,-1,,,,,,,Drought
-200,the United States of,the United States of,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-201,Peop,Peop,GPE,0.05,0.12380952,en,1.0,,-1,,,,,,,Drought
-202,Victoria,Victoria,GPE,-0.06333333,0.46,en,1.0,,-1,,,,,,,Drought
-203,Buenos Aires,Buenos Aires,GPE,0.375,0.75,en,1.0,4008756-6,3435910,X,-34.613149,-58.377229,SOUTH-AMERICA,Argentina,SES,Drought
-204,Annona squamosa,Annona squamosa,LOC,-0.25,1.0,en,1.0,,-1,,,,,,,Drought
-205,Belgium,Belgium,GPE,0.0,0.11666667,en,1.0,4005406-8,2802361,X,50.833329,4.0,EUROPE,Belgium,WCE,Drought
-206,BURLINGTON,BURLINGTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-207,Euroclear,Euroclear,GPE,0.0,0.11666667,en,1.0,,-1,,,,,,,Drought
-208,East Africa,East Africa,GPE,0.15284091,0.55113636,en,1.0,,-1,,,,,,,Drought
-209,Latin America Encuentra,Latin America Encuentra,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-210,Wash.,Wash.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-211,Ann Arbor,Ann Arbor,GPE,0.1,0.43333333,en,1.0,,-1,,,,,,,Drought
-212,TEXAS,TEXAS,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-213,Sumatra,Sumatra,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
-214,unde…,unde…,GPE,0.14285714,0.28571429,en,1.0,,-1,,,,,,,Drought
-215,Central Valley,Central Valley,LOC,0.0,0.75,en,1.0,,-1,,,,,,,Drought
-216,Corcoran 6 feet,Corcoran 6 feet,LOC,0.0,0.75,en,1.0,,-1,,,,,,,Drought
-217,PANAMA CITY,PANAMA CITY,GPE,0.0,0.03333333,en,1.0,,-1,,,,,,,Drought
-218,Anadolu,Anadolu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-219,Austin,Austin,GPE,0.25,0.25,en,1.0,,-1,,,,,,,Drought
-220,west Maui,west Maui,LOC,0.16,0.54,en,1.0,,-1,,,,,,,Drought
-221,KERRVILLE,KERRVILLE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-223,Maui,Maui,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-256,Wonderland,Wonderland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-257,Sri Lanka Women,Sri Lanka Women,GPE,0.06818182,0.25,en,1.0,,-1,,,,,,,Drought
-258,the Sri Lanka Women,the Sri Lanka Women,GPE,0.13727273,0.49,en,1.0,,-1,,,,,,,Drought
-289,Indus,Indus,GPE,0.15,0.34666667,en,1.0,,-1,,,,,,,Drought
-291,worl,worl,LOC,0.45,0.55,en,1.0,,-1,,,,,,,Drought
-292,K'tan,K'tan,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
-293,New York Rangers,New York Rangers,GPE,0.22878788,0.2959596,en,1.0,,-1,,,,,,,Drought
-294,Harappan,Harappan,LOC,-0.2,0.85,en,1.0,,-1,,,,,,,Drought
-295,Maharashtra,Maharashtra,GPE,0.07142857,0.14285714,en,1.0,4037057-4,1264418,X,19.5,75.0,ASIA,India,SAS,Drought
-296,Jharkhand,Jharkhand,GPE,0.07142857,0.14285714,en,1.0,4364512-4,1444365,X,23.75,85.5,ASIA,India,SAS,Drought
-297,Hudson,Hudson,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Drought
-298,Kashmirs Pampore,Kashmirs Pampore,LOC,0.01111111,0.66666667,en,1.0,,-1,,,,,,,Drought
-299,Silicon Valley,Silicon Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-300,London,London,GPE,0.0625,0.4375,en,1.0,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Drought
-301,The United States',The United States',GPE,0.27777778,0.47777778,en,1.0,,-1,,,,,,,Drought
-302,Nigeria,Nigeria,GPE,0.0,0.0,en,1.0,4042300-1,2328926,X,10.0,8.0,AFRICA,Nigeria,WAF,Drought
-303,Mahakali river,Mahakali river,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-304,Colombia,Colombia,GPE,0.0,0.0,en,1.0,4031812-6,3686110,X,4.0,-72.0,SOUTH-AMERICA,Colombia,NWS,Drought
-305,West Country,West Country,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-306,Bristol,Bristol,GPE,-0.06666667,0.6,en,1.0,4090130-0,2654675,X,51.45523,-2.596649,EUROPE,United Kingdom,NEU,Drought
-307,Somerset,Somerset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-308,Dorset,Dorset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-309,south Gloucestershire,south Gloucestershire,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-310,Wiltshire,Wiltshire,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-311,Lamar,Lamar,GPE,0.025,0.21666667,en,1.0,,-1,,,,,,,Drought
-312,Pampore,Pampore,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-313,pe… COLOMBO:,pe… COLOMBO:,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
-314,Floridas,Floridas,GPE,-0.06666667,0.3,en,1.0,,-1,,,,,,,Drought
-315,COLOMBO,COLOMBO,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
-316,Corner Brook,Corner Brook,LOC,0.0,0.3,en,1.0,4793714-2,5927969,X,48.966709,-57.948399,NORTH-AMERICA,,ENA,Drought
-317,Watts Water,Watts Water,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-290,Moroccos Atlantic,Moroccos Atlantic,GPE,-0.25,0.2,en,1.0,,-1,,,,,,,Drought
-288,New England,New England,LOC,-0.03787879,0.40151515,en,1.0,,-1,,,,,,,Drought
-259,East Coast,East Coast,LOC,-0.23181818,0.72727273,en,1.0,,-1,,,,,,,Drought
-287,Mesopotamia,Mesopotamia,GPE,0.15,0.34666667,en,1.0,,-1,,,,,,,Drought
-260,NC,NC,GPE,0.05,0.15,en,1.0,,-1,,,,,,,Drought
-261,France,France,GPE,-0.15833333,0.35,en,1.0,,-1,,,,,,,Drought
-262,Tulare Lake,Tulare Lake,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-263,dividen,dividen,GPE,-0.1,0.16666667,en,1.0,,-1,,,,,,,Drought
-264,Dallas,Dallas,GPE,0.025,0.21666667,en,1.0,,-1,,,,,,,Drought
-265,the LA Basin,the LA Basin,LOC,0.125,0.83333333,en,1.0,,-1,,,,,,,Drought
-266,the River Park,the River Park,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Drought
-267,Sichuan,Sichuan,GPE,0.7,0.9,en,1.0,,-1,,,,,,,Drought
-268,South Africa’s,South Africa’s,GPE,0.13636364,0.86287879,en,1.0,,-1,,,,,,,Drought
-269,Nevada,Nevada,GPE,0.0,0.3,en,1.0,4041996-4,5509151,X,39.25021,-116.751189,NORTH-AMERICA,United States,WNA,Drought
-270,Sudan,Sudan,GPE,0.0,0.0,en,1.0,4058378-8,366755,X,16.0,30.0,AFRICA,Sudan,SAH,Drought
-271,Torit,Torit,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-272,Ras El Hekma,Ras El Hekma,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-273,Wadi El-Raml,Wadi El-Raml,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-274,Matrouh Governorate,Matrouh Governorate,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-275,A.,A.,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-276,Talei,Talei,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-277,Torabi,Torabi,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-278,the Pacific Northwest,the Pacific Northwest,LOC,0.03125,0.25,en,1.0,,-1,,,,,,,Drought
-279,Uttar Pradesh,Uttar Pradesh,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Drought
-280,Southern Calif,Southern Calif,LOC,-0.17916667,0.46666667,en,1.0,,-1,,,,,,,Drought
-281,Midlands,Midlands,GPE,-0.3,0.7,en,1.0,,-1,,,,,,,Drought
-282,Badulla,Badulla,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
-283,SC,SC,LOC,-0.3,0.7,en,1.0,,-1,,,,,,,Drought
-284,Columbia,Columbia,GPE,-0.05,0.4,en,1.0,,-1,,,,,,,Drought
-285,South Carolina,South Carolina,GPE,-0.05,0.4,en,1.0,4055656-6,4597040,X,34.3,-81.0,NORTH-AMERICA,United States,ENA,Drought
-286,the Indus Valley,the Indus Valley,LOC,0.03122294,0.52272727,en,1.0,,-1,,,,,,,Drought
-444,Bear Mountain,Bear Mountain,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+0,Deutschland,Deutschland,LOC,0.06410256,0.12820513,de,15.6,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Heat Wave
+1,Berlin,Berlin,LOC,-0.24806202,0.03875969,de,12.9,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Heat Wave
+2,Belém,Belém,LOC,-0.08264463,0.08264463,de,12.1,4208294-8,3405870,P,-1.45583,-48.50444,SOUTH-AMERICA,Brazil,NES,Heat Wave
+3,Brasilien,Brasilien,LOC,0.33035714,0.0,de,11.2,4008003-1,3469034,A,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Heat Wave
+4,Spanien,Spanien,LOC,0.10606061,0.15151515,de,9.9,4055964-6,2510769,A,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Heat Wave
+5,…,…,LOC,-0.35443038,0.06329114,de,7.9,,0,,,,,,,Heat Wave
+6,Iran,Iran,LOC,-0.11956522,0.43478261,de,6.9,4027653-3,130758,A,32.0,53.0,ASIA,Iran,WCA,Heat Wave
+7,Staaten,Staaten,LOC,0.19806763,0.04830918,de,6.9,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA,Heat Wave
+8,Sachsen,Sachsen,LOC,0.2734375,0.078125,de,6.4,4051181-9,2842565,A,52.0,11.7333,EUROPE,Germany,WCE,Heat Wave
+9,China,China,LOC,-0.16666667,0.55555556,de,6.3,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Heat Wave
+10,Landtag,Landtag,LOC,-0.09615385,0.09615385,de,5.2,,7302299,S,48.77856,9.1834,EUROPE,Germany,WCE,Heat Wave
+11,Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.1372549,0.0,de,5.1,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Heat Wave
+12,Freistaat,Freistaat,LOC,-0.44927536,0.39855072,de,4.6,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Heat Wave
+13,Ibiza,Ibiza,LOC,0.02898551,0.14492754,de,4.6,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Heat Wave
+14,Italien,Italien,LOC,0.72093023,0.0,de,4.3,4027833-5,3175395,A,42.83333,12.83333,EUROPE-AFRICA,Italy,MED,Heat Wave
+15,Hessen,Hessen,LOC,-0.52380952,1.07142857,de,4.2,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Heat Wave
+16,Stadt,Stadt,LOC,0.07894737,0.0,de,3.8,,2661604,P,47.55839,7.57327,EUROPE,Switzerland,WCE,Heat Wave
+18,Bund,Bund,LOC,0.0,0.0,de,3.7,,10519668,L,20.49241,79.45535,ASIA,India,SAS,Heat Wave
+19,Pariser,Pariser,LOC,0.18918919,0.27027027,de,3.7,,2943127,T,47.40555,11.28725,EUROPE,Germany,WCE,Heat Wave
+17,Frankreich,Frankreich,LOC,-0.69369369,0.09009009,de,3.7,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Heat Wave
+20,Europa,Europa,LOC,-0.47222222,0.27777778,de,3.6,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Heat Wave
+21,USA,USA,LOC,-0.90909091,0.3030303,de,3.3,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Heat Wave
+22,Tiroler,Tiroler,LOC,0.0,0.0,de,3.0,,2783037,H,47.85,12.5,EUROPE,Germany,WCE,Heat Wave
+23,Athen,Athen,LOC,-0.23333333,0.0,de,3.0,4003366-1,264371,P,37.98376,23.72784,EUROPE-AFRICA,Greece,MED,Heat Wave
+27,Dresden,Dresden,LOC,0.0,0.71428571,de,2.8,4012995-0,2935022,P,51.05089,13.73832,EUROPE,Germany,WCE,Heat Wave
+28,Kalifornien,Kalifornien,LOC,-0.46428571,0.0,de,2.8,4029307-5,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Heat Wave
+29,Griechenlands,Griechenlands,LOC,-0.71428571,0.0,de,2.8,,0,,,,,,,Heat Wave
+26,Klimawandel,Klimawandel,LOC,-0.25,0.71428571,de,2.8,,0,,,,,,,Heat Wave
+25,Blitz-Flaute,Blitz-Flaute,LOC,0.75,0.0,de,2.8,,0,,,,,,,Heat Wave
+24,La Bañeza,La Bañeza,LOC,0.35714286,0.0,de,2.8,4271109-5,3119979,P,42.30026,-5.89772,EUROPE-AFRICA,Spain,MED,Heat Wave
+30,Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,2.6,,0,,,,,,,Heat Wave
+31,Amazonas,Amazonas,LOC,0.0,0.0,de,2.6,4001626-2,3689982,A,-1.16667,-71.5,SOUTH-AMERICA,Colombia,NSA,Heat Wave
+32,Berlins,Berlins,LOC,0.0,0.0,de,2.6,,2193381,T,-41.9,171.83333,OCEANIA,New Zealand,NZ,Heat Wave
+33,Bayern,Bayern,LOC,-0.92,0.2,de,2.5,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Heat Wave
+34,Brasiliens,Brasiliens,LOC,0.0,0.0,de,2.2,,0,,,,,,,Heat Wave
+35,Teheran,Teheran,LOC,-1.1547619,0.23809524,de,2.1,4059304-6,112931,P,35.69439,51.42151,ASIA,Iran,WCA,Heat Wave
+42,Inntal,Inntal,LOC,0.0,0.0,de,2.0,4297240-1,2770041,P,47.29823,11.08611,EUROPE,Austria,WCE,Heat Wave
+41,Hitzehotspots,Hitzehotspots,LOC,0.0,0.0,de,2.0,,0,,,,,,,Heat Wave
+40,Gesundheitsministerium Bilanz,Gesundheitsministerium Bilanz,LOC,-0.7,0.0,de,2.0,,0,,,,,,,Heat Wave
+38,Madrid,Madrid,LOC,0.7,0.0,de,2.0,4036862-2,3117735,P,40.4165,-3.70256,EUROPE-AFRICA,Spain,MED,Heat Wave
+39,Ozeane,Ozeane,LOC,0.0,0.0,de,2.0,,0,,,,,,,Heat Wave
+36,Brüssel,Brüssel,LOC,0.0,0.0,de,2.0,4008460-7,2800866,P,50.85045,4.34878,EUROPE,Belgium,WCE,Heat Wave
+37,Schweiz,Schweiz,LOC,0.35,0.5,de,2.0,4053881-3,2658434,A,47.00016,8.01427,EUROPE,Switzerland,WCE,Heat Wave
+50,Extremfall,Extremfall,LOC,0.18421053,0.26315789,de,1.9,,0,,,,,,,Heat Wave
+57,Schleswig-Holstein,Schleswig-Holstein,LOC,0.0,0.0,de,1.9,4052692-6,2838632,A,54.2,9.75,EUROPE,Germany,NEU,Heat Wave
+56,Land,Land,LOC,-0.52631579,0.0,de,1.9,,3421288,L,81.9,-56.75,POLAR,Greenland,GIC,Heat Wave
+55,Wassernotstand,Wassernotstand,LOC,0.0,0.0,de,1.9,,0,,,,,,,Heat Wave
+54,Wasserreserven,Wasserreserven,LOC,0.0,0.0,de,1.9,,0,,,,,,,Heat Wave
+53,Verkehrswende,Verkehrswende,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Heat Wave
+52,Kanada,Kanada,LOC,0.0,0.52631579,de,1.9,4029456-0,6251999,A,60.10867,-113.64258,NORTH-AMERICA,Canada,NWN,Heat Wave
+51,Mittelmeer,Mittelmeer,LOC,-0.52631579,0.0,de,1.9,4074895-9,363196,H,35.0,20.0,EUROPE-AFRICA,,MED,Heat Wave
+49,Malaysia,Malaysia,LOC,0.36842105,0.0,de,1.9,4037203-0,1733045,A,2.5,112.5,ASIA,Malaysia,SEA,Heat Wave
+48,UNHCR-Chef,UNHCR-Chef,LOC,0.0,0.0,de,1.9,,0,,,,,,,Heat Wave
+47,München,München,LOC,0.73684211,0.0,de,1.9,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Heat Wave
+46,Formentera,Formentera,LOC,0.29824561,0.1754386,de,1.9,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Heat Wave
+45,Süddeutschland,Süddeutschland,LOC,0.0,1.05263158,de,1.9,4078022-3,12909096,L,48.58781,10.71652,EUROPE,Germany,WCE,Heat Wave
+44,Deutschlands,Deutschlands,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Heat Wave
+43,Abgeordnetenhaus,Abgeordnetenhaus,LOC,-1.05263158,0.0,de,1.9,,0,,,,,,,Heat Wave
+63,Österreich,Österreich,LOC,0.0,0.0,de,1.8,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Heat Wave
+66,TotalEnergies,TotalEnergies,LOC,-0.55555556,0.0,de,1.8,,0,,,,,,,Heat Wave
+65,Türkei,Türkei,LOC,-0.37037037,0.74074074,de,1.8,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED,Heat Wave
+64,Offenbach,Offenbach,LOC,0.38888889,0.0,de,1.8,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Heat Wave
+58,Milliardenpaket,Milliardenpaket,LOC,0.0,0.0,de,1.8,,0,,,,,,,Heat Wave
+62,Kraft,Kraft,LOC,0.0,0.0,de,1.8,,5159995,P,40.6459,-80.59785,NORTH-AMERICA,United States,ENA,Heat Wave
+61,Hitze,Hitze,LOC,0.0,0.55555556,de,1.8,,2903464,S,50.36667,12.0,EUROPE,Germany,WCE,Heat Wave
+60,Kollaps,Kollaps,LOC,0.0,0.0,de,1.8,,0,,,,,,,Heat Wave
+59,Wegner,Wegner,LOC,0.0,0.0,de,1.8,,5407707,H,37.84145,-119.53668,NORTH-AMERICA,United States,WNA,Heat Wave
+67,Paris,Paris,LOC,0.0,0.0,de,1.7,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Heat Wave
+68,Niedersachsen,Niedersachsen,LOC,1.17647059,0.0,de,1.7,4042226-4,2862926,A,52.83333,9.16667,EUROPE,Germany,WCE,Heat Wave
+69,Agrarbereich,Agrarbereich,LOC,0.0,0.0,de,1.7,,0,,,,,,,Heat Wave
+70,Rheingau,Rheingau,LOC,0.4375,0.625,de,1.6,4049757-4,2847636,L,50.03552,8.08212,EUROPE,Germany,WCE,Heat Wave
+71,Park Babelsberg,Park Babelsberg,LOC,-0.625,0.0,de,1.6,,0,,,,,,,Heat Wave
+72,Potsdamer,Potsdamer,LOC,0.0,0.0,de,1.6,,2852454,S,52.50939,13.37638,EUROPE,Germany,WCE,Heat Wave
+73,Frankfurt,Frankfurt,LOC,-0.4375,0.0,de,1.6,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Heat Wave
+74,Chemieverbands,Chemieverbands,LOC,-0.875,0.0,de,1.6,,0,,,,,,,Heat Wave
+75,Potsdam,Potsdam,LOC,-0.625,0.0,de,1.6,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Heat Wave
+76,Staatsmitteln,Staatsmitteln,LOC,0.0,0.0,de,1.6,,0,,,,,,,Heat Wave
+77,Klimaziele,Klimaziele,LOC,0.0,0.0,de,1.5,,0,,,,,,,Heat Wave
+78,Bursa,Bursa,LOC,-0.47619048,0.95238095,de,1.4,4009173-9,750269,P,40.19559,29.06013,EUROPE-AFRICA,Turkey,MED,Heat Wave
+80,Hamburg,Hamburg,LOC,0.0,0.0,de,1.3,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Heat Wave
+81,Klimaabkommens,Klimaabkommens,LOC,0.53846154,0.0,de,1.3,,0,,,,,,,Heat Wave
+82,Anpassungen,Anpassungen,LOC,0.0,0.0,de,1.3,,0,,,,,,,Heat Wave
+83,US-Präsident,US-Präsident,LOC,0.53846154,0.0,de,1.3,,0,,,,,,,Heat Wave
+84,Privacy Center,Privacy Center,LOC,0.0,0.0,de,1.3,,0,,,,,,,Heat Wave
+79,Landes,Landes,LOC,-0.65384615,0.0,de,1.3,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Heat Wave
+85,Hamburgs,Hamburgs,LOC,0.0,0.0,de,1.2,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Heat Wave
+86,Wien,Wien,LOC,-0.58333333,0.0,de,1.2,4066009-6,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE,Heat Wave
+89,Great Ethiopian Renaissance Dam,Great Ethiopian Renaissance Dam,LOC,0.63636364,0.0,de,1.1,,0,,,,,,,Heat Wave
+87,GERD,GERD,LOC,0.63636364,0.0,de,1.1,,6633787,T,-60.666,-45.75,SOUTHERN,Antarctica,SOO,Heat Wave
+88,Ägypten,Ägypten,LOC,0.0,0.0,de,1.1,4000556-2,357994,A,27.0,30.0,AFRICA,Egypt,SAH,Heat Wave
+269,sol…,sol…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
+268,Britischen Inseln,Britischen Inseln,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+267,Sizilien,Sizilien,LOC,0.0,0.0,de,1.0,4055193-3,2523118,T,37.62304,13.93457,EUROPE-AFRICA,Italy,MED,Heat Wave
+288,Landeck,Landeck,LOC,0.0,0.0,de,1.0,4098984-7,2773069,A,47.12575,10.56679,EUROPE,Austria,WCE,Heat Wave
+264,Münchner Flughafen,Münchner Flughafen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+266,Essen,Essen,LOC,0.0,1.0,de,1.0,4015557-2,2928810,P,51.45657,7.01228,EUROPE,Germany,WCE,Heat Wave
+265,Museumsquartier,Museumsquartier,LOC,0.0,0.0,de,1.0,,6354987,S,48.20328,16.35783,EUROPE,Austria,WCE,Heat Wave
+259,Drohnenalarm,Drohnenalarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+263,Polizeihubschrauber,Polizeihubschrauber,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+262,Drohnen-Alarm,Drohnen-Alarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+261,Oslo,Oslo,LOC,-1.0,0.0,de,1.0,1013733-6,3143244,P,59.91273,10.74609,EUROPE,Norway,NEU,Heat Wave
+260,Lösungen,Lösungen,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+271,Haupthofs,Haupthofs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+258,Flughafen Kopenhagen,Flughafen Kopenhagen,LOC,0.0,0.0,de,1.0,4658816-4,2619034,S,55.61792,12.65597,EUROPE,Denmark,NEU,Heat Wave
+270,MQ,MQ,LOC,0.0,1.0,de,1.0,,3496393,L,21.0,-86.0,CENTRAL-AMERICA,,SCA,Heat Wave
+276,Äthiopien,Äthiopien,LOC,0.0,0.0,de,1.0,4000639-6,337996,A,9.0,39.5,AFRICA,Ethiopia,NEAF,Heat Wave
+272,Afrika,Afrika,LOC,0.0,0.0,de,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Heat Wave
+273,Flughafen!,Flughafen!,LOC,1.4,0.0,de,1.0,,0,,,,,,,Heat Wave
+274,Blauen Nil,Blauen Nil,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+275,Äthiopiens,Äthiopiens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+256,Taiwan,Taiwan,LOC,0.0,0.0,de,1.0,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Heat Wave
+277,Erde,Erde,LOC,2.0,0.0,de,1.0,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Heat Wave
+278,Havel,Havel,LOC,0.0,0.0,de,1.0,4023868-4,2908646,H,52.8751,12.00459,EUROPE,Germany,WCE,Heat Wave
+279,Müggelsee,Müggelsee,LOC,0.0,0.0,de,1.0,,2916161,H,52.43781,13.64981,EUROPE,Germany,WCE,Heat Wave
+280,Auftrag,Auftrag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+281,Bezirk Steglitz-Zehlendorf,Bezirk Steglitz-Zehlendorf,LOC,0.0,0.0,de,1.0,,2805059,P,52.43333,13.25,EUROPE,Germany,WCE,Heat Wave
+282,Strategielosigkeit,Strategielosigkeit,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+283,Chile,Chile,LOC,0.0,0.0,de,1.0,4009929-5,3895114,A,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Heat Wave
+284,Taunus,Taunus,LOC,1.0,0.0,de,1.0,4025498-7,2902533,P,50.09019,8.4493,EUROPE,Germany,WCE,Heat Wave
+285,Kopenhagen,Kopenhagen,LOC,-1.0,0.0,de,1.0,4032399-7,2618425,P,55.67594,12.56553,EUROPE,Denmark,NEU,Heat Wave
+286,Bahnchaos,Bahnchaos,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+257,Luftraums,Luftraums,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+250,Gletscher-Sterben,Gletscher-Sterben,LOC,-0.23333333,0.0,de,1.0,,0,,,,,,,Heat Wave
+255,Italiener,Italiener,LOC,-0.7,0.0,de,1.0,,12216629,R,46.60614,13.84133,EUROPE,Austria,WCE,Heat Wave
+254,Passau,Passau,LOC,-1.4,0.0,de,1.0,4044828-9,2855328,P,48.5665,13.43122,EUROPE,Germany,WCE,Heat Wave
+224,Australien,Australien,LOC,0.7,0.0,de,1.0,4003900-6,2077456,A,-25.0,135.0,OCEANIA,Australia,CAU,Heat Wave
+225,Rhein-Main,Rhein-Main,LOC,0.0,0.0,de,1.0,,2847616,L,50.0,8.66667,EUROPE,Germany,WCE,Heat Wave
+226,Klim... Belém,Klim... Belém,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+227,Achs-Photovoltaik,Achs-Photovoltaik,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
+228,Lobzang D…,Lobzang D…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+229,Schmelzwasser,Schmelzwasser,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+230,Himalaya,Himalaya,LOC,0.0,0.0,de,1.0,4024923-2,1252558,T,28.0,84.0,ASIA,Nepal,TIB,Heat Wave
+231,Reaktion di…,Reaktion di…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+232,Wasserstoffkerne,Wasserstoffkerne,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+233,Israels,Israels,LOC,0.0,0.0,de,1.0,,4832418,T,43.24398,-70.58866,NORTH-AMERICA,United States,ENA,Heat Wave
+234,Grüner Strom,Grüner Strom,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+235,Jahrhundertmitte,Jahrhundertmitte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+236,Meer,Meer,LOC,0.0,0.0,de,1.0,,1627362,H,-3.33333,133.8,ASIA,Indonesia,SEA,Heat Wave
+237,Louvre,Louvre,LOC,0.0,0.0,de,1.0,,2997319,S,48.86102,2.33587,EUROPE,France,WCE,Heat Wave
+238,Louvre-Museum,Louvre-Museum,LOC,0.0,0.0,de,1.0,,2997319,S,48.86102,2.33587,EUROPE,France,WCE,Heat Wave
+239,Bezirk Schwaz,Bezirk Schwaz,LOC,0.0,0.0,de,1.0,4053811-4,2765389,A,47.26667,11.76667,EUROPE,Austria,WCE,Heat Wave
+240,Uderns,Uderns,LOC,0.0,0.0,de,1.0,4625629-5,7872638,A,47.31502,11.85193,EUROPE,Austria,WCE,Heat Wave
+241,Zillertal,Zillertal,LOC,0.0,0.0,de,1.0,4109019-6,7602524,L,47.24321,12.0249,EUROPE,Austria,WCE,Heat Wave
+242,F.A.Z.-Hauptwache,F.A.Z.-Hauptwache,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+243,Nebel,Nebel,LOC,-0.7,0.0,de,1.0,,12152659,S,56.37689,107.07058,ASIA,Russia,ESB,Heat Wave
+244,DFB-Fans,DFB-Fans,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+245,WM-Debatte,WM-Debatte,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+246,Jahrtausenden,Jahrtausenden,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+247,Österreichs,Österreichs,LOC,0.0,0.0,de,1.0,,13513071,S,48.2043,16.37016,EUROPE,Austria,WCE,Heat Wave
+248,Bregenz,Bregenz,LOC,0.0,0.0,de,1.0,1081844590,2781503,P,47.50311,9.7471,EUROPE,Austria,WCE,Heat Wave
+249,Gestein,Gestein,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+251,Tokio,Tokio,LOC,0.7,0.0,de,1.0,4078337-6,1850147,P,35.6895,139.69171,ASIA,Japan,EAS,Heat Wave
+252,London,London,LOC,0.7,0.0,de,1.0,4074335-4,2643743,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Heat Wave
+253,Hochdruck,Hochdruck,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+287,Innsbruck,Innsbruck,LOC,-1.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Heat Wave
+332,Japantown,Japantown,LOC,0.0,0.0,de,1.0,,6947911,L,37.7845,-122.431,NORTH-AMERICA,United States,WNA,Heat Wave
+289,Erl,Erl,LOC,0.0,0.0,de,1.0,4015298-4,7873648,A,47.69897,12.21398,EUROPE,Austria,WCE,Heat Wave
+338,Römer,Römer,LOC,-0.7,0.0,de,1.0,,3198863,H,44.91062,19.75835,EUROPE-AFRICA,Serbia,MED,Heat Wave
+324,Sonnenkorona,Sonnenkorona,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+325,Niedersachsens,Niedersachsens,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
+326,Glatteis,Glatteis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+327,Sturm,Sturm,LOC,0.0,0.0,de,1.0,,6626207,T,-71.05,162.96667,POLAR,Antarctica,EAN,Heat Wave
+328,Fenchel,Fenchel,LOC,0.0,0.0,de,1.0,,4856525,H,42.62971,-91.56904,NORTH-AMERICA,United States,CNA,Heat Wave
+329,Möhren,Möhren,LOC,0.0,0.0,de,1.0,4115174-4,2870148,P,48.93543,10.87277,EUROPE,Germany,WCE,Heat Wave
+330,Nordamerikas,Nordamerikas,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+331,San Francisco,San Francisco,LOC,0.0,0.0,de,1.0,4344631-0,3600949,P,14.0818,-87.20681,CENTRAL-AMERICA,Honduras,SCA,Heat Wave
+222,Universums im Urknall,Universums im Urknall,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+333,Sandwich,Sandwich,LOC,0.0,0.0,de,1.0,10072912-5,3474415,A,-56.0,-33.0,SOUTHERN,South Georgia and South Sandwich Islands,SOO,Heat Wave
+334,Sushi,Sushi,LOC,0.0,0.0,de,1.0,,485984,P,56.32461,51.09862,EUROPE,Russia,EEU,Heat Wave
+335,Brüsseler Ratsgebäude,Brüsseler Ratsgebäude,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+336,Burggartens,Burggartens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+337,Herzinfarkte,Herzinfarkte,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
+339,Heizkurve,Heizkurve,LOC,0.56666667,0.33333333,de,1.0,,0,,,,,,,Heat Wave
+290,Berliner Baumgesetzes,Berliner Baumgesetzes,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+340,Brücke…,Brücke…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+341,Herbstferien,Herbstferien,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+342,Bergen,Bergen,LOC,-0.7,0.0,de,1.0,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Heat Wave
+343,Garmisch,Garmisch,LOC,0.0,0.0,de,1.0,4019275-1,2922530,P,47.49209,11.09576,EUROPE,Germany,WCE,Heat Wave
+344,Söder,Söder,LOC,0.0,0.0,de,1.0,7536603-4,2676209,P,59.31278,18.07577,EUROPE,Sweden,NEU,Heat Wave
+345,Heizwärme,Heizwärme,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+346,Sommerfeeling,Sommerfeeling,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+347,Chemie-Chef,Chemie-Chef,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+348,Malta,Malta,LOC,0.0,0.0,de,1.0,508790-9,2562770,A,35.91667,14.43333,EUROPE-AFRICA,Malta,MED,Heat Wave
+349,Fuerteventura,Fuerteventura,LOC,0.0,0.0,de,1.0,4018826-7,6297185,S,28.45272,-13.86376,AFRICA,Spain,SAH,Heat Wave
+350,Konsens,Konsens,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+351,Dax,Dax,LOC,0.0,0.0,de,1.0,1214333-9,3021670,P,43.71032,-1.05366,EUROPE-AFRICA,France,MED,Heat Wave
+352,t3n.de,t3n.de,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+353,haben.weiterlesen,haben.weiterlesen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+323,Extreme,Extreme,LOC,0.0,0.0,de,1.0,4258492-9,2228373,P,10.59095,14.31593,AFRICA,Cameroon,CAF,Heat Wave
+322,Newcastle,Newcastle,LOC,1.0,0.0,de,1.0,4117860-9,2641673,P,54.97328,-1.61396,EUROPE,United Kingdom,NEU,Heat Wave
+321,Mini-Windräder,Mini-Windräder,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+320,Klimafaktenpapier,Klimafaktenpapier,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+291,Atlantik,Atlantik,LOC,0.0,0.0,de,1.0,4003388-0,2395914,P,6.44852,2.35566,AFRICA,Benin,WAF,Heat Wave
+292,Winterflucht Gran Canaria,Winterflucht Gran Canaria,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+293,Boden,Boden,LOC,0.0,0.0,de,1.0,,12683357,A,20.25975,82.52063,ASIA,India,SAS,Heat Wave
+294,Raiding,Raiding,LOC,0.0,0.0,de,1.0,4104840-4,2768071,P,47.56581,16.53056,EUROPE,Austria,WCE,Heat Wave
+295,Bodens,Bodens,LOC,0.0,0.0,de,1.0,,606530,A,66.04393,21.29977,EUROPE,Sweden,NEU,Heat Wave
+296,Hitzesommer,Hitzesommer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+297,Schattenparkens,Schattenparkens,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+298,Umweltminister,Umweltminister,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+299,Kronberg im Taunus,Kronberg im Taunus,LOC,1.0,0.0,de,1.0,4033265-2,2883754,P,50.181,8.513,EUROPE,Germany,WCE,Heat Wave
+300,Bahnhof,Bahnhof,LOC,0.0,0.0,de,1.0,,2761346,S,48.22568,16.36105,EUROPE,Austria,WCE,Heat Wave
+301,Harz,Harz,LOC,0.0,1.0,de,1.0,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Heat Wave
+302,COP30,COP30,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+303,Konfliktregionen,Konfliktregionen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+304,Amazonas-Metropole Belém,Amazonas-Metropole Belém,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+305,Stauseen,Stauseen,LOC,-0.925,0.0,de,1.0,,0,,,,,,,Heat Wave
+306,Ettelaat,Ettelaat,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+307,Dürre,Dürre,LOC,0.0,0.0,de,1.0,,2934402,T,50.63333,13.3,EUROPE,Germany,WCE,Heat Wave
+308,Maschhad,Maschhad,LOC,0.0,0.0,de,1.0,4115118-5,124665,P,36.29807,59.60567,ASIA,Iran,WCA,Heat Wave
+309,Getränke-Produktion,Getränke-Produktion,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+310,Bermuda-Dreieck,Bermuda-Dreieck,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+311,Brandenburg,Brandenburg,LOC,-1.4,0.0,de,1.0,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Heat Wave
+312,Baruth/Mark,Baruth/Mark,LOC,-0.7,0.0,de,1.0,4550655-3,7602464,A,52.05,13.5,EUROPE,Germany,WCE,Heat Wave
+313,Baruth,Baruth,LOC,0.7,0.0,de,1.0,,7602464,A,52.05,13.5,EUROPE,Germany,WCE,Heat Wave
+314,Trockenperiode …,Trockenperiode …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+315,Irans,Irans,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+316,Steinen,Steinen,LOC,0.7,0.0,de,1.0,,2658488,P,47.04975,8.61214,EUROPE,Switzerland,WCE,Heat Wave
+317,Brandenburgs,Brandenburgs,LOC,-0.7,0.0,de,1.0,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Heat Wave
+318,Temperaturen,Temperaturen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+319,EU-Regeln,EU-Regeln,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+223,den USA,den USA,LOC,0.2,1.5,de,1.0,4011446-6,2747373,P,52.07667,4.29861,EUROPE,The Netherlands,NEU,Heat Wave
+177,der Schweiz,der Schweiz,LOC,0.7,0.0,de,1.0,,2661324,P,47.14035,7.37175,EUROPE,Switzerland,WCE,Heat Wave
+221,Sterbefälle,Sterbefälle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+137,Behördenangaben,Behördenangaben,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+123,Landesvorstandes,Landesvorstandes,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+124,Teherans,Teherans,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+125,Toten Meer,Toten Meer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+126,Risiko,Risiko,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+127,Strandbesuch am Toten Meer,Strandbesuch am Toten Meer,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+128,Wasserstand,Wasserstand,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+129,Dreck,Dreck,LOC,0.0,0.0,de,1.0,,4142120,H,38.96595,-75.33714,NORTH-AMERICA,United States,ENA,Heat Wave
+130,Kanadas Waldbrände,Kanadas Waldbrände,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+131,Haus der Kopf,Haus der Kopf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+132,Bangladesch,Bangladesch,LOC,0.0,0.0,de,1.0,4130903-0,1210997,A,24.0,90.0,ASIA,Bangladesh,SAS,Heat Wave
+133,Potsdamer Stadtverordneten,Potsdamer Stadtverordneten,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+134,Nachschiebeliste,Nachschiebeliste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+135,Gefährdungsgebieten,Gefährdungsgebieten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+136,Griechenland,Griechenland,LOC,0.0,0.0,de,1.0,4022047-3,390903,A,39.0,22.0,EUROPE-AFRICA,Greece,MED,Heat Wave
+138,Andernach,Andernach,LOC,0.0,0.0,de,1.0,4001919-6,2956206,P,50.43109,7.40425,EUROPE,Germany,WCE,Heat Wave
+220,Hitzewelle,Hitzewelle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+139,US-Bundesstaat,US-Bundesstaat,LOC,-1.0,0.0,de,1.0,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Heat Wave
+140,Wintersturm,Wintersturm,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+141,Roten Meer,Roten Meer,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+142,Meeresfauna,Meeresfauna,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+143,Edmonton,Edmonton,LOC,0.0,1.0,de,1.0,4085533-8,5946768,P,53.55014,-113.46871,NORTH-AMERICA,Canada,NWN,Heat Wave
+144,Kanada-Kältehammer,Kanada-Kältehammer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+145,Pompeji,Pompeji,LOC,0.0,0.0,de,1.0,4046755-7,3170336,S,40.75,14.48333,EUROPE-AFRICA,Italy,MED,Heat Wave
+146,Jahresverlauf,Jahresverlauf,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
+147,Vesuv-Ausbruchs,Vesuv-Ausbruchs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+148,Bayerns,Bayerns,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+149,Altglas,Altglas,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+150,Thüringen,Thüringen,LOC,1.0,0.0,de,1.0,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Heat Wave
+151,Robben,Robben,LOC,-1.0,0.0,de,1.0,,3362356,T,-33.80642,18.36876,AFRICA,South Africa,WSAF,Heat Wave
+152,Indien,Indien,LOC,0.0,1.0,de,1.0,4026722-2,1269750,A,22.0,79.0,ASIA,India,SAS,Heat Wave
+122,Katar,Katar,LOC,0.0,0.0,de,1.0,4029924-7,289688,A,25.5,51.25,ASIA,Qatar,ARP,Heat Wave
+121,Israel,Israel,LOC,0.0,0.0,de,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Heat Wave
+120,Klim…,Klim…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+119,Deutschland</li><li,Deutschland</li><li,LOC,0.15,0.0,de,1.0,,0,,,,,,,Heat Wave
+90,Sahara-Staub,Sahara-Staub,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+91,Bürgerschaft,Bürgerschaft,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+92,Haiti,Haiti,LOC,0.0,0.0,de,1.0,4022974-9,3723988,A,19.07582,-72.29616,CENTRAL-AMERICA,Haiti,CAR,Heat Wave
+93,Abgeordnetenhaus da,Abgeordnetenhaus da,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+94,Berliner Abgeordnetenhaus,Berliner Abgeordnetenhaus,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+95,Schwarz-Rot,Schwarz-Rot,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+96,Planeten,Planeten,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
+97,Bundes,Bundes,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+98,hohen Aufwand,hohen Aufwand,LOC,-0.15,0.0,de,1.0,,0,,,,,,,Heat Wave
+99,Weltklimagipfel,Weltklimagipfel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+100,Klimagipfel,Klimagipfel,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Heat Wave
+101,Entwicklungsstaaten,Entwicklungsstaaten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+102,Elektroautos,Elektroautos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+103,Chinas CO2-Emissionen,Chinas CO2-Emissionen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+104,Herbstzeit,Herbstzeit,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+105,Meßstetten,Meßstetten,LOC,-0.7,0.0,de,1.0,4038848-7,2871601,P,48.18317,8.96565,EUROPE,Germany,WCE,Heat Wave
+106,Schwäbischen Alb,Schwäbischen Alb,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+107,US-Bundesstaaten,US-Bundesstaaten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+108,Schuldenkrise,Schuldenkrise,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+109,Berliner Landgerichts,Berliner Landgerichts,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+110,Islamischen Republik Iran,Islamischen Republik Iran,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+111,Klimaprotest,Klimaprotest,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+112,Blockaden,Blockaden,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+113,Komet 3I/Atlas,Komet 3I/Atlas,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+114,Volksrepublik,Volksrepublik,LOC,0.0,0.0,de,1.0,4075468-6,1873107,A,40.0,127.0,ASIA,North Korea,EAS,Heat Wave
+115,Nordhälfte,Nordhälfte,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+116,Celsius,Celsius,LOC,0.0,0.0,de,1.0,,3424134,T,73.11667,-23.25,POLAR,Greenland,GIC,Heat Wave
+117,Sahara,Sahara,LOC,0.7,0.0,de,1.0,4051293-9,2212709,T,26.0,13.0,AFRICA,Libya,SAH,Heat Wave
+118,halbe Land,halbe Land,LOC,0.0,0.0,de,1.0,4403736-3,2911691,P,52.11667,13.7,EUROPE,Germany,WCE,Heat Wave
+153,Offenbach/Mainz,Offenbach/Mainz,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+154,Notstand,Notstand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+155,Stadt Glendales,Stadt Glendales,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+189,Kassel/Frankfurt/Darmstadt,Kassel/Frankfurt/Darmstadt,LOC,-0.85,0.0,de,1.0,,0,,,,,,,Heat Wave
+191,Dresden/Wien,Dresden/Wien,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+192,Thailand,Thailand,LOC,-1.2,0.5,de,1.0,4078228-1,1605651,A,15.5,101.0,ASIA,Thailand,SEA,Heat Wave
+193,Hauptbahnhof,Hauptbahnhof,LOC,0.0,0.0,de,1.0,,8581471,S,48.18479,16.37803,EUROPE,Austria,WCE,Heat Wave
+194,Innenstadt,Innenstadt,LOC,0.0,0.0,de,1.0,4018118-2,2925533,P,50.11552,8.68417,EUROPE,Germany,WCE,Heat Wave
+195,Marktkeller,Marktkeller,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+196,Burgenland,Burgenland,LOC,-0.85,0.0,de,1.0,4009114-4,2781194,A,47.5,16.41667,EUROPE,Austria,WCE,Heat Wave
+197,Mangrovenwald,Mangrovenwald,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+198,Sommerhitze,Sommerhitze,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+199,Irre,Irre,LOC,-3.0,0.0,de,1.0,,2703527,H,65.31667,16.31667,EUROPE,Sweden,NEU,Heat Wave
+200,Düsseldorf,Düsseldorf,LOC,-1.0,0.0,de,1.0,4013255-9,2934246,P,51.22172,6.77616,EUROPE,Germany,WCE,Heat Wave
+201,Green Deal,Green Deal,LOC,0.35,0.5,de,1.0,,5527495,H,31.49567,-100.51444,NORTH-AMERICA,United States,CNA,Heat Wave
+202,Mieming,Mieming,LOC,0.35,0.5,de,1.0,4685355-8,2771606,P,47.3,10.98333,EUROPE,Austria,WCE,Heat Wave
+203,Spaltöffnungen,Spaltöffnungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+204,Saarbrücken,Saarbrücken,LOC,0.7,0.0,de,1.0,4076912-4,2842647,P,49.23262,7.00982,EUROPE,Germany,WCE,Heat Wave
+205,Tor der Bundeswehr,Tor der Bundeswehr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+206,Verkehrswende im Taunus,Verkehrswende im Taunus,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+207,Weltklimakonferenz,Weltklimakonferenz,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+208,Oak Park,Oak Park,LOC,-0.7,0.0,de,1.0,,5004188,P,42.45948,-83.18271,NORTH-AMERICA,United States,ENA,Heat Wave
+209,Landwirtschaftskam…,Landwirtschaftskam…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+210,Handgelenk,Handgelenk,LOC,0.85,0.0,de,1.0,,0,,,,,,,Heat Wave
+211,Europas,Europas,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+212,Mittelmeerraum,Mittelmeerraum,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+213,Griechenland-Fans,Griechenland-Fans,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+214,Touris,Touris,LOC,0.0,0.0,de,1.0,,2262549,P,38.90726,-7.53425,EUROPE-AFRICA,Portugal,MED,Heat Wave
+215,Top-Urlaubsziele,Top-Urlaubsziele,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+216,Händewaschen,Händewaschen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+217,Wassermangel,Wassermangel,LOC,0.0,0.0,de,1.0,,7911102,P,51.33281,6.95615,EUROPE,Germany,WCE,Heat Wave
+218,Miyun,Miyun,LOC,0.0,0.0,de,1.0,,2035740,A,40.53013,116.9873,ASIA,China,EAS,Heat Wave
+219,Statistische Bundesamt am Dienstag,Statistische Bundesamt am Dienstag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+190,Belem,Belem,LOC,0.7,0.0,de,1.0,4208294-8,3405870,P,-1.45583,-48.50444,SOUTH-AMERICA,Brazil,NES,Heat Wave
+188,Sri Lanka,Sri Lanka,LOC,-1.2,0.5,de,1.0,4009696-8,1227603,A,7.75,80.75,INDIAN,Sri Lanka,BOB,Heat Wave
+156,Waldbrand,Waldbrand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+187,Park Babelsberg“,Park Babelsberg“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+157,Hektar Land,Hektar Land,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+158,Waldbränden,Waldbränden,LOC,1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+159,Klimaanlagen,Klimaanlagen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+160,Japan,Japan,LOC,0.0,1.0,de,1.0,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS,Heat Wave
+161,Südkorea,Südkorea,LOC,0.0,1.0,de,1.0,4078029-6,1835841,A,36.5,127.75,ASIA,South Korea,EAS,Heat Wave
+162,Remedur,Remedur,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+163,Könige,Könige,LOC,0.0,1.0,de,1.0,,2780688,T,47.08333,11.86667,EUROPE,Austria,WCE,Heat Wave
+164,Nordtirol,Nordtirol,LOC,-0.33333333,0.0,de,1.0,4440212-0,2775541,P,47.4498,12.15659,EUROPE,Austria,WCE,Heat Wave
+165,Siedlungsgebieten,Siedlungsgebieten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+166,Marburger Uni…,Marburger Uni…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Heat Wave
+167,Tirol,Tirol,LOC,0.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Heat Wave
+168,Land Tirol,Land Tirol,LOC,0.0,0.0,de,1.0,4023019-3,2764958,P,47.28333,11.51667,EUROPE,Austria,WCE,Heat Wave
+169,Wäldern,Wäldern,LOC,0.0,0.0,de,1.0,1075219485,3314082,L,49.11669,10.18334,EUROPE,Germany,WCE,Heat Wave
+170,Nordamerika,Nordamerika,LOC,0.0,1.0,de,1.0,4042483-2,6255149,L,46.07323,-100.54688,NORTH-AMERICA,United States,CNA,Heat Wave
+171,Saarlandes,Saarlandes,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+172,Welthandel,Welthandel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+173,Hitzewellen,Hitzewellen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+174,Indonesien,Indonesien,LOC,-1.2,0.5,de,1.0,4026761-1,1643084,A,-5.0,120.0,ASIA,Indonesia,SEA,Heat Wave
+175,Asien,Asien,LOC,0.0,0.0,de,1.0,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB,Heat Wave
+176,Bündnis,Bündnis,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+178,Elektroauto,Elektroauto,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+179,Verbrennerverbot,Verbrennerverbot,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+180,Nachbarhaus,Nachbarhaus,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+181,saarländischen Landtag,saarländischen Landtag,LOC,0.7,0.0,de,1.0,,0,,,,,,,Heat Wave
+182,Mondsee,Mondsee,LOC,0.0,0.0,de,1.0,4333077-0,2771278,H,47.81667,13.38333,EUROPE,Austria,WCE,Heat Wave
+183,Sankt Lorenz,Sankt Lorenz,LOC,0.0,0.0,de,1.0,,12059765,A,47.43333,19.17595,EUROPE,Hungary,WCE,Heat Wave
+184,Drachenwand,Drachenwand,LOC,0.0,0.0,de,1.0,,2780725,T,47.81667,13.33333,EUROPE,Austria,WCE,Heat Wave
+185,Werkstattbrand,Werkstattbrand,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+186,dpa/bb)-,dpa/bb)-,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Heat Wave
+354,Mittleren Ring,Mittleren Ring,LOC,0.0,0.0,de,1.0,,0,,,,,,,Heat Wave
