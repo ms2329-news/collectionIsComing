@@ -1,2312 +1,729 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Hurrikan Melissa,Hurrikan Melissa,PER,-0.11792452830188681,0.027358490566037737,de,212
-Hayli Gubbi,Hayli Gubbi,PER,0.040624999999999994,0.08194444444444444,de,48
-Donald Trump,Donald Trump,PER,-0.03591269841269843,0.02976190476190476,de,42
-Jan Zimmermann,Jan Zimmermann,PER,-0.3715686274509804,0.058823529411764705,de,34
-Sturm Goretti,Sturm Goretti,PER,0.03333333333333333,0.0,de,21
-Gavin Newsom,Gavin Newsom,PER,-0.11625,0.0125,de,20
-Ace Frehley,Ace Frehley,PER,-0.0625,0.0,de,16
-Sturm Claudia,Sturm Claudia,PER,0.02666666666666666,0.0,de,15
-Bill Gates,Bill Gates,PER,0.30833333333333335,0.0,de,12
-Arc Raiders,Arc Raiders,PER,0.3181818181818182,0.0,de,11
-Lee Junho,Lee Junho,PER,0.0,0.0,de,11
-Friedrich Merz,Friedrich Merz,PER,-0.17272727272727273,0.0,de,11
-Edmund Fitzgerald,Edmund Fitzgerald,PER,0.0,0.0,de,11
+Hurrikan Melissa,Hurrikan Melissa,PER,-0.14343750000000002,0.008125,de,160
+Donald Trump,Donald Trump,PER,0.16421568627450978,0.07352941176470588,de,17
+Ace Frehley,Ace Frehley,PER,0.0,0.0,de,10
 Matthew McConaughey,Matthew McConaughey,PER,0.22999999999999998,0.0,de,10
-Samia Suluhu Hassan,Samia Suluhu Hassan,PER,-0.13,0.0,de,10
-Zyklon Fina,Zyklon Fina,PER,0.23333333333333328,0.0,de,9
-Al Jazeera,Al Jazeera,PER,0.07777777777777778,0.1111111111111111,de,9
 Jonathan Rinderknecht,Jonathan Rinderknecht,PER,-0.4444444444444444,0.0,de,9
-Hugh Jackman,Hugh Jackman,PER,0.4444444444444444,0.0,de,9
-Christian Pulisic,Christian Pulisic,PER,-0.45625000000000004,0.0,de,8
-Keir Starmer,Keir Starmer,PER,-0.14375,0.0,de,8
-Honolulu Star-Advertiser,Honolulu Star-Advertiser,PER,0.0,0.0,de,8
-Javier Milei,Javier Milei,PER,0.2952380952380952,0.14285714285714285,de,7
-Ohio State,Ohio State,PER,0.31428571428571433,0.0,de,7
-Kulman Ghising,Kulman Ghising,PER,0.29999999999999993,0.0,de,7
-Kate Hudson,Kate Hudson,PER,0.5714285714285714,0.0,de,7
-Erdbeben der Stärke,Erdbeben der Stärke,PER,0.5499999999999999,0.0,de,7
-Hurrikan Melissa Grafiken,Hurrikan Melissa Grafiken,PER,0.0,0.0,de,7
+Alarmstufe Rot,Alarmstufe Rot,PER,0.525,0.0,de,8
 "Sturmtief ""Joshua","Sturmtief ""Joshua",PER,-0.21904761904761907,0.19047619047619047,de,7
-Mikaela Shiffrin,Mikaela Shiffrin,PER,0.7285714285714285,0.0,de,7
-Prabowo Subianto,Prabowo Subianto,PER,-0.2214285714285714,0.0,de,7
-Simon King,Simon King,PER,0.14999999999999997,0.07142857142857142,de,7
-José Antonio Kast,José Antonio Kast,PER,-0.11666666666666665,0.0,de,6
-Rob Marciano,Rob Marciano,PER,0.0,0.16666666666666666,de,6
-Claudia Sheinbaum,Claudia Sheinbaum,PER,0.0,0.0,de,6
-Alarmstufe Rot,Alarmstufe Rot,PER,0.0,0.0,de,6
-Kristi Noem,Kristi Noem,PER,0.0,0.0,de,6
-Zyklon Montha,Zyklon Montha,PER,0.0,0.0,de,6
-Andrew Holness,Andrew Holness,PER,-0.2833333333333333,0.0,de,6
-Sturmtief „Joshua,Sturmtief „Joshua,PER,-0.11666666666666665,0.0,de,6
-Charlotte Lindholm,Charlotte Lindholm,PER,-0.05833333333333333,0.0,de,6
+Hurrikan Melissa Grafiken,Hurrikan Melissa Grafiken,PER,0.0,0.0,de,7
+Gavin Newsom,Gavin Newsom,PER,-0.3642857142857143,0.0,de,7
 Paul Greengrass,Paul Greengrass,PER,0.2833333333333334,0.0,de,6
-Bob Ferguson,Bob Ferguson,PER,0.06000000000000001,0.0,de,5
-Mikie Sherrill,Mikie Sherrill,PER,0.13999999999999999,0.0,de,5
-Geological Survey,Geological Survey,PER,0.0,0.0,de,5
-Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,-0.37,0.0,de,5
-Charlie Kirk,Charlie Kirk,PER,0.0,0.0,de,5
-Zohran Mamdani,Zohran Mamdani,PER,0.13999999999999999,0.2,de,5
-Heated Rivalry,Heated Rivalry,PER,0.13999999999999999,0.0,de,5
-Ferdinand Marcos Jr,Ferdinand Marcos Jr,PER,0.0,0.0,de,5
-Carter Evans,Carter Evans,PER,0.0,0.2,de,5
-Hurrikan Helene,Hurrikan Helene,PER,0.0,0.2,de,5
-Flin Flon,Flin Flon,PER,-0.20999999999999996,0.06666666666666667,de,5
-Jeffrey Epstein,Jeffrey Epstein,PER,-0.26,0.0,de,5
-Buchenwald Grumsin,Buchenwald Grumsin,PER,0.0,0.0,de,5
-Karen Bass,Karen Bass,PER,-0.16999999999999998,0.0,de,5
-"Supertaifun ""Fung-Wong","Supertaifun ""Fung-Wong",PER,0.0,0.0,de,5
-Südkalifornien Edison,Südkalifornien Edison,PER,-0.5,0.0,de,4
-Manuel Hagel,Manuel Hagel,PER,0.175,0.25,de,4
+Sturmtief „Joshua,Sturmtief „Joshua,PER,-0.11666666666666665,0.0,de,6
+Zyklon Montha,Zyklon Montha,PER,0.0,0.0,de,6
+Javier Milei,Javier Milei,PER,0.3444444444444444,0.16666666666666666,de,6
+Friedrich Merz,Friedrich Merz,PER,-0.27999999999999997,0.0,de,5
+Bill Gates,Bill Gates,PER,0.4,0.0,de,5
 Vorsicht Glatteis,Vorsicht Glatteis,PER,0.0,0.0,de,4
-Marco Odermatt,Marco Odermatt,PER,0.5,0.0,de,4
-"Sturm ""Bualoi","Sturm ""Bualoi",PER,0.0,0.0,de,4
-Vitalex Biosciences,Vitalex Biosciences,PER,0.425,0.0,de,4
-Taylor Swift,Taylor Swift,PER,0.0,0.0,de,4
-Warren Buffett,Warren Buffett,PER,0.25,0.0,de,4
-Chillai Kalan,Chillai Kalan,PER,0.0,0.0,de,4
-Zyklon Ditwah,Zyklon Ditwah,PER,-0.14166666666666666,0.3333333333333333,de,4
-Christa Steele,Christa Steele,PER,0.5,0.0,de,4
-Tropensturm Melissa,Tropensturm Melissa,PER,0.175,0.0,de,4
-Jerome Powell,Jerome Powell,PER,-0.0875,0.25,de,4
-Fleetwood Mac,Fleetwood Mac,PER,-0.07500000000000001,0.0,de,4
-Adelita Grijalva,Adelita Grijalva,PER,-0.75,0.0,de,4
-Reliance Jio,Reliance Jio,PER,0.0,0.0,de,4
-Thomas Markle,Thomas Markle,PER,0.35,0.0,de,4
-Meghan Markles,Meghan Markles,PER,0.38749999999999996,0.0,de,4
-Stevie Nicks,Stevie Nicks,PER,-0.25,0.0,de,4
-Mike Johnson,Mike Johnson,PER,-0.1625,0.0,de,4
-Björn Alexander,Björn Alexander,PER,-0.425,0.0,de,4
+Andrew Holness,Andrew Holness,PER,-0.25,0.0,de,4
 Energieriesen Shell,Energieriesen Shell,PER,0.0,0.0,de,4
-La Niña,La Niña,PER,-0.175,0.0,de,4
-Michael Irvin,Michael Irvin,PER,0.0,0.25,de,4
-Edwin Castro,Edwin Castro,PER,-0.425,0.0,de,4
-Mini Cooper,Mini Cooper,PER,0.0,0.0,de,4
-"Sturmtief ""Elli","Sturmtief ""Elli",PER,-0.175,0.0,de,4
-Ian Lee,Ian Lee,PER,0.0,0.25,de,4
-António Guterres,António Guterres,PER,-0.2125,0.25,de,4
-Atlético Ottawa,Atlético Ottawa,PER,0.0,0.2,de,4
-Lonnie Quinn,Lonnie Quinn,PER,0.0,0.0,de,4
-Gibran Rakabuming Raka,Gibran Rakabuming Raka,PER,-0.675,0.0,de,4
-Kang Tae Poong,Kang Tae Poong,PER,0.0,0.0,de,4
+Tropensturm Melissa,Tropensturm Melissa,PER,0.175,0.0,de,4
 America Ferrera,America Ferrera,PER,0.5,0.0,de,4
-Smillas Gespür,Smillas Gespür,PER,0.25,0.0,de,4
-Fleißige Bienen,Fleißige Bienen,PER,0.5249999999999999,0.25,de,4
-Laura Dahlmeier,Laura Dahlmeier,PER,0.0,0.0,de,4
-Johanna Faries,Johanna Faries,PER,0.44,0.25,de,4
-Berkshire Hathaway,Berkshire Hathaway,PER,0.7125,0.0,de,4
-Greg Biffle,Greg Biffle,PER,0.175,0.0,de,4
-Nathan MacKinnon,Nathan MacKinnon,PER,-0.07500000000000001,0.0,de,4
-Sturmtief „Elli,Sturmtief „Elli,PER,0.175,0.0,de,4
-Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,4
-Negeri Sembilan,Negeri Sembilan,PER,0.4666666666666666,0.0,de,3
-Singh Sirsa,Singh Sirsa,PER,-0.10000000000000002,0.0,de,3
-Parks Canada,Parks Canada,PER,0.6999999999999998,0.0,de,3
-Alarmstufe Orange,Alarmstufe Orange,PER,0.2333333333333333,0.0,de,3
-Mauricio Pochettino,Mauricio Pochettino,PER,-0.2333333333333333,0.0,de,3
-Trumps 20-Milliarden-Dollar-Gewinn,Trumps 20-Milliarden-Dollar-Gewinn,PER,1.0,0.0,de,3
-Filippo Grandi,Filippo Grandi,PER,0.3333333333333333,0.0,de,3
-Tropischer Wirbelsturm,Tropischer Wirbelsturm,PER,0.0,0.0,de,3
-Japans Küste,Japans Küste,PER,0.0,0.0,de,3
-Ata Mai,Ata Mai,PER,-0.3333333333333333,0.0,de,3
-Christophe Jacrot,Christophe Jacrot,PER,0.2333333333333333,0.0,de,3
-Albin Kurti,Albin Kurti,PER,-0.43333333333333335,0.0,de,3
-Aurora Borealis,Aurora Borealis,PER,0.2333333333333333,0.0,de,3
-Nielsen Korea,Nielsen Korea,PER,0.0,0.0,de,3
-Tamil Nadu,Tamil Nadu,PER,0.6666666666666666,0.3333333333333333,de,3
-Prinz Andrew,Prinz Andrew,PER,0.0,0.0,de,3
-Xabi Alonso,Xabi Alonso,PER,0.85,0.0,de,3
-Tim Lehmann,Tim Lehmann,PER,0.2333333333333333,0.0,de,3
-Wolfgang Schroeder,Wolfgang Schroeder,PER,0.05000000000000001,0.0,de,3
-Andres Gutierrez,Andres Gutierrez,PER,0.0,0.3333333333333333,de,3
-Jake Tapper,Jake Tapper,PER,0.3333333333333333,0.0,de,3
-Liefert Schmalwasser,Liefert Schmalwasser,PER,0.0,0.0,de,3
-Franziska Amler,Franziska Amler,PER,0.0,0.0,de,3
-Judy Winter,Judy Winter,PER,1.0,0.0,de,3
-Milei Stimmen,Milei Stimmen,PER,1.0,0.0,de,3
-Prince George,Prince George,PER,-0.6666666666666666,0.0,de,3
-Schnee Samstag,Schnee Samstag,PER,0.11666666666666665,0.16666666666666666,de,3
-Sturm Amy,Sturm Amy,PER,0.2333333333333333,0.0,de,3
-Scott Fischer,Scott Fischer,PER,-0.10000000000000002,0.0,de,3
-Diablo IV,Diablo IV,PER,-0.5166666666666666,0.0,de,3
-Thomas Wrede,Thomas Wrede,PER,0.0,0.0,de,3
-Hilary Woods,Hilary Woods,PER,0.4666666666666666,0.0,de,3
-Anil Ambani,Anil Ambani,PER,-0.05000000000000001,0.3333333333333333,de,3
-Piyush Goyal,Piyush Goyal,PER,0.4666666666666666,0.0,de,3
-Claire Sardina,Claire Sardina,PER,0.3333333333333333,0.0,de,3
-Basileios II,Basileios II,PER,0.0,0.0,de,3
-Wisma Putra,Wisma Putra,PER,-0.4666666666666666,0.0,de,3
-Sturmtief Elli,Sturmtief Elli,PER,-0.2333333333333333,0.0,de,3
-Narendra Modi,Narendra Modi,PER,0.0,0.0,de,3
-Kash Patel,Kash Patel,PER,-0.4666666666666666,0.0,de,3
-Kim Min Ha,Kim Min Ha,PER,0.0,0.0,de,3
-Tua Tagovailoa,Tua Tagovailoa,PER,0.0,0.0,de,3
-Sturm Byron,Sturm Byron,PER,-0.3499999999999999,0.0,de,3
-Laura Wontorra,Laura Wontorra,PER,0.0,0.0,de,3
-Sturmtief Joshua,Sturmtief Joshua,PER,0.3333333333333333,0.0,de,3
-Paul Pogba,Paul Pogba,PER,-0.10000000000000002,0.0,de,3
-Taifun Fung-wong,Taifun Fung-wong,PER,0.0,0.0,de,3
-Nancy Meyers,Nancy Meyers,PER,0.3333333333333333,0.0,de,3
-Maria Furtwängler,Maria Furtwängler,PER,0.0,0.0,de,3
-Miles Morales,Miles Morales,PER,0.0,0.0,de,3
-Masoud Pezeshkian,Masoud Pezeshkian,PER,-0.3333333333333333,0.0,de,3
+"Sturmtief ""Elli","Sturmtief ""Elli",PER,-0.175,0.0,de,4
+Jerome Powell,Jerome Powell,PER,-0.0875,0.25,de,4
+Südkalifornien Edison,Südkalifornien Edison,PER,-0.5,0.0,de,4
+"Sturm ""Bualoi","Sturm ""Bualoi",PER,0.0,0.0,de,4
+Marco Odermatt,Marco Odermatt,PER,0.5,0.0,de,4
+Christian Pulisic,Christian Pulisic,PER,-0.5625,0.0,de,4
 Raila Odinga,Raila Odinga,PER,-0.3333333333333333,0.0,de,3
-Haie Hurrikane,Haie Hurrikane,PER,0.2833333333333333,0.0,de,3
-Ann Arbor,Ann Arbor,PER,-0.3333333333333333,0.0,de,3
-Ken Paxton,Ken Paxton,PER,0.0,0.0,de,3
-Elon Musks,Elon Musks,PER,0.5666666666666667,0.0,de,3
-Amy Klobuchar,Amy Klobuchar,PER,0.5666666666666667,0.0,de,3
-Tomiichi Murayama,Tomiichi Murayama,PER,-0.6666666666666666,0.0,de,3
-Camfil Canada,Camfil Canada,PER,0.4666666666666666,0.0,de,3
-Kylian Mbappe,Kylian Mbappe,PER,1.0,0.0,de,3
-Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,PER,0.6999999999999998,0.0,de,3
-Sean Paul,Sean Paul,PER,0.0,0.0,de,3
-Donald Trumps,Donald Trumps,PER,0.2833333333333333,0.0,de,3
-Jeremiah Smith,Jeremiah Smith,PER,0.3,0.0,de,3
-Sean Duffy,Sean Duffy,PER,0.3333333333333333,0.0,de,3
+Thomas Wrede,Thomas Wrede,PER,0.0,0.0,de,3
+Gibran Rakabuming Raka,Gibran Rakabuming Raka,PER,-0.6666666666666666,0.0,de,3
+Björn Alexander,Björn Alexander,PER,-0.2333333333333333,0.0,de,3
+Charlie Kirk,Charlie Kirk,PER,0.0,0.0,de,3
+Al Jazeera,Al Jazeera,PER,0.2333333333333333,0.3333333333333333,de,3
+Sturmtief Joshua,Sturmtief Joshua,PER,0.3333333333333333,0.0,de,3
+Hurrikan Helene,Hurrikan Helene,PER,0.0,0.3333333333333333,de,3
 Rick Scott,Rick Scott,PER,0.3333333333333333,0.0,de,3
-Shah Alam,Shah Alam,PER,0.0,0.0,de,3
-Omar Abdullah,Omar Abdullah,PER,0.15,0.16666666666666666,de,3
+Prinz Andrew,Prinz Andrew,PER,0.0,0.0,de,3
+Franziska Amler,Franziska Amler,PER,0.0,0.0,de,3
+Tomiichi Murayama,Tomiichi Murayama,PER,-0.6666666666666666,0.0,de,3
+Laura Wontorra,Laura Wontorra,PER,0.0,0.0,de,3
+Meghan Markles,Meghan Markles,PER,0.2833333333333333,0.0,de,3
+Milei Stimmen,Milei Stimmen,PER,1.0,0.0,de,3
+Trumps 20-Milliarden-Dollar-Gewinn,Trumps 20-Milliarden-Dollar-Gewinn,PER,1.0,0.0,de,3
+Sean Duffy,Sean Duffy,PER,0.3333333333333333,0.0,de,3
 Jason Allen,Jason Allen,PER,0.0,0.3333333333333333,de,3
-Lula da Silva,Lula da Silva,PER,0.3333333333333333,0.0,de,3
-Catherine Connolly,Catherine Connolly,PER,0.2333333333333333,0.0,de,3
-Sturmtief „Joshua“,Sturmtief „Joshua“,PER,-0.15000000000000002,0.0,de,2
-Weather Reconnaissance Squadron,Weather Reconnaissance Squadron,PER,0.7,0.0,de,2
-Hurricane Hunters,Hurricane Hunters,PER,0.35,0.0,de,2
-Brandy Campbell,Brandy Campbell,PER,0.35,0.0,de,2
-Jens Baas,Jens Baas,PER,-0.85,0.0,de,2
-Thomas Pandola,Thomas Pandola,PER,-0.1625,0.0,de,2
-Mitch Albom,Mitch Albom,PER,0.0,0.0,de,2
-Nebel Delhi,Nebel Delhi,PER,-0.7,0.0,de,2
-Bremens Umgang,Bremens Umgang,PER,-1.0,0.0,de,2
-Swiss Re,Swiss Re,PER,0.0,0.0,de,2
-epidemischer Cholera,epidemischer Cholera,PER,0.7,0.0,de,2
-Miles Teller,Miles Teller,PER,0.0,0.0,de,2
-Simon Stiell,Simon Stiell,PER,0.0,0.0,de,2
-Prinz William,Prinz William,PER,-0.325,0.25,de,2
-James Altucher,James Altucher,PER,0.35,0.0,de,2
-Renate Reinsve,Renate Reinsve,PER,0.0,0.0,de,2
-Gordon Ramsay Burger,Gordon Ramsay Burger,PER,0.0,0.0,de,2
-Tommy Robinson,Tommy Robinson,PER,-0.5,0.0,de,2
-Jon Prosser,Jon Prosser,PER,0.0,0.0,de,2
-Sabine Winter,Sabine Winter,PER,0.0,0.0,de,2
-Kathy Hochul,Kathy Hochul,PER,-0.35,0.5,de,2
-Craig Mazin,Craig Mazin,PER,0.0,0.0,de,2
-Ruth Deidree Boelan,Ruth Deidree Boelan,PER,-0.7,0.0,de,2
-John August,John August,PER,0.0,0.0,de,2
-Ray Chungs,Ray Chungs,PER,0.5,0.0,de,2
-Vlad Duthiers,Vlad Duthiers,PER,0.0,0.0,de,2
-Eric Adams,Eric Adams,PER,-1.0,0.0,de,2
-Lucy Liu,Lucy Liu,PER,0.0,0.5,de,2
-Lee Byung-hun,Lee Byung-hun,PER,0.0,0.5,de,2
-Nike LeBron,Nike LeBron,PER,0.0,0.0,de,2
-Mirjana Spoljaric,Mirjana Spoljaric,PER,0.5,0.0,de,2
-Martin Schindler,Martin Schindler,PER,0.0,0.0,de,2
-Aaron Rodgers,Aaron Rodgers,PER,0.0,0.5,de,2
-Kevin Giufre,Kevin Giufre,PER,0.0,0.0,de,2
-Charlotte Walker,Charlotte Walker,PER,0.0,0.0,de,2
-Alexander Zverev,Alexander Zverev,PER,0.5,0.0,de,2
-Prinz Harry,Prinz Harry,PER,0.0,0.0,de,2
-Trumps Krieg,Trumps Krieg,PER,-0.35,0.0,de,2
-Nicki Minajs,Nicki Minajs,PER,0.0,0.16666666666666666,de,2
-David Rodriguez,David Rodriguez,PER,0.0,0.4,de,2
-Jared Bednar,Jared Bednar,PER,0.0,0.0,de,2
-Atletico Ottawa,Atletico Ottawa,PER,0.0,0.0,de,2
-Shohei Ohtanis,Shohei Ohtanis,PER,0.5,0.0,de,2
-George Santos,George Santos,PER,0.0,0.0,de,2
-Carlos Alcaraz,Carlos Alcaraz,PER,0.5,0.0,de,2
-Selena Gomez,Selena Gomez,PER,-0.35,0.0,de,2
-Sebastian Ströbel,Sebastian Ströbel,PER,0.0,0.0,de,2
-Tayyip Erdogan,Tayyip Erdogan,PER,0.35,0.0,de,2
-Jule Kühn,Jule Kühn,PER,0.7,0.0,de,2
-Helmut Marko,Helmut Marko,PER,-0.16666666666666666,0.0,de,2
-John Elwes,John Elwes,PER,0.0,0.0,de,2
-Chinas Batteriegiganten,Chinas Batteriegiganten,PER,0.0,0.0,de,2
-Kim Addonizio,Kim Addonizio,PER,0.0,0.0,de,2
-Ilya Solovyov,Ilya Solovyov,PER,0.5,0.0,de,2
-Allstate Canada,Allstate Canada,PER,0.0,0.0,de,2
-Frostiges Paradies,Frostiges Paradies,PER,0.0,0.0,de,2
-Type R,Type R,PER,0.0,0.0,de,2
-Billionen Gallonen Regen,Billionen Gallonen Regen,PER,-1.0,0.0,de,2
-Johan Eliasch,Johan Eliasch,PER,0.5,0.0,de,2
-Avalanche Canada,Avalanche Canada,PER,-0.425,0.5,de,2
-Kairat Almaty,Kairat Almaty,PER,1.0,0.0,de,2
-Cristian Chivu,Cristian Chivu,PER,1.0,0.0,de,2
-Zillows kurzsichtiger Schritt,Zillows kurzsichtiger Schritt,PER,0.0,0.0,de,2
-Octav Stroici,Octav Stroici,PER,0.0,0.0,de,2
-Cyril Aris,Cyril Aris,PER,0.925,0.0,de,2
-Fernando Mendoza,Fernando Mendoza,PER,0.0,0.0,de,2
-Todd McClay,Todd McClay,PER,0.7,0.0,de,2
-Wladimir Putin,Wladimir Putin,PER,0.11249999999999999,0.0,de,2
-Whit Johnson,Whit Johnson,PER,0.0,0.0,de,2
-Goldgelbes Laub,Goldgelbes Laub,PER,0.0,1.0,de,2
-Christoph Gröner,Christoph Gröner,PER,0.0,0.0,de,2
-Rob Reiners,Rob Reiners,PER,0.0,0.0,de,2
-Al Haboob,Al Haboob,PER,0.0,0.0,de,2
-Caroline Graham,Caroline Graham,PER,0.0,0.0,de,2
-Yvette Cooper,Yvette Cooper,PER,0.0,0.0,de,2
-Markus Steilemann,Markus Steilemann,PER,0.15000000000000002,0.0,de,2
-Travis Mills,Travis Mills,PER,0.7749999999999999,0.0,de,2
-Nick Gross,Nick Gross,PER,0.7749999999999999,0.0,de,2
-Miley Cyrus,Miley Cyrus,PER,0.15000000000000002,0.0,de,2
-Suryakumar Yadav,Suryakumar Yadav,PER,0.0,0.0,de,2
-Victor Manibo,Victor Manibo,PER,0.0,0.0,de,2
-Scott Jennings,Scott Jennings,PER,-0.5375,0.0,de,2
-Shakti Pumps,Shakti Pumps,PER,0.35,0.0,de,2
-Jamaikas Stromnetz,Jamaikas Stromnetz,PER,0.0,0.0,de,2
-Ayesha Curry,Ayesha Curry,PER,-0.35,0.0,de,2
-Theo Von,Theo Von,PER,0.0,0.0,de,2
-Jimmy Kimmel,Jimmy Kimmel,PER,0.0,0.0,de,2
-Lindsey Vonn,Lindsey Vonn,PER,0.0,0.0,de,2
-Cat Bond,Cat Bond,PER,0.0,0.0,de,2
-Bnei Berak,Bnei Berak,PER,-0.7,0.0,de,2
-WA tosen,WA tosen,PER,0.0,0.0,de,2
-Boris Rhein,Boris Rhein,PER,0.0,0.0,de,2
-Droid Gamers,Droid Gamers,PER,0.0,0.0,de,2
-Spaniens Regionalchef,Spaniens Regionalchef,PER,0.0,0.0,de,2
-Richard Linklaters,Richard Linklaters,PER,1.0,0.0,de,2
-Jonathan Drouin,Jonathan Drouin,PER,0.0,0.0,de,2
-Ric Mixter,Ric Mixter,PER,-0.7,0.0,de,2
-Terrence Tysall,Terrence Tysall,PER,0.0,0.0,de,2
-Milana Vayntrub,Milana Vayntrub,PER,-0.07500000000000001,0.0,de,2
-Sherrone Moore,Sherrone Moore,PER,0.0,0.0,de,2
-Himachal Pradesh,Himachal Pradesh,PER,0.0,0.0,de,2
-Stefan Winter,Stefan Winter,PER,0.0,0.0,de,2
-Patrick Schnieder,Patrick Schnieder,PER,-0.35,0.0,de,2
-"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",PER,0.0,0.0,de,2
-Küste zu Küste,Küste zu Küste,PER,0.0,0.0,de,2
-Lynch Carpenter,Lynch Carpenter,PER,0.0,0.0,de,2
-Stuart Skinner,Stuart Skinner,PER,0.5,0.0,de,2
-Brett Kulak,Brett Kulak,PER,0.5,0.0,de,2
-Aaron Akaberi,Aaron Akaberi,PER,0.35,0.0,de,2
-Jamie Morton,Jamie Morton,PER,0.0,0.0,de,2
-Eddie Wicks,Eddie Wicks,PER,0.7,0.0,de,2
-Alec Burks,Alec Burks,PER,0.5,0.0,de,2
-Desi Oon,Desi Oon,PER,0.35,0.0,de,2
-Anna Sui,Anna Sui,PER,-0.35,0.0,de,2
-Angela Kinsey,Angela Kinsey,PER,0.0,0.0,de,2
-Anil Vij,Anil Vij,PER,0.35,0.0,de,2
-Anthony Joshua,Anthony Joshua,PER,0.0,0.0,de,2
-Jake Paul,Jake Paul,PER,0.0,0.0,de,2
-Fran Silvestre,Fran Silvestre,PER,0.0,0.0,de,2
-Meghan Markle,Meghan Markle,PER,-0.35,0.0,de,2
-Michael Chernow,Michael Chernow,PER,0.5249999999999999,0.25,de,2
-Zaha Hadids,Zaha Hadids,PER,0.0,0.0,de,2
-Alexander Schmid,Alexander Schmid,PER,0.35,0.0,de,2
-Marco Schwarz,Marco Schwarz,PER,0.7749999999999999,0.0,de,2
-Lord of Hatred,Lord of Hatred,PER,0.0,0.0,de,2
-Brandon Zick,Brandon Zick,PER,0.0,0.0,de,2
-Ahn Bo-hyun,Ahn Bo-hyun,PER,0.35,0.0,de,2
-Ken Watanabe,Ken Watanabe,PER,0.0,0.0,de,2
-Albert Einstein,Albert Einstein,PER,0.0,0.0,de,2
-Kamala Harris,Kamala Harris,PER,0.25,0.0,de,2
-Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5,0.0,de,2
-Miss Marple,Miss Marple,PER,0.35,0.0,de,2
-Tervis doppelwandiger,Tervis doppelwandiger,PER,0.0,0.0,de,2
-Kalifornien Wasser,Kalifornien Wasser,PER,0.0,0.0,de,2
-Linus Straßer,Linus Straßer,PER,0.35,0.0,de,2
-Dad Sneeze,Dad Sneeze,PER,0.0,0.0,de,2
-Boyd Varty,Boyd Varty,PER,-0.07500000000000001,0.5,de,2
-Chelsea Clinton,Chelsea Clinton,PER,0.0,0.0,de,2
-Jalen Brunson,Jalen Brunson,PER,0.0,0.0,de,2
-Lukas Gage,Lukas Gage,PER,0.0,0.0,de,2
-Sarah Harrison,Sarah Harrison,PER,-0.5,0.0,de,2
-Manitoba Hydro,Manitoba Hydro,PER,0.0,0.0,de,2
-Cold Snap,Cold Snap,PER,0.35,0.0,de,2
-Jordan Staal,Jordan Staal,PER,-1.0,0.0,de,2
-Matthias Sammer,Matthias Sammer,PER,0.0,0.0,de,2
-Vera Rubin,Vera Rubin,PER,0.0,0.0,de,2
-Quentin Tarantino,Quentin Tarantino,PER,0.0,0.0,de,2
-Scott Moe,Scott Moe,PER,0.0,0.0,de,2
-Japans Nordostküste,Japans Nordostküste,PER,-0.5,0.0,de,2
-Ashok Singhal,Ashok Singhal,PER,-0.5,0.0,de,2
-Denis Moschitto,Denis Moschitto,PER,0.0,0.0,de,2
-Japans Ostküste,Japans Ostküste,PER,0.0,0.0,de,2
-Jordan Winery,Jordan Winery,PER,0.0,0.0,de,2
-Susie Wiles,Susie Wiles,PER,0.925,0.0,de,2
-Sean Walker,Sean Walker,PER,-1.0,0.0,de,2
-Jackson Blake,Jackson Blake,PER,-1.0,0.0,de,2
-Assetto Corsa Rally,Assetto Corsa Rally,PER,0.425,0.0,de,2
-Christina Biasi,Christina Biasi,PER,0.5,0.0,de,2
-Kai Trump,Kai Trump,PER,0.35,0.0,de,2
-A$AP Rocky,A$AP Rocky,PER,-1.0,0.0,de,2
-Cem Özdemir,Cem Özdemir,PER,0.7,0.0,de,2
-David Wolff,David Wolff,PER,0.0,0.0,de,2
-Paul Della Bitta,Paul Della Bitta,PER,0.35,0.0,de,2
-Schnee schippt,Schnee schippt,PER,0.0,0.0,de,2
-Jamaikas Regierungschef,Jamaikas Regierungschef,PER,-0.7,0.0,de,2
-Elon Musk,Elon Musk,PER,0.0,0.0,de,2
-Aida Rodriguez,Aida Rodriguez,PER,0.5,0.0,de,2
-Justina Machado,Justina Machado,PER,0.5,0.0,de,2
-Rekordverdächtiger Schneefall,Rekordverdächtiger Schneefall,PER,0.175,0.25,de,2
-Anime Vanguards,Anime Vanguards,PER,0.5,0.0,de,2
-Linken-Landeschef Herbst,Linken-Landeschef Herbst,PER,1.0,0.0,de,2
-Martine McCutcheon,Martine McCutcheon,PER,0.0,0.0,de,2
-Neufundländische Fischer,Neufundländische Fischer,PER,-0.7,0.0,de,2
-Ian Edwards,Ian Edwards,PER,0.5,0.0,de,2
-Tom Hanson,Tom Hanson,PER,0.0,0.0,de,2
-Viktor Remizov,Viktor Remizov,PER,-0.5,0.0,de,2
-Heizölpreise heute,Heizölpreise heute,PER,0.0,0.0,de,2
-Taylor Swifts,Taylor Swifts,PER,-0.35,0.0,de,2
-Milind Soman,Milind Soman,PER,0.7,0.0,de,2
-Sean Astin,Sean Astin,PER,0.35,0.0,de,2
-verrottendem Getreide,verrottendem Getreide,PER,0.0,0.0,de,2
-Jordan Horrillo,Jordan Horrillo,PER,0.0,0.0,de,2
-Amanda Nguyen,Amanda Nguyen,PER,0.5,0.0,de,2
-Ricardo Lara,Ricardo Lara,PER,0.0,0.0,de,2
-Tornado Cash,Tornado Cash,PER,0.0,0.0,de,2
-Atmospheric River,Atmospheric River,PER,0.0,0.0,de,2
-Tim Frost,Tim Frost,PER,0.39999999999999997,0.0,de,2
-Lecken Wasserschweine,Lecken Wasserschweine,PER,0.0,0.0,de,2
-Tshering Tobgay,Tshering Tobgay,PER,0.0,0.0,de,2
-Campi Flegrei,Campi Flegrei,PER,0.0,0.0,de,2
-Joe Biden,Joe Biden,PER,0.0,0.0,de,2
-Brock Nelson,Brock Nelson,PER,0.5,0.5,de,2
-Josh O’Connor,Josh O’Connor,PER,-0.15000000000000002,0.0,de,2
-Datuk Seri Anwar Ibrahim,Datuk Seri Anwar Ibrahim,PER,-0.5,0.0,de,2
-Alec Baldwins,Alec Baldwins,PER,0.0,0.0,de,2
-Sportdirektor Sebastian Kehl,Sportdirektor Sebastian Kehl,PER,0.7,0.0,de,2
-Tayyip Erdoğan,Tayyip Erdoğan,PER,0.27499999999999997,0.0,de,2
-Shubhangi Atre,Shubhangi Atre,PER,0.35,0.0,de,2
-Sturmtief „Elli“,Sturmtief „Elli“,PER,0.25,0.0,de,2
-Cécile McLorin,Cécile McLorin,PER,0.0,0.0,de,2
-Willmar WarHawks,Willmar WarHawks,PER,0.35,0.0,de,2
-Kim Sang Ho,Kim Sang Ho,PER,0.0,0.0,de,2
-Christoph Maria Herbst,Christoph Maria Herbst,PER,-0.5,0.0,de,2
-Montagfrüh Schneeglätte,Montagfrüh Schneeglätte,PER,0.0,0.0,de,2
-Shaun White,Shaun White,PER,0.0,0.0,de,2
-Dave Marrs,Dave Marrs,PER,0.0,0.0,de,2
-Emma Thompson,Emma Thompson,PER,1.0,0.0,de,2
-Blue Jackets,Blue Jackets,PER,0.0,0.0,de,2
-Drake Passage,Drake Passage,PER,0.7,0.0,de,2
-James Allen,James Allen,PER,0.0,0.0,de,2
-Olde Style Weatherwood,Olde Style Weatherwood,PER,0.0,0.0,de,2
-Olde Style Weatherwood Color,Olde Style Weatherwood Color,PER,0.0,0.0,de,2
-Animal Crossing,Animal Crossing,PER,0.0,0.0,de,2
-Karin Schmidt-Friderichs,Karin Schmidt-Friderichs,PER,0.0,0.0,de,2
-Jez Corden,Jez Corden,PER,0.0,0.0,de,2
-Indonesiens Sumatra,Indonesiens Sumatra,PER,0.35,0.0,de,2
-Charles White Park,Charles White Park,PER,1.0,0.0,de,2
-Laura Anninger,Laura Anninger,PER,0.0,0.5,de,2
-Sutton Foster,Sutton Foster,PER,0.0,0.0,de,2
-Benefizkonzert Jamaica Strong,Benefizkonzert Jamaica Strong,PER,0.0,0.0,de,2
-Droupadi Murmu,Droupadi Murmu,PER,0.0,0.0,de,2
-Chuck Norris,Chuck Norris,PER,0.5,0.0,de,2
-Shaquille O’Neal,Shaquille O’Neal,PER,0.0,0.0,de,2
-Sophie Rain,Sophie Rain,PER,-0.5,0.0,de,2
-Farrhana Bhatt,Farrhana Bhatt,PER,0.27499999999999997,0.0,de,2
-Shoaib Ibrahim,Shoaib Ibrahim,PER,0.27499999999999997,0.0,de,2
-Michigans Schneefallvorhersage,Michigans Schneefallvorhersage,PER,-0.5,0.0,de,2
-Darling Downs,Darling Downs,PER,0.0,0.5,de,2
-Tito Karnavian,Tito Karnavian,PER,0.35,0.0,de,2
-Guillermo del Toro,Guillermo del Toro,PER,0.0,0.5,de,2
-Lee Jun-ho,Lee Jun-ho,PER,-0.35,0.0,de,2
-Conor McGregor,Conor McGregor,PER,0.0,0.0,de,2
-Nigel Latta,Nigel Latta,PER,-0.35,0.0,de,2
-Cristiano Ronaldo,Cristiano Ronaldo,PER,0.35,0.0,de,2
-Pro Bienenvolk,Pro Bienenvolk,PER,0.0,0.0,de,2
-Warnstufe Rot,Warnstufe Rot,PER,0.0,0.0,de,2
-Geoff Keighley,Geoff Keighley,PER,-0.575,0.0,de,2
-Kevin McKay,Kevin McKay,PER,0.0,0.0,de,2
-Jim Cramer,Jim Cramer,PER,0.7,0.0,de,2
-Andrew Wiggins,Andrew Wiggins,PER,0.0,0.0,de,2
-Nitish Kumar,Nitish Kumar,PER,0.7,0.0,de,2
-Jeff Dye,Jeff Dye,PER,0.0,0.0,de,2
-Mamata Banerjee,Mamata Banerjee,PER,0.0,0.0,de,2
-Ivan Klima,Ivan Klima,PER,-0.07500000000000001,0.0,de,2
-Martha Stewart,Martha Stewart,PER,0.35,0.0,de,2
-Greg Abbott,Greg Abbott,PER,0.0,0.0,de,2
-Maria Muhar,Maria Muhar,PER,0.0,0.0,de,2
-Cole Murphy,Cole Murphy,PER,-0.15000000000000002,0.0,de,2
-Fred Meyer,Fred Meyer,PER,0.0,0.5,de,2
-Jim Morrison,Jim Morrison,PER,-0.5,0.0,de,2
-Chavas Camargo Tippett,Chavas Camargo Tippett,PER,0.0,0.0,de,2
-Letitia James,Letitia James,PER,0.0,0.0,de,2
-Dalton Stewart,Dalton Stewart,PER,-0.5,0.0,de,2
-Lagerstroemia speciosa,Lagerstroemia speciosa,PER,0.0,0.0,de,2
-Lewis Hamilton,Lewis Hamilton,PER,0.0,0.0,de,2
-Trans Mountain,Trans Mountain,PER,-0.5,0.0,de,2
-Räumung von Straßen,Räumung von Straßen,PER,0.0,0.0,de,2
-Yoon Ji Sung,Yoon Ji Sung,PER,-0.07500000000000001,0.0,de,2
-Teslas Autopilot,Teslas Autopilot,PER,0.425,0.0,de,2
+Sturm Amy,Sturm Amy,PER,0.2333333333333333,0.0,de,3
+Wolfgang Schroeder,Wolfgang Schroeder,PER,0.05000000000000001,0.0,de,3
+Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,3
+Zohran Mamdani,Zohran Mamdani,PER,0.2333333333333333,0.3333333333333333,de,3
+Tamil Nadu,Tamil Nadu,PER,0.5,0.5,de,2
 Spencer Kaufman,Spencer Kaufman,PER,0.5,0.0,de,2
-Michelle Randolph,Michelle Randolph,PER,0.5,0.0,de,2
-"Sturmtief ""Detlef","Sturmtief ""Detlef",PER,0.0,0.0,de,2
-Christopher Briney,Christopher Briney,PER,0.5,0.0,de,2
-Nebel Delhi-NCR,Nebel Delhi-NCR,PER,-0.7,0.0,de,2
-Thomas Brodie-Sangster,Thomas Brodie-Sangster,PER,0.0,0.0,de,2
-Buffetts Energieversorger,Buffetts Energieversorger,PER,0.0,0.0,de,2
-Peter Jacksons,Peter Jacksons,PER,1.0,0.0,de,2
-Massimiliano Allegri,Massimiliano Allegri,PER,-0.35,0.0,de,2
-Fisch Cathulith,Fisch Cathulith,PER,0.35,0.0,de,2
+Craig Mazin,Craig Mazin,PER,0.0,0.0,de,2
+Mini Cooper,Mini Cooper,PER,0.0,0.0,de,2
+John August,John August,PER,0.0,0.0,de,2
+Type R,Type R,PER,0.0,0.0,de,2
+Josh O’Connor,Josh O’Connor,PER,-0.15000000000000002,0.0,de,2
+Trans Mountain,Trans Mountain,PER,-0.5,0.0,de,2
+Ian Edwards,Ian Edwards,PER,0.5,0.0,de,2
+Cécile McLorin,Cécile McLorin,PER,0.0,0.0,de,2
+Kevin McKay,Kevin McKay,PER,0.0,0.0,de,2
+Mamata Banerjee,Mamata Banerjee,PER,0.0,0.0,de,2
+Cristiano Ronaldo,Cristiano Ronaldo,PER,0.35,0.0,de,2
+Joe Biden,Joe Biden,PER,0.0,0.0,de,2
+Ferdinand Marcos Jr,Ferdinand Marcos Jr,PER,0.0,0.0,de,2
+Drake Passage,Drake Passage,PER,0.7,0.0,de,2
+Edwin Castro,Edwin Castro,PER,-0.85,0.0,de,2
+Rob Marciano,Rob Marciano,PER,0.0,0.0,de,2
+Jim Morrison,Jim Morrison,PER,-0.5,0.0,de,2
+Taylor Swift,Taylor Swift,PER,0.0,0.0,de,2
+Sean Astin,Sean Astin,PER,0.35,0.0,de,2
+Tim Frost,Tim Frost,PER,0.39999999999999997,0.0,de,2
+Karen Bass,Karen Bass,PER,0.0,0.0,de,2
+Tua Tagovailoa,Tua Tagovailoa,PER,0.0,0.0,de,2
+Alec Baldwins,Alec Baldwins,PER,0.0,0.0,de,2
 Bob Mould,Bob Mould,PER,0.175,0.0,de,2
-Kai Wegner,Kai Wegner,PER,-0.5,0.0,de,2
-Heftiger Sturm,Heftiger Sturm,PER,-0.7,0.0,de,2
-Baba Nanak,Baba Nanak,PER,0.0,0.0,de,2
-Wintersturm Ezra,Wintersturm Ezra,PER,-0.7,0.0,de,2
-Adolf Hitler,Adolf Hitler,PER,0.35,0.0,de,2
+Letitia James,Letitia James,PER,0.0,0.0,de,2
+Tommy Robinson,Tommy Robinson,PER,-0.5,0.0,de,2
+Bremens Umgang,Bremens Umgang,PER,-1.0,0.0,de,2
+Gordon Ramsay Burger,Gordon Ramsay Burger,PER,0.0,0.0,de,2
+Ruth Deidree Boelan,Ruth Deidree Boelan,PER,-0.7,0.0,de,2
+Schnee schippt,Schnee schippt,PER,0.0,0.0,de,2
+Kai Trump,Kai Trump,PER,0.35,0.0,de,2
+Anna Sui,Anna Sui,PER,-0.35,0.0,de,2
+Jamaikas Stromnetz,Jamaikas Stromnetz,PER,0.0,0.0,de,2
+Suryakumar Yadav,Suryakumar Yadav,PER,0.0,0.0,de,2
+Miley Cyrus,Miley Cyrus,PER,0.15000000000000002,0.0,de,2
+Mikie Sherrill,Mikie Sherrill,PER,0.0,0.0,de,2
+Markus Steilemann,Markus Steilemann,PER,0.15000000000000002,0.0,de,2
+Ayesha Curry,Ayesha Curry,PER,-0.35,0.0,de,2
+Montagfrüh Schneeglätte,Montagfrüh Schneeglätte,PER,0.0,0.0,de,2
+Laura Anninger,Laura Anninger,PER,0.0,0.5,de,2
+Smillas Gespür,Smillas Gespür,PER,0.0,0.0,de,2
+Frostiges Paradies,Frostiges Paradies,PER,0.0,0.0,de,2
+Sebastian Ströbel,Sebastian Ströbel,PER,0.0,0.0,de,2
+Räumung von Straßen,Räumung von Straßen,PER,0.0,0.0,de,2
 Markus Söder,Markus Söder,PER,-0.7,0.0,de,2
+"Zwischenfazit zu Sturmtief ""Elli","Zwischenfazit zu Sturmtief ""Elli",PER,0.0,0.0,de,2
+"Sturm ""Elli","Sturm ""Elli",PER,0.0,0.0,de,2
+Glatteis Warnstufe,Glatteis Warnstufe,PER,0.0,0.0,de,2
+Singh Sirsa,Singh Sirsa,PER,-0.5,0.0,de,2
+Jamaikas Regierungschef,Jamaikas Regierungschef,PER,-0.7,0.0,de,2
+Aida Rodriguez,Aida Rodriguez,PER,0.5,0.0,de,2
+Thomas Pandola,Thomas Pandola,PER,-0.1625,0.0,de,2
+Ilya Solovyov,Ilya Solovyov,PER,0.5,0.0,de,2
+Chinas Batteriegiganten,Chinas Batteriegiganten,PER,0.0,0.0,de,2
+John Elwes,John Elwes,PER,0.0,0.0,de,2
+Tayyip Erdogan,Tayyip Erdogan,PER,0.35,0.0,de,2
+Parks Canada,Parks Canada,PER,0.7,0.0,de,2
+George Santos,George Santos,PER,0.0,0.0,de,2
+Charlotte Walker,Charlotte Walker,PER,0.0,0.0,de,2
+Sturmtief „Joshua“,Sturmtief „Joshua“,PER,-0.15000000000000002,0.0,de,2
+Angela Kinsey,Angela Kinsey,PER,0.0,0.0,de,2
+Justina Machado,Justina Machado,PER,0.5,0.0,de,2
+Lukas Gage,Lukas Gage,PER,0.0,0.0,de,2
+Chelsea Clinton,Chelsea Clinton,PER,0.0,0.0,de,2
+Boyd Varty,Boyd Varty,PER,-0.07500000000000001,0.5,de,2
+Catherine Connolly,Catherine Connolly,PER,0.35,0.0,de,2
+Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5,0.0,de,2
+Marco Schwarz,Marco Schwarz,PER,0.7749999999999999,0.0,de,2
+Alexander Schmid,Alexander Schmid,PER,0.35,0.0,de,2
+Zaha Hadids,Zaha Hadids,PER,0.0,0.0,de,2
+Mike Johnson,Mike Johnson,PER,-0.25,0.0,de,2
+turbulentem Jahresstart,turbulentem Jahresstart,PER,0.0,0.0,de,2
+Datuk Seri Anwar Ibrahim,Datuk Seri Anwar Ibrahim,PER,-0.5,0.0,de,2
+Buffetts Energieversorger,Buffetts Energieversorger,PER,0.0,0.0,de,2
+Geological Survey,Geological Survey,PER,0.0,0.0,de,2
+Honolulu Star-Advertiser,Honolulu Star-Advertiser,PER,0.0,0.0,de,2
 Tarun Chugh,Tarun Chugh,PER,-0.5,0.0,de,2
+Shaquille O’Neal,Shaquille O’Neal,PER,0.0,0.0,de,2
+Chuck Norris,Chuck Norris,PER,0.5,0.0,de,2
+Guillermo del Toro,Guillermo del Toro,PER,0.0,0.5,de,2
+Greg Abbott,Greg Abbott,PER,0.0,0.0,de,2
 Anya Taylor-Joy,Anya Taylor-Joy,PER,0.5,0.0,de,2
 Chris Evans,Chris Evans,PER,0.5,0.0,de,2
-David Legates,David Legates,PER,0.0,0.0,de,1
-John Ridgway,John Ridgway,PER,0.0,0.0,de,1
-Warme Ozeane,Warme Ozeane,PER,0.0,0.0,de,1
-Katharina Lucà,Katharina Lucà,PER,-0.35,0.5,de,1
-Conor Sheary,Conor Sheary,PER,0.0,0.0,de,1
-Heike Schimetzek,Heike Schimetzek,PER,0.0,0.0,de,1
-Florentino Perez,Florentino Perez,PER,1.0,0.0,de,1
-Hawaiis Kilauea-Vulkan,Hawaiis Kilauea-Vulkan,PER,0.0,0.0,de,1
-Donald Trumps Nebel,Donald Trumps Nebel,PER,0.0,0.3333333333333333,de,1
-Ayden Heaven,Ayden Heaven,PER,0.15000000000000002,0.0,de,1
-John Lohan,John Lohan,PER,0.0,0.0,de,1
-Samir Kumar Sinha,Samir Kumar Sinha,PER,0.0,0.0,de,1
-Sean Considine,Sean Considine,PER,0.0,0.0,de,1
-Fátima Bosch,Fátima Bosch,PER,1.0,0.0,de,1
-Heike Schimitzek,Heike Schimitzek,PER,-0.7,0.0,de,1
-Fan-Autor Rob Heckingbottom,Fan-Autor Rob Heckingbottom,PER,0.0,0.0,de,1
-Jan Zimmermanns,Jan Zimmermanns,PER,0.0,0.0,de,1
-Geological Su,Geological Su,PER,0.0,0.0,de,1
-Oh oh,Oh oh,PER,0.0,0.0,de,1
-Xylella fastidiosa,Xylella fastidiosa,PER,0.0,0.0,de,1
-Somar Meteorologia,Somar Meteorologia,PER,0.0,0.0,de,1
-Tobias Költzsch,Tobias Költzsch,PER,0.0,0.0,de,1
-Byron-Senior Cadine Considine,Byron-Senior Cadine Considine,PER,0.0,0.0,de,1
-Riesiger Hagel,Riesiger Hagel,PER,0.0,0.0,de,1
-Orange Windwarnungen,Orange Windwarnungen,PER,0.0,0.0,de,1
-Maruarar Sirait,Maruarar Sirait,PER,-0.7,0.0,de,1
-Umstürzender Baum,Umstürzender Baum,PER,0.0,0.0,de,1
-Japans Takaichi,Japans Takaichi,PER,0.0,0.0,de,1
-Hawaiis Kilauea,Hawaiis Kilauea,PER,0.0,0.0,de,1
-Jan Zimmermann Medienberichten,Jan Zimmermann Medienberichten,PER,0.0,0.0,de,1
-Kid Rock,Kid Rock,PER,0.0,0.0,de,1
-George Floyd,George Floyd,PER,-0.7,0.0,de,1
-George Floyd niedergekniet,George Floyd niedergekniet,PER,-0.7,0.0,de,1
-Jimmy Kimmels,Jimmy Kimmels,PER,0.0,0.0,de,1
-Addis Abeba,Addis Abeba,PER,0.0,0.0,de,1
-Bill Maher,Bill Maher,PER,0.0,0.0,de,1
-Jalan Klang,Jalan Klang,PER,0.0,0.0,de,1
-Taman Bukit Maju,Taman Bukit Maju,PER,0.0,0.0,de,1
-schneeglatter Fahrbahn,schneeglatter Fahrbahn,PER,0.0,0.0,de,1
-Carlos Souza,Carlos Souza,PER,0.0,0.0,de,1
-Reaktantenabhängige Vulkantrends,Reaktantenabhängige Vulkantrends,PER,1.0,0.0,de,1
-Trümmer durc,Trümmer durc,PER,0.0,0.0,de,1
-Live-Fotos vom Konzert von Bar Italia,Live-Fotos vom Konzert von Bar Italia,PER,0.0,0.0,de,1
-Ross McKitricks,Ross McKitricks,PER,0.0,0.0,de,1
-YouTuber Zimmermann,YouTuber Zimmermann,PER,-1.0,0.0,de,1
-Lana Zak,Lana Zak,PER,0.0,0.0,de,1
-Lily Gladstone,Lily Gladstone,PER,0.0,0.0,de,1
-Joseph Emerson,Joseph Emerson,PER,0.0,0.0,de,1
-Chinas Brückeneinsturz,Chinas Brückeneinsturz,PER,0.35,0.0,de,1
-Tom Engelhardts,Tom Engelhardts,PER,0.15000000000000002,0.0,de,1
-Dolphin Sands,Dolphin Sands,PER,0.0,0.0,de,1
-Sturm Bram,Sturm Bram,PER,0.7,0.0,de,1
-Yen robust,Yen robust,PER,0.7,0.0,de,1
-Anika Wells,Anika Wells,PER,-0.07500000000000001,0.0,de,1
-Alejo Sarco,Alejo Sarco,PER,0.0,0.0,de,1
-Chaz Smith,Chaz Smith,PER,-1.0,0.0,de,1
-Shah Alam Mautstelle,Shah Alam Mautstelle,PER,0.0,0.0,de,1
-Metro Denver,Metro Denver,PER,0.0,0.0,de,1
-kuscheligem Kaschmir,kuscheligem Kaschmir,PER,0.85,0.0,de,1
-Bath-Center Max Ojomoh,Bath-Center Max Ojomoh,PER,0.0,0.0,de,1
-Fraser Dingwall,Fraser Dingwall,PER,0.0,0.0,de,1
-Bella Casua,Bella Casua,PER,0.0,0.0,de,1
-Nitai Chandra De Sarkar,Nitai Chandra De Sarkar,PER,0.0,0.0,de,1
-Cousine Bella,Cousine Bella,PER,0.0,0.0,de,1
-Wirbelsturms Fina,Wirbelsturms Fina,PER,-1.0,0.0,de,1
-Michael Chaves,Michael Chaves,PER,0.0,0.0,de,1
-Joker da Costa,Joker da Costa,PER,0.0,0.0,de,1
-Cougar XR7-G Hardtop,Cougar XR7-G Hardtop,PER,0.0,0.0,de,1
-Emilio Gonzalez,Emilio Gonzalez,PER,0.0,0.0,de,1
-Eileen Higgins,Eileen Higgins,PER,0.0,0.0,de,1
-Typhoon Lagoon,Typhoon Lagoon,PER,0.0,0.0,de,1
-Pasir Puteh,Pasir Puteh,PER,0.0,0.0,de,1
-Kota Bharu,Kota Bharu,PER,0.0,0.0,de,1
-Chinas Salt Typhoon Hacker Group,Chinas Salt Typhoon Hacker Group,PER,0.0,0.0,de,1
-Brandenburgs Wälder,Brandenburgs Wälder,PER,-1.0,0.0,de,1
-Boris Johnsons,Boris Johnsons,PER,0.0,0.0,de,1
-Belo Horizonte,Belo Horizonte,PER,0.0,0.0,de,1
-Christine Hohwieler,Christine Hohwieler,PER,0.0,0.0,de,1
-Chip Foose,Chip Foose,PER,-0.7,0.0,de,1
-Regierungschefin Takaichi,Regierungschefin Takaichi,PER,-1.0,0.0,de,1
-Bullsbrook-Upper Swan,Bullsbrook-Upper Swan,PER,0.0,0.0,de,1
-Terry Sweatshirt,Terry Sweatshirt,PER,0.0,0.0,de,1
-Daniel Craigs Skyfall Barbour Jacke,Daniel Craigs Skyfall Barbour Jacke,PER,0.0,0.0,de,1
-verheerendem Zyklon,verheerendem Zyklon,PER,-1.0,0.0,de,1
-Ontarios Polizeiwache,Ontarios Polizeiwache,PER,1.0,0.0,de,1
-Ontarios Schneegürtelgemeinden,Ontarios Schneegürtelgemeinden,PER,0.0,1.0,de,1
-Hurrikan Melissa Winds,Hurrikan Melissa Winds,PER,1.0,0.0,de,1
-Doug Meacham,Doug Meacham,PER,0.0,0.0,de,1
-Jeong Riu,Jeong Riu,PER,0.0,0.0,de,1
-Lee Il Jo,Lee Il Jo,PER,-0.15000000000000002,0.0,de,1
-Ebo Noah,Ebo Noah,PER,0.0,0.0,de,1
-Asafa Powell,Asafa Powell,PER,0.7,0.0,de,1
-Sachsens Skigebiete,Sachsens Skigebiete,PER,0.0,0.0,de,1
-Uneiniger Fahrplan,Uneiniger Fahrplan,PER,0.0,0.0,de,1
-Schnee rechnen d,Schnee rechnen d,PER,0.0,0.0,de,1
-Pete Alonso,Pete Alonso,PER,0.0,0.0,de,1
-schmelzendes Eis,schmelzendes Eis,PER,0.7,0.0,de,1
-Salt Typhoon,Salt Typhoon,PER,0.0,0.0,de,1
-Klaus Schwaighofer,Klaus Schwaighofer,PER,0.0,0.0,de,1
-Upper Swan,Upper Swan,PER,0.0,0.0,de,1
-Karl Geiger,Karl Geiger,PER,0.0,0.0,de,1
-Christian Ilzer,Christian Ilzer,PER,0.7,0.0,de,1
-Nnena Kalu,Nnena Kalu,PER,0.7,0.0,de,1
-Frankreichs Pogba,Frankreichs Pogba,PER,0.0,0.0,de,1
-Luigi Mariani,Luigi Mariani,PER,0.0,0.0,de,1
-Donald Trump Juan Orlando Hernandez,Donald Trump Juan Orlando Hernandez,PER,0.0,0.0,de,1
-Zyklon Tracey,Zyklon Tracey,PER,0.0,0.0,de,1
-Eder Sarabia,Eder Sarabia,PER,0.0,0.0,de,1
-Edward Limbaga,Edward Limbaga,PER,0.0,0.0,de,1
-Sicherheitsriskio Limbaga,Sicherheitsriskio Limbaga,PER,0.7,0.0,de,1
-Violeta Gavrilovich,Violeta Gavrilovich,PER,0.0,0.0,de,1
-Andrew Lovitt,Andrew Lovitt,PER,0.7,0.0,de,1
-Gavin Brindley,Gavin Brindley,PER,-0.7,0.0,de,1
-Jim Jordan,Jim Jordan,PER,0.0,0.0,de,1
-Lilli-Marie Hiltscher,Lilli-Marie Hiltscher,PER,0.0,0.0,de,1
-Mexiko Wasser,Mexiko Wasser,PER,0.0,0.0,de,1
-Sprint-Weltmeister Usain Bolt,Sprint-Weltmeister Usain Bolt,PER,0.0,0.0,de,1
-Wang Kelian,Wang Kelian,PER,0.0,0.0,de,1
-Pompejis Untergang,Pompejis Untergang,PER,0.0,0.0,de,1
-Frank Thelen,Frank Thelen,PER,1.0,0.0,de,1
-Leonardo DiCaprio,Leonardo DiCaprio,PER,-1.0,0.0,de,1
-Ptolemäus Mañego,Ptolemäus Mañego,PER,0.0,0.0,de,1
-Jessica Washington,Jessica Washington,PER,-0.7,0.0,de,1
-Claire Nance,Claire Nance,PER,0.0,1.0,de,1
-Gianluca Alimonti,Gianluca Alimonti,PER,0.0,0.0,de,1
-Andy May,Andy May,PER,0.0,0.0,de,1
-Emma Pattee,Emma Pattee,PER,0.0,0.0,de,1
-hochalpin Schneefeld,hochalpin Schneefeld,PER,0.0,0.0,de,1
-Klaus Geßelbauer,Klaus Geßelbauer,PER,0.0,0.0,de,1
-Bram Lastwagen,Bram Lastwagen,PER,-1.0,0.0,de,1
-Muhammad Yunus,Muhammad Yunus,PER,0.0,0.0,de,1
-Zoe Tay,Zoe Tay,PER,0.0,0.0,de,1
-Manoj Sinha,Manoj Sinha,PER,0.0,0.0,de,1
-Guildo Horn,Guildo Horn,PER,0.7,0.0,de,1
-Nasse Haare,Nasse Haare,PER,0.0,0.0,de,1
-wärmender Glühwein,wärmender Glühwein,PER,0.0,0.0,de,1
-Vietnams trockeneres Wetter,Vietnams trockeneres Wetter,PER,0.0,0.0,de,1
-Disney Skyliner,Disney Skyliner,PER,-1.0,0.0,de,1
-Chenyu Zhang,Chenyu Zhang,PER,1.0,0.0,de,1
-Rosie Storey,Rosie Storey,PER,0.0,0.0,de,1
-Rajendra Mahat,Rajendra Mahat,PER,0.0,0.0,de,1
-Cleantech-Unternehmen Kanadas,Cleantech-Unternehmen Kanadas,PER,0.0,0.0,de,1
-Qualifying von Regen,Qualifying von Regen,PER,0.0,0.0,de,1
-Andreas Wellinger,Andreas Wellinger,PER,0.0,0.0,de,1
-Clint Bentley,Clint Bentley,PER,0.0,0.0,de,1
-Ginger Zee,Ginger Zee,PER,0.0,0.0,de,1
-Georg Hackl,Georg Hackl,PER,0.0,0.0,de,1
-Zyklon Tracy Darwin,Zyklon Tracy Darwin,PER,0.7,0.0,de,1
-Andrea Kimi Antonelli,Andrea Kimi Antonelli,PER,-0.3333333333333333,0.0,de,1
-Abdul Ghani,Abdul Ghani,PER,-0.7,0.0,de,1
-Erlebe Meisterwerke,Erlebe Meisterwerke,PER,0.0,0.0,de,1
-Mona Lisa,Mona Lisa,PER,0.0,0.0,de,1
-evakuiertThe Guardian,evakuiertThe Guardian,PER,0.0,0.0,de,1
-Turkey Tracks,Turkey Tracks,PER,0.0,0.0,de,1
-Ruth Manuel,Ruth Manuel,PER,1.0,0.0,de,1
-Schnee schmilzt,Schnee schmilzt,PER,0.0,0.0,de,1
-Präsidialamtschef Jermak,Präsidialamtschef Jermak,PER,0.0,0.0,de,1
-Red Bull,Red Bull,PER,-0.3333333333333333,0.0,de,1
-Kimi Antonelli,Kimi Antonelli,PER,0.0,0.0,de,1
-Benny Blancos,Benny Blancos,PER,-0.7,0.0,de,1
-Rebecca Barth,Rebecca Barth,PER,0.0,0.0,de,1
-Hans-Josef Fell,Hans-Josef Fell,PER,0.0,0.0,de,1
-Indonesiens Flutopfer,Indonesiens Flutopfer,PER,0.0,0.0,de,1
-Kirill Kaprizov,Kirill Kaprizov,PER,-0.2333333333333333,0.0,de,1
-marmorgroßem Hagel,marmorgroßem Hagel,PER,0.7,0.0,de,1
-Mats Zuccarello,Mats Zuccarello,PER,-0.2333333333333333,0.0,de,1
-Matt Boldy,Matt Boldy,PER,-0.2333333333333333,0.0,de,1
-Zahid mahnt,Zahid mahnt,PER,0.0,0.0,de,1
-Andrij Jermaks Kritiker,Andrij Jermaks Kritiker,PER,-0.2333333333333333,0.0,de,1
-Colletotrichum acutatum,Colletotrichum acutatum,PER,0.7,0.0,de,1
-Benny Blanco,Benny Blanco,PER,0.0,0.0,de,1
-Helen Hunt,Helen Hunt,PER,-1.0,0.0,de,1
-Krisha Fairchield,Krisha Fairchield,PER,-1.0,0.0,de,1
-Gemeinschaftsküchen Nahrungsmittelhilfe,Gemeinschaftsküchen Nahrungsmittelhilfe,PER,0.0,0.0,de,1
-Tourengeher von Lawine,Tourengeher von Lawine,PER,0.0,0.0,de,1
-Micah Smith,Micah Smith,PER,0.0,0.0,de,1
-Negri Sembilan,Negri Sembilan,PER,0.0,0.0,de,1
-Barry Franklin,Barry Franklin,PER,0.0,0.0,de,1
-Kate Bilo,Kate Bilo,PER,0.0,0.0,de,1
-Innovatives Waldbrandschutzspray,Innovatives Waldbrandschutzspray,PER,0.0,0.0,de,1
-Hugo Valle,Hugo Valle,PER,0.0,0.0,de,1
-Carl Fabergé,Carl Fabergé,PER,0.0,0.0,de,1
-Nuwara Eliya,Nuwara Eliya,PER,0.0,0.0,de,1
-Nebel al,Nebel al,PER,0.0,0.0,de,1
-Tiny Homes,Tiny Homes,PER,0.5,0.5,de,1
-Srinagar empf,Srinagar empf,PER,0.0,0.0,de,1
-Miriam Margolyes,Miriam Margolyes,PER,0.0,0.0,de,1
-Milder Herbst,Milder Herbst,PER,1.0,0.0,de,1
-Aipers Weihnachtsangeboten,Aipers Weihnachtsangeboten,PER,0.7,0.0,de,1
-Linda Myoki Ryugo Lehrhaupt,Linda Myoki Ryugo Lehrhaupt,PER,1.0,0.0,de,1
-dm-Chef Christoph Werner,dm-Chef Christoph Werner,PER,0.0,0.0,de,1
-Googles Datendrehscheibe,Googles Datendrehscheibe,PER,0.0,1.0,de,1
-Kevin Stefanski,Kevin Stefanski,PER,0.0,0.0,de,1
-Solarpaneele entbündelt,Solarpaneele entbündelt,PER,0.0,0.0,de,1
-Bill Paxton,Bill Paxton,PER,-1.0,0.0,de,1
-TornadoEffect_Pack1 von sunzzs,TornadoEffect_Pack1 von sunzzs,PER,0.0,0.0,de,1
-Dramatische Cattos,Dramatische Cattos,PER,0.06666666666666665,0.26666666666666666,de,1
-Simon Akam,Simon Akam,PER,0.0,0.0,de,1
-Asrul Nizam Apridwson,Asrul Nizam Apridwson,PER,-0.7,0.0,de,1
-LeBron James,LeBron James,PER,0.0,0.0,de,1
-Jayatissa Munasinghe,Jayatissa Munasinghe,PER,-1.0,0.0,de,1
-Trumps erdrutschartigem,Trumps erdrutschartigem,PER,0.7,0.0,de,1
-Landwirtschaftsminister Andi Amran Sulaiman,Landwirtschaftsminister Andi Amran Sulaiman,PER,0.0,0.0,de,1
-Anura Kumara Dissanayake,Anura Kumara Dissanayake,PER,0.0,0.0,de,1
-Max Planck,Max Planck,PER,0.7,0.0,de,1
-sturem Verbrennerverbot,sturem Verbrennerverbot,PER,0.0,0.0,de,1
-Mette Frederiksen,Mette Frederiksen,PER,0.7,0.0,de,1
-Sri Lankas,Sri Lankas,PER,0.0,0.0,de,1
-Ibiza Starkregen,Ibiza Starkregen,PER,0.0,0.0,de,1
-Fortnite Kapitel,Fortnite Kapitel,PER,0.0,0.0,de,1
-Teslas Autopilot-System,Teslas Autopilot-System,PER,0.0,0.0,de,1
-Co trocknen,Co trocknen,PER,0.0,0.0,de,1
-Rekordverdächtiger Wintersturm,Rekordverdächtiger Wintersturm,PER,0.7,0.0,de,1
-Sabine Henkel,Sabine Henkel,PER,0.0,0.0,de,1
-Sage Geosystems,Sage Geosystems,PER,0.0,0.0,de,1
-Mike Seidel,Mike Seidel,PER,0.0,0.0,de,1
-Andrij Jermak,Andrij Jermak,PER,0.0,0.0,de,1
-Wintersturm Chan,Wintersturm Chan,PER,0.0,0.0,de,1
-Melbourne Storm-Star Eli Katoa,Melbourne Storm-Star Eli Katoa,PER,0.7,0.0,de,1
-Earthphase Moonshine,Earthphase Moonshine,PER,0.0,0.0,de,1
-Azlan Shah Cups,Azlan Shah Cups,PER,-1.0,0.0,de,1
-Jacob Tierney,Jacob Tierney,PER,0.0,0.0,de,1
-Rachel Reids Buchreihe,Rachel Reids Buchreihe,PER,0.0,0.0,de,1
-Cameron Highlands,Cameron Highlands,PER,0.0,0.0,de,1
-Tanah Rata,Tanah Rata,PER,0.0,0.0,de,1
-Jacob Brumm,Jacob Brumm,PER,0.0,0.0,de,1
-Kate Middletons,Kate Middletons,PER,-1.0,0.0,de,1
-Molly Malone,Molly Malone,PER,0.0,1.0,de,1
-Azlan Shah,Azlan Shah,PER,0.0,0.0,de,1
-Jugraj Singh,Jugraj Singh,PER,-1.0,0.0,de,1
-Martin Winter,Martin Winter,PER,0.7,0.0,de,1
-Thanksgiving Rekordschnee,Thanksgiving Rekordschnee,PER,-1.0,0.0,de,1
-Gee Atherton,Gee Atherton,PER,1.0,0.0,de,1
-Gee Athertons,Gee Athertons,PER,0.0,0.0,de,1
-Anhänger von Hygge,Anhänger von Hygge,PER,0.0,0.0,de,1
-Kiefer Sherwood,Kiefer Sherwood,PER,0.0,0.0,de,1
-Elyas M’Barek,Elyas M’Barek,PER,0.0,1.0,de,1
-Filippa Coster-Waldau,Filippa Coster-Waldau,PER,0.0,1.0,de,1
-Braunes Gras,Braunes Gras,PER,0.0,0.0,de,1
-Getty Images-Fotografen,Getty Images-Fotografen,PER,0.7,0.0,de,1
-Eli Katoa,Eli Katoa,PER,0.85,0.0,de,1
-Bille Augusts,Bille Augusts,PER,0.0,0.0,de,1
-Thanksgiving Day,Thanksgiving Day,PER,0.6999999999999998,0.0,de,1
-Census Bureau,Census Bureau,PER,0.0,0.0,de,1
-Kreml-Stratege Alexander Dugin,Kreml-Stratege Alexander Dugin,PER,-0.7999999999999999,0.0,de,1
-Vulkans Hayli Gubbi,Vulkans Hayli Gubbi,PER,0.0,0.0,de,1
-Alice Gabriel,Alice Gabriel,PER,0.0,0.0,de,1
-Wab Kinew,Wab Kinew,PER,0.0,0.0,de,1
-Hurrikan Sandy,Hurrikan Sandy,PER,0.0,0.0,de,1
-Brain Fog,Brain Fog,PER,-0.7,0.0,de,1
-Mumbais Dahisar-Bhayandar-Verbindungsstraße,Mumbais Dahisar-Bhayandar-Verbindungsstraße,PER,0.0,0.0,de,1
-Tag zu Tag,Tag zu Tag,PER,-1.0,0.0,de,1
-Scott Wedgewood,Scott Wedgewood,PER,0.0,0.0,de,1
-Barry Boyce,Barry Boyce,PER,0.15000000000000002,0.0,de,1
-Effendi Basyaruddin,Effendi Basyaruddin,PER,-1.0,0.0,de,1
-Ohio Turnpike,Ohio Turnpike,PER,0.7,0.0,de,1
-Zach Schonfeld,Zach Schonfeld,PER,0.0,0.0,de,1
-PJ Haggerty,PJ Haggerty,PER,1.0,0.0,de,1
-Senyar-Sümpfe Sumatra,Senyar-Sümpfe Sumatra,PER,0.0,0.0,de,1
-Josephine Johnsons,Josephine Johnsons,PER,0.0,0.0,de,1
-Lee Joo-bin,Lee Joo-bin,PER,0.7,0.0,de,1
-Tropischer Sturm,Tropischer Sturm,PER,0.7,0.0,de,1
-Lee Joo-bins,Lee Joo-bins,PER,0.0,0.0,de,1
-Mihail Kogălniceanu,Mihail Kogălniceanu,PER,0.0,0.0,de,1
-Iowa Schneehöhen,Iowa Schneehöhen,PER,0.0,1.0,de,1
-Niederösterreichs Skisaison,Niederösterreichs Skisaison,PER,0.0,0.0,de,1
-Schuh Olympia-Ticket,Schuh Olympia-Ticket,PER,0.7,0.0,de,1
-Kalani Sitake,Kalani Sitake,PER,0.0,0.0,de,1
-Karl-Anthony Towns,Karl-Anthony Towns,PER,1.0,0.0,de,1
-Vulkans Kilauea,Vulkans Kilauea,PER,0.0,0.0,de,1
-Trevor Noah,Trevor Noah,PER,0.0,0.0,de,1
-Meister Newport,Meister Newport,PER,0.0,0.0,de,1
-Rezensenten lieben,Rezensenten lieben,PER,1.0,0.0,de,1
-Grayson Moore,Grayson Moore,PER,0.7,0.0,de,1
-Georg Friedrichs,Georg Friedrichs,PER,0.0,0.0,de,1
-Ahmed Abdela,Ahmed Abdela,PER,0.0,0.0,de,1
-hochverarbeitete Lebensmittel,hochverarbeitete Lebensmittel,PER,0.0,0.0,de,1
-Kristian Winfield,Kristian Winfield,PER,1.0,0.0,de,1
-Europas Pestweg,Europas Pestweg,PER,0.0,0.0,de,1
-Agnes Reisch,Agnes Reisch,PER,0.0,0.0,de,1
-Missouri State,Missouri State,PER,0.0,0.0,de,1
-Selangor MB,Selangor MB,PER,0.0,0.0,de,1
-Hurrikans Melissa,Hurrikans Melissa,PER,0.7,0.0,de,1
-Pamela Price,Pamela Price,PER,0.7,0.0,de,1
-Sunmaya Budha,Sunmaya Budha,PER,0.0,0.0,de,1
-Caron Butler,Caron Butler,PER,0.0,0.0,de,1
-Maya Budha,Maya Budha,PER,0.0,0.0,de,1
-Vlad Goldin,Vlad Goldin,PER,0.0,0.0,de,1
-Li Chen,Li Chen,PER,-0.7,0.0,de,1
-LaVell Edwards Stadium,LaVell Edwards Stadium,PER,0.0,0.0,de,1
-Facebook gepostete Fotos,Facebook gepostete Fotos,PER,0.0,0.0,de,1
-Peter Høegs,Peter Høegs,PER,0.0,0.0,de,1
-Tim Cook,Tim Cook,PER,0.0,0.0,de,1
-Industrieminister Agus Gumiwang Kartasasmita,Industrieminister Agus Gumiwang Kartasasmita,PER,0.7,0.0,de,1
-Hayli Gubbis,Hayli Gubbis,PER,0.0,0.0,de,1
-Hokusais grosse Welle der Lust,Hokusais grosse Welle der Lust,PER,0.7,0.0,de,1
-Carsten Schneider,Carsten Schneider,PER,0.0,1.0,de,1
-Jonah Kaplan,Jonah Kaplan,PER,0.0,0.0,de,1
-Jujutsu Kaisen,Jujutsu Kaisen,PER,0.0,0.0,de,1
-Unfallrisiko Alter,Unfallrisiko Alter,PER,0.0,0.0,de,1
-mittelneutralem Leder,mittelneutralem Leder,PER,0.0,0.0,de,1
-Cancun Challenge,Cancun Challenge,PER,0.0,0.0,de,1
-Luke Haertle,Luke Haertle,PER,0.0,0.0,de,1
-Hakainde Hichilema,Hakainde Hichilema,PER,1.0,0.0,de,1
-Sari Bashi,Sari Bashi,PER,0.0,0.0,de,1
-Sam Wylie-Harris,Sam Wylie-Harris,PER,0.0,0.0,de,1
-Supt Sik Choon Foo,Supt Sik Choon Foo,PER,-0.7,0.0,de,1
-Gerard Piqué,Gerard Piqué,PER,0.0,0.0,de,1
-Pos Blau,Pos Blau,PER,-0.7,0.0,de,1
-Jon Cherkas,Jon Cherkas,PER,0.0,1.0,de,1
-Greg Gasataya,Greg Gasataya,PER,0.7,0.0,de,1
-Sarah Tischler,Sarah Tischler,PER,0.0,0.0,de,1
-Gletscher Skifahrer,Gletscher Skifahrer,PER,0.0,0.0,de,1
-Kone Sawng,Kone Sawng,PER,0.0,0.0,de,1
-Julian Nagelsmann,Julian Nagelsmann,PER,0.0,0.0,de,1
-Arch Manning,Arch Manning,PER,0.0,0.0,de,1
-Kurt Hourigan,Kurt Hourigan,PER,-1.0,0.0,de,1
-Patrick Roys Islanders,Patrick Roys Islanders,PER,0.0,0.0,de,1
-Solana von Birkenstock,Solana von Birkenstock,PER,0.0,0.0,de,1
-Stürme Thanksgiving-Reisen,Stürme Thanksgiving-Reisen,PER,-1.0,0.0,de,1
-Dürre Alarmstufe Rot,Dürre Alarmstufe Rot,PER,0.0,0.0,de,1
-Hublot Big Bang Unico Winter Edition Uhren,Hublot Big Bang Unico Winter Edition Uhren,PER,-0.7,0.0,de,1
-Jonathan Alpert,Jonathan Alpert,PER,0.0,0.0,de,1
-Kanadas Wetterwarnsystem,Kanadas Wetterwarnsystem,PER,0.0,0.0,de,1
-Hai Yat,Hai Yat,PER,-0.3333333333333333,0.0,de,1
-Sri Yuni Pardede,Sri Yuni Pardede,PER,0.0,0.0,de,1
-Antigravity A1-Test,Antigravity A1-Test,PER,0.0,0.0,de,1
-Jörg Asmussen,Jörg Asmussen,PER,1.0,0.0,de,1
-Vietnams Klimaschutz,Vietnams Klimaschutz,PER,0.0,0.0,de,1
-Paul Heg,Paul Heg,PER,0.0,0.0,de,1
-GeForce NOW-Benutzer,GeForce NOW-Benutzer,PER,0.0,0.0,de,1
-Koop-Lebenssimulation Young Suns,Koop-Lebenssimulation Young Suns,PER,0.0,0.0,de,1
-Laub rechen,Laub rechen,PER,0.0,1.0,de,1
-Young Suns,Young Suns,PER,-0.7,0.0,de,1
-West-Sumatra Todesopfer,West-Sumatra Todesopfer,PER,-1.0,0.0,de,1
-David Yeomans,David Yeomans,PER,0.0,0.0,de,1
-Steine ​​schleudernde,Steine ​​schleudernde,PER,-0.7,0.0,de,1
-Loewe Wüstenstiefel,Loewe Wüstenstiefel,PER,0.0,0.0,de,1
-Sabihullah Mudschahid,Sabihullah Mudschahid,PER,-0.5,0.5,de,1
-Oliver Spencer,Oliver Spencer,PER,0.0,0.0,de,1
-Miami Hurricane-Unterzeichner,Miami Hurricane-Unterzeichner,PER,0.7,0.0,de,1
-Jalen Duren,Jalen Duren,PER,0.0,0.0,de,1
-Hampstead Heath,Hampstead Heath,PER,0.0,0.0,de,1
-Wer böllert,Wer böllert,PER,0.0,0.0,de,1
-Khursani Khola,Khursani Khola,PER,0.0,0.0,de,1
-Sue Minter,Sue Minter,PER,0.0,0.0,de,1
-Vermonts Klimagesetz,Vermonts Klimagesetz,PER,0.0,0.0,de,1
-David Travis,David Travis,PER,0.7,0.0,de,1
-Delhi AQI,Delhi AQI,PER,-1.0,0.0,de,1
-Richard Pohl,Richard Pohl,PER,-1.0,0.0,de,1
-Nilam Farooq,Nilam Farooq,PER,-1.0,0.0,de,1
-Naima Hamid,Naima Hamid,PER,-1.0,0.0,de,1
-Susie Mullen,Susie Mullen,PER,1.0,0.0,de,1
-Walter de la Nightmare,Walter de la Nightmare,PER,1.0,0.0,de,1
-Somourian Wingo,Somourian Wingo,PER,0.7,0.0,de,1
-Dana Nessel,Dana Nessel,PER,0.0,1.0,de,1
-Europas Beste,Europas Beste,PER,0.0,0.0,de,1
-Vinceroy Jordan,Vinceroy Jordan,PER,-1.0,0.0,de,1
-Kem Ormonds,Kem Ormonds,PER,0.0,0.0,de,1
-Prince Rupert,Prince Rupert,PER,0.7,0.0,de,1
-Haida Gwaii,Haida Gwaii,PER,0.7,0.0,de,1
-Patrick Hotze,Patrick Hotze,PER,-0.15000000000000002,0.0,de,1
-Unleash Protocol,Unleash Protocol,PER,0.0,0.0,de,1
-Valarie Hodges,Valarie Hodges,PER,0.0,0.0,de,1
-David Green,David Green,PER,0.0,0.0,de,1
-Rodin Roohipour,Rodin Roohipour,PER,1.0,0.0,de,1
-Paul Graham,Paul Graham,PER,0.0,0.0,de,1
-Mark Cuban,Mark Cuban,PER,0.0,0.0,de,1
-Nordwestens von Kimberley,Nordwestens von Kimberley,PER,0.7,0.0,de,1
-Norbert Aust,Norbert Aust,PER,0.0,0.0,de,1
-Ranoj Pegu,Ranoj Pegu,PER,0.0,0.0,de,1
-Darts-Superstar van Gerwen,Darts-Superstar van Gerwen,PER,0.0,0.0,de,1
-Star-Quarterback Carson Beck,Star-Quarterback Carson Beck,PER,1.0,0.0,de,1
-Nita Strauss,Nita Strauss,PER,0.3333333333333333,0.0,de,1
-Amit Saar,Amit Saar,PER,0.0,0.0,de,1
-Quarterback Carson,Quarterback Carson,PER,0.0,0.0,de,1
-Frank Lampards,Frank Lampards,PER,0.0,0.0,de,1
-Graham Potters,Graham Potters,PER,0.0,0.0,de,1
-Dharmendra Pradhan,Dharmendra Pradhan,PER,0.7,0.0,de,1
-Walter Payton,Walter Payton,PER,0.0,0.0,de,1
-Travis Kelce,Travis Kelce,PER,0.0,0.0,de,1
-Commander Sampath,Commander Sampath,PER,-0.7,0.0,de,1
-Harini Amarasuriya,Harini Amarasuriya,PER,-0.7,0.0,de,1
-Nathan MacKinnons,Nathan MacKinnons,PER,0.0,0.0,de,1
-Delhi von,Delhi von,PER,-0.7,0.0,de,1
-Aceh Besar,Aceh Besar,PER,0.0,0.0,de,1
-Ohio State lieben,Ohio State lieben,PER,1.0,0.0,de,1
-Saifullah Yusuf,Saifullah Yusuf,PER,-0.7,0.0,de,1
-Zwift Ride,Zwift Ride,PER,0.0,0.0,de,1
-Dave Hyde,Dave Hyde,PER,0.5,0.0,de,1
-Julian Sayin,Julian Sayin,PER,0.0,0.0,de,1
-Keionte Scott,Keionte Scott,PER,1.0,0.0,de,1
-Lee Manning,Lee Manning,PER,0.0,0.0,de,1
-Wikimedia Commons,Wikimedia Commons,PER,0.0,0.0,de,1
-Keith Schengili-Roberts,Keith Schengili-Roberts,PER,0.0,0.0,de,1
-Pete Buttigieg,Pete Buttigieg,PER,0.0,0.0,de,1
-Pete im Jahr,Pete im Jahr,PER,0.0,0.0,de,1
-Hair Gel,Hair Gel,PER,0.0,0.0,de,1
-Tim Gruber,Tim Gruber,PER,0.0,0.0,de,1
-Thomas Magnuson,Thomas Magnuson,PER,0.0,0.0,de,1
-Abigail Merchant,Abigail Merchant,PER,-0.7,0.0,de,1
-Jorge García Dihinx,Jorge García Dihinx,PER,0.7,0.0,de,1
-Lawine reißt Bergsport-Influencer,Lawine reißt Bergsport-Influencer,PER,0.0,0.0,de,1
-Chris Forschungsergebnisse,Chris Forschungsergebnisse,PER,0.85,0.0,de,1
-Korinna Schumann,Korinna Schumann,PER,0.7,0.0,de,1
-Delhis Luft,Delhis Luft,PER,0.0,0.0,de,1
-Montag Orange-Alarm,Montag Orange-Alarm,PER,-0.7,0.0,de,1
-Ryan Searle,Ryan Searle,PER,-0.7,0.0,de,1
-Botanic Tonics,Botanic Tonics,PER,0.0,0.0,de,1
-Sturm Johannes,Sturm Johannes,PER,0.0,0.0,de,1
-Wintersturm Johannes,Wintersturm Johannes,PER,0.0,0.0,de,1
-Alby Churven,Alby Churven,PER,0.0,0.0,de,1
-Taiwan Semiconductor Manufacturing Co,Taiwan Semiconductor Manufacturing Co,PER,0.0,0.0,de,1
-entdecken Energiequelle,entdecken Energiequelle,PER,0.0,0.0,de,1
-Frostiges Wetter,Frostiges Wetter,PER,0.0,0.0,de,1
-Ozan Akkoyun,Ozan Akkoyun,PER,0.85,0.0,de,1
-Ali Bauman,Ali Bauman,PER,0.0,0.0,de,1
-verspätetDer Hil,verspätetDer Hil,PER,-0.7,0.0,de,1
-Schneereichster Wintersturm,Schneereichster Wintersturm,PER,0.0,0.0,de,1
-Mary Davis,Mary Davis,PER,0.0,0.0,de,1
-Chip-Riese TSMC,Chip-Riese TSMC,PER,0.7,0.0,de,1
-Verborgene Hitze,Verborgene Hitze,PER,-0.7,0.0,de,1
-Küste von Yilan,Küste von Yilan,PER,-0.7,0.0,de,1
-Samstagabend Taiwan,Samstagabend Taiwan,PER,0.7,0.0,de,1
-Keleigh Teller,Keleigh Teller,PER,0.0,0.0,de,1
-Tahesha Way,Tahesha Way,PER,0.0,0.0,de,1
-David Smith,David Smith,PER,-0.7,0.0,de,1
-Lars Feld,Lars Feld,PER,0.0,0.0,de,1
-Eagles Prognose,Eagles Prognose,PER,0.0,0.0,de,1
-Andreas Voßkuhle,Andreas Voßkuhle,PER,0.15000000000000002,0.0,de,1
-Juli Zeh,Juli Zeh,PER,0.0,0.0,de,1
-Athanasios Diakos,Athanasios Diakos,PER,0.0,0.0,de,1
-Zavian Colón,Zavian Colón,PER,0.0,0.0,de,1
-Entführung von Hanns Martin Schleyer,Entführung von Hanns Martin Schleyer,PER,0.0,0.0,de,1
-Hanns Martin Schleyer,Hanns Martin Schleyer,PER,0.0,0.0,de,1
-Gerard Croiset,Gerard Croiset,PER,0.0,0.0,de,1
-Sonne Autofahrer,Sonne Autofahrer,PER,0.7,0.0,de,1
-HHH Buchtag,HHH Buchtag,PER,0.0,0.0,de,1
-Reuters Wintersturm Ezra,Reuters Wintersturm Ezra,PER,0.0,1.0,de,1
-Riesiger Schneesturm,Riesiger Schneesturm,PER,0.0,0.0,de,1
-kabellosem Akku von Greenworks,kabellosem Akku von Greenworks,PER,0.7,0.0,de,1
-kabellosem Akku,kabellosem Akku,PER,0.7,0.0,de,1
-Einhundertachtzehn Flüge,Einhundertachtzehn Flüge,PER,0.0,0.0,de,1
-Kim Jae Yeong,Kim Jae Yeong,PER,0.7,0.0,de,1
-Natalia Román,Natalia Román,PER,1.0,0.0,de,1
-Jorge García-Dihinx,Jorge García-Dihinx,PER,1.0,0.0,de,1
-Influencer Jorge Garcia-Dihinx,Influencer Jorge Garcia-Dihinx,PER,0.0,0.0,de,1
-CarbonSignal Widebody,CarbonSignal Widebody,PER,0.0,0.0,de,1
-Andrea Adams-Miller,Andrea Adams-Miller,PER,0.0,1.0,de,1
-Sabrina Carpenter,Sabrina Carpenter,PER,-0.7,0.0,de,1
-Keelan Marion,Keelan Marion,PER,0.7,0.0,de,1
-Silvester Schnee,Silvester Schnee,PER,-1.0,0.0,de,1
-Zyklon Hayley,Zyklon Hayley,PER,0.0,0.0,de,1
-Olli Pocher,Olli Pocher,PER,0.0,0.0,de,1
-Pochers Endlos-Reise,Pochers Endlos-Reise,PER,0.0,0.0,de,1
-Jordan Marshalls,Jordan Marshalls,PER,0.0,0.0,de,1
-Robert Steiger,Robert Steiger,PER,0.0,0.0,de,1
-Amerikas Lebensmittelbanken,Amerikas Lebensmittelbanken,PER,0.0,0.0,de,1
-Santini Alpha,Santini Alpha,PER,0.0,0.0,de,1
-Filly Mangassa Erdnusspflanzen,Filly Mangassa Erdnusspflanzen,PER,0.7,0.0,de,1
-Oszkár Nagyapáti,Oszkár Nagyapáti,PER,0.0,0.0,de,1
-Uta Eser,Uta Eser,PER,0.0,0.0,de,1
-Mammoth Mountain,Mammoth Mountain,PER,1.0,0.0,de,1
-Benjamin Netanyahu,Benjamin Netanyahu,PER,0.0,0.0,de,1
-Josh Villalta,Josh Villalta,PER,0.7,0.0,de,1
-Michael van Gerwen,Michael van Gerwen,PER,0.7,0.0,de,1
-Israel Palästinenser,Israel Palästinenser,PER,-1.0,0.0,de,1
-C Hitze,C Hitze,PER,0.35,0.5,de,1
-Noah Tierpaare,Noah Tierpaare,PER,0.0,0.0,de,1
-Mario Cristobal,Mario Cristobal,PER,0.0,0.0,de,1
-gefrorenes Spielfeld,gefrorenes Spielfeld,PER,0.0,0.0,de,1
-Ilya Rozanov,Ilya Rozanov,PER,0.0,0.0,de,1
-Shane Hollander,Shane Hollander,PER,0.0,0.0,de,1
-Lee Stalker,Lee Stalker,PER,0.0,0.0,de,1
-Ian Shoemaker,Ian Shoemaker,PER,0.0,0.0,de,1
-Diane Sawyer,Diane Sawyer,PER,0.0,0.0,de,1
-Jimmy Fallon,Jimmy Fallon,PER,0.7,0.0,de,1
-Hudson Williams,Hudson Williams,PER,0.7,0.0,de,1
-Chris Scott Thomason,Chris Scott Thomason,PER,-0.15000000000000002,0.0,de,1
-Jack Osbourne,Jack Osbourne,PER,0.0,0.0,de,1
-Jack Osbournes Prepper-Lebensstil,Jack Osbournes Prepper-Lebensstil,PER,0.0,0.0,de,1
-Bürgermeisterin Karen Bass,Bürgermeisterin Karen Bass,PER,-1.0,0.0,de,1
-Sturmtief »Elli,Sturmtief »Elli,PER,-1.0,0.0,de,1
-Kikkeri Krishnamurthy,Kikkeri Krishnamurthy,PER,-0.15000000000000002,0.0,de,1
-Tigers Jaw,Tigers Jaw,PER,0.0,0.0,de,1
-Anthony Edwards,Anthony Edwards,PER,0.0,0.0,de,1
-Tief „Elli“,Tief „Elli“,PER,-0.5,0.5,de,1
-Teresito Bacolcol,Teresito Bacolcol,PER,0.0,0.0,de,1
-Westeuropa von Schnee,Westeuropa von Schnee,PER,0.0,0.0,de,1
-Wendy Marshall,Wendy Marshall,PER,0.85,0.0,de,1
-Sweater Weather Steals,Sweater Weather Steals,PER,0.0,0.0,de,1
-Ankita Bhandari,Ankita Bhandari,PER,-0.15000000000000002,0.0,de,1
-Andrei Svechnikov,Andrei Svechnikov,PER,0.7,0.0,de,1
-Logan Stankoven,Logan Stankoven,PER,0.7,0.0,de,1
-PAUL MATLI The Astorian,PAUL MATLI The Astorian,PER,-1.0,0.0,de,1
-Aire Serv,Aire Serv,PER,0.7,0.0,de,1
-Droht Absage,Droht Absage,PER,-1.0,0.0,de,1
-Wetterexpertin Charlotte Maihoff,Wetterexpertin Charlotte Maihoff,PER,0.0,0.0,de,1
-Andrew Napoleone,Andrew Napoleone,PER,-0.7,0.0,de,1
-Indores Spitzenbeamte,Indores Spitzenbeamte,PER,0.0,0.0,de,1
-Zugefrorene Spielfelder,Zugefrorene Spielfelder,PER,-1.0,0.0,de,1
-Rob Wilding,Rob Wilding,PER,0.0,0.0,de,1
-Sturm Elli,Sturm Elli,PER,0.0,0.0,de,1
-Sue Henry,Sue Henry,PER,0.7,0.0,de,1
-Welle hochaufgeladener Hurrikane,Welle hochaufgeladener Hurrikane,PER,0.0,0.0,de,1
-Quiz des Tages,Quiz des Tages,PER,-1.0,0.0,de,1
-Niedersachsens Landesregierung,Niedersachsens Landesregierung,PER,0.0,0.0,de,1
-Teile Hessens,Teile Hessens,PER,0.0,0.0,de,1
-Alexander Hildebrandt,Alexander Hildebrandt,PER,-0.7,0.0,de,1
-Schlösserland Sachsen,Schlösserland Sachsen,PER,-0.7,0.0,de,1
-"Wintersturmfront ""Elli","Wintersturmfront ""Elli",PER,-0.7,0.0,de,1
-Pushyamitra Bhargav,Pushyamitra Bhargav,PER,0.0,0.0,de,1
-Shivam Verma,Shivam Verma,PER,0.0,0.0,de,1
-Jason Schreier von Bloomberg,Jason Schreier von Bloomberg,PER,0.0,0.0,de,1
-CDU-Chef Hagel,CDU-Chef Hagel,PER,0.7,0.0,de,1
-Dan Hay,Dan Hay,PER,0.0,0.0,de,1
-Meteorologen Warnungen von Großbritannien,Meteorologen Warnungen von Großbritannien,PER,0.0,0.0,de,1
-Molly Roberts,Molly Roberts,PER,0.0,0.0,de,1
-Natalie Orpett,Natalie Orpett,PER,0.0,0.0,de,1
-Benjamin Wittes,Benjamin Wittes,PER,0.0,0.0,de,1
-Vorsicht + Streusalz,Vorsicht + Streusalz,PER,0.0,0.0,de,1
-Verkehrsminister mahnt,Verkehrsminister mahnt,PER,0.0,0.0,de,1
-Philip Raillon,Philip Raillon,PER,0.0,0.0,de,1
-Alena Lagmöller,Alena Lagmöller,PER,0.0,0.0,de,1
-instabilem Schnee,instabilem Schnee,PER,0.0,0.0,de,1
-Gesundheitsminister Philippi,Gesundheitsminister Philippi,PER,0.0,0.0,de,1
-Tief Elli,Tief Elli,PER,0.0,0.0,de,1
-Laura Wontorras Traum-Urlaub,Laura Wontorras Traum-Urlaub,PER,0.0,0.0,de,1
-Tracey D’Ambrosia,Tracey D’Ambrosia,PER,0.7,0.0,de,1
-HVAC-Expertin Tracey D’Ambrosia,HVAC-Expertin Tracey D’Ambrosia,PER,0.7,0.0,de,1
-Schmelzendes Eis,Schmelzendes Eis,PER,0.0,0.0,de,1
-Ghanaer „Noah,Ghanaer „Noah,PER,0.0,0.0,de,1
-Ted Koerner,Ted Koerner,PER,-0.7,0.0,de,1
-Venezuelas Maduro,Venezuelas Maduro,PER,0.7,0.0,de,1
-Tudun Wada,Tudun Wada,PER,0.0,0.0,de,1
-Fred Meyer e,Fred Meyer e,PER,0.0,1.0,de,1
-ausLAist Wochenendsturm,ausLAist Wochenendsturm,PER,0.7,0.0,de,1
-Madalyn Bucy,Madalyn Bucy,PER,0.0,0.0,de,1
-Alleganys Madalyn Bucy,Alleganys Madalyn Bucy,PER,0.0,0.0,de,1
-Craig Brewer,Craig Brewer,PER,1.0,0.0,de,1
-Michael Jordan,Michael Jordan,PER,0.85,0.0,de,1
-Mohamed Salah,Mohamed Salah,PER,0.0,0.0,de,1
-Mo Salah,Mo Salah,PER,1.0,0.0,de,1
-Jean Grey,Jean Grey,PER,-1.0,0.0,de,1
-Michael Snyder,Michael Snyder,PER,0.7,0.0,de,1
-Marsmond Phobos,Marsmond Phobos,PER,-1.0,0.0,de,1
-Philly Today,Philly Today,PER,0.0,0.0,de,1
-Dry January,Dry January,PER,1.0,0.0,de,1
-Boreham Wood,Boreham Wood,PER,0.0,0.0,de,1
-Doug Varty,Doug Varty,PER,0.0,0.0,de,1
-Hessens Skigebiete,Hessens Skigebiete,PER,0.85,0.0,de,1
-Helena Valley,Helena Valley,PER,0.0,0.0,de,1
-Barbara Breuer,Barbara Breuer,PER,-1.0,0.0,de,1
-Kältebus von Obdachlosenhilfe,Kältebus von Obdachlosenhilfe,PER,0.0,0.0,de,1
-Revanth Reddy,Revanth Reddy,PER,-1.0,0.0,de,1
-Edouard Beigbeder,Edouard Beigbeder,PER,-0.7,0.0,de,1
-Valdek MikliDiese,Valdek MikliDiese,PER,0.0,0.0,de,1
-Martin Jantson,Martin Jantson,PER,0.0,0.0,de,1
-RSC Adv,RSC Adv,PER,0.0,0.0,de,1
-saccharoseunterstütztes reduktives Rösten,saccharoseunterstütztes reduktives Rösten,PER,0.0,0.0,de,1
-Altadena von Flammen,Altadena von Flammen,PER,-0.7,0.0,de,1
-Nicolas Maduro,Nicolas Maduro,PER,0.0,0.0,de,1
-Nicolás Maduro,Nicolás Maduro,PER,0.0,0.0,de,1
-Eis breit,Eis breit,PER,0.5,0.5,de,1
-Wanda Batten,Wanda Batten,PER,-0.85,0.0,de,1
-Jupiters Mond,Jupiters Mond,PER,0.0,0.0,de,1
-Jamie Siminoffs,Jamie Siminoffs,PER,0.0,0.0,de,1
-Japans Chugoku-Region,Japans Chugoku-Region,PER,0.7,0.0,de,1
-Europas schneefreier Winter,Europas schneefreier Winter,PER,0.0,0.0,de,1
-Japans Chugoku-RegionReuters,Japans Chugoku-RegionReuters,PER,0.7,0.0,de,1
-Brad Nitz,Brad Nitz,PER,-0.85,0.0,de,1
-Metro Vancouver,Metro Vancouver,PER,0.7,0.0,de,1
-Muhammad Tito Karnavian,Muhammad Tito Karnavian,PER,0.0,0.0,de,1
-It“-Schöpfer Dustin Ballard,It“-Schöpfer Dustin Ballard,PER,0.0,0.0,de,1
-​​und Naturkatastrophen,​​und Naturkatastrophen,PER,-1.0,0.0,de,1
-Lindsey Buckingham,Lindsey Buckingham,PER,-1.0,0.0,de,1
-Mike Ybarra,Mike Ybarra,PER,1.0,0.0,de,1
-Taty Castellanos,Taty Castellanos,PER,0.0,0.0,de,1
-West Ham,West Ham,PER,0.0,0.0,de,1
-Davide Ancelotti,Davide Ancelotti,PER,0.925,0.0,de,1
-Elizabeth Tomasino,Elizabeth Tomasino,PER,0.0,0.0,de,1
-Tom Collins,Tom Collins,PER,0.0,0.0,de,1
-Nicola Twilley,Nicola Twilley,PER,0.0,0.0,de,1
-José Cárdenas,José Cárdenas,PER,0.0,0.0,de,1
-Yihan Pan,Yihan Pan,PER,0.0,0.0,de,1
-West-North Carolina,West-North Carolina,PER,-1.0,0.0,de,1
-ernst meinen,ernst meinen,PER,0.0,0.0,de,1
-Katie Miller,Katie Miller,PER,0.0,0.0,de,1
-Trumps Beraterin,Trumps Beraterin,PER,0.0,0.0,de,1
-Chainsaw Man,Chainsaw Man,PER,0.85,0.0,de,1
-Martin Pscherer,Martin Pscherer,PER,0.0,0.0,de,1
-War Glätte,War Glätte,PER,0.0,0.0,de,1
-Storms Snarl Travel,Storms Snarl Travel,PER,0.0,0.0,de,1
-motorisiertem Propeller,motorisiertem Propeller,PER,0.0,0.0,de,1
-Warren Haynes,Warren Haynes,PER,0.0,0.0,de,1
-Michael Bensons Nanocosmos,Michael Bensons Nanocosmos,PER,0.0,0.0,de,1
-Dan Colmenares von Aputure,Dan Colmenares von Aputure,PER,0.0,0.0,de,1
-Jeannette Jara,Jeannette Jara,PER,-0.7,0.0,de,1
-Nebel Verspätungen,Nebel Verspätungen,PER,-0.85,0.0,de,1
-Marokkos Safi,Marokkos Safi,PER,0.0,0.0,de,1
-Reiz von Hanfbettwäsche,Reiz von Hanfbettwäsche,PER,0.7,0.0,de,1
-Santosh Pathak,Santosh Pathak,PER,0.0,0.0,de,1
-Sanjay Saraogi,Sanjay Saraogi,PER,0.0,0.0,de,1
-Maria Kolesnikowa,Maria Kolesnikowa,PER,0.85,0.0,de,1
-Ales Bialiatski,Ales Bialiatski,PER,0.85,0.0,de,1
-Maggie Rose,Maggie Rose,PER,0.0,0.0,de,1
-Daniel Donato,Daniel Donato,PER,0.0,0.0,de,1
-MJ Lenderman,MJ Lenderman,PER,0.0,0.0,de,1
-Arnov Sharma,Arnov Sharma,PER,1.0,0.0,de,1
-Nico Schlotterbeck,Nico Schlotterbeck,PER,-1.0,0.0,de,1
-Jose Antonio Kast,Jose Antonio Kast,PER,0.0,0.0,de,1
-Roman Storm,Roman Storm,PER,0.0,0.0,de,1
-Martin Schwienbacher,Martin Schwienbacher,PER,0.0,0.0,de,1
-Michael Manns Räuber-gegen-Polizisten-Epos,Michael Manns Räuber-gegen-Polizisten-Epos,PER,1.0,0.0,de,1
-Rob Reiner,Rob Reiner,PER,1.0,0.0,de,1
-Emmanuel Macron,Emmanuel Macron,PER,0.0,0.0,de,1
-Vessel of Hatred-SKUs,Vessel of Hatred-SKUs,PER,-0.85,0.0,de,1
-Monique Rainvilles,Monique Rainvilles,PER,0.0,0.0,de,1
-Indonesiens Ministerien,Indonesiens Ministerien,PER,0.0,0.0,de,1
-Safak Okur,Safak Okur,PER,0.0,0.0,de,1
-Lionel Messi,Lionel Messi,PER,-0.7,0.0,de,1
-Shah Kotla Stadium,Shah Kotla Stadium,PER,0.0,0.0,de,1
-Jamaica Strong Hurricane Melissa Relief Benefizkonzert,Jamaica Strong Hurricane Melissa Relief Benefizkonzert,PER,0.0,0.0,de,1
-Balis Katastrophenschutzbehörde,Balis Katastrophenschutzbehörde,PER,0.0,0.0,de,1
-Rajaa Musleh,Rajaa Musleh,PER,-1.0,0.0,de,1
-nassester Weihnachtsfeiertag,nassester Weihnachtsfeiertag,PER,0.0,1.0,de,1
-Arc Raiders-Spieler,Arc Raiders-Spieler,PER,0.0,0.0,de,1
-Good Charlotte,Good Charlotte,PER,0.0,0.0,de,1
-Avenged Sevenfold,Avenged Sevenfold,PER,0.0,0.0,de,1
-Hurrikane Kohlenstoff,Hurrikane Kohlenstoff,PER,1.0,0.0,de,1
-Aaron Blake,Aaron Blake,PER,0.0,0.0,de,1
-August Wollmäntel,August Wollmäntel,PER,0.0,0.0,de,1
-Reggie Dinkins,Reggie Dinkins,PER,0.0,0.0,de,1
-Vanity Fair,Vanity Fair,PER,0.85,0.0,de,1
-Leon Festingers,Leon Festingers,PER,0.0,0.0,de,1
-Arkansas-Pine Bluff,Arkansas-Pine Bluff,PER,0.0,0.0,de,1
-Clay-Maske von Pond,Clay-Maske von Pond,PER,0.0,0.0,de,1
-Mohammed Khalil Abu al-Khair,Mohammed Khalil Abu al-Khair,PER,-0.7,0.0,de,1
-​​Arshdeep Masih,​​Arshdeep Masih,PER,0.0,0.0,de,1
-Sunil Masih,Sunil Masih,PER,0.0,0.0,de,1
-Gaite Jansen,Gaite Jansen,PER,0.0,0.0,de,1
-Pilz Cryptococcus neoformans,Pilz Cryptococcus neoformans,PER,0.0,0.0,de,1
-Wotan Wilke Möhring,Wotan Wilke Möhring,PER,1.0,0.0,de,1
-Lena Dürr,Lena Dürr,PER,0.0,0.0,de,1
-Emma Aicher,Emma Aicher,PER,0.7,0.0,de,1
-Ronald Wallace,Ronald Wallace,PER,0.7,0.0,de,1
-Denise Celis,Denise Celis,PER,0.7,0.0,de,1
-Wütende Skifahrer,Wütende Skifahrer,PER,-1.0,0.0,de,1
-Nierensteine ​​sind,Nierensteine ​​sind,PER,-0.15000000000000002,0.0,de,1
-Xcel Energy-Einheit,Xcel Energy-Einheit,PER,-1.0,0.0,de,1
-Trumps Verleumdungsklage,Trumps Verleumdungsklage,PER,0.7,0.0,de,1
-Thomas B,Thomas B,PER,0.0,0.0,de,1
-Cold Snap-Update,Cold Snap-Update,PER,0.0,0.0,de,1
-Arc Raiders Gathering Candleberries Event,Arc Raiders Gathering Candleberries Event,PER,0.0,0.0,de,1
-Mack Hollins,Mack Hollins,PER,0.0,0.0,de,1
-Joseph Oduro,Joseph Oduro,PER,0.0,0.0,de,1
-Woeful Pacers,Woeful Pacers,PER,-0.35,0.5,de,1
-Classic-Erweiterung Mists of Pandaria Classic,Classic-Erweiterung Mists of Pandaria Classic,PER,0.0,0.0,de,1
-Rekordwarme Temperaturen,Rekordwarme Temperaturen,PER,0.0,0.0,de,1
-Muriel Bowser,Muriel Bowser,PER,0.0,0.0,de,1
-Celsius kühl,Celsius kühl,PER,-0.2333333333333333,0.43333333333333335,de,1
-Isaac Williams,Isaac Williams,PER,0.0,0.0,de,1
-Yoon Myat Su Lin,Yoon Myat Su Lin,PER,0.0,1.0,de,1
-Mark Warner,Mark Warner,PER,0.7,0.0,de,1
-Chuck Horning,Chuck Horning,PER,-1.0,0.0,de,1
-Gages Slough,Gages Slough,PER,0.0,0.0,de,1
-Sarah Keith-Lucas,Sarah Keith-Lucas,PER,0.0,0.0,de,1
-Alexander Schweizer,Alexander Schweizer,PER,0.0,0.0,de,1
-Martin Fourcade Gegenwind,Martin Fourcade Gegenwind,PER,0.0,0.0,de,1
-Julia Simon,Julia Simon,PER,0.0,0.0,de,1
-Amizia Renotte,Amizia Renotte,PER,0.7,0.0,de,1
-Annona squamosa,Annona squamosa,PER,0.0,0.0,de,1
-María Corina Machado,María Corina Machado,PER,-0.7,0.0,de,1
-Dora Herbst,Dora Herbst,PER,-1.0,0.0,de,1
-Ungeheuerlicher Wintersturm,Ungeheuerlicher Wintersturm,PER,-1.0,0.0,de,1
-Ski Alpin,Ski Alpin,PER,0.0,0.0,de,1
-Stellios Boutaris,Stellios Boutaris,PER,0.0,0.0,de,1
-Yiannis Boutaris,Yiannis Boutaris,PER,0.0,0.0,de,1
-Weinbauer Stratos Guillame Xyrafis,Weinbauer Stratos Guillame Xyrafis,PER,0.0,0.0,de,1
-Japans Mega-Bebenwarnung,Japans Mega-Bebenwarnung,PER,0.7,0.0,de,1
-ausgegebenAl Jazeera,ausgegebenAl Jazeera,PER,0.7,0.0,de,1
-Brandon Bussi,Brandon Bussi,PER,0.7,0.0,de,1
-Japans Nordostregion,Japans Nordostregion,PER,0.7,0.0,de,1
-Colorado Avalanche,Colorado Avalanche,PER,0.0,0.0,de,1
-Aba Shaul,Aba Shaul,PER,-0.7,0.0,de,1
-vermisstem Mann,vermisstem Mann,PER,-0.7,0.0,de,1
-Mark Mudie,Mark Mudie,PER,-0.15000000000000002,0.0,de,1
-Chinchillas h,Chinchillas h,PER,-1.0,0.0,de,1
-Samanta Schweblin,Samanta Schweblin,PER,0.0,0.0,de,1
-Marion Poschmann,Marion Poschmann,PER,0.0,0.0,de,1
-Googles DeepMind,Googles DeepMind,PER,0.0,0.0,de,1
-Kate Hudson Mike,Kate Hudson Mike,PER,1.0,0.0,de,1
-McKenna Woliczko,McKenna Woliczko,PER,0.0,0.0,de,1
-David Enns,David Enns,PER,0.0,0.0,de,1
-Erik Haula,Erik Haula,PER,-1.0,0.0,de,1
-Valeri Nichushkins,Valeri Nichushkins,PER,-1.0,0.0,de,1
-High-Stick Streit,High-Stick Streit,PER,0.7,0.0,de,1
-Nicole Valdes,Nicole Valdes,PER,0.0,1.0,de,1
-Diana Lokenvitz,Diana Lokenvitz,PER,0.0,0.0,de,1
-Duane Arnold,Duane Arnold,PER,0.0,0.0,de,1
-Avalanche vs,Avalanche vs,PER,0.0,0.0,de,1
-Oliverio Quira,Oliverio Quira,PER,0.0,0.0,de,1
-Kevin Henderson,Kevin Henderson,PER,-0.7,0.0,de,1
-Dezember Skigebiete,Dezember Skigebiete,PER,-1.0,0.0,de,1
-Van Giesen,Van Giesen,PER,0.0,0.0,de,1
-Stanley vs,Stanley vs,PER,0.0,0.0,de,1
-Meister der Libertadores,Meister der Libertadores,PER,0.0,0.0,de,1
-Zuby Ejiofor,Zuby Ejiofor,PER,0.0,0.0,de,1
-Oziyah Sellers,Oziyah Sellers,PER,0.0,0.0,de,1
-Alfred Dunhill Championship,Alfred Dunhill Championship,PER,0.0,0.0,de,1
-Tom Paxton,Tom Paxton,PER,0.0,0.0,de,1
-Prasetyo Hadi,Prasetyo Hadi,PER,-0.7,0.0,de,1
-Stefanie Markert,Stefanie Markert,PER,0.0,0.0,de,1
-Ragnar Jónasson,Ragnar Jónasson,PER,0.7,0.0,de,1
-Klaus-Peter Wolf,Klaus-Peter Wolf,PER,0.7,0.0,de,1
-David Safier,David Safier,PER,0.7,0.0,de,1
-Alexandra Benedict,Alexandra Benedict,PER,0.7,0.0,de,1
-Thomas Kielhorn,Thomas Kielhorn,PER,0.7,0.0,de,1
-Pedro Sanchez,Pedro Sanchez,PER,0.0,0.0,de,1
-Gary Clemons,Gary Clemons,PER,0.7,0.0,de,1
-Calvin Leach,Calvin Leach,PER,0.7,0.0,de,1
-Susil Ranasinghe,Susil Ranasinghe,PER,0.7,0.0,de,1
-Christiane Justus,Christiane Justus,PER,0.0,0.0,de,1
-Indonesiens Provinz Banda Aceh,Indonesiens Provinz Banda Aceh,PER,0.0,0.0,de,1
-Matt Henry,Matt Henry,PER,0.0,0.0,de,1
-Kyle Jamieson,Kyle Jamieson,PER,0.0,0.0,de,1
-Mitchell Santner,Mitchell Santner,PER,0.0,0.0,de,1
-Erfahrungsbasierte Wahrnehmungen,Erfahrungsbasierte Wahrnehmungen,PER,0.0,0.0,de,1
-Scott Wedgewood von Avalanche,Scott Wedgewood von Avalanche,PER,0.0,0.0,de,1
-Nebel Massenkarambolage,Nebel Massenkarambolage,PER,0.0,0.0,de,1
-REIT Americold,REIT Americold,PER,0.0,0.0,de,1
-Aktivistischer Investor,Aktivistischer Investor,PER,-0.7,0.0,de,1
-Quebec Schnee,Quebec Schnee,PER,1.0,0.0,de,1
-Mary Clare,Mary Clare,PER,0.0,0.0,de,1
-Nacho Figueras,Nacho Figueras,PER,0.0,0.0,de,1
-Susanne Arndt,Susanne Arndt,PER,1.0,0.0,de,1
-Juwan Howard,Juwan Howard,PER,0.0,0.0,de,1
-Tim Wenger,Tim Wenger,PER,0.0,0.0,de,1
-Helen Krispis,Helen Krispis,PER,0.7,0.0,de,1
-Nicholas Mellamphy,Nicholas Mellamphy,PER,0.7,0.0,de,1
-Emmy Ne,Emmy Ne,PER,0.0,0.0,de,1
-Emma Harrington,Emma Harrington,PER,0.0,0.0,de,1
-Lexi Mascarenas,Lexi Mascarenas,PER,0.0,0.0,de,1
-Oho State,Oho State,PER,0.9,0.0,de,1
-Carlow Weather,Carlow Weather,PER,0.35,0.0,de,1
-Jackson Hole,Jackson Hole,PER,0.7,0.0,de,1
-TK-Chef Jens Baas,TK-Chef Jens Baas,PER,-0.85,0.0,de,1
-Mike Littau,Mike Littau,PER,-0.7,0.0,de,1
-Hanazumi Hideyo,Hanazumi Hideyo,PER,0.0,0.0,de,1
-Mark Fletcher,Mark Fletcher,PER,0.0,0.0,de,1
-Laura Dahlmeiers,Laura Dahlmeiers,PER,1.0,0.0,de,1
-Minister Kulman Ghising,Minister Kulman Ghising,PER,0.7,0.0,de,1
-Jody-Anne Cargill,Jody-Anne Cargill,PER,-1.0,0.0,de,1
-Chinas Taklamakan,Chinas Taklamakan,PER,0.0,0.0,de,1
-Raider Deck-Belohnungen,Raider Deck-Belohnungen,PER,0.0,0.0,de,1
-Lance Eaton,Lance Eaton,PER,0.0,0.0,de,1
-Urban Heat Islands,Urban Heat Islands,PER,0.0,0.0,de,1
-Vulkankette Coconucos,Vulkankette Coconucos,PER,0.0,0.0,de,1
-India Women,India Women,PER,0.0,0.0,de,1
-Arif Habib,Arif Habib,PER,0.0,0.0,de,1
-Lal Kantha,Lal Kantha,PER,-0.7,0.0,de,1
-Regenfälle durchnässen,Regenfälle durchnässen,PER,0.0,0.0,de,1
-Weihnachtslotterie „El Gordo“,Weihnachtslotterie „El Gordo“,PER,0.0,0.0,de,1
-Paul Heger,Paul Heger,PER,0.0,0.0,de,1
-Bari Weiss,Bari Weiss,PER,0.0,0.0,de,1
-Erwin Perzy,Erwin Perzy,PER,0.0,0.0,de,1
-Heather McCalden,Heather McCalden,PER,-0.7,0.0,de,1
-Heather McCaldens,Heather McCaldens,PER,0.0,0.0,de,1
-Michael Abatti,Michael Abatti,PER,0.0,0.0,de,1
-Ben Miles,Ben Miles,PER,-0.7,0.0,de,1
-Aqua Joe,Aqua Joe,PER,0.7,0.0,de,1
-Tiger Woods,Tiger Woods,PER,0.7,0.0,de,1
-Greystone Gro,Greystone Gro,PER,-0.7,0.0,de,1
-Louis Leger,Louis Leger,PER,-0.7,0.0,de,1
-Antonius Subianto Bunjamin,Antonius Subianto Bunjamin,PER,0.0,0.0,de,1
-Rante Taruk,Rante Taruk,PER,0.0,0.0,de,1
-Lainey Landrys Strumpf,Lainey Landrys Strumpf,PER,0.0,0.0,de,1
-Erkerfenster vs,Erkerfenster vs,PER,0.0,0.0,de,1
-Yarbos Pop-up,Yarbos Pop-up,PER,1.0,0.0,de,1
-Okagawa Farms,Okagawa Farms,PER,0.0,0.0,de,1
-Künstliche Winterpflanzgefäße,Künstliche Winterpflanzgefäße,PER,0.0,0.0,de,1
-Carter Davis,Carter Davis,PER,0.0,0.0,de,1
-Nordkalifornien hinwegfegten,Nordkalifornien hinwegfegten,PER,0.0,0.0,de,1
-Wendy Higdon,Wendy Higdon,PER,0.7,0.0,de,1
-Clipper-Sturmsystem von Alberta Sask,Clipper-Sturmsystem von Alberta Sask,PER,0.0,0.0,de,1
-Heike Hübener,Heike Hübener,PER,-1.0,0.0,de,1
-Distorted Face,Distorted Face,PER,0.0,0.0,de,1
-Grüße der Landtagspräsidentin,Grüße der Landtagspräsidentin,PER,0.0,0.0,de,1
-Teddy Indra Wijaya,Teddy Indra Wijaya,PER,0.0,0.0,de,1
-Jack Botanicals,Jack Botanicals,PER,0.0,0.0,de,1
-Rashid Al Maktoum,Rashid Al Maktoum,PER,0.0,0.0,de,1
-Scheich Hamdan bin Mohammed,Scheich Hamdan bin Mohammed,PER,0.0,0.0,de,1
-Nebel Flüge,Nebel Flüge,PER,0.0,0.0,de,1
-entdecken besorgniserregendes,entdecken besorgniserregendes,PER,0.0,0.0,de,1
-Wärmetherapie zu Hause,Wärmetherapie zu Hause,PER,0.0,0.0,de,1
-Austrian Avalanche,Austrian Avalanche,PER,0.0,0.0,de,1
-Brad Keller,Brad Keller,PER,0.7,0.0,de,1
-Trumps Groll,Trumps Groll,PER,0.0,0.0,de,1
-August Wollkleidung,August Wollkleidung,PER,-0.7,0.0,de,1
-Blizzard-Chefin Johanna Faries,Blizzard-Chefin Johanna Faries,PER,0.0,0.0,de,1
-Jahrestag von Blizzard,Jahrestag von Blizzard,PER,0.0,0.0,de,1
-Helgi Oskarsson,Helgi Oskarsson,PER,0.0,0.0,de,1
-Anna Hawken,Anna Hawken,PER,1.0,0.0,de,1
-Jasper Carstens,Jasper Carstens,PER,0.0,0.0,de,1
-Eugene Boateng,Eugene Boateng,PER,0.0,0.0,de,1
-Tony Haller,Tony Haller,PER,0.0,0.0,de,1
-Katharina Schlothauer,Katharina Schlothauer,PER,0.0,0.0,de,1
-Svenja Rasmussen,Svenja Rasmussen,PER,0.0,0.0,de,1
-Avinash Singh,Avinash Singh,PER,0.0,0.0,de,1
-Chris Fawkes,Chris Fawkes,PER,0.7,0.0,de,1
-Riziki Ilenre,Riziki Ilenre,PER,0.7,0.0,de,1
-TikToker Riziki Ilenre,TikToker Riziki Ilenre,PER,0.0,0.0,de,1
-David Eby,David Eby,PER,0.0,0.0,de,1
-Patrick Kind,Patrick Kind,PER,-1.0,0.0,de,1
-Rhinacanthus nasutus,Rhinacanthus nasutus,PER,-1.0,0.0,de,1
-Wetter-Experten sagen Schnee,Wetter-Experten sagen Schnee,PER,0.0,0.0,de,1
-Eric Smith,Eric Smith,PER,0.0,0.0,de,1
-Hubig Indexmieten,Hubig Indexmieten,PER,0.0,0.0,de,1
-Chillai Kalan Kaschmir,Chillai Kalan Kaschmir,PER,0.0,0.0,de,1
-La Castellana,La Castellana,PER,0.0,0.0,de,1
-Charlotte Patterson,Charlotte Patterson,PER,0.7,0.0,de,1
-Delhi gelbe,Delhi gelbe,PER,-0.7,0.0,de,1
-Nebel bedeckt Bihar,Nebel bedeckt Bihar,PER,-0.7,0.0,de,1
-John Hickenlooper,John Hickenlooper,PER,-1.0,0.0,de,1
-Michael Bennet,Michael Bennet,PER,-1.0,0.0,de,1
-Jared Polis,Jared Polis,PER,-1.0,0.0,de,1
-Stowers von Baylor,Stowers von Baylor,PER,0.0,0.0,de,1
-Eva Hudson von Purdue,Eva Hudson von Purdue,PER,0.0,0.0,de,1
-Zane Nelson,Zane Nelson,PER,0.0,0.0,de,1
-Denver Pioneers,Denver Pioneers,PER,0.0,0.0,de,1
-Alexander Schwolow,Alexander Schwolow,PER,0.0,0.0,de,1
-Bowen Yang,Bowen Yang,PER,0.0,0.0,de,1
-Ariana Grande,Ariana Grande,PER,0.0,0.0,de,1
-Marnus Labuschagne,Marnus Labuschagne,PER,-0.325,0.25,de,1
-Nathan Lyon,Nathan Lyon,PER,-0.325,0.25,de,1
-Jamie Smith,Jamie Smith,PER,-0.325,0.25,de,1
-Washingtoner Gesundheitsbehörden,Washingtoner Gesundheitsbehörden,PER,0.7,0.0,de,1
-Tyler Herro,Tyler Herro,PER,0.0,0.0,de,1
-Bam Adebayo,Bam Adebayo,PER,0.7,0.0,de,1
-Adebayo von Heat,Adebayo von Heat,PER,1.0,0.0,de,1
-Kärntens Skigebiete,Kärntens Skigebiete,PER,0.0,0.0,de,1
-Delhi NCR-Wetter,Delhi NCR-Wetter,PER,-0.7,0.0,de,1
-Liz Patt,Liz Patt,PER,0.0,0.0,de,1
-Alexander Blessin,Alexander Blessin,PER,0.0,0.0,de,1
-Michael Benson,Michael Benson,PER,0.15000000000000002,0.0,de,1
-Cozy Earth,Cozy Earth,PER,0.0,1.0,de,1
-Austin Peay Governors,Austin Peay Governors,PER,0.0,0.0,de,1
-Klimaexpertin Sabine Minninger,Klimaexpertin Sabine Minninger,PER,0.0,0.0,de,1
-Hans Gerlach,Hans Gerlach,PER,0.85,0.0,de,1
-Will Muir,Will Muir,PER,0.0,0.0,de,1
-Paloma Faith,Paloma Faith,PER,0.0,0.0,de,1
-Stephen Fry,Stephen Fry,PER,0.0,0.0,de,1
-Clare Balding,Clare Balding,PER,0.0,0.0,de,1
-Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1
-Parineeti Chopra,Parineeti Chopra,PER,0.7,0.0,de,1
-Raghav Chaddha,Raghav Chaddha,PER,0.7,0.0,de,1
-Raghav Chaddha Parineeti Chopra,Raghav Chaddha Parineeti Chopra,PER,0.0,0.0,de,1
-Eugenie von York,Eugenie von York,PER,0.0,0.0,de,1
-Beatrice von York,Beatrice von York,PER,0.0,0.0,de,1
-Nick Schutt,Nick Schutt,PER,-0.7,0.0,de,1
-vergrabenes Eis,vergrabenes Eis,PER,0.0,0.0,de,1
-Franz K,Franz K,PER,0.0,0.0,de,1
-Bethan Ackerley,Bethan Ackerley,PER,0.0,0.0,de,1
-Agnieszka Hollands Kafka-Film,Agnieszka Hollands Kafka-Film,PER,0.0,0.0,de,1
-Alexei Ratmanskys,Alexei Ratmanskys,PER,0.0,0.0,de,1
-Raymond McKay,Raymond McKay,PER,0.7,0.0,de,1
-Ruth Asentista,Ruth Asentista,PER,0.0,0.0,de,1
-Zac Builds,Zac Builds,PER,0.0,0.0,de,1
-Johanna Wagstaffe,Johanna Wagstaffe,PER,0.0,0.0,de,1
-Barstow hinwegfegten,Barstow hinwegfegten,PER,-1.0,0.0,de,1
-Brandon Padilla-Aguilera,Brandon Padilla-Aguilera,PER,-1.0,0.0,de,1
-Steven Anavers Haus,Steven Anavers Haus,PER,-1.0,0.0,de,1
-homophobem Meme,homophobem Meme,PER,0.0,0.0,de,1
-Elon Musk trollt Sean Duffy,Elon Musk trollt Sean Duffy,PER,0.0,0.0,de,1
-Gruselig schön,Gruselig schön,PER,0.85,0.0,de,1
-Michael Beck,Michael Beck,PER,0.0,0.0,de,1
-buttrigen Nussbröseln,buttrigen Nussbröseln,PER,0.0,0.0,de,1
-Colorados Western Slope,Colorados Western Slope,PER,0.0,0.0,de,1
-Beauty-Redakteurin Alexandra Busse-Richter,Beauty-Redakteurin Alexandra Busse-Richter,PER,-1.0,0.0,de,1
-Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.0,0.0,de,1
-Trumps weltgestaltenden,Trumps weltgestaltenden,PER,-0.7,0.0,de,1
-Nato-Chef Rutte,Nato-Chef Rutte,PER,0.0,0.0,de,1
-Earthquakes Canada,Earthquakes Canada,PER,0.7,0.0,de,1
-Qudrat Wasefi,Qudrat Wasefi,PER,-1.0,0.0,de,1
-Megha Majumdars,Megha Majumdars,PER,-0.7,0.0,de,1
-sattelbraunem Dakota-Leder,sattelbraunem Dakota-Leder,PER,0.0,0.0,de,1
-Chris Appleton,Chris Appleton,PER,0.0,0.0,de,1
-Trisha Paytas,Trisha Paytas,PER,0.0,0.0,de,1
-Hause schön,Hause schön,PER,0.85,0.0,de,1
-Manu Josephs,Manu Josephs,PER,-0.7,0.0,de,1
-Umgestürzte Bäume,Umgestürzte Bäume,PER,0.0,0.0,de,1
-Alexis Pinturault,Alexis Pinturault,PER,0.0,0.0,de,1
-Skistar Pinturault,Skistar Pinturault,PER,0.0,0.0,de,1
-Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1
-Apples mutigster,Apples mutigster,PER,0.0,0.0,de,1
-Vail Resorts,Vail Resorts,PER,0.0,0.0,de,1
-Anirban Mandal,Anirban Mandal,PER,0.0,0.0,de,1
-Mount Gibson,Mount Gibson,PER,0.0,0.0,de,1
-GEORGE TOWN,GEORGE TOWN,PER,0.7,0.0,de,1
-Galaxies Showcase,Galaxies Showcase,PER,0.7,0.0,de,1
-Karsten Brandt,Karsten Brandt,PER,0.0,0.0,de,1
-Leuchtender Herbst,Leuchtender Herbst,PER,0.0,0.0,de,1
-Iceland Airwaves,Iceland Airwaves,PER,0.0,0.0,de,1
-Island Airwaves,Island Airwaves,PER,0.0,0.0,de,1
-Philip Pullman,Philip Pullman,PER,1.0,0.0,de,1
-Heather Schlitz,Heather Schlitz,PER,0.0,0.0,de,1
-Harlan Cobens Lazarus,Harlan Cobens Lazarus,PER,0.0,0.0,de,1
-Stürmischer Herbst,Stürmischer Herbst,PER,0.0,0.0,de,1
-Steven Anaver,Steven Anaver,PER,0.0,0.0,de,1
-Ikon Pass,Ikon Pass,PER,0.0,0.0,de,1
-Paul Johnson,Paul Johnson,PER,0.0,0.0,de,1
-Ange Postecoglou,Ange Postecoglou,PER,1.0,0.0,de,1
-Annett Kaufmann,Annett Kaufmann,PER,0.0,0.0,de,1
-Harzer Luchstrail,Harzer Luchstrail,PER,0.0,0.0,de,1
-Ryu Spaeth,Ryu Spaeth,PER,0.0,0.0,de,1
-Anfänglicher Nebel,Anfänglicher Nebel,PER,0.0,0.0,de,1
-Carter Vigh,Carter Vigh,PER,0.0,0.0,de,1
-Nebel morgens,Nebel morgens,PER,0.0,1.0,de,1
-Karol Nawrocki,Karol Nawrocki,PER,0.0,0.0,de,1
-Jessica Wildfire,Jessica Wildfire,PER,0.7,0.0,de,1
-Mini Cooper S,Mini Cooper S,PER,0.0,0.0,de,1
-Owen Garriot,Owen Garriot,PER,0.0,0.0,de,1
-Richard Garriot,Richard Garriot,PER,0.0,0.0,de,1
-Tazmin Brits,Tazmin Brits,PER,1.0,0.0,de,1
-Laura Wolvaardt,Laura Wolvaardt,PER,1.0,0.0,de,1
-Anders Fridén,Anders Fridén,PER,-1.0,0.0,de,1
-Devlet Bahçeli,Devlet Bahçeli,PER,-0.9,0.0,de,1
-Zwölfjährige Lola,Zwölfjährige Lola,PER,0.7,0.0,de,1
-Rich Rodrigue,Rich Rodrigue,PER,0.0,0.0,de,1
-Adornos Satz 66,Adornos Satz 66,PER,0.0,1.0,de,1
-Einwohner Floridas,Einwohner Floridas,PER,0.0,0.0,de,1
-Politico eingesehene Chatverlauf,Politico eingesehene Chatverlauf,PER,0.0,0.0,de,1
-Ronalyn Balindan,Ronalyn Balindan,PER,0.0,0.0,de,1
-Winterflucht Teneriffa,Winterflucht Teneriffa,PER,0.0,1.0,de,1
-West-Nusa Tenggara,West-Nusa Tenggara,PER,0.0,0.0,de,1
-Jane Burston,Jane Burston,PER,0.7,0.0,de,1
-Joan Didion,Joan Didion,PER,0.7,0.0,de,1
-Luke Rogers,Luke Rogers,PER,0.0,0.0,de,1
-Alassane Ouattaras,Alassane Ouattaras,PER,0.0,0.0,de,1
-Robbie Corey-Boulet,Robbie Corey-Boulet,PER,0.0,0.0,de,1
-Nina Mittelham,Nina Mittelham,PER,0.0,0.0,de,1
-Wen streichel,Wen streichel,PER,0.0,0.0,de,1
-Rick Thoman,Rick Thoman,PER,-0.7,0.0,de,1
-Durchzug von Tropensturm,Durchzug von Tropensturm,PER,0.0,0.0,de,1
-Regenbetriebene Energie,Regenbetriebene Energie,PER,0.0,1.0,de,1
-Ebenezer Scrooge,Ebenezer Scrooge,PER,0.0,0.0,de,1
-Albert Pinto,Albert Pinto,PER,0.0,1.0,de,1
-Oliver Winter,Oliver Winter,PER,0.0,0.0,de,1
-Barebones Hurricane Laterne,Barebones Hurricane Laterne,PER,0.0,0.0,de,1
-et­was hö­her,et­was hö­her,PER,0.0,0.0,de,1
-Wissenschaftler entdecken,Wissenschaftler entdecken,PER,0.0,0.0,de,1
-Indiens Planentwurf,Indiens Planentwurf,PER,0.0,0.0,de,1
-Oliver Kharraz,Oliver Kharraz,PER,0.0,0.0,de,1
-Mike Dunleavy,Mike Dunleavy,PER,0.0,1.0,de,1
-Boris Pistorius,Boris Pistorius,PER,0.0,0.0,de,1
-Steven Tuck,Steven Tuck,PER,0.3333333333333333,0.0,de,1
-Uwe Knop,Uwe Knop,PER,0.0,0.0,de,1
-David Holmgren,David Holmgren,PER,1.0,0.0,de,1
-Bill Mollison,Bill Mollison,PER,1.0,0.0,de,1
-Naturbasierte Lösungen,Naturbasierte Lösungen,PER,0.0,0.0,de,1
-Hungry Paul,Hungry Paul,PER,0.0,0.0,de,1
-Gerald Markowitz,Gerald Markowitz,PER,0.0,0.0,de,1
-David Rosner,David Rosner,PER,0.0,0.0,de,1
-Prabowo Subiantos,Prabowo Subiantos,PER,0.8500000000000001,0.0,de,1
-Heather Camacho,Heather Camacho,PER,0.7,0.0,de,1
-Jesse Fox,Jesse Fox,PER,0.7,0.0,de,1
-Joyce Carol Oates,Joyce Carol Oates,PER,0.0,0.0,de,1
-Nell Zink,Nell Zink,PER,0.0,0.0,de,1
-marodem Leuchtturm,marodem Leuchtturm,PER,0.0,0.0,de,1
-Angela Denoke,Angela Denoke,PER,-1.0,0.0,de,1
-Gus Lamont,Gus Lamont,PER,-0.7,0.0,de,1
-Tim Ferriss-Show,Tim Ferriss-Show,PER,-0.15000000000000002,0.0,de,1
-Jalan Tun Sardon,Jalan Tun Sardon,PER,0.0,0.0,de,1
-Diane Smith,Diane Smith,PER,0.0,0.0,de,1
-Aditya Ranjan,Aditya Ranjan,PER,0.0,0.0,de,1
-Asiens Nostradamus Jay Costura,Asiens Nostradamus Jay Costura,PER,-0.85,0.0,de,1
-Jamaika hinweggezogen,Jamaika hinweggezogen,PER,0.0,0.0,de,1
-News-Korrespondent Jason Allen,News-Korrespondent Jason Allen,PER,0.0,0.0,de,1
-Desmond McKenz,Desmond McKenz,PER,0.0,0.0,de,1
-Hannah Grubbs,Hannah Grubbs,PER,1.0,0.0,de,1
-John Morales,John Morales,PER,-1.0,0.0,de,1
-Mamdanis Gegner,Mamdanis Gegner,PER,0.0,0.0,de,1
-Andrew Cuomo,Andrew Cuomo,PER,0.0,0.0,de,1
-Bill Ackman,Bill Ackman,PER,0.0,1.0,de,1
-Michael Bloomberg,Michael Bloomberg,PER,0.0,1.0,de,1
-Desmond McKenzie,Desmond McKenzie,PER,-0.7,0.0,de,1
-Melissa kr,Melissa kr,PER,0.0,0.0,de,1
-Andhra Pradesh,Andhra Pradesh,PER,0.0,0.0,de,1
-Md Jasmuddin Ansari,Md Jasmuddin Ansari,PER,-0.7,0.0,de,1
-Fani Maoré,Fani Maoré,PER,0.7,0.0,de,1
-HIV-infiziertem Blut,HIV-infiziertem Blut,PER,0.0,0.0,de,1
-Jharkhands Gesundheitsprotokolle,Jharkhands Gesundheitsprotokolle,PER,-1.0,0.0,de,1
-HIV-infiziertes Blut,HIV-infiziertes Blut,PER,-1.0,0.0,de,1
-Ullal Up,Ullal Up,PER,0.0,0.0,de,1
-Dorfvorsteher von Manipur,Dorfvorsteher von Manipur,PER,0.0,0.0,de,1
-Jon Stewart,Jon Stewart,PER,0.7,0.0,de,1
-Jamaikas Küste,Jamaikas Küste,PER,1.0,0.0,de,1
-Samyukta Sangharsha Samiti,Samyukta Sangharsha Samiti,PER,0.0,0.0,de,1
-Hurrikan Melissa Live-Updates,Hurrikan Melissa Live-Updates,PER,0.0,0.0,de,1
-Kéré Architecture,Kéré Architecture,PER,0.7,0.0,de,1
-Francis Kérés,Francis Kérés,PER,0.0,0.0,de,1
-Spike Lee,Spike Lee,PER,0.0,0.0,de,1
-Spike Lees,Spike Lees,PER,1.0,0.0,de,1
-Don Josephus Raphael Eblahans,Don Josephus Raphael Eblahans,PER,0.0,0.0,de,1
-Rubio Trumps,Rubio Trumps,PER,0.0,0.0,de,1
-Österreichs Rennen,Österreichs Rennen,PER,0.0,0.0,de,1
-Alice Phoebe Lou,Alice Phoebe Lou,PER,0.0,0.0,de,1
-Delhi Pradesh,Delhi Pradesh,PER,0.0,0.0,de,1
-Elliot Ross,Elliot Ross,PER,0.0,0.0,de,1
-Melissa Dächer,Melissa Dächer,PER,-1.0,0.0,de,1
-Melissa Jamaika,Melissa Jamaika,PER,-1.0,0.0,de,1
-Shubman Gill,Shubman Gill,PER,0.0,0.0,de,1
-Colin Farrell,Colin Farrell,PER,-1.0,0.0,de,1
-Edward Bergers,Edward Bergers,PER,-1.0,0.0,de,1
-Jerry Lorenzo,Jerry Lorenzo,PER,0.0,0.0,de,1
-Miguel Díaz-Canel,Miguel Díaz-Canel,PER,1.0,0.0,de,1
-Haiti Hurrikan,Haiti Hurrikan,PER,1.0,0.0,de,1
-Hewlett Packard Enterprise,Hewlett Packard Enterprise,PER,0.7,0.0,de,1
-Right Meow,Right Meow,PER,0.0,0.0,de,1
-Alice Phoebe Lous,Alice Phoebe Lous,PER,1.0,0.0,de,1
-Leonard Darsow,Leonard Darsow,PER,0.0,0.0,de,1
-Kelley Vlahos,Kelley Vlahos,PER,-1.0,0.0,de,1
-Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1
-Hurrikan Melissa Jamaika,Hurrikan Melissa Jamaika,PER,0.5,0.0,de,1
-Yuji Horii,Yuji Horii,PER,0.0,0.0,de,1
-Navi Mumbai,Navi Mumbai,PER,0.0,0.0,de,1
-Dim Sum,Dim Sum,PER,0.0,0.0,de,1
-Katrin Göring-Eckardt,Katrin Göring-Eckardt,PER,0.0,0.0,de,1
-Hoi An,Hoi An,PER,0.0,1.0,de,1
-Jensen Huang auf,Jensen Huang auf,PER,0.0,0.0,de,1
-Carol Guzy,Carol Guzy,PER,0.0,0.0,de,1
-Glencore Plc,Glencore Plc,PER,1.0,0.0,de,1
-Jamaikas Ministerpräsident,Jamaikas Ministerpräsident,PER,0.0,0.0,de,1
-Matthew Cappucci,Matthew Cappucci,PER,0.0,0.0,de,1
-Jam entfesselte,Jam entfesselte,PER,0.0,0.0,de,1
-Monstersturm „Melissa,Monstersturm „Melissa,PER,0.0,0.0,de,1
-Axel Springer,Axel Springer,PER,0.7,0.0,de,1
-Madi Keita,Madi Keita,PER,0.0,0.0,de,1
-Bhavini Gohel,Bhavini Gohel,PER,0.0,1.0,de,1
-Neapels Peripherie,Neapels Peripherie,PER,0.0,0.0,de,1
-Don Maurizios,Don Maurizios,PER,0.0,0.0,de,1
-Mileis libertärem,Mileis libertärem,PER,0.0,0.0,de,1
-Sandy Bay,Sandy Bay,PER,0.0,0.0,de,1
-Xi Jinping,Xi Jinping,PER,0.0,0.0,de,1
-Richard Morton,Richard Morton,PER,0.0,0.0,de,1
-Grindavíks Bewohnern,Grindavíks Bewohnern,PER,0.0,0.0,de,1
-Kleiner Bäckerei-Manager,Kleiner Bäckerei-Manager,PER,0.0,0.0,de,1
-Nord-Utahs Schneefall,Nord-Utahs Schneefall,PER,0.0,0.0,de,1
-"Sturm ""Joshua","Sturm ""Joshua",PER,-0.7,0.0,de,1
-Maria Furtwänglers Charlotte Lindholm,Maria Furtwänglers Charlotte Lindholm,PER,0.0,0.0,de,1
-George Lucas,George Lucas,PER,0.0,0.0,de,1
-Peter Osteried,Peter Osteried,PER,0.0,0.0,de,1
-Mora Scott,Mora Scott,PER,0.0,0.0,de,1
+Baba Nanak,Baba Nanak,PER,0.0,0.0,de,2
+Thomas Markle,Thomas Markle,PER,0.35,0.0,de,2
+Jordan Horrillo,Jordan Horrillo,PER,0.0,0.0,de,2
+verrottendem Getreide,verrottendem Getreide,PER,0.0,0.0,de,2
+Shaun White,Shaun White,PER,0.0,0.0,de,2
 Schlafstörende Gehirnzellen,Schlafstörende Gehirnzellen,PER,0.0,0.0,de,1
-Lass Ruhe,Lass Ruhe,PER,0.0,0.0,de,1
-Kleiner Erdrutsch,Kleiner Erdrutsch,PER,-1.0,0.0,de,1
-Cyclone Montha,Cyclone Montha,PER,0.0,0.0,de,1
-Matt Pakucko,Matt Pakucko,PER,-0.7,0.0,de,1
-Aliso Canyon,Aliso Canyon,PER,0.0,0.0,de,1
-Marco Grüll,Marco Grüll,PER,0.0,0.0,de,1
-Lara Gut-Behrami,Lara Gut-Behrami,PER,0.7,0.0,de,1
-Erdbebenbereites Delhi,Erdbebenbereites Delhi,PER,0.0,0.0,de,1
-Thomas Huber,Thomas Huber,PER,0.0,0.0,de,1
-Leiterin von Millcreek,Leiterin von Millcreek,PER,0.0,0.0,de,1
-Kim Clear,Kim Clear,PER,0.0,0.0,de,1
-Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1
-Herbststurm Joshua,Herbststurm Joshua,PER,0.0,0.0,de,1
-Victoria hinwegfegten,Victoria hinwegfegten,PER,0.7,0.0,de,1
-Javier Mileis,Javier Mileis,PER,0.0,0.0,de,1
-Oldoinyo Lengai,Oldoinyo Lengai,PER,-1.0,0.0,de,1
-Richard Carrington,Richard Carrington,PER,0.0,0.0,de,1
-Unbestrittenes Highlight,Unbestrittenes Highlight,PER,0.7,0.0,de,1
+Madi Keita,Madi Keita,PER,0.0,0.0,de,1
 Stevie Chedid,Stevie Chedid,PER,0.0,0.0,de,1
 Thomas Jefferson,Thomas Jefferson,PER,1.0,0.0,de,1
 Amerikas Gründerväter,Amerikas Gründerväter,PER,0.0,0.0,de,1
-Jobe Bellingham,Jobe Bellingham,PER,0.0,0.0,de,1
+Monstersturm „Melissa,Monstersturm „Melissa,PER,0.0,0.0,de,1
 Greg No,Greg No,PER,1.0,0.0,de,1
+Spike Lees,Spike Lees,PER,1.0,0.0,de,1
 Grant Hart,Grant Hart,PER,-0.15000000000000002,0.0,de,1
 Greg Norton,Greg Norton,PER,-0.15000000000000002,0.0,de,1
-Stevie Chick,Stevie Chick,PER,-0.15000000000000002,0.0,de,1
-Hüsker Dü,Hüsker Dü,PER,0.0,0.0,de,1
-Chefmeteorologin Lisa Teachman,Chefmeteorologin Lisa Teachman,PER,0.0,0.0,de,1
-Nicole Gomez Fisher,Nicole Gomez Fisher,PER,1.0,0.0,de,1
-Jerry Minor,Jerry Minor,PER,1.0,0.0,de,1
-Elvis Nolasco,Elvis Nolasco,PER,1.0,0.0,de,1
-Alycia Pascual-Peña,Alycia Pascual-Peña,PER,1.0,0.0,de,1
-Junior Ebanks,Junior Ebanks,PER,0.0,0.0,de,1
-Langsamer Sturm,Langsamer Sturm,PER,-0.35,0.5,de,1
-Nigeria GVO,Nigeria GVO,PER,0.0,0.0,de,1
-Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PER,0.0,0.0,de,1
-Keir Starmer Ankara,Keir Starmer Ankara,PER,0.0,0.0,de,1
-Melissa anheizt,Melissa anheizt,PER,0.0,0.0,de,1
-Grant Gilmore,Grant Gilmore,PER,0.0,1.0,de,1
-Lijing Wang,Lijing Wang,PER,0.0,0.0,de,1
-Biber Ökosysteme,Biber Ökosysteme,PER,0.0,0.0,de,1
-Meeresspiegel II,Meeresspiegel II,PER,0.0,0.0,de,1
-Peter Ballantyne Cree Nation-Reservat,Peter Ballantyne Cree Nation-Reservat,PER,0.0,1.0,de,1
-Dana Goodyears,Dana Goodyears,PER,0.0,0.0,de,1
-Sukhdeva Singh,Sukhdeva Singh,PER,0.0,0.0,de,1
-Monica Showalter,Monica Showalter,PER,0.0,0.0,de,1
-Indiens Hitzewellen,Indiens Hitzewellen,PER,0.0,0.0,de,1
-Lisa Sendwe Mais,Lisa Sendwe Mais,PER,0.0,0.0,de,1
-Elmar Theveßen,Elmar Theveßen,PER,1.0,0.0,de,1
-Matthias Steiner,Matthias Steiner,PER,0.0,0.0,de,1
-Jamie Lee Curtis,Jamie Lee Curtis,PER,0.0,0.0,de,1
-Daryll Arro,Daryll Arro,PER,0.0,0.0,de,1
-Nicole Kidman,Nicole Kidman,PER,0.0,0.0,de,1
-Keith Urbans,Keith Urbans,PER,0.0,0.0,de,1
-Keith Urban,Keith Urban,PER,-1.0,0.0,de,1
-Avalanche Treasury Co,Avalanche Treasury Co,PER,0.0,0.0,de,1
-Elfin Forest,Elfin Forest,PER,0.0,0.0,de,1
-Harmony Grove,Harmony Grove,PER,0.0,0.0,de,1
-Pete Green,Pete Green,PER,-0.7,0.0,de,1
-Brigitte Macron,Brigitte Macron,PER,0.0,0.0,de,1
-Yannis Kefalogiannis,Yannis Kefalogiannis,PER,0.9,0.0,de,1
-Vize-Zivilschutzleiter Rafaelito Alejandro,Vize-Zivilschutzleiter Rafaelito Alejandro,PER,0.0,0.0,de,1
-Weitsprung-Star Markus Rehm,Weitsprung-Star Markus Rehm,PER,0.0,0.0,de,1
-Rafaelito Alejandro,Rafaelito Alejandro,PER,0.0,0.0,de,1
-Brian Kirk,Brian Kirk,PER,1.0,0.0,de,1
-Wer Rapunzel,Wer Rapunzel,PER,0.5,0.5,de,1
-Felipe Cabague,Felipe Cabague,PER,0.7,0.0,de,1
-Birch Lane,Birch Lane,PER,0.0,0.0,de,1
-Indileni Daniel,Indileni Daniel,PER,0.0,0.0,de,1
-"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,1
-rekordhohe Temperaturen,rekordhohe Temperaturen,PER,0.0,0.0,de,1
-Europas Wohlstand,Europas Wohlstand,PER,-1.0,0.0,de,1
-Javier Fernandez Perez,Javier Fernandez Perez,PER,-0.15000000000000002,0.0,de,1
-Sturm „Bualoi“,Sturm „Bualoi“,PER,0.0,0.0,de,1
-"Sturm ""Bualoi"" Hanoi","Sturm ""Bualoi"" Hanoi",PER,-0.7,0.0,de,1
-Andy Weyman,Andy Weyman,PER,1.0,0.0,de,1
-Para-Leichtathletin Roß,Para-Leichtathletin Roß,PER,0.0,0.0,de,1
-Michael Buckley,Michael Buckley,PER,0.0,0.0,de,1
-Bill Essayli,Bill Essayli,PER,0.0,0.0,de,1
-Gill Passage,Gill Passage,PER,0.0,0.0,de,1
-James Lowe,James Lowe,PER,0.0,0.0,de,1
-Wakayama Ume,Wakayama Ume,PER,0.7,0.0,de,1
-Namibias meistbesuchtes Wildreservat,Namibias meistbesuchtes Wildreservat,PER,0.0,0.0,de,1
-Eric Wen,Eric Wen,PER,0.0,0.0,de,1
-Corgie-Shepherd-Mix Opie,Corgie-Shepherd-Mix Opie,PER,-0.7,0.0,de,1
-Duca di Salaparutas Vajasindi-Anwesen,Duca di Salaparutas Vajasindi-Anwesen,PER,0.0,0.0,de,1
-Khagen Murmu,Khagen Murmu,PER,0.0,0.0,de,1
-Modehauses Chloe,Modehauses Chloe,PER,0.0,0.0,de,1
-Tom Massey,Tom Massey,PER,0.7,0.0,de,1
-Jaime Maussan,Jaime Maussan,PER,-1.0,0.0,de,1
-Mexikos Vulkan Popocatépetl,Mexikos Vulkan Popocatépetl,PER,0.0,0.0,de,1
-Michael Burgess,Michael Burgess,PER,0.7,0.0,de,1
-Caren Miosga,Caren Miosga,PER,0.0,0.0,de,1
-Bruno Guimaraes,Bruno Guimaraes,PER,0.0,0.0,de,1
-Ariel Winter,Ariel Winter,PER,0.0,0.0,de,1
-Nick Woltemade,Nick Woltemade,PER,0.0,0.0,de,1
-Ministerpräsidentin Mamata Bane,Ministerpräsidentin Mamata Bane,PER,0.0,0.0,de,1
-Bahadur Khadka,Bahadur Khadka,PER,0.0,0.0,de,1
-Brittany Holmgren,Brittany Holmgren,PER,0.0,0.0,de,1
-Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,1
-Nord-Utah hinwegfegten,Nord-Utah hinwegfegten,PER,0.0,0.0,de,1
-Andrej Babis,Andrej Babis,PER,0.0,0.0,de,1
-Paul Lorskulsint,Paul Lorskulsint,PER,0.0,0.0,de,1
-Trumps Waffenstillstandsaufruf,Trumps Waffenstillstandsaufruf,PER,0.7,0.0,de,1
-Chad Wallin,Chad Wallin,PER,-0.5,0.0,de,1
-Gianfranco Rosi,Gianfranco Rosi,PER,1.0,0.0,de,1
-Sophie Reyer,Sophie Reyer,PER,1.0,0.0,de,1
-Sullivan Fortner,Sullivan Fortner,PER,0.7,0.0,de,1
-Carl Melford,Carl Melford,PER,0.0,0.0,de,1
-David Schechter,David Schechter,PER,0.0,0.0,de,1
-Nicholas Spada,Nicholas Spada,PER,0.0,1.0,de,1
-Mathias Colomb,Mathias Colomb,PER,0.0,0.0,de,1
-Emma Court,Emma Court,PER,0.0,0.0,de,1
-Long Lake,Long Lake,PER,0.0,0.0,de,1
-Johor Bomba,Johor Bomba,PER,0.0,0.0,de,1
-Eva Story,Eva Story,PER,0.0,0.0,de,1
-Spencer Pratt,Spencer Pratt,PER,0.7,0.0,de,1
-Ervin Bighetty,Ervin Bighetty,PER,-0.15000000000000002,0.0,de,1
-Leaf Rapids,Leaf Rapids,PER,1.0,0.0,de,1
-Monsunregen dieses Jahr,Monsunregen dieses Jahr,PER,0.0,0.0,de,1
-Bhagwant Mann,Bhagwant Mann,PER,-1.0,0.0,de,1
 Armando Manguleh,Armando Manguleh,PER,0.0,0.0,de,1
+Stevie Chick,Stevie Chick,PER,-0.15000000000000002,0.0,de,1
+Monsunregen dieses Jahr,Monsunregen dieses Jahr,PER,0.0,0.0,de,1
+Keir Starmer Ankara,Keir Starmer Ankara,PER,0.0,0.0,de,1
+Recep Tayyip Erdoğan,Recep Tayyip Erdoğan,PER,0.0,0.0,de,1
+Keir Starmer,Keir Starmer,PER,0.7,0.0,de,1
+Prince George,Prince George,PER,0.0,0.0,de,1
+Nigeria GVO,Nigeria GVO,PER,0.0,0.0,de,1
+Langsamer Sturm,Langsamer Sturm,PER,-0.35,0.5,de,1
+Junior Ebanks,Junior Ebanks,PER,0.0,0.0,de,1
+Bhagwant Mann,Bhagwant Mann,PER,-1.0,0.0,de,1
+Hüsker Dü,Hüsker Dü,PER,0.0,0.0,de,1
+Alycia Pascual-Peña,Alycia Pascual-Peña,PER,1.0,0.0,de,1
+Elvis Nolasco,Elvis Nolasco,PER,1.0,0.0,de,1
+Jerry Minor,Jerry Minor,PER,1.0,0.0,de,1
+Nicole Gomez Fisher,Nicole Gomez Fisher,PER,1.0,0.0,de,1
+Chefmeteorologin Lisa Teachman,Chefmeteorologin Lisa Teachman,PER,0.0,0.0,de,1
+Francis Kérés,Francis Kérés,PER,0.0,0.0,de,1
 Guru Randhawa,Guru Randhawa,PER,0.0,0.0,de,1
-Samira Sayed Rahman,Samira Sayed Rahman,PER,-0.7,0.0,de,1
-Beas Wasserzufluss,Beas Wasserzufluss,PER,0.7,0.0,de,1
-Bella Coola ,Bella Coola ,PER,0.0,0.0,de,1
-Daniel Wolfe,Daniel Wolfe,PER,0.0,0.0,de,1
-Matthew Childress,Matthew Childress,PER,-0.7,0.0,de,1
-Tom Brinkworth,Tom Brinkworth,PER,-0.7,0.0,de,1
+Spike Lee,Spike Lee,PER,0.0,0.0,de,1
+Daryll Arro,Daryll Arro,PER,0.0,0.0,de,1
+Kéré Architecture,Kéré Architecture,PER,0.7,0.0,de,1
+Don Josephus Raphael Eblahans,Don Josephus Raphael Eblahans,PER,0.0,0.0,de,1
+John Morales,John Morales,PER,-1.0,0.0,de,1
+Hannah Grubbs,Hannah Grubbs,PER,1.0,0.0,de,1
+Desmond McKenz,Desmond McKenz,PER,0.0,0.0,de,1
+News-Korrespondent Jason Allen,News-Korrespondent Jason Allen,PER,0.0,0.0,de,1
+Jamaika hinweggezogen,Jamaika hinweggezogen,PER,0.0,0.0,de,1
+Asiens Nostradamus Jay Costura,Asiens Nostradamus Jay Costura,PER,-0.85,0.0,de,1
+Fani Maoré,Fani Maoré,PER,0.7,0.0,de,1
+Andrew Cuomo,Andrew Cuomo,PER,0.0,0.0,de,1
+Rubio Trumps,Rubio Trumps,PER,0.0,0.0,de,1
+Kelley Vlahos,Kelley Vlahos,PER,-1.0,0.0,de,1
+Jam entfesselte,Jam entfesselte,PER,0.0,0.0,de,1
+Matthew Cappucci,Matthew Cappucci,PER,0.0,0.0,de,1
+Jamaikas Ministerpräsident,Jamaikas Ministerpräsident,PER,0.0,0.0,de,1
+Glencore Plc,Glencore Plc,PER,1.0,0.0,de,1
+Mamdanis Gegner,Mamdanis Gegner,PER,0.0,0.0,de,1
+Bill Ackman,Bill Ackman,PER,0.0,1.0,de,1
+Hurrikan Melissa Live-Updates,Hurrikan Melissa Live-Updates,PER,0.0,0.0,de,1
+HIV-infiziertes Blut,HIV-infiziertes Blut,PER,-1.0,0.0,de,1
+Samyukta Sangharsha Samiti,Samyukta Sangharsha Samiti,PER,0.0,0.0,de,1
+Grant Gilmore,Grant Gilmore,PER,0.0,1.0,de,1
+Jamaikas Küste,Jamaikas Küste,PER,1.0,0.0,de,1
+Jon Stewart,Jon Stewart,PER,0.7,0.0,de,1
+Dorfvorsteher von Manipur,Dorfvorsteher von Manipur,PER,0.0,0.0,de,1
+Ullal Up,Ullal Up,PER,0.0,0.0,de,1
+Jharkhands Gesundheitsprotokolle,Jharkhands Gesundheitsprotokolle,PER,-1.0,0.0,de,1
+Michael Bloomberg,Michael Bloomberg,PER,0.0,1.0,de,1
+HIV-infiziertem Blut,HIV-infiziertem Blut,PER,0.0,0.0,de,1
+Md Jasmuddin Ansari,Md Jasmuddin Ansari,PER,-0.7,0.0,de,1
+Aditya Ranjan,Aditya Ranjan,PER,0.0,0.0,de,1
+Andhra Pradesh,Andhra Pradesh,PER,0.0,0.0,de,1
+Melissa kr,Melissa kr,PER,0.0,0.0,de,1
+Desmond McKenzie,Desmond McKenzie,PER,-0.7,0.0,de,1
+Melissa anheizt,Melissa anheizt,PER,0.0,0.0,de,1
+Peter Ballantyne Cree Nation-Reservat,Peter Ballantyne Cree Nation-Reservat,PER,0.0,1.0,de,1
+Lijing Wang,Lijing Wang,PER,0.0,0.0,de,1
+Erdbebenbereites Delhi,Erdbebenbereites Delhi,PER,0.0,0.0,de,1
+Qudrat Wasefi,Qudrat Wasefi,PER,-1.0,0.0,de,1
+Earthquakes Canada,Earthquakes Canada,PER,0.7,0.0,de,1
+Gastaufsatz von Linnea,Gastaufsatz von Linnea,PER,0.7,0.0,de,1
+Trumps weltgestaltenden,Trumps weltgestaltenden,PER,-0.7,0.0,de,1
+Tim Ferriss-Show,Tim Ferriss-Show,PER,-0.15000000000000002,0.0,de,1
+Natalius Pigai,Natalius Pigai,PER,0.0,0.0,de,1
+Beauty-Redakteurin Alexandra Busse-Richter,Beauty-Redakteurin Alexandra Busse-Richter,PER,-1.0,0.0,de,1
+Jalan Tun Sardon,Jalan Tun Sardon,PER,0.0,0.0,de,1
+Österreichs Rennen,Österreichs Rennen,PER,0.0,0.0,de,1
+Patricia Lamela,Patricia Lamela,PER,0.0,0.0,de,1
+Herbststurm Joshua,Herbststurm Joshua,PER,0.0,0.0,de,1
+Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1
+Kim Clear,Kim Clear,PER,0.0,0.0,de,1
+Leiterin von Millcreek,Leiterin von Millcreek,PER,0.0,0.0,de,1
+Laura Dahlmeier,Laura Dahlmeier,PER,0.0,0.0,de,1
+Megha Majumdars,Megha Majumdars,PER,-0.7,0.0,de,1
+sattelbraunem Dakota-Leder,sattelbraunem Dakota-Leder,PER,0.0,0.0,de,1
+Chris Appleton,Chris Appleton,PER,0.0,0.0,de,1
+Skistar Pinturault,Skistar Pinturault,PER,0.0,0.0,de,1
+GEORGE TOWN,GEORGE TOWN,PER,0.7,0.0,de,1
+Mount Gibson,Mount Gibson,PER,0.0,0.0,de,1
+Anirban Mandal,Anirban Mandal,PER,0.0,0.0,de,1
+Vail Resorts,Vail Resorts,PER,0.0,0.0,de,1
+Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1
+Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.0,0.0,de,1
+Alexis Pinturault,Alexis Pinturault,PER,0.0,0.0,de,1
+Trisha Paytas,Trisha Paytas,PER,0.0,0.0,de,1
+Johan Eliasch,Johan Eliasch,PER,0.0,0.0,de,1
+Ricardo Lara,Ricardo Lara,PER,0.0,0.0,de,1
+Umgestürzte Bäume,Umgestürzte Bäume,PER,0.0,0.0,de,1
+Manu Josephs,Manu Josephs,PER,-0.7,0.0,de,1
+Hause schön,Hause schön,PER,0.85,0.0,de,1
+Tourismusminister Widiyanti Putri Wardhana,Tourismusminister Widiyanti Putri Wardhana,PER,0.7,0.0,de,1
+Thomas Huber,Thomas Huber,PER,0.0,0.0,de,1
+Marco Grüll,Marco Grüll,PER,0.0,0.0,de,1
+Biber Ökosysteme,Biber Ökosysteme,PER,0.0,0.0,de,1
+Emma Court,Emma Court,PER,0.0,0.0,de,1
+Kleiner Bäckerei-Manager,Kleiner Bäckerei-Manager,PER,0.0,0.0,de,1
+Grindavíks Bewohnern,Grindavíks Bewohnern,PER,0.0,0.0,de,1
+Richard Morton,Richard Morton,PER,0.0,0.0,de,1
+Xi Jinping,Xi Jinping,PER,0.0,0.0,de,1
+Sandy Bay,Sandy Bay,PER,0.0,0.0,de,1
+Mileis libertärem,Mileis libertärem,PER,0.0,0.0,de,1
+Don Maurizios,Don Maurizios,PER,0.0,0.0,de,1
+Neapels Peripherie,Neapels Peripherie,PER,0.0,0.0,de,1
+Victoria hinwegfegten,Victoria hinwegfegten,PER,0.7,0.0,de,1
+Oldoinyo Lengai,Oldoinyo Lengai,PER,-1.0,0.0,de,1
+Albert Einstein,Albert Einstein,PER,0.0,0.0,de,1
+Leaf Rapids,Leaf Rapids,PER,1.0,0.0,de,1
+Richard Carrington,Richard Carrington,PER,0.0,0.0,de,1
+Dana Goodyears,Dana Goodyears,PER,0.0,0.0,de,1
+Hoi An,Hoi An,PER,0.0,1.0,de,1
+Ervin Bighetty,Ervin Bighetty,PER,-0.15000000000000002,0.0,de,1
+Nord-Utahs Schneefall,Nord-Utahs Schneefall,PER,0.0,0.0,de,1
+Spencer Pratt,Spencer Pratt,PER,0.7,0.0,de,1
+Lass Ruhe,Lass Ruhe,PER,0.0,0.0,de,1
+Kamala Harris,Kamala Harris,PER,0.5,0.0,de,1
+Aliso Canyon,Aliso Canyon,PER,0.0,0.0,de,1
+Matt Pakucko,Matt Pakucko,PER,-0.7,0.0,de,1
+Cyclone Montha,Cyclone Montha,PER,0.0,0.0,de,1
+Long Lake,Long Lake,PER,0.0,0.0,de,1
+Kleiner Erdrutsch,Kleiner Erdrutsch,PER,-1.0,0.0,de,1
+Mora Scott,Mora Scott,PER,0.0,0.0,de,1
+Eva Story,Eva Story,PER,0.0,0.0,de,1
+Bhavini Gohel,Bhavini Gohel,PER,0.0,1.0,de,1
+Peter Osteried,Peter Osteried,PER,0.0,0.0,de,1
+George Lucas,George Lucas,PER,0.0,0.0,de,1
+Prabowo Subianto,Prabowo Subianto,PER,0.0,0.0,de,1
+Johor Bomba,Johor Bomba,PER,0.0,0.0,de,1
+"Sturm ""Joshua","Sturm ""Joshua",PER,-0.7,0.0,de,1
+Carol Guzy,Carol Guzy,PER,0.0,0.0,de,1
+Yuji Horii,Yuji Horii,PER,0.0,0.0,de,1
+Katrin Göring-Eckardt,Katrin Göring-Eckardt,PER,0.0,0.0,de,1
+Sachsens Skigebiete,Sachsens Skigebiete,PER,0.0,0.0,de,1
 SoCal Edison,SoCal Edison,PER,-1.0,0.0,de,1
+schneeglatter Fahrbahn,schneeglatter Fahrbahn,PER,0.0,0.0,de,1
+Georg Friedrichs,Georg Friedrichs,PER,0.0,0.0,de,1
+Niederösterreichs Skisaison,Niederösterreichs Skisaison,PER,0.0,0.0,de,1
 Parametric Flood,Parametric Flood,PER,0.0,0.0,de,1
 Indonesiens Mount Semeru,Indonesiens Mount Semeru,PER,0.7,0.0,de,1
+Filippa Coster-Waldau,Filippa Coster-Waldau,PER,0.0,1.0,de,1
+Elyas M’Barek,Elyas M’Barek,PER,0.0,1.0,de,1
+Bille Augusts,Bille Augusts,PER,0.0,0.0,de,1
+Peter Høegs,Peter Høegs,PER,0.0,0.0,de,1
+Leonardo DiCaprio,Leonardo DiCaprio,PER,-1.0,0.0,de,1
+Frank Thelen,Frank Thelen,PER,1.0,0.0,de,1
+Schnee rechnen d,Schnee rechnen d,PER,0.0,0.0,de,1
+Christina Biasi,Christina Biasi,PER,0.0,0.0,de,1
+Kärntens Skigebiete,Kärntens Skigebiete,PER,0.0,0.0,de,1
+Omar Abdullah,Omar Abdullah,PER,0.7,0.0,de,1
+Wiens Winterdienst,Wiens Winterdienst,PER,0.0,0.0,de,1
+Charles Hoskinson,Charles Hoskinson,PER,0.0,0.0,de,1
+Was besucher,Was besucher,PER,-1.0,0.0,de,1
+Kilian Jornets,Kilian Jornets,PER,1.0,0.0,de,1
+Australiens Sturmsaison,Australiens Sturmsaison,PER,0.0,0.0,de,1
+Ex-Bürgermeister von Odessa,Ex-Bürgermeister von Odessa,PER,0.0,0.0,de,1
+Hennadij Truchanow,Hennadij Truchanow,PER,0.0,0.0,de,1
+Theo Von,Theo Von,PER,0.0,0.0,de,1
+Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1
+Staunende Besucher,Staunende Besucher,PER,0.0,0.0,de,1
+Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1
+Nina Chuba,Nina Chuba,PER,0.0,0.0,de,1
+Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1
+Warnstufe Gelb,Warnstufe Gelb,PER,0.0,0.0,de,1
+Franz Julen,Franz Julen,PER,-1.0,0.0,de,1
+Reto Knutti,Reto Knutti,PER,0.0,0.0,de,1
+Walter Salles,Walter Salles,PER,0.0,0.0,de,1
+Wolfgang Blank,Wolfgang Blank,PER,-0.7,0.0,de,1
+Susanne Arndt,Susanne Arndt,PER,1.0,0.0,de,1
 Erdbeben Frau,Erdbeben Frau,PER,-0.7,0.0,de,1
 Episode eruptiver Aktivität,Episode eruptiver Aktivität,PER,0.0,0.0,de,1
-Francisco Chronicle,Francisco Chronicle,PER,-1.0,0.0,de,1
-Laura J,Laura J,PER,0.0,0.0,de,1
-Thomas E,Thomas E,PER,0.0,0.0,de,1
+Paul Heger,Paul Heger,PER,0.0,0.0,de,1
+Alexander Hildebrandt,Alexander Hildebrandt,PER,-0.7,0.0,de,1
+Teile Hessens,Teile Hessens,PER,0.0,0.0,de,1
+Quiz des Tages,Quiz des Tages,PER,-1.0,0.0,de,1
 Stefan H,Stefan H,PER,0.0,0.0,de,1
+Sturmtief „Elli“ ,Sturmtief „Elli“ ,PER,0.0,0.0,de,1
 Gareth D,Gareth D,PER,0.0,0.0,de,1
 Claire M,Claire M,PER,0.0,0.0,de,1
-Patricia Lamela,Patricia Lamela,PER,0.0,0.0,de,1
-Natalius Pigai,Natalius Pigai,PER,0.0,0.0,de,1
-Gastaufsatz von Linnea,Gastaufsatz von Linnea,PER,0.7,0.0,de,1
-Tourismusminister Widiyanti Putri Wardhana,Tourismusminister Widiyanti Putri Wardhana,PER,0.7,0.0,de,1
-John Muyskens,John Muyskens,PER,0.0,0.0,de,1
-Shannon Osaka,Shannon Osaka,PER,0.0,0.0,de,1
-Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1
-Venezuelas Krisen,Venezuelas Krisen,PER,0.0,0.0,de,1
-Atreyee Mitra,Atreyee Mitra,PER,0.7,0.0,de,1
-Maach Bhaat,Maach Bhaat,PER,1.0,0.0,de,1
-Kelly Family,Kelly Family,PER,0.0,0.0,de,1
-Experten sagen,Experten sagen,PER,0.0,0.0,de,1
-Michael McCown,Michael McCown,PER,0.0,0.0,de,1
-Waldverlust Dürre,Waldverlust Dürre,PER,0.7,0.0,de,1
-"Supertaifun ""Ragasa","Supertaifun ""Ragasa",PER,0.0,0.0,de,1
-Nicholas Day,Nicholas Day,PER,1.0,0.0,de,1
-Joel Eisiminger,Joel Eisiminger,PER,0.0,0.0,de,1
-Lewotobi Laki-Laki,Lewotobi Laki-Laki,PER,0.7,0.0,de,1
-Hundred Acre Wines,Hundred Acre Wines,PER,1.0,0.0,de,1
-Marina Jurica,Marina Jurica,PER,0.0,0.0,de,1
-Washington Post,Washington Post,PER,0.0,0.0,de,1
-Jeffrey Kitingan,Jeffrey Kitingan,PER,0.0,0.0,de,1
-I Datuk Seri,I Datuk Seri,PER,0.0,0.0,de,1
-Vanessa Butler,Vanessa Butler,PER,-0.7,0.0,de,1
-Tom Schultz,Tom Schultz,PER,0.0,0.0,de,1
-Vikramjit Singh Sahney,Vikramjit Singh Sahney,PER,0.0,0.0,de,1
-Suzielianna Jonie,Suzielianna Jonie,PER,-0.7,0.0,de,1
-FBI-Direktor Kash Patel,FBI-Direktor Kash Patel,PER,0.0,0.0,de,1
-Sungai Kaiduan,Sungai Kaiduan,PER,0.0,0.0,de,1
-Sg Kaiduan,Sg Kaiduan,PER,0.0,0.0,de,1
-Indonesiens Touristeninsel Bali,Indonesiens Touristeninsel Bali,PER,0.0,0.0,de,1
-Welle von Zombiebränden,Welle von Zombiebränden,PER,0.0,0.0,de,1
-David Linder,David Linder,PER,0.0,0.0,de,1
-2023+Anne Bayefsky,2023+Anne Bayefsky,PER,0.0,0.0,de,1
-Brad Rippey,Brad Rippey,PER,0.7,0.0,de,1
-Antonia Bornas,Antonia Bornas,PER,0.0,0.0,de,1
-Dreames Antwort,Dreames Antwort,PER,0.0,0.0,de,1
-Wim van den Heever,Wim van den Heever,PER,-0.7,0.0,de,1
-Jeremy Friesens,Jeremy Friesens,PER,0.0,0.0,de,1
-Nilakshika De Silvas,Nilakshika De Silvas,PER,-1.0,0.0,de,1
-Kylian Mbappé,Kylian Mbappé,PER,1.0,0.0,de,1
-Cira Gonzalez,Cira Gonzalez,PER,-0.85,0.0,de,1
-Bipin Joshis Leiche,Bipin Joshis Leiche,PER,0.0,0.0,de,1
-Julius Cäsars,Julius Cäsars,PER,0.0,0.0,de,1
-Stephen Baldwin,Stephen Baldwin,PER,0.0,0.0,de,1
-Max Walker-Silvermans,Max Walker-Silvermans,PER,0.9,0.0,de,1
-Bo Byrams Schlittschuh,Bo Byrams Schlittschuh,PER,-1.0,0.0,de,1
-Bärbel Bas,Bärbel Bas,PER,0.0,0.0,de,1
-Erdbeben-App MyShake,Erdbeben-App MyShake,PER,0.0,0.0,de,1
-Ron Swanson,Ron Swanson,PER,-0.7,0.0,de,1
-welke Pflanzenreste,welke Pflanzenreste,PER,0.0,1.0,de,1
-Buchreview zu Winterland,Buchreview zu Winterland,PER,0.0,0.0,de,1
-Ingo Nathusius,Ingo Nathusius,PER,0.0,0.0,de,1
-Nebel klart,Nebel klart,PER,-0.7,0.0,de,1
-Phoenix hart,Phoenix hart,PER,0.7,0.0,de,1
-Highland Autoplex,Highland Autoplex,PER,0.0,0.0,de,1
-Jeep Wrangler,Jeep Wrangler,PER,0.0,0.0,de,1
-Zoe Mintz,Zoe Mintz,PER,0.0,0.0,de,1
-Mike Le Roux,Mike Le Roux,PER,-0.7,0.0,de,1
-Zeile auseinandernahm,Zeile auseinandernahm,PER,0.0,0.0,de,1
-herabsprudelndes Wasser,herabsprudelndes Wasser,PER,0.0,0.0,de,1
-NBCs Sam B,NBCs Sam B,PER,0.0,0.0,de,1
-Durga Puja,Durga Puja,PER,0.5,0.0,de,1
-Muhammad Wafid,Muhammad Wafid,PER,0.7,0.0,de,1
-Harry Kane,Harry Kane,PER,0.0,0.0,de,1
-Charles Eppard,Charles Eppard,PER,0.0,0.0,de,1
-Bruce Harrell,Bruce Harrell,PER,0.0,0.0,de,1
-Nazi-Themen pro „Palästina,Nazi-Themen pro „Palästina,PER,0.0,0.0,de,1
-Hakenkreuz „Palästina“,Hakenkreuz „Palästina“,PER,0.0,0.0,de,1
-Mini Crossword,Mini Crossword,PER,0.7,0.0,de,1
-Ralph Cad,Ralph Cad,PER,0.0,0.0,de,1
-Paul Stanley,Paul Stanley,PER,0.0,0.0,de,1
-Gene Simmons,Gene Simmons,PER,0.0,0.0,de,1
-Garret Gray,Garret Gray,PER,0.0,0.0,de,1
-Videos von US-Angriffen,Videos von US-Angriffen,PER,0.0,0.0,de,1
-Unterkühlter Wanderer,Unterkühlter Wanderer,PER,-0.7,0.0,de,1
-David Rockwells,David Rockwells,PER,0.0,0.0,de,1
-Meghalaya vs,Meghalaya vs,PER,0.0,0.0,de,1
-Ranji Trophy,Ranji Trophy,PER,0.0,0.0,de,1
-Montreals Methan,Montreals Methan,PER,0.0,0.0,de,1
-Vivian McCall,Vivian McCall,PER,0.0,0.0,de,1
-kohlenstoffarme Häuser,kohlenstoffarme Häuser,PER,1.0,0.0,de,1
-Apple-Rezension Nr,Apple-Rezension Nr,PER,0.0,0.0,de,1
-Heulender Herbstwind,Heulender Herbstwind,PER,0.0,0.0,de,1
-Laub harken,Laub harken,PER,0.0,0.0,de,1
-halbmondförmiger Mund,halbmondförmiger Mund,PER,1.0,0.0,de,1
-Heather Humphreys,Heather Humphreys,PER,0.0,1.0,de,1
-James Bond,James Bond,PER,0.7,0.0,de,1
-Geert Wilders,Geert Wilders,PER,0.0,0.0,de,1
-Kim Jeffrey,Kim Jeffrey,PER,0.2333333333333333,0.0,de,1
-Schweregrads von Softwarefehlern,Schweregrads von Softwarefehlern,PER,1.0,0.0,de,1
-Jal Shakti Abhiyan,Jal Shakti Abhiyan,PER,0.0,0.0,de,1
-Indiens Regenwassernutzungsmarkt,Indiens Regenwassernutzungsmarkt,PER,0.0,0.0,de,1
-Moulds Nineties-Band,Moulds Nineties-Band,PER,0.5,0.0,de,1
-Asus ROG Xbox Ally,Asus ROG Xbox Ally,PER,0.0,0.0,de,1
-Jayden Daniels,Jayden Daniels,PER,0.0,0.0,de,1
-Dominik Siegrist,Dominik Siegrist,PER,1.0,0.0,de,1
-Helmut Feitzlmayr,Helmut Feitzlmayr,PER,0.7,0.0,de,1
-FIFA-Boss Gianni Infantino,FIFA-Boss Gianni Infantino,PER,0.0,0.0,de,1
-Benjamin von Brackel,Benjamin von Brackel,PER,0.0,0.0,de,1
-Toralf Staud,Toralf Staud,PER,0.0,0.0,de,1
-Wu Ji,Wu Ji,PER,0.7,0.0,de,1
-Frank Herberts Dune,Frank Herberts Dune,PER,0.0,0.0,de,1
-All-Natural Geoengineering,All-Natural Geoengineering,PER,0.0,0.0,de,1
-Instagram Reels,Instagram Reels,PER,0.7,0.0,de,1
-Tommy Lee Jones,Tommy Lee Jones,PER,1.0,0.0,de,1
-Kim Min-Ha,Kim Min-Ha,PER,0.0,0.0,de,1
-Amir Khan Muttaqi Indien,Amir Khan Muttaqi Indien,PER,0.0,0.0,de,1
-Trumps Gaza-Plan,Trumps Gaza-Plan,PER,0.0,0.0,de,1
-Indonesiens Tsunami-Erkennung,Indonesiens Tsunami-Erkennung,PER,0.0,0.0,de,1
-Marcos Jr,Marcos Jr,PER,0.0,0.0,de,1
-Sturm Jerry,Sturm Jerry,PER,-1.0,0.0,de,1
-Hanna W,Hanna W,PER,0.7,0.0,de,1
-Franz Waldenberger,Franz Waldenberger,PER,0.7,0.0,de,1
-Sebastian T,Sebastian T,PER,0.0,0.0,de,1
-Nippert Stadium,Nippert Stadium,PER,0.0,0.0,de,1
-László Krasznahorkai,László Krasznahorkai,PER,0.0,0.0,de,1
-La Nina,La Nina,PER,-0.7,0.0,de,1
-Beschlüsse Koalitionsausschuss,Beschlüsse Koalitionsausschuss,PER,0.0,0.0,de,1
-Kapitänin Laura Wolvaardt,Kapitänin Laura Wolvaardt,PER,1.0,0.0,de,1
-Mechi Highway,Mechi Highway,PER,0.0,0.0,de,1
-beliebtestem Zaungewächs,beliebtestem Zaungewächs,PER,0.35,0.5,de,1
-Nelson Asofa-Solomona,Nelson Asofa-Solomona,PER,0.0,0.0,de,1
-Joe Bidens,Joe Bidens,PER,-1.0,0.0,de,1
-Jonathan Rinderknech,Jonathan Rinderknech,PER,0.0,0.0,de,1
-Freitag Schauer,Freitag Schauer,PER,-0.7,0.0,de,1
-Jeremy Leif,Jeremy Leif,PER,0.0,0.0,de,1
-Joe Bastardi,Joe Bastardi,PER,0.0,0.0,de,1
-Tim Cooks,Tim Cooks,PER,-0.15000000000000002,0.0,de,1
-Pentagon-Chef Hegseth,Pentagon-Chef Hegseth,PER,-0.7,0.0,de,1
-Natsuse Yamane,Natsuse Yamane,PER,0.0,0.0,de,1
-Lance Richardsons,Lance Richardsons,PER,0.0,0.0,de,1
-Maggie Doherty,Maggie Doherty,PER,0.0,0.0,de,1
-Peter Matthiessen,Peter Matthiessen,PER,0.0,0.0,de,1
-Forstminister Raja,Forstminister Raja,PER,0.7,0.0,de,1
-Trumps Anhängerschaft,Trumps Anhängerschaft,PER,0.7,0.0,de,1
-BILD-Vize Paul Ronzheimer,BILD-Vize Paul Ronzheimer,PER,0.0,0.0,de,1
-Paul Ronzheimer,Paul Ronzheimer,PER,1.0,0.0,de,1
-Karl Bär,Karl Bär,PER,0.0,0.0,de,1
-Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1
-Chinas Automobildominanz,Chinas Automobildominanz,PER,0.0,0.0,de,1
-Risikos von Naturkatastrophen,Risikos von Naturkatastrophen,PER,-1.0,0.0,de,1
-Banarsi LalJedes Jahr,Banarsi LalJedes Jahr,PER,-1.0,0.0,de,1
-Friedhart Knolle,Friedhart Knolle,PER,0.0,0.0,de,1
-Masterplan Wasser,Masterplan Wasser,PER,0.0,0.0,de,1
-Filmstar Diane Keaton,Filmstar Diane Keaton,PER,0.0,0.0,de,1
-Fabio Gruber,Fabio Gruber,PER,0.0,0.0,de,1
-Jerry Graphics,Jerry Graphics,PER,0.0,0.0,de,1
-Jay Jones,Jay Jones,PER,0.2333333333333333,0.0,de,1
-Christian Pulisic von Mailands,Christian Pulisic von Mailands,PER,-1.0,0.0,de,1
-Charlie Young,Charlie Young,PER,0.0,0.0,de,1
-Hurrikan Priscilla,Hurrikan Priscilla,PER,0.0,0.0,de,1
-Heißer Herbst,Heißer Herbst,PER,0.35,0.5,de,1
-Satou Sabally,Satou Sabally,PER,-0.7,0.0,de,1
-Chris Davis,Chris Davis,PER,-1.0,0.0,de,1
-Ministerin Behrens,Ministerin Behrens,PER,0.7,0.0,de,1
-Katastrophenschutz Waldbrände,Katastrophenschutz Waldbrände,PER,0.35,0.5,de,1
-Margaret Thatcher,Margaret Thatcher,PER,0.0,0.0,de,1
+"Wintersturm ""Elli","Wintersturm ""Elli",PER,-1.0,0.0,de,1
+Gunnar Schupelius,Gunnar Schupelius,PER,0.0,0.0,de,1
+Verkehrsminister Schnieder,Verkehrsminister Schnieder,PER,-0.7,0.0,de,1
+Winterausfall Fehleranalyse,Winterausfall Fehleranalyse,PER,0.0,0.0,de,1
+Liveblog zu Schnee und Eis,Liveblog zu Schnee und Eis,PER,-1.0,0.0,de,1
+Senatorin Ute Bonde,Senatorin Ute Bonde,PER,0.0,0.0,de,1
+Schnee von Stromleitung,Schnee von Stromleitung,PER,0.0,0.0,de,1
+Liveblog zu Eisregen und Glatteis,Liveblog zu Eisregen und Glatteis,PER,0.0,0.0,de,1
+Schlösserland Sachsen,Schlösserland Sachsen,PER,-0.7,0.0,de,1
+Sturmtief „Elli“,Sturmtief „Elli“,PER,0.5,0.0,de,1
+"Wintersturmfront ""Elli","Wintersturmfront ""Elli",PER,-0.7,0.0,de,1
+Laura J,Laura J,PER,0.0,0.0,de,1
+Francisco Chronicle,Francisco Chronicle,PER,-1.0,0.0,de,1
+Schneereichster Wintersturm,Schneereichster Wintersturm,PER,0.0,0.0,de,1
+Frostiges Wetter,Frostiges Wetter,PER,0.0,0.0,de,1
+Robert Steiger,Robert Steiger,PER,0.0,0.0,de,1
+Hessens Skigebiete,Hessens Skigebiete,PER,0.85,0.0,de,1
+Tief „Elli“,Tief „Elli“,PER,-0.5,0.5,de,1
+Sturmtief »Elli,Sturmtief »Elli,PER,-1.0,0.0,de,1
+Thomas E,Thomas E,PER,0.0,0.0,de,1
+Laura Wontorras Traum-Urlaub,Laura Wontorras Traum-Urlaub,PER,0.0,0.0,de,1
+Alexander Hildebrand,Alexander Hildebrand,PER,-0.7,0.0,de,1
+Gesundheitsminister Philippi,Gesundheitsminister Philippi,PER,0.0,0.0,de,1
+Alena Lagmöller,Alena Lagmöller,PER,0.0,0.0,de,1
+Philip Raillon,Philip Raillon,PER,0.0,0.0,de,1
+Patrick Schnieder,Patrick Schnieder,PER,-0.7,0.0,de,1
+Nada Tawfik,Nada Tawfik,PER,0.0,0.0,de,1
+Brooklyn Paper,Brooklyn Paper,PER,-1.0,0.0,de,1
+Dim Sum,Dim Sum,PER,0.0,0.0,de,1
+Ann Arbor,Ann Arbor,PER,0.0,0.0,de,1
+Melissa Jamaika,Melissa Jamaika,PER,-1.0,0.0,de,1
+Melissa Dächer,Melissa Dächer,PER,-1.0,0.0,de,1
+Elliot Ross,Elliot Ross,PER,0.0,0.0,de,1
+Delhi Pradesh,Delhi Pradesh,PER,0.0,0.0,de,1
 Drosera regina,Drosera regina,PER,0.0,0.0,de,1
+Indiens Hitzewellen,Indiens Hitzewellen,PER,0.0,0.0,de,1
+Lula da Silva,Lula da Silva,PER,0.0,0.0,de,1
 Copernicus Sentinel-2,Copernicus Sentinel-2,PER,0.0,0.0,de,1
-Austin Peay,Austin Peay,PER,0.0,0.0,de,1
-Tesla Semi,Tesla Semi,PER,1.0,0.0,de,1
-Elena von Montenegro,Elena von Montenegro,PER,0.7,0.0,de,1
-Trumps Kampagne,Trumps Kampagne,PER,0.0,0.0,de,1
-Apollinaris Mons,Apollinaris Mons,PER,-0.7,0.0,de,1
-Christian Pul,Christian Pul,PER,0.0,0.0,de,1
-Camino Kavanagh,Camino Kavanagh,PER,0.7,0.0,de,1
-Pokrowsk geolokalisiert,Pokrowsk geolokalisiert,PER,0.0,0.0,de,1
-Gregory Daco,Gregory Daco,PER,0.0,0.0,de,1
-Brian Daboll,Brian Daboll,PER,1.0,0.0,de,1
-herrlich ehrlich,herrlich ehrlich,PER,1.0,0.0,de,1
-ARC Raiders,ARC Raiders,PER,1.0,0.0,de,1
-Adenah Bayoh,Adenah Bayoh,PER,0.7,0.0,de,1
-Wladimir Putins,Wladimir Putins,PER,0.0,0.0,de,1
-Clayton Dalton,Clayton Dalton,PER,0.0,0.0,de,1
-Katha Pollitt,Katha Pollitt,PER,0.0,0.0,de,1
-Eversong Woods,Eversong Woods,PER,0.0,0.0,de,1
-Met Miles Mips Helm,Met Miles Mips Helm,PER,0.0,0.0,de,1
-"Taifun ""Fung-Wong","Taifun ""Fung-Wong",PER,0.0,0.0,de,1
-Fung Wong,Fung Wong,PER,0.0,0.0,de,1
-Stufe III,Stufe III,PER,0.0,0.0,de,1
-Soap Refill,Soap Refill,PER,0.7,0.0,de,1
-lauta Laub,lauta Laub,PER,0.0,1.0,de,1
-Mick „Crocodile“ Dundee,Mick „Crocodile“ Dundee,PER,-0.7,0.0,de,1
-Crocodile Dundee,Crocodile Dundee,PER,0.0,0.0,de,1
-Wolfgang Blank,Wolfgang Blank,PER,-0.7,0.0,de,1
-Eli Lilly,Eli Lilly,PER,0.0,0.0,de,1
-Lenskarts Marktdebüt,Lenskarts Marktdebüt,PER,0.0,0.0,de,1
-Taylor Momsen,Taylor Momsen,PER,0.0,0.0,de,1
-Jim Carrey,Jim Carrey,PER,0.0,0.0,de,1
-Viktor Emanuel III,Viktor Emanuel III,PER,0.0,0.0,de,1
-Teherans Einwohner,Teherans Einwohner,PER,0.0,0.0,de,1
-Josh Maynard,Josh Maynard,PER,-1.0,0.0,de,1
-Social-Media-Clip Nacho,Social-Media-Clip Nacho,PER,0.7,0.0,de,1
-Farrhanas Gameplay,Farrhanas Gameplay,PER,0.0,0.0,de,1
-Dipika Kakar,Dipika Kakar,PER,0.7,0.0,de,1
-Ghoom Phir Ke Wohi,Ghoom Phir Ke Wohi,PER,-0.15000000000000002,0.0,de,1
-NYC Ferry,NYC Ferry,PER,-0.7,0.0,de,1
-Barbara Russo-Lennon,Barbara Russo-Lennon,PER,-0.7,0.0,de,1
-Kemi Badenoch,Kemi Badenoch,PER,0.0,0.0,de,1
-Jitendra Singh,Jitendra Singh,PER,0.0,0.0,de,1
-Starmers Kommentare,Starmers Kommentare,PER,0.0,0.0,de,1
-Jan Schenk,Jan Schenk,PER,0.0,0.0,de,1
-Alyssa Battistoni,Alyssa Battistoni,PER,0.0,0.0,de,1
-Marriott Bonvoy,Marriott Bonvoy,PER,0.0,0.0,de,1
-Romina Jara,Romina Jara,PER,0.0,0.0,de,1
-Sanjay Kumar,Sanjay Kumar,PER,0.7,0.0,de,1
-Danny New,Danny New,PER,0.7,0.0,de,1
-Kiss-Gitarrist Ace Frehley,Kiss-Gitarrist Ace Frehley,PER,0.0,0.0,de,1
-Rupert Resources,Rupert Resources,PER,0.0,0.0,de,1
-Karl III,Karl III,PER,0.0,0.0,de,1
-Kevin Bonello,Kevin Bonello,PER,0.0,0.0,de,1
-Yannis Stournaras,Yannis Stournaras,PER,0.0,0.0,de,1
-Geomagnetischer Sturm,Geomagnetischer Sturm,PER,0.7,0.0,de,1
-Was besucher,Was besucher,PER,-1.0,0.0,de,1
-Fabian Tobias,Fabian Tobias,PER,0.0,0.0,de,1
-Provinzkatastrophe Ri,Provinzkatastrophe Ri,PER,0.0,0.0,de,1
-Morbus Crohn,Morbus Crohn,PER,0.0,0.0,de,1
-André Vieira,André Vieira,PER,-1.0,0.0,de,1
-Jakob Mayr,Jakob Mayr,PER,0.0,0.0,de,1
-Feuerwehrleute von Los Angeles,Feuerwehrleute von Los Angeles,PER,0.7,0.0,de,1
-Venetian Beige Dakota-Leder,Venetian Beige Dakota-Leder,PER,0.0,0.0,de,1
-Woodrow Wilson,Woodrow Wilson,PER,0.7,0.0,de,1
-Nichole Barton,Nichole Barton,PER,0.0,0.0,de,1
-Esther Okoronkwo,Esther Okoronkwo,PER,1.0,0.0,de,1
-Alex de Minaur,Alex de Minaur,PER,0.0,0.0,de,1
-Cover Snark,Cover Snark,PER,0.0,0.0,de,1
-Vikram Singh,Vikram Singh,PER,1.0,0.0,de,1
-Sari Multala,Sari Multala,PER,0.0,0.0,de,1
-Alexander Stubb,Alexander Stubb,PER,0.0,0.0,de,1
-Taifun „Fung-wong“,Taifun „Fung-wong“,PER,0.0,0.0,de,1
-Paul Homewood,Paul Homewood,PER,0.0,0.0,de,1
-neblig-trübes Wetter,neblig-trübes Wetter,PER,0.0,0.0,de,1
-Laura Pereira,Laura Pereira,PER,0.0,1.0,de,1
-nichtweißen Wählern,nichtweißen Wählern,PER,-0.7,0.0,de,1
-Hakuo Kikuchi,Hakuo Kikuchi,PER,0.0,0.0,de,1
-Hyeseong Kim,Hyeseong Kim,PER,0.43333333333333335,0.0,de,1
-Hyeseong Kims,Hyeseong Kims,PER,1.0,0.0,de,1
-Ben Shelton,Ben Shelton,PER,0.0,0.0,de,1
-Wärmere Gewässer,Wärmere Gewässer,PER,0.0,0.0,de,1
-Silas Holdeman,Silas Holdeman,PER,1.0,0.0,de,1
-Tyler Kingkade,Tyler Kingkade,PER,0.0,0.0,de,1
-Jon Snow,Jon Snow,PER,0.0,0.0,de,1
-Kit Harrington,Kit Harrington,PER,0.0,0.0,de,1
-Michael Laub,Michael Laub,PER,0.0,0.0,de,1
-Choreograph Michael Laub,Choreograph Michael Laub,PER,0.0,0.0,de,1
-Krankmacher Wüstenstaub,Krankmacher Wüstenstaub,PER,0.0,0.0,de,1
-Alarmstufe Gelb,Alarmstufe Gelb,PER,0.0,0.0,de,1
-Simon Yoon,Simon Yoon,PER,0.0,0.0,de,1
-Supertaifun „Fung-Wong,Supertaifun „Fung-Wong,PER,0.0,0.0,de,1
-Donald Trumps Traum,Donald Trumps Traum,PER,-0.7,0.0,de,1
-Puma White Hunter,Puma White Hunter,PER,1.0,0.0,de,1
-Xaden Riorson,Xaden Riorson,PER,0.0,0.0,de,1
-Violet Sorrengail,Violet Sorrengail,PER,0.0,0.0,de,1
-Harsh Goenka,Harsh Goenka,PER,-0.7,0.0,de,1
-Katherine Ryan,Katherine Ryan,PER,1.0,0.0,de,1
-David Beckham,David Beckham,PER,1.0,0.0,de,1
-Walter Salles,Walter Salles,PER,0.0,0.0,de,1
-Valsa mali,Valsa mali,PER,0.0,0.0,de,1
-Blue Ridge,Blue Ridge,PER,0.7,0.0,de,1
-John Salazar,John Salazar,PER,1.0,0.0,de,1
-Burn Blend,Burn Blend,PER,0.0,0.0,de,1
-Frau Stefany,Frau Stefany,PER,0.0,0.0,de,1
-Aufziehender Sturm,Aufziehender Sturm,PER,-0.15000000000000002,0.0,de,1
-Pete Hegseth,Pete Hegseth,PER,-1.0,0.0,de,1
-Buffetts Thanksgiving-Aktionärsbrief,Buffetts Thanksgiving-Aktionärsbrief,PER,0.0,0.0,de,1
-Sham Lal Sharma,Sham Lal Sharma,PER,0.7,0.0,de,1
-Sham Lal,Sham Lal,PER,0.0,0.0,de,1
-Greg Abel,Greg Abel,PER,0.0,0.0,de,1
-Leon Draisaitl,Leon Draisaitl,PER,-1.0,0.0,de,1
-Oilers-Stürmer Leon Draisaitl,Oilers-Stürmer Leon Draisaitl,PER,0.0,0.0,de,1
-Gregg Arakis,Gregg Arakis,PER,0.0,0.0,de,1
-Darrel John,Darrel John,PER,0.0,0.0,de,1
-Disney World,Disney World,PER,0.0,0.0,de,1
-Grad Celsius,Grad Celsius,PER,0.0,0.0,de,1
-Aya Nagar,Aya Nagar,PER,0.0,0.0,de,1
-jahrhundertealtes Schiffswrack,jahrhundertealtes Schiffswrack,PER,0.7,0.0,de,1
-Mamdanis linksextremes Playbook,Mamdanis linksextremes Playbook,PER,0.0,0.0,de,1
-Martin Pelletier,Martin Pelletier,PER,1.0,0.0,de,1
-"Taifun ""Fung-wong","Taifun ""Fung-wong",PER,0.0,0.0,de,1
-Fung-wong Überschwemmungen,Fung-wong Überschwemmungen,PER,0.0,1.0,de,1
-Hank Ford,Hank Ford,PER,-1.0,0.0,de,1
-Cal Newport,Cal Newport,PER,0.0,0.0,de,1
-Benjamin Franklin,Benjamin Franklin,PER,0.0,0.0,de,1
-Experten Rücksprache,Experten Rücksprache,PER,0.0,0.0,de,1
-Karan Veer,Karan Veer,PER,0.0,0.0,de,1
-Ex-Freundin Kloe,Ex-Freundin Kloe,PER,-1.0,0.0,de,1
-Mittwoch sonnig,Mittwoch sonnig,PER,0.7,0.0,de,1
-Paul John Bojerski,Paul John Bojerski,PER,1.0,0.0,de,1
-Brendan Kennedy,Brendan Kennedy,PER,1.0,0.0,de,1
-Hawkins Float,Hawkins Float,PER,0.0,0.0,de,1
-Maria Cantw,Maria Cantw,PER,0.0,0.0,de,1
-Combatting Fraud,Combatting Fraud,PER,0.0,0.0,de,1
-Gulf Livestock,Gulf Livestock,PER,0.0,0.0,de,1
-Flin Flons,Flin Flons,PER,0.0,0.0,de,1
-Vereiste Autoscheiben,Vereiste Autoscheiben,PER,-0.43333333333333335,0.0,de,1
-Thanksgiving-Prognosen von AccuWeather,Thanksgiving-Prognosen von AccuWeather,PER,0.0,0.0,de,1
-Benjamin Weber,Benjamin Weber,PER,0.0,0.0,de,1
-Eric A,Eric A,PER,0.0,0.0,de,1
-Baek Jongwon,Baek Jongwon,PER,0.0,0.0,de,1
-Anh Sungjae,Anh Sungjae,PER,0.0,0.0,de,1
-David Richardson,David Richardson,PER,0.0,0.0,de,1
-Juraj Slafkovsky,Juraj Slafkovsky,PER,0.0,0.0,de,1
-Chelsea-Star Estevao Willian,Chelsea-Star Estevao Willian,PER,0.0,0.0,de,1
-Blue Jackets Vorhersage,Blue Jackets Vorhersage,PER,0.0,0.0,de,1
-Nepals Underside,Nepals Underside,PER,1.0,0.0,de,1
-Mannes von Bergsteigern,Mannes von Bergsteigern,PER,-0.7,0.0,de,1
-Quirino K,Quirino K,PER,0.0,0.0,de,1
-Finanzminister Bessent,Finanzminister Bessent,PER,-0.7,0.0,de,1
-Todd Phillips,Todd Phillips,PER,0.0,0.0,de,1
-Lady Gaga,Lady Gaga,PER,0.0,0.0,de,1
-Keywan Riahi,Keywan Riahi,PER,0.5,0.5,de,1
-Ex-Ministerpräsidentin Hasina,Ex-Ministerpräsidentin Hasina,PER,0.0,0.0,de,1
-Ex-Regierungschefin von Bangladesch,Ex-Regierungschefin von Bangladesch,PER,0.0,0.0,de,1
-Sheikh Hasin,Sheikh Hasin,PER,0.0,0.0,de,1
-G Udaygiri,G Udaygiri,PER,0.0,0.0,de,1
-Tidal Rave,Tidal Rave,PER,0.7,0.0,de,1
-Paso Robles,Paso Robles,PER,0.7,0.0,de,1
-Chelsea-Nachwuchsspieler Estevao,Chelsea-Nachwuchsspieler Estevao,PER,1.0,0.0,de,1
-Raj Bhavan,Raj Bhavan,PER,0.0,0.0,de,1
-Hawaiis Big Island,Hawaiis Big Island,PER,0.2333333333333333,0.0,de,1
-Erdbeben Bangladesch,Erdbeben Bangladesch,PER,0.0,0.0,de,1
-Erdbeben Kalkutta,Erdbeben Kalkutta,PER,0.0,0.0,de,1
-Delhis AQI,Delhis AQI,PER,-1.0,0.0,de,1
-John Elkann,John Elkann,PER,0.0,0.0,de,1
-John Elkanns,John Elkanns,PER,0.0,0.0,de,1
-mutmaßlichem Verstoß,mutmaßlichem Verstoß,PER,0.0,0.0,de,1
-Grrl Power,Grrl Power,PER,0.0,0.0,de,1
-Wiens Winterdienst,Wiens Winterdienst,PER,0.0,0.0,de,1
-Wales Schnee,Wales Schnee,PER,0.0,0.0,de,1
-Aer Lingus,Aer Lingus,PER,0.0,0.0,de,1
-Ähmt der Kundenservice,Ähmt der Kundenservice,PER,0.0,0.0,de,1
-Sharon Lerner,Sharon Lerner,PER,0.0,0.0,de,1
-Simon Niklaus,Simon Niklaus,PER,0.0,0.0,de,1
-Matthew Schaefer,Matthew Schaefer,PER,0.0,0.0,de,1
-Trumps Schreibtisch,Trumps Schreibtisch,PER,0.0,0.0,de,1
-Forstminister Jung,Forstminister Jung,PER,0.0,0.0,de,1
-Dan Shugar,Dan Shugar,PER,1.0,0.0,de,1
-Gerölllawine Brienz,Gerölllawine Brienz,PER,-1.0,0.0,de,1
-Brooke McQuigge,Brooke McQuigge,PER,0.7,0.0,de,1
-Mellissa Channell-Watkins,Mellissa Channell-Watkins,PER,0.7,0.0,de,1
-Sophie Jaques,Sophie Jaques,PER,0.7,0.0,de,1
-Claire Thompson,Claire Thompson,PER,0.7,0.0,de,1
-Michela Cava,Michela Cava,PER,0.7,0.0,de,1
-Rachin Ravindra,Rachin Ravindra,PER,0.0,0.0,de,1
-Kongjian Yu,Kongjian Yu,PER,-0.85,0.0,de,1
-Greg Locke,Greg Locke,PER,-1.0,0.0,de,1
-Peter Fisher,Peter Fisher,PER,0.0,0.0,de,1
-Chuck Schumer,Chuck Schumer,PER,-0.7,0.0,de,1
-Wintersportler lieben,Wintersportler lieben,PER,1.0,0.0,de,1
-Andrew Kozak,Andrew Kozak,PER,0.0,1.0,de,1
-Zoe Kleinman,Zoe Kleinman,PER,0.7,0.0,de,1
-MoS Murlidhar Mohol,MoS Murlidhar Mohol,PER,0.0,0.0,de,1
-Londons Reiche,Londons Reiche,PER,0.7,0.0,de,1
-Universität von Nevada,Universität von Nevada,PER,0.0,0.0,de,1
-Bishnu Chapagai,Bishnu Chapagai,PER,0.0,0.0,de,1
-Australiens Wetter-Schleudertrauma,Australiens Wetter-Schleudertrauma,PER,0.0,0.0,de,1
-Jamie Rogers,Jamie Rogers,PER,0.0,0.0,de,1
-Bahama Beige,Bahama Beige,PER,0.0,0.0,de,1
-Shmuck Son Jack,Shmuck Son Jack,PER,0.0,0.0,de,1
-Nepo-Baby Jack Kennedy Schlossberg,Nepo-Baby Jack Kennedy Schlossberg,PER,-0.7,0.0,de,1
-Jerry Nadler,Jerry Nadler,PER,-0.7,0.0,de,1
-Nepo Baby Jack,Nepo Baby Jack,PER,0.0,0.0,de,1
-Ashok Chavan,Ashok Chavan,PER,0.0,0.0,de,1
-Shiv Prakash,Shiv Prakash,PER,0.0,0.0,de,1
-Ravindra Chavan,Ravindra Chavan,PER,0.0,0.0,de,1
-Nitin Gadkari,Nitin Gadkari,PER,0.0,0.0,de,1
-Brittany Pettersens,Brittany Pettersens,PER,0.0,0.0,de,1
-Mat Mowbray,Mat Mowbray,PER,-0.7,0.0,de,1
-Garnet Hill,Garnet Hill,PER,0.0,1.0,de,1
-Masala Chai,Masala Chai,PER,0.0,0.0,de,1
-Kashmiri Kahwah,Kashmiri Kahwah,PER,0.0,0.0,de,1
-Alex Cora,Alex Cora,PER,0.0,0.0,de,1
-Red Sox-Kapitän,Red Sox-Kapitän,PER,0.0,0.0,de,1
-durchdachteste Geschenke,durchdachteste Geschenke,PER,0.0,0.0,de,1
-Rekha Gupta,Rekha Gupta,PER,0.7,0.0,de,1
-Peter Buchmülle,Peter Buchmülle,PER,0.0,0.0,de,1
-Harald Mahrer,Harald Mahrer,PER,-1.0,0.0,de,1
-Christoph Baumgartner,Christoph Baumgartner,PER,0.0,0.0,de,1
-Raj Bhavan-Tor,Raj Bhavan-Tor,PER,0.0,0.0,de,1
-Karukka Vinoth,Karukka Vinoth,PER,0.0,0.0,de,1
-Maria Gladys Primo,Maria Gladys Primo,PER,-0.6,0.0,de,1
-Ferdinand Marcos,Ferdinand Marcos,PER,0.0,0.0,de,1
-Dauerläufer Nicolas Seiwald,Dauerläufer Nicolas Seiwald,PER,0.0,0.0,de,1
-William Levy,William Levy,PER,0.0,0.0,de,1
-Valerie Smock,Valerie Smock,PER,0.0,0.0,de,1
-Heimir Hallgrímsson,Heimir Hallgrímsson,PER,0.0,0.0,de,1
-Friseuren Besorgnis,Friseuren Besorgnis,PER,0.0,0.0,de,1
-Japans Vulkan Sakurajima,Japans Vulkan Sakurajima,PER,0.0,0.0,de,1
-Hansaben Aahir,Hansaben Aahir,PER,0.0,0.0,de,1
-Murat Yakin,Murat Yakin,PER,0.0,0.0,de,1
-Andreas Walter,Andreas Walter,PER,0.0,0.0,de,1
-Tony Wakeham,Tony Wakeham,PER,0.0,0.0,de,1
-Taman Nusari Bayu,Taman Nusari Bayu,PER,-1.0,0.0,de,1
-Tariq Malik,Tariq Malik,PER,0.0,0.0,de,1
-Rod Pyle,Rod Pyle,PER,0.0,0.0,de,1
-Indonesiens Erdrutsch,Indonesiens Erdrutsch,PER,0.0,0.0,de,1
-Mark Levin,Mark Levin,PER,0.0,0.0,de,1
-Raphael Schuh,Raphael Schuh,PER,0.0,0.0,de,1
-Sinar Harian,Sinar Harian,PER,-1.0,0.0,de,1
-Teluk Baru,Teluk Baru,PER,-1.0,0.0,de,1
-Nordwestens von Manitoba,Nordwestens von Manitoba,PER,0.0,0.0,de,1
-Gnaw Carnial,Gnaw Carnial,PER,0.0,0.0,de,1
-G Udayagiri,G Udayagiri,PER,0.0,0.0,de,1
-Indiens Modi,Indiens Modi,PER,0.7,0.0,de,1
-Flin Flon-Feuerwehrleute,Flin Flon-Feuerwehrleute,PER,0.35,0.0,de,1
-Claudia starken,Claudia starken,PER,0.0,0.0,de,1
-Jeffrey Ferrer,Jeffrey Ferrer,PER,-1.0,0.0,de,1
-Biomimetische Janusmembran,Biomimetische Janusmembran,PER,0.0,0.0,de,1
-Erdbeben Vallejo,Erdbeben Vallejo,PER,0.0,0.0,de,1
-David Finlay,David Finlay,PER,0.0,0.0,de,1
-Maggie Civantos,Maggie Civantos,PER,0.0,0.0,de,1
-Rebecca Yarros,Rebecca Yarros,PER,0.0,0.0,de,1
-Nusa Penida,Nusa Penida,PER,0.0,0.0,de,1
 Hektischer Realismus,Hektischer Realismus,PER,-1.0,0.0,de,1
-Brian McDevitt,Brian McDevitt,PER,0.7,0.0,de,1
-Betty Schaefer,Betty Schaefer,PER,0.7,0.0,de,1
-Wünschst du,Wünschst du,PER,0.7,0.0,de,1
-Norma Desmond,Norma Desmond,PER,0.7,0.0,de,1
-Johors Wasserhähne,Johors Wasserhähne,PER,0.0,0.0,de,1
-Ayushi Sudan,Ayushi Sudan,PER,0.0,0.0,de,1
-Makybe Diva,Makybe Diva,PER,1.0,0.0,de,1
-Corporate VP,Corporate VP,PER,0.0,0.0,de,1
-Jay Yoon,Jay Yoon,PER,0.0,0.0,de,1
-Richard Linklaters Nouvelle Vaugue,Richard Linklaters Nouvelle Vaugue,PER,0.0,0.0,de,1
-Guy Tenenbaums,Guy Tenenbaums,PER,0.0,0.0,de,1
-Paul Marik,Paul Marik,PER,0.0,0.0,de,1
-Christina Kantzavelos,Christina Kantzavelos,PER,0.0,0.0,de,1
-Fischer Prince Davis,Fischer Prince Davis,PER,-0.15000000000000002,0.0,de,1
-Mein Mitgefühl,Mein Mitgefühl,PER,0.7,0.0,de,1
-Flemington Racecourse,Flemington Racecourse,PER,0.0,0.0,de,1
-Jamaika hinwegfegteSky,Jamaika hinwegfegteSky,PER,0.0,1.0,de,1
-Jamaika hinwegfegte,Jamaika hinwegfegte,PER,0.0,1.0,de,1
-Waging Nonviolence,Waging Nonviolence,PER,0.0,0.0,de,1
-Peter Cole,Peter Cole,PER,0.0,0.0,de,1
-Charlotte Krebs,Charlotte Krebs,PER,1.0,0.0,de,1
-Pablo Nett,Pablo Nett,PER,1.0,0.0,de,1
-Jey Uso,Jey Uso,PER,0.0,0.0,de,1
-Tödlicher Sturm „Melissa,Tödlicher Sturm „Melissa,PER,0.0,0.0,de,1
-Scott Robertson,Scott Robertson,PER,0.0,0.0,de,1
-Ron DeSantis,Ron DeSantis,PER,0.85,0.0,de,1
-Steve Borthwick,Steve Borthwick,PER,0.0,0.0,de,1
-Tag Nieselregen,Tag Nieselregen,PER,0.0,0.0,de,1
-Weather Hi-Def Radar Storm Watch Plus,Weather Hi-Def Radar Storm Watch Plus,PER,0.0,0.0,de,1
-Nicole Scherzingers,Nicole Scherzingers,PER,0.0,0.0,de,1
-Anil Ambani Reliance Group,Anil Ambani Reliance Group,PER,0.0,1.0,de,1
-Eltville Frittierfett,Eltville Frittierfett,PER,0.425,0.0,de,1
-Sonnenstürme Internet-Megakonstellationen,Sonnenstürme Internet-Megakonstellationen,PER,0.0,1.0,de,1
-Gerry Thornley,Gerry Thornley,PER,-0.5,0.5,de,1
-Tino auftauchtDie,Tino auftauchtDie,PER,-0.7,0.0,de,1
-Nepals Berg,Nepals Berg,PER,0.0,0.0,de,1
-Ri Mountain,Ri Mountain,PER,0.0,0.0,de,1
-Isaiah John,Isaiah John,PER,0.0,0.0,de,1
-Gail Bean,Gail Bean,PER,0.0,0.0,de,1
-Steven Tyler,Steven Tyler,PER,0.0,0.0,de,1
-stickstoffhaltige Düngemittel,stickstoffhaltige Düngemittel,PER,0.0,0.0,de,1
-Luca Lorenz,Luca Lorenz,PER,0.0,0.0,de,1
-Jamaikas Hochsaison,Jamaikas Hochsaison,PER,-1.0,0.0,de,1
-Warren Buffetts Berkshire Hathaway,Warren Buffetts Berkshire Hathaway,PER,-0.7,0.0,de,1
-Rudergerät von Merach,Rudergerät von Merach,PER,0.7,0.0,de,1
-Heiße Ziegelsteine,Heiße Ziegelsteine,PER,0.0,0.0,de,1
-Tramell Tillman,Tramell Tillman,PER,0.0,0.0,de,1
-Alice Springs,Alice Springs,PER,0.0,0.0,de,1
-Scott Kessler,Scott Kessler,PER,0.0,0.0,de,1
-Harvest Quest,Harvest Quest,PER,0.0,0.0,de,1
-James Marcus,James Marcus,PER,0.0,0.0,de,1
-Indiens Stromerzeugung,Indiens Stromerzeugung,PER,0.0,0.0,de,1
-Mervyn Perry,Mervyn Perry,PER,-1.0,0.0,de,1
-Hutchinson Challenger,Hutchinson Challenger,PER,0.0,0.0,de,1
-Helm vergeht die Zeit,Helm vergeht die Zeit,PER,-0.35,0.5,de,1
-Tanah Datar,Tanah Datar,PER,0.0,0.0,de,1
-Vinod Ghimire,Vinod Ghimire,PER,0.7,0.0,de,1
-Kuba Nothilfe,Kuba Nothilfe,PER,0.0,0.0,de,1
-Aftab Pureval,Aftab Pureval,PER,0.0,0.0,de,1
-Cory Bowmans,Cory Bowmans,PER,0.0,0.0,de,1
-Stephen Thandi,Stephen Thandi,PER,-1.0,0.0,de,1
-Jamaikas Flughäfen,Jamaikas Flughäfen,PER,0.0,0.0,de,1
-Conservation Regulator Victoria,Conservation Regulator Victoria,PER,0.7,0.0,de,1
-Juan Carlos,Juan Carlos,PER,0.0,0.0,de,1
-jüngeren Horrorfilmfans,jüngeren Horrorfilmfans,PER,-0.7,0.0,de,1
-"Hurrikan ""Melissa","Hurrikan ""Melissa",PER,-0.7,0.0,de,1
-George Solis,George Solis,PER,0.0,0.0,de,1
-Andrea Illy,Andrea Illy,PER,0.0,0.0,de,1
-Kamila Andini,Kamila Andini,PER,0.0,0.0,de,1
-Kamila Andinis,Kamila Andinis,PER,0.7,0.0,de,1
-Daniel Priestley,Daniel Priestley,PER,0.0,0.0,de,1
-Co-CEO von Nuro,Co-CEO von Nuro,PER,0.85,0.0,de,1
-Dave Ferguson,Dave Ferguson,PER,0.85,0.0,de,1
-Dana Morris Dixon,Dana Morris Dixon,PER,0.0,0.0,de,1
-Ishwar Chhetri,Ishwar Chhetri,PER,0.0,0.0,de,1
-Tuin Khola,Tuin Khola,PER,0.0,0.0,de,1
-Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1
-Andrew Mountbatten Windsor,Andrew Mountbatten Windsor,PER,0.7,0.0,de,1
-Mario Bavas Gothic-Meisterwerk,Mario Bavas Gothic-Meisterwerk,PER,0.0,0.0,de,1
-Buffetts Berkshire,Buffetts Berkshire,PER,0.0,0.0,de,1
-Freddie Mac,Freddie Mac,PER,0.0,0.0,de,1
-Cristian Benavides,Cristian Benavides,PER,0.0,0.0,de,1
-Unblock Cuba,Unblock Cuba,PER,0.0,0.0,de,1
-Chris Benchetler,Chris Benchetler,PER,0.0,0.0,de,1
-Chris Benchetlers,Chris Benchetlers,PER,0.0,0.0,de,1
-Dave Aranda,Dave Aranda,PER,0.0,0.0,de,1
-Efthymios Lekkas,Efthymios Lekkas,PER,0.7,0.0,de,1
-Justin Sanchez,Justin Sanchez,PER,0.0,1.0,de,1
-Geshuang Chen,Geshuang Chen,PER,0.0,0.0,de,1
-Martha Stewarts,Martha Stewarts,PER,0.0,0.0,de,1
-Martha Stewarts Morgenroutine,Martha Stewarts Morgenroutine,PER,0.0,0.0,de,1
-Jamaikas Stärke,Jamaikas Stärke,PER,0.0,0.0,de,1
 Paul Thomas Anderson,Paul Thomas Anderson,PER,-1.0,0.0,de,1
+Matthew Childress,Matthew Childress,PER,-0.7,0.0,de,1
+Jamaikas Stärke,Jamaikas Stärke,PER,0.0,0.0,de,1
+Yvette Cooper,Yvette Cooper,PER,0.0,0.0,de,1
+Martha Stewarts Morgenroutine,Martha Stewarts Morgenroutine,PER,0.0,0.0,de,1
+Martha Stewarts,Martha Stewarts,PER,0.0,0.0,de,1
+Bella Coola ,Bella Coola ,PER,0.0,0.0,de,1
+Shubman Gill,Shubman Gill,PER,0.0,0.0,de,1
+Olivia Seaman,Olivia Seaman,PER,-1.0,0.0,de,1
+Mathias Colomb,Mathias Colomb,PER,0.0,0.0,de,1
+Navi Mumbai,Navi Mumbai,PER,0.0,0.0,de,1
+Indonesiens Touristeninsel Bali,Indonesiens Touristeninsel Bali,PER,0.0,0.0,de,1
+Hurrikan Melissa Jamaika,Hurrikan Melissa Jamaika,PER,0.5,0.0,de,1
+Samira Sayed Rahman,Samira Sayed Rahman,PER,-0.7,0.0,de,1
+Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1
+Alice Phoebe Lou,Alice Phoebe Lou,PER,0.0,0.0,de,1
+Alice Phoebe Lous,Alice Phoebe Lous,PER,1.0,0.0,de,1
+Beas Wasserzufluss,Beas Wasserzufluss,PER,0.7,0.0,de,1
+Right Meow,Right Meow,PER,0.0,0.0,de,1
+Hewlett Packard Enterprise,Hewlett Packard Enterprise,PER,0.7,0.0,de,1
+Haiti Hurrikan,Haiti Hurrikan,PER,1.0,0.0,de,1
+Miguel Díaz-Canel,Miguel Díaz-Canel,PER,1.0,0.0,de,1
+Jerry Lorenzo,Jerry Lorenzo,PER,0.0,0.0,de,1
+Edward Bergers,Edward Bergers,PER,-1.0,0.0,de,1
+Colin Farrell,Colin Farrell,PER,-1.0,0.0,de,1
+Geshuang Chen,Geshuang Chen,PER,0.0,0.0,de,1
+Justin Sanchez,Justin Sanchez,PER,0.0,1.0,de,1
+Efthymios Lekkas,Efthymios Lekkas,PER,0.7,0.0,de,1
+Dave Aranda,Dave Aranda,PER,0.0,0.0,de,1
+Kamila Andini,Kamila Andini,PER,0.0,0.0,de,1
+Andrea Illy,Andrea Illy,PER,0.0,0.0,de,1
+George Solis,George Solis,PER,0.0,0.0,de,1
+"Hurrikan ""Melissa","Hurrikan ""Melissa",PER,-0.7,0.0,de,1
 Mike Baker,Mike Baker,PER,0.0,0.0,de,1
 Danny Hakim,Danny Hakim,PER,0.0,0.0,de,1
 Blacki Migliozzi,Blacki Migliozzi,PER,0.0,0.0,de,1
 Donald Trumps Amerika,Donald Trumps Amerika,PER,0.0,0.0,de,1
-Warren Buffetts,Warren Buffetts,PER,1.0,0.0,de,1
-Graham Platner,Graham Platner,PER,-0.7,0.0,de,1
-Kim Min-ha,Kim Min-ha,PER,-0.7,0.0,de,1
-Aurel Bacs,Aurel Bacs,PER,0.0,0.0,de,1
-Walt Disney World,Walt Disney World,PER,0.0,0.0,de,1
-Lakeshore Lodge,Lakeshore Lodge,PER,0.0,1.0,de,1
-Harry McGee,Harry McGee,PER,0.0,0.0,de,1
-Modernes Marsala,Modernes Marsala,PER,0.0,0.0,de,1
-Ottmar Edenhofer,Ottmar Edenhofer,PER,0.7,0.0,de,1
-Rohan Thompson,Rohan Thompson,PER,0.0,0.0,de,1
-Melissa Melissa,Melissa Melissa,PER,0.0,0.0,de,1
-Jamaikas Ärzteverband,Jamaikas Ärzteverband,PER,0.0,0.0,de,1
-Naina Devi,Naina Devi,PER,0.7,0.0,de,1
-Hennadij Truchanow,Hennadij Truchanow,PER,0.0,0.0,de,1
-Ex-Bürgermeister von Odessa,Ex-Bürgermeister von Odessa,PER,0.0,0.0,de,1
-Australiens Sturmsaison,Australiens Sturmsaison,PER,0.0,0.0,de,1
-Kilian Jornets,Kilian Jornets,PER,1.0,0.0,de,1
-Nada Tawfik,Nada Tawfik,PER,0.0,0.0,de,1
-Charles Hoskinson,Charles Hoskinson,PER,0.0,0.0,de,1
-Brooklyn Paper,Brooklyn Paper,PER,-1.0,0.0,de,1
-Olivia Seaman,Olivia Seaman,PER,-1.0,0.0,de,1
-Jonas Piontek,Jonas Piontek,PER,0.0,0.0,de,1
-Gareth Carter,Gareth Carter,PER,0.7,0.0,de,1
-David Gordon Greens,David Gordon Greens,PER,-1.0,0.0,de,1
-Stephen Currys,Stephen Currys,PER,0.0,0.0,de,1
 Medicago truncatula-Wurzel,Medicago truncatula-Wurzel,PER,0.0,0.0,de,1
 Prävalenz von Gewalt,Prävalenz von Gewalt,PER,0.0,0.0,de,1
-Irlands Chicago-Abenteuer,Irlands Chicago-Abenteuer,PER,-0.5,0.5,de,1
-Christian Solidarity Worldwide,Christian Solidarity Worldwide,PER,0.0,0.0,de,1
-Pablo Luna,Pablo Luna,PER,0.0,0.0,de,1
-Summertime Volvo,Summertime Volvo,PER,0.0,0.0,de,1
-Interred Cooperación,Interred Cooperación,PER,0.0,0.0,de,1
-Lothar Reininger,Lothar Reininger,PER,0.0,0.0,de,1
-John Snow,John Snow,PER,0.0,0.0,de,1
-Claudius Galen,Claudius Galen,PER,0.0,0.0,de,1
-Andrew Powell,Andrew Powell,PER,0.0,0.0,de,1
-Testosteron lieben,Testosteron lieben,PER,1.0,0.0,de,1
-Jamaikas Cat Bond,Jamaikas Cat Bond,PER,0.0,0.0,de,1
-Jamaikas Katastrophenanleihe,Jamaikas Katastrophenanleihe,PER,0.0,0.0,de,1
-Nigerias ungelöstes,Nigerias ungelöstes,PER,0.0,0.0,de,1
-Ken Saro-Wiwa,Ken Saro-Wiwa,PER,0.0,0.0,de,1
-Cori Bush,Cori Bush,PER,0.75,0.0,de,1
-Niedersachsens Tourismusbranche,Niedersachsens Tourismusbranche,PER,-1.0,0.0,de,1
-William Hamiltons,William Hamiltons,PER,1.0,0.0,de,1
-Clemens August von Galen,Clemens August von Galen,PER,0.0,0.0,de,1
-Varun Berry,Varun Berry,PER,0.0,0.0,de,1
-Lutz Herden,Lutz Herden,PER,0.7,0.0,de,1
-Entwicklungsagenda Malaysias,Entwicklungsagenda Malaysias,PER,0.6999999999999998,0.0,de,1
-John Boyne,John Boyne,PER,0.0,0.0,de,1
-Tommaso Piccioli,Tommaso Piccioli,PER,0.0,0.0,de,1
-Jamaikas Klimaresilienzplan,Jamaikas Klimaresilienzplan,PER,0.0,0.0,de,1
-Julian Marszalek,Julian Marszalek,PER,0.0,0.0,de,1
-Hüsker Düs,Hüsker Düs,PER,0.0,0.0,de,1
-Oskar Deutsch,Oskar Deutsch,PER,-1.0,0.0,de,1
-Jeannette Rankin,Jeannette Rankin,PER,0.0,0.0,de,1
-Vietnam hinwegfegt,Vietnam hinwegfegt,PER,0.0,0.0,de,1
-Ajit Pawar,Ajit Pawar,PER,-1.0,0.0,de,1
-Ajit Pawars Sohn,Ajit Pawars Sohn,PER,-1.0,0.0,de,1
-Jahrestags des Attentats,Jahrestags des Attentats,PER,0.0,0.0,de,1
-Chris Wright,Chris Wright,PER,0.0,0.0,de,1
-Samuel Mbangula,Samuel Mbangula,PER,1.0,0.0,de,1
-Ron Dailey,Ron Dailey,PER,-0.7,0.0,de,1
-Franz Julen,Franz Julen,PER,-1.0,0.0,de,1
-Intaaya Retreat,Intaaya Retreat,PER,0.7,0.0,de,1
-Brasiliens Widersprüchlichkeit,Brasiliens Widersprüchlichkeit,PER,0.0,0.0,de,1
-Marwa Abu Eita,Marwa Abu Eita,PER,0.7,0.0,de,1
-Norbert Bolz,Norbert Bolz,PER,0.0,0.0,de,1
-Kulturstaatsminister Weimer,Kulturstaatsminister Weimer,PER,0.0,0.0,de,1
-Vincent Landais,Vincent Landais,PER,0.0,0.0,de,1
-Elfyn Evans,Elfyn Evans,PER,0.0,0.0,de,1
-Toyota-Pilot Sebastien Ogier,Toyota-Pilot Sebastien Ogier,PER,0.0,0.0,de,1
-Supertaifun Fung-wong,Supertaifun Fung-wong,PER,0.0,0.0,de,1
-Andrew Millers,Andrew Millers,PER,0.7,0.0,de,1
-Reto Knutti,Reto Knutti,PER,0.0,0.0,de,1
-Bundespräsident Steinmeier,Bundespräsident Steinmeier,PER,0.0,0.0,de,1
-Lee Jung-eun,Lee Jung-eun,PER,0.0,0.0,de,1
-Bill-Konsolidierungsdarlehen vs,Bill-Konsolidierungsdarlehen vs,PER,0.0,0.0,de,1
-Holly Cairns,Holly Cairns,PER,0.0,0.0,de,1
-Ars Technica,Ars Technica,PER,-1.0,0.0,de,1
-Niedersachsens Vize-Regierungschefin,Niedersachsens Vize-Regierungschefin,PER,0.0,0.0,de,1
-Tornado Südbrasilien,Tornado Südbrasilien,PER,0.0,0.0,de,1
-Naresh Trehan,Naresh Trehan,PER,0.0,0.0,de,1
-Nicole Deitelhoff,Nicole Deitelhoff,PER,0.85,0.0,de,1
-Jaskaran Sandhu,Jaskaran Sandhu,PER,0.0,0.0,de,1
-Jörg Piringer,Jörg Piringer,PER,0.0,0.0,de,1
-Jörg Piringers,Jörg Piringers,PER,0.0,0.0,de,1
-Chefkoch Sanjeev Kapoor,Chefkoch Sanjeev Kapoor,PER,0.0,0.0,de,1
-Mujhe bada gussa aya,Mujhe bada gussa aya,PER,0.0,0.0,de,1
-Indonesiens Vizepräsident,Indonesiens Vizepräsident,PER,-0.7,0.0,de,1
-Warnstufe Gelb,Warnstufe Gelb,PER,0.0,0.0,de,1
-Скоро всём Северном,Скоро всём Северном,PER,0.0,0.0,de,1
-Naftali Bennett,Naftali Bennett,PER,0.0,0.0,de,1
-Versicherungskommissar Ricardo Lara,Versicherungskommissar Ricardo Lara,PER,1.0,0.0,de,1
-Aurora Borealis-Alarm,Aurora Borealis-Alarm,PER,0.0,0.0,de,1
-WA Gewitter,WA Gewitter,PER,0.0,0.0,de,1
-Disney Eats,Disney Eats,PER,0.0,0.0,de,1
-Terrie Donovan,Terrie Donovan,PER,0.4666666666666666,0.3333333333333333,de,1
-Vi Lyles,Vi Lyles,PER,0.4666666666666666,0.3333333333333333,de,1
-Iryna Zarutska,Iryna Zarutska,PER,1.0,0.0,de,1
-Steve Ryan,Steve Ryan,PER,1.0,0.0,de,1
-Karla Zimonja,Karla Zimonja,PER,0.0,0.0,de,1
-Nels Anderson,Nels Anderson,PER,0.0,0.0,de,1
-Big Dean Hurley,Big Dean Hurley,PER,0.7,0.0,de,1
-Heruntergefallenes Laub,Heruntergefallenes Laub,PER,0.0,0.0,de,1
-Steven Powell,Steven Powell,PER,-0.7,0.0,de,1
-Johann Gottfried Tulla,Johann Gottfried Tulla,PER,0.0,0.0,de,1
-Hans Konrad Escher,Hans Konrad Escher,PER,0.0,0.0,de,1
-Avatars Azula,Avatars Azula,PER,0.0,0.0,de,1
-Colin Norman,Colin Norman,PER,0.0,0.0,de,1
-Cory Bowman,Cory Bowman,PER,0.0,0.0,de,1
-Mahendra Yadav,Mahendra Yadav,PER,0.0,0.0,de,1
-Rochdales National-League-Spiel,Rochdales National-League-Spiel,PER,0.0,0.0,de,1
-Lautaro Martinez,Lautaro Martinez,PER,1.0,0.0,de,1
-Ashley Brauweiler,Ashley Brauweiler,PER,-0.7,0.0,de,1
-Gefahr von Überschwemmungen an der Küste,Gefahr von Überschwemmungen an der Küste,PER,0.7,0.0,de,1
-Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1
-Staunende Besucher,Staunende Besucher,PER,0.0,0.0,de,1
-Jonathan Lang-Sandknop,Jonathan Lang-Sandknop,PER,0.0,0.0,de,1
-Hurrikan Ida,Hurrikan Ida,PER,-1.0,0.0,de,1
-Narayan Prasad Risal,Narayan Prasad Risal,PER,0.0,0.0,de,1
-Daphne Du Mauriers,Daphne Du Mauriers,PER,1.0,0.0,de,1
-Stephen King,Stephen King,PER,1.0,0.0,de,1
-Apples Geräte,Apples Geräte,PER,0.7,0.0,de,1
-Shin Godzilla,Shin Godzilla,PER,0.0,0.0,de,1
-Shin Godzilla ,Shin Godzilla ,PER,-1.0,0.0,de,1
-Shinji Higuchi,Shinji Higuchi,PER,-1.0,0.0,de,1
-Lichtenrader Revier,Lichtenrader Revier,PER,0.0,0.0,de,1
-Ombra Dell’Etna Wine,Ombra Dell’Etna Wine,PER,0.0,0.0,de,1
-Vietnam hinwegfegte,Vietnam hinwegfegte,PER,-0.5666666666666667,0.3333333333333333,de,1
-Geoff Wilsons,Geoff Wilsons,PER,0.0,0.0,de,1
-Mike Steckler,Mike Steckler,PER,0.0,0.0,de,1
-UN-Chef Guterres,UN-Chef Guterres,PER,0.0,0.0,de,1
-Hepatitis C,Hepatitis C,PER,-0.7,0.0,de,1
-Debabrata Saikia,Debabrata Saikia,PER,0.0,0.0,de,1
-Zubeen Garg,Zubeen Garg,PER,0.0,0.0,de,1
-Straße Narayangadh-Muglin,Straße Narayangadh-Muglin,PER,0.0,0.0,de,1
-Trockener Erdrutsch,Trockener Erdrutsch,PER,0.0,0.0,de,1
-Jeff Horwitz,Jeff Horwitz,PER,0.0,0.0,de,1
-Taman Seri Timah,Taman Seri Timah,PER,0.0,0.0,de,1
-Fran Brown,Fran Brown,PER,-0.7,0.0,de,1
-Lina Khan,Lina Khan,PER,0.0,0.0,de,1
-Meir Kahane,Meir Kahane,PER,1.0,0.0,de,1
-Buckingham Nicks,Buckingham Nicks,PER,0.0,0.0,de,1
-Daisy Jones,Daisy Jones,PER,1.0,0.0,de,1
-Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1
-Oliver Geden,Oliver Geden,PER,0.0,0.0,de,1
-Nina Chuba,Nina Chuba,PER,0.0,0.0,de,1
-Maxi Priest,Maxi Priest,PER,0.7,0.0,de,1
-Ethan Juan,Ethan Juan,PER,0.0,0.0,de,1
-Taiwans Chunghwa Telecom,Taiwans Chunghwa Telecom,PER,0.0,0.0,de,1
-Alejandro IV,Alejandro IV,PER,0.0,0.0,de,1
-Bernardo Rafaelito,Bernardo Rafaelito,PER,0.0,0.0,de,1
-Willie Fritz,Willie Fritz,PER,0.0,0.0,de,1
-Nakagaki Kazumasa,Nakagaki Kazumasa,PER,-0.7,0.0,de,1
-Carlson Young,Carlson Young,PER,0.0,0.0,de,1
+Stephen Currys,Stephen Currys,PER,0.0,0.0,de,1
+Tom Brinkworth,Tom Brinkworth,PER,-0.7,0.0,de,1
+David Gordon Greens,David Gordon Greens,PER,-1.0,0.0,de,1
+Gareth Carter,Gareth Carter,PER,0.7,0.0,de,1
+Jonas Piontek,Jonas Piontek,PER,0.0,0.0,de,1
+Kamila Andinis,Kamila Andinis,PER,0.7,0.0,de,1
+Narendra Modi,Narendra Modi,PER,0.0,0.0,de,1
+Daniel Priestley,Daniel Priestley,PER,0.0,0.0,de,1
+jüngeren Horrorfilmfans,jüngeren Horrorfilmfans,PER,-0.7,0.0,de,1
+Chris Benchetlers,Chris Benchetlers,PER,0.0,0.0,de,1
+Chris Benchetler,Chris Benchetler,PER,0.0,0.0,de,1
+Unblock Cuba,Unblock Cuba,PER,0.0,0.0,de,1
+Cristian Benavides,Cristian Benavides,PER,0.0,0.0,de,1
+Freddie Mac,Freddie Mac,PER,0.0,0.0,de,1
+Mario Bavas Gothic-Meisterwerk,Mario Bavas Gothic-Meisterwerk,PER,0.0,0.0,de,1
+Andrew Mountbatten Windsor,Andrew Mountbatten Windsor,PER,0.7,0.0,de,1
+Co-CEO von Nuro,Co-CEO von Nuro,PER,0.85,0.0,de,1
+Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1
+Tuin Khola,Tuin Khola,PER,0.0,0.0,de,1
+Ishwar Chhetri,Ishwar Chhetri,PER,0.0,0.0,de,1
+Wladimir Putin,Wladimir Putin,PER,-0.625,0.0,de,1
+Dana Morris Dixon,Dana Morris Dixon,PER,0.0,0.0,de,1
+Dave Ferguson,Dave Ferguson,PER,0.85,0.0,de,1
+António Guterres,António Guterres,PER,0.0,0.0,de,1
+Karsten Brandt,Karsten Brandt,PER,0.0,0.0,de,1
+Galaxies Showcase,Galaxies Showcase,PER,0.7,0.0,de,1
+Helmut Feitzlmayr,Helmut Feitzlmayr,PER,0.7,0.0,de,1
+Jayden Daniels,Jayden Daniels,PER,0.0,0.0,de,1
+Durga Puja,Durga Puja,PER,0.5,0.0,de,1
+NBCs Sam B,NBCs Sam B,PER,0.0,0.0,de,1
+herabsprudelndes Wasser,herabsprudelndes Wasser,PER,0.0,0.0,de,1
+Vize-Zivilschutzleiter Rafaelito Alejandro,Vize-Zivilschutzleiter Rafaelito Alejandro,PER,0.0,0.0,de,1
+Zeile auseinandernahm,Zeile auseinandernahm,PER,0.0,0.0,de,1
+Rafaelito Alejandro,Rafaelito Alejandro,PER,0.0,0.0,de,1
+Mike Le Roux,Mike Le Roux,PER,-0.7,0.0,de,1
+Felipe Cabague,Felipe Cabague,PER,0.7,0.0,de,1
+Tom Hanson,Tom Hanson,PER,0.0,0.0,de,1
+Zoe Mintz,Zoe Mintz,PER,0.0,0.0,de,1
+Jeep Wrangler,Jeep Wrangler,PER,0.0,0.0,de,1
+Highland Autoplex,Highland Autoplex,PER,0.0,0.0,de,1
+Birch Lane,Birch Lane,PER,0.0,0.0,de,1
+Taylor Swifts,Taylor Swifts,PER,0.0,0.0,de,1
+Dominik Siegrist,Dominik Siegrist,PER,1.0,0.0,de,1
+Franz Waldenberger,Franz Waldenberger,PER,0.7,0.0,de,1
+Christian Pulisic von Mailands,Christian Pulisic von Mailands,PER,-1.0,0.0,de,1
+Lance Richardsons,Lance Richardsons,PER,0.0,0.0,de,1
+Jerry Graphics,Jerry Graphics,PER,0.0,0.0,de,1
+Filmstar Diane Keaton,Filmstar Diane Keaton,PER,0.0,0.0,de,1
+Masterplan Wasser,Masterplan Wasser,PER,0.0,0.0,de,1
+Friedhart Knolle,Friedhart Knolle,PER,0.0,0.0,de,1
+Banarsi LalJedes Jahr,Banarsi LalJedes Jahr,PER,-1.0,0.0,de,1
+Risikos von Naturkatastrophen,Risikos von Naturkatastrophen,PER,-1.0,0.0,de,1
+La Niña,La Niña,PER,0.0,0.0,de,1
+Claudia Sheinbaum,Claudia Sheinbaum,PER,0.0,0.0,de,1
+Chinas Automobildominanz,Chinas Automobildominanz,PER,0.0,0.0,de,1
+Chemiekonzerns Bayer,Chemiekonzerns Bayer,PER,0.0,0.0,de,1
+Karl Bär,Karl Bär,PER,0.0,0.0,de,1
+Trumps Anhängerschaft,Trumps Anhängerschaft,PER,0.7,0.0,de,1
+Forstminister Raja,Forstminister Raja,PER,0.7,0.0,de,1
+Peter Matthiessen,Peter Matthiessen,PER,0.0,0.0,de,1
+Maggie Doherty,Maggie Doherty,PER,0.0,0.0,de,1
+Phoenix hart,Phoenix hart,PER,0.7,0.0,de,1
+Indileni Daniel,Indileni Daniel,PER,0.0,0.0,de,1
+Nebel klart,Nebel klart,PER,-0.7,0.0,de,1
+Ingo Nathusius,Ingo Nathusius,PER,0.0,0.0,de,1
+Dreames Antwort,Dreames Antwort,PER,0.0,0.0,de,1
+Antonia Bornas,Antonia Bornas,PER,0.0,0.0,de,1
+Muhammad Wafid,Muhammad Wafid,PER,0.7,0.0,de,1
+Ron Swanson,Ron Swanson,PER,-0.7,0.0,de,1
+Harry Kane,Harry Kane,PER,0.0,0.0,de,1
+Sturm „Bualoi“,Sturm „Bualoi“,PER,0.0,0.0,de,1
+"Sturm ""Bualoi"" Hanoi","Sturm ""Bualoi"" Hanoi",PER,-0.7,0.0,de,1
+kohlenstoffarme Häuser,kohlenstoffarme Häuser,PER,1.0,0.0,de,1
+Asus ROG Xbox Ally,Asus ROG Xbox Ally,PER,0.0,0.0,de,1
+Andy Weyman,Andy Weyman,PER,1.0,0.0,de,1
+Moulds Nineties-Band,Moulds Nineties-Band,PER,0.5,0.0,de,1
+Indiens Regenwassernutzungsmarkt,Indiens Regenwassernutzungsmarkt,PER,0.0,0.0,de,1
+Jal Shakti Abhiyan,Jal Shakti Abhiyan,PER,0.0,0.0,de,1
+Schweregrads von Softwarefehlern,Schweregrads von Softwarefehlern,PER,1.0,0.0,de,1
+Carl Melford,Carl Melford,PER,0.0,0.0,de,1
+Wim van den Heever,Wim van den Heever,PER,-0.7,0.0,de,1
+Jeremy Friesens,Jeremy Friesens,PER,0.0,0.0,de,1
+Nilakshika De Silvas,Nilakshika De Silvas,PER,-1.0,0.0,de,1
+Europas Wohlstand,Europas Wohlstand,PER,-1.0,0.0,de,1
+Erdbeben-App MyShake,Erdbeben-App MyShake,PER,0.0,0.0,de,1
+Brad Rippey,Brad Rippey,PER,0.7,0.0,de,1
+"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,1
+Bo Byrams Schlittschuh,Bo Byrams Schlittschuh,PER,-1.0,0.0,de,1
+Brock Nelson,Brock Nelson,PER,0.0,1.0,de,1
+rekordhohe Temperaturen,rekordhohe Temperaturen,PER,0.0,0.0,de,1
+Max Walker-Silvermans,Max Walker-Silvermans,PER,0.9,0.0,de,1
+Kylian Mbappé,Kylian Mbappé,PER,1.0,0.0,de,1
+Javier Fernandez Perez,Javier Fernandez Perez,PER,-0.15000000000000002,0.0,de,1
+Stephen Baldwin,Stephen Baldwin,PER,0.0,0.0,de,1
+Julius Cäsars,Julius Cäsars,PER,0.0,0.0,de,1
+Bipin Joshis Leiche,Bipin Joshis Leiche,PER,0.0,0.0,de,1
+Cira Gonzalez,Cira Gonzalez,PER,-0.85,0.0,de,1
+Kylian Mbappe,Kylian Mbappe,PER,1.0,0.0,de,1
+Jay Jones,Jay Jones,PER,0.2333333333333333,0.0,de,1
+Charlie Young,Charlie Young,PER,0.0,0.0,de,1
+Geert Wilders,Geert Wilders,PER,0.0,0.0,de,1
+Ministerpräsidentin Mamata Bane,Ministerpräsidentin Mamata Bane,PER,0.0,0.0,de,1
+Bruno Guimaraes,Bruno Guimaraes,PER,0.0,0.0,de,1
+Gill Passage,Gill Passage,PER,0.0,0.0,de,1
+Michael Burgess,Michael Burgess,PER,0.7,0.0,de,1
+Mexikos Vulkan Popocatépetl,Mexikos Vulkan Popocatépetl,PER,0.0,0.0,de,1
+Jaime Maussan,Jaime Maussan,PER,-1.0,0.0,de,1
+Tom Massey,Tom Massey,PER,0.7,0.0,de,1
+Harmony Grove,Harmony Grove,PER,0.0,0.0,de,1
+Khagen Murmu,Khagen Murmu,PER,0.0,0.0,de,1
+Duca di Salaparutas Vajasindi-Anwesen,Duca di Salaparutas Vajasindi-Anwesen,PER,0.0,0.0,de,1
+Negeri Sembilan,Negeri Sembilan,PER,0.0,0.0,de,1
+Namibias meistbesuchtes Wildreservat,Namibias meistbesuchtes Wildreservat,PER,0.0,0.0,de,1
+Wakayama Ume,Wakayama Ume,PER,0.7,0.0,de,1
+James Lowe,James Lowe,PER,0.0,0.0,de,1
+Welle von Zombiebränden,Welle von Zombiebränden,PER,0.0,0.0,de,1
+Pete Green,Pete Green,PER,-0.7,0.0,de,1
+Nick Woltemade,Nick Woltemade,PER,0.0,0.0,de,1
+"Sturmtief ""Detlef","Sturmtief ""Detlef",PER,0.0,0.0,de,1
+Hurrikan Priscilla,Hurrikan Priscilla,PER,0.0,0.0,de,1
+Bahadur Khadka,Bahadur Khadka,PER,0.0,0.0,de,1
+Elmar Theveßen,Elmar Theveßen,PER,1.0,0.0,de,1
+Nicole Kidman,Nicole Kidman,PER,0.0,0.0,de,1
+Keith Urbans,Keith Urbans,PER,0.0,0.0,de,1
+Keith Urban,Keith Urban,PER,-1.0,0.0,de,1
+Sullivan Fortner,Sullivan Fortner,PER,0.7,0.0,de,1
+Avalanche Treasury Co,Avalanche Treasury Co,PER,0.0,0.0,de,1
+Gianfranco Rosi,Gianfranco Rosi,PER,1.0,0.0,de,1
+Chad Wallin,Chad Wallin,PER,-0.5,0.0,de,1
+Trumps Waffenstillstandsaufruf,Trumps Waffenstillstandsaufruf,PER,0.7,0.0,de,1
+Paul Lorskulsint,Paul Lorskulsint,PER,0.0,0.0,de,1
+Andrej Babis,Andrej Babis,PER,0.0,0.0,de,1
+Elfin Forest,Elfin Forest,PER,0.0,0.0,de,1
+Nord-Utah hinwegfegten,Nord-Utah hinwegfegten,PER,0.0,0.0,de,1
+Orkantief Detlef,Orkantief Detlef,PER,0.0,0.0,de,1
+Brittany Holmgren,Brittany Holmgren,PER,0.0,0.0,de,1
+Bill Essayli,Bill Essayli,PER,0.0,0.0,de,1
+David Linder,David Linder,PER,0.0,0.0,de,1
+Charles Eppard,Charles Eppard,PER,0.0,0.0,de,1
+Jeremy Leif,Jeremy Leif,PER,0.0,0.0,de,1
+Kim Min-Ha,Kim Min-Ha,PER,0.0,0.0,de,1
+Tommy Lee Jones,Tommy Lee Jones,PER,1.0,0.0,de,1
+Instagram Reels,Instagram Reels,PER,0.7,0.0,de,1
+All-Natural Geoengineering,All-Natural Geoengineering,PER,0.0,0.0,de,1
+Frank Herberts Dune,Frank Herberts Dune,PER,0.0,0.0,de,1
+Toralf Staud,Toralf Staud,PER,0.0,0.0,de,1
+Benjamin von Brackel,Benjamin von Brackel,PER,0.0,0.0,de,1
+Joe Bastardi,Joe Bastardi,PER,0.0,0.0,de,1
+Tim Cooks,Tim Cooks,PER,-0.15000000000000002,0.0,de,1
+Pentagon-Chef Hegseth,Pentagon-Chef Hegseth,PER,-0.7,0.0,de,1
+Yannis Kefalogiannis,Yannis Kefalogiannis,PER,0.9,0.0,de,1
+Natsuse Yamane,Natsuse Yamane,PER,0.0,0.0,de,1
+Katastrophenschutz Waldbrände,Katastrophenschutz Waldbrände,PER,0.35,0.5,de,1
+Ministerin Behrens,Ministerin Behrens,PER,0.7,0.0,de,1
+Chris Davis,Chris Davis,PER,-1.0,0.0,de,1
+Lee Jun-ho,Lee Jun-ho,PER,0.0,0.0,de,1
+Amir Khan Muttaqi Indien,Amir Khan Muttaqi Indien,PER,0.0,0.0,de,1
+Trumps Gaza-Plan,Trumps Gaza-Plan,PER,0.0,0.0,de,1
+Nelson Asofa-Solomona,Nelson Asofa-Solomona,PER,0.0,0.0,de,1
+Freitag Schauer,Freitag Schauer,PER,-0.7,0.0,de,1
+Jonathan Rinderknech,Jonathan Rinderknech,PER,0.0,0.0,de,1
+Sophie Rain,Sophie Rain,PER,0.0,0.0,de,1
+Campi Flegrei,Campi Flegrei,PER,0.0,0.0,de,1
+Joe Bidens,Joe Bidens,PER,-1.0,0.0,de,1
+Kulman Ghising,Kulman Ghising,PER,0.0,0.0,de,1
+beliebtestem Zaungewächs,beliebtestem Zaungewächs,PER,0.35,0.5,de,1
+Indonesiens Tsunami-Erkennung,Indonesiens Tsunami-Erkennung,PER,0.0,0.0,de,1
+Mechi Highway,Mechi Highway,PER,0.0,0.0,de,1
+Kapitänin Laura Wolvaardt,Kapitänin Laura Wolvaardt,PER,1.0,0.0,de,1
+La Nina,La Nina,PER,-0.7,0.0,de,1
+Nippert Stadium,Nippert Stadium,PER,0.0,0.0,de,1
+Sturm Jerry,Sturm Jerry,PER,-1.0,0.0,de,1
+Marcos Jr,Marcos Jr,PER,0.0,0.0,de,1
+Kim Jeffrey,Kim Jeffrey,PER,0.2333333333333333,0.0,de,1
+James Bond,James Bond,PER,0.7,0.0,de,1
+Sg Kaiduan,Sg Kaiduan,PER,0.0,0.0,de,1
+Devlet Bahçeli,Devlet Bahçeli,PER,-0.9,0.0,de,1
+Ikon Pass,Ikon Pass,PER,0.0,0.0,de,1
+Steven Anaver,Steven Anaver,PER,0.0,0.0,de,1
+Michael Beck,Michael Beck,PER,0.0,0.0,de,1
+Elon Musk trollt Sean Duffy,Elon Musk trollt Sean Duffy,PER,0.0,0.0,de,1
+homophobem Meme,homophobem Meme,PER,0.0,0.0,de,1
+Steven Anavers Haus,Steven Anavers Haus,PER,-1.0,0.0,de,1
+Brandon Padilla-Aguilera,Brandon Padilla-Aguilera,PER,-1.0,0.0,de,1
+Barstow hinwegfegten,Barstow hinwegfegten,PER,-1.0,0.0,de,1
+Johanna Wagstaffe,Johanna Wagstaffe,PER,0.0,0.0,de,1
+Marina Jurica,Marina Jurica,PER,0.0,0.0,de,1
+Zac Builds,Zac Builds,PER,0.0,0.0,de,1
+Ruth Asentista,Ruth Asentista,PER,0.0,0.0,de,1
+Raymond McKay,Raymond McKay,PER,0.7,0.0,de,1
+Washington Post,Washington Post,PER,0.0,0.0,de,1
+Alexei Ratmanskys,Alexei Ratmanskys,PER,0.0,0.0,de,1
+Paul Johnson,Paul Johnson,PER,0.0,0.0,de,1
+Elon Musks,Elon Musks,PER,0.0,0.0,de,1
+Naturbasierte Lösungen,Naturbasierte Lösungen,PER,0.0,0.0,de,1
+Regenbetriebene Energie,Regenbetriebene Energie,PER,0.0,1.0,de,1
+David Holmgren,David Holmgren,PER,1.0,0.0,de,1
+Steven Tuck,Steven Tuck,PER,0.3333333333333333,0.0,de,1
+Boris Pistorius,Boris Pistorius,PER,0.0,0.0,de,1
+Mike Dunleavy,Mike Dunleavy,PER,0.0,1.0,de,1
+Oliver Kharraz,Oliver Kharraz,PER,0.0,0.0,de,1
+Indiens Planentwurf,Indiens Planentwurf,PER,0.0,0.0,de,1
+Wissenschaftler entdecken,Wissenschaftler entdecken,PER,0.0,0.0,de,1
+Joel Eisiminger,Joel Eisiminger,PER,0.0,0.0,de,1
+et­was hö­her,et­was hö­her,PER,0.0,0.0,de,1
+Mat Mowbray,Mat Mowbray,PER,-0.7,0.0,de,1
+Barebones Hurricane Laterne,Barebones Hurricane Laterne,PER,0.0,0.0,de,1
+Lewotobi Laki-Laki,Lewotobi Laki-Laki,PER,0.7,0.0,de,1
+Albert Pinto,Albert Pinto,PER,0.0,1.0,de,1
+Hundred Acre Wines,Hundred Acre Wines,PER,1.0,0.0,de,1
+Ebenezer Scrooge,Ebenezer Scrooge,PER,0.0,0.0,de,1
+Agnieszka Hollands Kafka-Film,Agnieszka Hollands Kafka-Film,PER,0.0,0.0,de,1
+Franz K,Franz K,PER,0.0,0.0,de,1
+Simon King,Simon King,PER,0.0,0.0,de,1
+Klimaexpertin Sabine Minninger,Klimaexpertin Sabine Minninger,PER,0.0,0.0,de,1
+Colorados Western Slope,Colorados Western Slope,PER,0.0,0.0,de,1
+Apples mutigster,Apples mutigster,PER,0.0,0.0,de,1
+Mitch Albom,Mitch Albom,PER,0.0,0.0,de,1
+Stürmischer Herbst,Stürmischer Herbst,PER,0.0,0.0,de,1
+Harlan Cobens Lazarus,Harlan Cobens Lazarus,PER,0.0,0.0,de,1
+Vikramjit Singh Sahney,Vikramjit Singh Sahney,PER,0.0,0.0,de,1
+Suzielianna Jonie,Suzielianna Jonie,PER,-0.7,0.0,de,1
+FBI-Direktor Kash Patel,FBI-Direktor Kash Patel,PER,0.0,0.0,de,1
+Heather Schlitz,Heather Schlitz,PER,0.0,0.0,de,1
+Kash Patel,Kash Patel,PER,0.0,0.0,de,1
+Philip Pullman,Philip Pullman,PER,1.0,0.0,de,1
+Island Airwaves,Island Airwaves,PER,0.0,0.0,de,1
+Iceland Airwaves,Iceland Airwaves,PER,0.0,0.0,de,1
+Sungai Kaiduan,Sungai Kaiduan,PER,0.0,0.0,de,1
+Jamie Lee Curtis,Jamie Lee Curtis,PER,0.0,0.0,de,1
+Bethan Ackerley,Bethan Ackerley,PER,0.0,0.0,de,1
+Tom Schultz,Tom Schultz,PER,0.0,0.0,de,1
+Nathan MacKinnon,Nathan MacKinnon,PER,0.0,0.0,de,1
+Vanessa Butler,Vanessa Butler,PER,-0.7,0.0,de,1
+Jeffrey Kitingan,Jeffrey Kitingan,PER,0.0,0.0,de,1
+vergrabenes Eis,vergrabenes Eis,PER,0.0,0.0,de,1
+Nick Schutt,Nick Schutt,PER,-0.7,0.0,de,1
+I Datuk Seri,I Datuk Seri,PER,0.0,0.0,de,1
+Beatrice von York,Beatrice von York,PER,0.0,0.0,de,1
+Eugenie von York,Eugenie von York,PER,0.0,0.0,de,1
+Raghav Chaddha Parineeti Chopra,Raghav Chaddha Parineeti Chopra,PER,0.0,0.0,de,1
+Will Muir,Will Muir,PER,0.0,0.0,de,1
+Raghav Chaddha,Raghav Chaddha,PER,0.7,0.0,de,1
+Parineeti Chopra,Parineeti Chopra,PER,0.7,0.0,de,1
+Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1
+Clare Balding,Clare Balding,PER,0.0,0.0,de,1
+Stephen Fry,Stephen Fry,PER,0.0,0.0,de,1
+Paloma Faith,Paloma Faith,PER,0.0,0.0,de,1
+Bill Mollison,Bill Mollison,PER,1.0,0.0,de,1
+Hungry Paul,Hungry Paul,PER,0.0,0.0,de,1
+Heather Humphreys,Heather Humphreys,PER,0.0,1.0,de,1
+Paul Stanley,Paul Stanley,PER,0.0,0.0,de,1
+Shannon Osaka,Shannon Osaka,PER,0.0,0.0,de,1
+Mini Crossword,Mini Crossword,PER,0.7,0.0,de,1
+Hakenkreuz „Palästina“,Hakenkreuz „Palästina“,PER,0.0,0.0,de,1
+Nazi-Themen pro „Palästina,Nazi-Themen pro „Palästina,PER,0.0,0.0,de,1
+2023+Anne Bayefsky,2023+Anne Bayefsky,PER,0.0,0.0,de,1
+Monica Showalter,Monica Showalter,PER,0.0,0.0,de,1
+Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1
+Diane Smith,Diane Smith,PER,0.0,0.0,de,1
+Venezuelas Krisen,Venezuelas Krisen,PER,0.0,0.0,de,1
+Atreyee Mitra,Atreyee Mitra,PER,0.7,0.0,de,1
+Sukhdeva Singh,Sukhdeva Singh,PER,0.0,0.0,de,1
+Robbie Corey-Boulet,Robbie Corey-Boulet,PER,0.0,0.0,de,1
+Alassane Ouattaras,Alassane Ouattaras,PER,0.0,0.0,de,1
+Luke Rogers,Luke Rogers,PER,0.0,0.0,de,1
+Joan Didion,Joan Didion,PER,0.7,0.0,de,1
+Ralph Cad,Ralph Cad,PER,0.0,0.0,de,1
+Gene Simmons,Gene Simmons,PER,0.0,0.0,de,1
+Nicholas Day,Nicholas Day,PER,1.0,0.0,de,1
+Garret Gray,Garret Gray,PER,0.0,0.0,de,1
+halbmondförmiger Mund,halbmondförmiger Mund,PER,1.0,0.0,de,1
+Apple-Rezension Nr,Apple-Rezension Nr,PER,0.0,0.0,de,1
+David Schechter,David Schechter,PER,0.0,0.0,de,1
+Vivian McCall,Vivian McCall,PER,0.0,0.0,de,1
+Bruce Harrell,Bruce Harrell,PER,0.0,0.0,de,1
+Dalton Stewart,Dalton Stewart,PER,0.0,0.0,de,1
+Montreals Methan,Montreals Methan,PER,0.0,0.0,de,1
+Ranji Trophy,Ranji Trophy,PER,0.0,0.0,de,1
+Meghalaya vs,Meghalaya vs,PER,0.0,0.0,de,1
+David Rockwells,David Rockwells,PER,0.0,0.0,de,1
+Nicholas Spada,Nicholas Spada,PER,0.0,1.0,de,1
+Unterkühlter Wanderer,Unterkühlter Wanderer,PER,-0.7,0.0,de,1
+Daniel Wolfe,Daniel Wolfe,PER,0.0,0.0,de,1
+John Muyskens,John Muyskens,PER,0.0,0.0,de,1
+Videos von US-Angriffen,Videos von US-Angriffen,PER,0.0,0.0,de,1
+Jane Burston,Jane Burston,PER,0.7,0.0,de,1
+Maach Bhaat,Maach Bhaat,PER,1.0,0.0,de,1
+West-Nusa Tenggara,West-Nusa Tenggara,PER,0.0,0.0,de,1
+Winterflucht Teneriffa,Winterflucht Teneriffa,PER,0.0,1.0,de,1
+Carter Vigh,Carter Vigh,PER,0.0,0.0,de,1
+Anfänglicher Nebel,Anfänglicher Nebel,PER,0.0,0.0,de,1
+Ryu Spaeth,Ryu Spaeth,PER,0.0,0.0,de,1
+Rick Thoman,Rick Thoman,PER,-0.7,0.0,de,1
+Michael McCown,Michael McCown,PER,0.0,0.0,de,1
+Waldverlust Dürre,Waldverlust Dürre,PER,0.7,0.0,de,1
+Durchzug von Tropensturm,Durchzug von Tropensturm,PER,0.0,0.0,de,1
+Gus Lamont,Gus Lamont,PER,-0.7,0.0,de,1
+Angela Denoke,Angela Denoke,PER,-1.0,0.0,de,1
+"Supertaifun ""Ragasa","Supertaifun ""Ragasa",PER,0.0,0.0,de,1
+Jesse Fox,Jesse Fox,PER,0.7,0.0,de,1
+Heather Camacho,Heather Camacho,PER,0.7,0.0,de,1
+Prabowo Subiantos,Prabowo Subiantos,PER,0.8500000000000001,0.0,de,1
+David Rosner,David Rosner,PER,0.0,0.0,de,1
+Gerald Markowitz,Gerald Markowitz,PER,0.0,0.0,de,1
+Nebel morgens,Nebel morgens,PER,0.0,1.0,de,1
+Karol Nawrocki,Karol Nawrocki,PER,0.0,0.0,de,1
+Jessica Wildfire,Jessica Wildfire,PER,0.7,0.0,de,1
+Ange Postecoglou,Ange Postecoglou,PER,1.0,0.0,de,1
+Heiße Winterflucht-Deals,Heiße Winterflucht-Deals,PER,0.7,0.0,de,1
+Ronalyn Balindan,Ronalyn Balindan,PER,0.0,0.0,de,1
+Politico eingesehene Chatverlauf,Politico eingesehene Chatverlauf,PER,0.0,0.0,de,1
+Einwohner Floridas,Einwohner Floridas,PER,0.0,0.0,de,1
+Rich Rodrigue,Rich Rodrigue,PER,0.0,0.0,de,1
+Anders Fridén,Anders Fridén,PER,-1.0,0.0,de,1
+Vlad Duthiers,Vlad Duthiers,PER,0.0,0.0,de,1
+Experten sagen,Experten sagen,PER,0.0,0.0,de,1
+Laura Wolvaardt,Laura Wolvaardt,PER,1.0,0.0,de,1
+Tazmin Brits,Tazmin Brits,PER,1.0,0.0,de,1
+Richard Garriot,Richard Garriot,PER,0.0,0.0,de,1
+Owen Garriot,Owen Garriot,PER,0.0,0.0,de,1
+Mini Cooper S,Mini Cooper S,PER,0.0,0.0,de,1
+Kelly Family,Kelly Family,PER,0.0,0.0,de,1
+Sabihullah Mudschahid,Sabihullah Mudschahid,PER,-0.5,0.5,de,1
