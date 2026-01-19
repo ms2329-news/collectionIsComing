@@ -1,464 +1,1357 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,India,India,GPE,0.18504317,0.93737196,en,21.3,,-1,,,,,,,Wet Spell
-1,Tamil Nadu,Tamil Nadu,GPE,-0.06911253,0.8768516,en,16.7,4078142-2,1255053,X,11.0,78.0,ASIA,India,SAS,Wet Spell
-2,Chennai,Chennai,GPE,-0.00261111,0.69341162,en,15.0,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Wet Spell
-3,Kelantan,Kelantan,GPE,0.03252874,0.51867816,en,14.5,4097779-1,1733044,X,5.33333,102.0,ASIA,Malaysia,SEA,Wet Spell
-4,South Africa,South Africa,GPE,0.36716212,0.55998213,en,11.4,4078012-0,953987,X,-29.0,24.0,AFRICA,South Africa,WSAF,Wet Spell
-5,Sri Lanka,Sri Lanka,GPE,0.33156183,1.10861519,en,9.9,4009696-8,1227603,X,7.0,81.0,INDIAN,Sri Lanka,BOB,Wet Spell
-6,Ireland,Ireland,GPE,-0.04560911,0.480733,en,8.2,4027667-3,2963597,X,53.0,-8.0,EUROPE,Ireland,NEU,Wet Spell
-7,New Zealand,New Zealand,GPE,0.23162505,0.95477334,en,8.2,,-1,,,,,,,Wet Spell
-8,US,US,GPE,0.0560396,1.01398707,en,7.9,,-1,,,,,,,Wet Spell
-9,Vietnam,Vietnam,GPE,-0.42472944,0.91558442,en,7.0,4063514-4,1562822,X,16.166669,107.83333,ASIA,Vietnam,SEA,Wet Spell
-10,Southern California,Southern California,LOC,0.16867201,0.46942959,en,6.8,,-1,,,,,,,Wet Spell
-11,Ukraine,Ukraine,GPE,0.04726476,0.93070524,en,6.7,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Wet Spell
-12,Brazil,Brazil,GPE,0.13156566,0.87651515,en,6.0,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Wet Spell
-13,Tiruvallur,Tiruvallur,GPE,-0.09561782,0.25862069,en,5.8,,-1,,,,,,,Wet Spell
-14,Kerala,Kerala,GPE,-0.00884503,0.35716374,en,5.7,4030266-0,1267254,X,10.0,76.5,ASIA,India,SAS,Wet Spell
-15,Indonesia,Indonesia,GPE,0.23592612,0.89595417,en,5.7,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Wet Spell
-16,Australia,Australia,GPE,0.36718221,1.2766706,en,5.5,,-1,,,,,,,Wet Spell
-17,Pahang,Pahang,GPE,0.02562893,0.44842767,en,5.3,4301609-1,1733042,X,3.5,102.75,ASIA,Malaysia,SEA,Wet Spell
-18,Greece,Greece,GPE,0.04041781,0.64122329,en,5.2,,-1,,,,,,,Wet Spell
-19,Thailand,Thailand,GPE,-0.1017316,0.64757267,en,4.9,4078228-1,1605651,X,15.0,100.0,ASIA,Thailand,SEA,Wet Spell
-20,Terengganu,Terengganu,GPE,0.03510638,0.4143617,en,4.7,,-1,,,,,,,Wet Spell
-23,Padang Besar,Padang Besar,GPE,0.10811335,0.32078157,en,4.6,,-1,,,,,,,Wet Spell
-21,Gaza,Gaza,GPE,-0.23185661,1.02495059,en,4.6,,-1,,,,,,,Wet Spell
-22,Meghalaya,Meghalaya,GPE,-0.05706522,0.2509058,en,4.6,4281475-3,1263207,X,25.5,91.33333,ASIA,India,SAS,Wet Spell
-24,Queensland,Queensland,GPE,-0.00892857,1.08075397,en,4.5,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Wet Spell
-25,Israel,Israel,GPE,-0.23627261,0.6119186,en,4.3,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Wet Spell
-26,Pakistan,Pakistan,GPE,0.56342495,0.78118393,en,4.3,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Wet Spell
-27,Russia,Russia,GPE,0.3374677,0.92758398,en,4.3,,-1,,,,,,,Wet Spell
-28,Andhra Pradesh,Andhra Pradesh,GPE,0.22092803,1.00835227,en,4.0,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Wet Spell
-29,Colombo,Colombo,GPE,0.49750797,0.8870614,en,3.8,4010404-7,1248991,X,6.93194,79.84778,INDIAN,Sri Lanka,EIO,Wet Spell
-32,Sarawak,Sarawak,GPE,0.17867868,0.37687688,en,3.7,4051682-9,1733038,X,2.5,113.5,ASIA,Malaysia,SEA,Wet Spell
-33,England,England,GPE,-0.08918919,0.57297297,en,3.7,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Wet Spell
-31,Dubai,Dubai,GPE,0.26137387,0.83434685,en,3.7,4204043-7,292224,X,25.0,55.333333,ASIA,United Arab Emirates,ARP,Wet Spell
-30,Mars,Mars,LOC,0.24314428,0.54303849,en,3.7,,-1,,,,,,,Wet Spell
-34,Puducherry,Puducherry,GPE,-0.04227273,0.90625541,en,3.5,16023115-2,1259425,X,11.933809,79.82979,ASIA,India,SAS,Wet Spell
-35,Allschwil,Allschwil,GPE,0.0,0.0,en,3.4,,-1,,,,,,,Wet Spell
-36,the United States,the United States,GPE,0.11948529,0.21078431,en,3.4,,-1,,,,,,,Wet Spell
-37,Hungary,Hungary,GPE,0.32703081,0.61554622,en,3.4,4078541-5,719819,X,47.0,20.0,EUROPE,Hungary,WCE,Wet Spell
-38,Los Angeles,Los Angeles,GPE,0.20707071,1.19191919,en,3.3,,-1,,,,,,,Wet Spell
-39,Punjab,Punjab,GPE,-0.20555556,1.20243056,en,3.2,,-1,,,,,,,Wet Spell
-40,Himachal,Himachal,GPE,0.14516129,0.93145161,en,3.1,,-1,,,,,,,Wet Spell
-43,Earth,Earth,LOC,-0.05609848,0.93161616,en,3.0,,-1,,,,,,,Wet Spell
-44,China,China,GPE,-0.02867063,1.23115079,en,3.0,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Wet Spell
-45,Mumbai,Mumbai,GPE,0.36322872,1.94764883,en,3.0,10013721-0,1275339,X,19.072777,72.8825,ASIA,India,SAS,Wet Spell
-42,Bangladesh,Bangladesh,GPE,-0.08888889,0.53333333,en,3.0,4130903-0,1210997,X,24.0,90.0,ASIA,Bangladesh,SAS,Wet Spell
-41,Dublin,Dublin,GPE,0.2,0.56666667,en,3.0,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Wet Spell
-46,New York,New York,GPE,0.14334727,0.61522118,en,2.9,,-1,,,,,,,Wet Spell
-47,Bengal,Bengal,GPE,-0.24687951,1.23611111,en,2.8,,-1,,,,,,,Wet Spell
-48,Istanbul,Istanbul,GPE,-0.05257937,0.56547619,en,2.8,4027821-9,745044,X,41.013611,28.949444,EUROPE-AFRICA,Turkey,MED,Wet Spell
-49,Northeast Monsoon,Northeast Monsoon,LOC,0.03125,0.60565476,en,2.8,,-1,,,,,,,Wet Spell
-50,Guwahati,Guwahati,GPE,-0.03571429,0.39285714,en,2.8,4368296-0,1271476,X,26.18617,91.75095,ASIA,India,SAS,Wet Spell
-51,Padas River,Padas River,LOC,0.13839286,0.37946429,en,2.8,,-1,,,,,,,Wet Spell
-52,Pradesh,Pradesh,GPE,0.13392857,0.62946429,en,2.8,,-1,,,,,,,Wet Spell
-53,Orang Asli,Orang Asli,GPE,0.04017857,0.61755952,en,2.8,,-1,,,,,,,Wet Spell
-54,Songkhla,Songkhla,GPE,0.125,0.19642857,en,2.8,,-1,,,,,,,Wet Spell
-55,Beaufort,Beaufort,GPE,0.13839286,0.37946429,en,2.8,,-1,,,,,,,Wet Spell
-56,California,California,GPE,0.06652637,0.90611672,en,2.7,,-1,,,,,,,Wet Spell
-58,Kahilipara,Kahilipara,GPE,0.0,0.0,en,2.6,,-1,,,,,,,Wet Spell
-59,Rupnagar,Rupnagar,GPE,0.0,0.0,en,2.6,,-1,,,,,,,Wet Spell
-60,Texas,Texas,GPE,0.14615385,0.46923077,en,2.6,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Wet Spell
-61,KUALA LUMPUR,KUALA LUMPUR,GPE,0.0784188,0.34626068,en,2.6,,-1,,,,,,,Wet Spell
-57,Malaysia,Malaysia,GPE,0.12952603,0.46202409,en,2.6,4037203-0,1733045,X,2.5,112.5,ASIA,Malaysia,SEA,Wet Spell
-62,Asia,Asia,LOC,0.05966667,0.832,en,2.5,,-1,,,,,,,Wet Spell
-63,North Island,North Island,LOC,0.02666667,0.99666667,en,2.5,,-1,,,,,,,Wet Spell
-64,New Delhi,New Delhi,GPE,0.28099747,1.75888047,en,2.4,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Wet Spell
-65,Canada,Canada,GPE,0.19022817,0.5978836,en,2.4,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Wet Spell
-66,Slovenia,Slovenia,GPE,-0.1656746,0.48611111,en,2.4,4055302-4,3190538,X,46.25,15.166669,EUROPE,Slovenia,WCE,Wet Spell
-69,Gujarat,Gujarat,GPE,0.14295125,0.61835749,en,2.3,4118450-6,1270770,X,23.0,72.0,ASIA,India,SAS,Wet Spell
-67,Europe,Europe,LOC,0.58913906,1.25818668,en,2.3,,-1,,,,,,,Wet Spell
-68,Kashmir,Kashmir,LOC,0.10671937,1.18181818,en,2.3,,-1,,,,,,,Wet Spell
-71,West Bengal,West Bengal,LOC,-0.13636364,1.31818182,en,2.2,4079196-8,1252881,X,24.0,88.0,ASIA,India,SAS,Wet Spell
-72,Corfu,Corfu,GPE,0.02651515,0.69318182,en,2.2,,-1,,,,,,,Wet Spell
-73,Bay of Plenty,Bay of Plenty,LOC,-0.15909091,0.83333333,en,2.2,,-1,,,,,,,Wet Spell
-74,Sumatra,Sumatra,GPE,-0.12121212,0.19318182,en,2.2,,-1,,,,,,,Wet Spell
-75,Ecuador,Ecuador,GPE,-0.01616162,0.46060606,en,2.2,4129321-6,3658394,X,-2.0,-77.5,SOUTH-AMERICA,Ecuador,NWS,Wet Spell
-76,Sweden,Sweden,GPE,0.11363636,0.15151515,en,2.2,4077258-5,2661886,X,62.0,15.0,EUROPE,Sweden,NEU,Wet Spell
-70,Philippines,Philippines,GPE,-0.0559573,0.94731405,en,2.2,4045771-0,1694008,X,13.0,122.0,ASIA,,SEA,Wet Spell
-78,Hyderabad,Hyderabad,GPE,0.03084416,0.56547619,en,2.1,,-1,,,,,,,Wet Spell
-79,the West Coast,the West Coast,LOC,0.1984127,0.88888889,en,2.1,,-1,,,,,,,Wet Spell
-77,Attica,Attica,GPE,-0.05329082,0.35981481,en,2.1,,-1,,,,,,,Wet Spell
-80,Mizoram,Mizoram,GPE,0.01666667,0.18333333,en,2.0,4282128-9,1262963,X,23.0,93.0,ASIA,India,SAS,Wet Spell
-81,Rochdale,Rochdale,GPE,-0.125,0.375,en,2.0,4050218-1,2639272,X,53.61766,-2.155199,EUROPE,United Kingdom,NEU,Wet Spell
-90,NEW DELHI,NEW DELHI,GPE,0.06551037,0.90213982,en,1.9,,-1,,,,,,,Wet Spell
-97,Southend,Southend,GPE,-0.27631579,0.40789474,en,1.9,,-1,,,,,,,Wet Spell
-96,Nairobi,Nairobi,GPE,-0.09221772,0.30139451,en,1.9,4041172-2,184745,X,-1.28333,36.81667,AFRICA,Kenya,SEAF,Wet Spell
-95,MTL,MTL,LOC,0.00657895,0.6995614,en,1.9,,-1,,,,,,,Wet Spell
-94,ISTANBUL,ISTANBUL,GPE,0.25073099,0.87719298,en,1.9,,-1,,,,,,,Wet Spell
-93,the Tasik Subang Dam,the Tasik Subang Dam,GPE,0.18421053,0.28947368,en,1.9,,-1,,,,,,,Wet Spell
-92,Puducherry coast,Puducherry coast,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Wet Spell
-91,LOS ANGELES,LOS ANGELES,GPE,0.09473684,0.56842105,en,1.9,,-1,,,,,,,Wet Spell
-85,Wales,Wales,GPE,0.47368421,0.92105263,en,1.9,,-1,,,,,,,Wet Spell
-89,Jammu,Jammu,GPE,0.00199362,1.07535885,en,1.9,4387357-1,1269321,X,32.735689,74.86911,ASIA,India,WCA,Wet Spell
-87,UK,UK,GPE,-0.13596491,0.72807018,en,1.9,,-1,,,,,,,Wet Spell
-86,Argentina,Argentina,GPE,0.27836257,0.62604997,en,1.9,,-1,,,,,,,Wet Spell
-82,North Bengal,North Bengal,LOC,-0.18421053,0.91842105,en,1.9,,-1,,,,,,,Wet Spell
-84,the Soviet Union,the Soviet Union,GPE,0.98157895,1.35584795,en,1.9,,-1,,,,,,,Wet Spell
-83,Las Vegas,Las Vegas,GPE,0.73888889,1.61289208,en,1.9,,-1,,,,,,,Wet Spell
-88,Kenya,Kenya,GPE,0.09502924,0.43128655,en,1.9,4030236-2,192950,X,1.0,38.0,AFRICA,Kenya,SEAF,Wet Spell
-106,Shillong,Shillong,GPE,-0.16435185,0.4375,en,1.8,4329360-8,1256523,X,25.568919,91.883129,ASIA,India,SAS,Wet Spell
-114,this Northeast Monsoon,this Northeast Monsoon,LOC,0.03611111,0.39212963,en,1.8,,-1,,,,,,,Wet Spell
-113,Udu Dumbara,Udu Dumbara,GPE,-0.09027778,0.24305556,en,1.8,,-1,,,,,,,Wet Spell
-112,Kandy District,Kandy District,GPE,-0.09027778,0.24305556,en,1.8,,-1,,,,,,,Wet Spell
-111,Rochester,Rochester,GPE,0.07393378,0.50673401,en,1.8,,-1,,,,,,,Wet Spell
-110,the Hunnasgiriya area,the Hunnasgiriya area,LOC,-0.09027778,0.24305556,en,1.8,,-1,,,,,,,Wet Spell
-108,Cyprus,Cyprus,GPE,0.02430556,0.31597222,en,1.8,,-1,,,,,,,Wet Spell
-107,Shan State,Shan State,LOC,-0.13333333,0.57777778,en,1.8,,-1,,,,,,,Wet Spell
-109,Patna,Patna,GPE,-0.16435185,0.4375,en,1.8,4221553-5,1260086,X,25.602219,85.11936,ASIA,India,SAS,Wet Spell
-105,Joburg,Joburg,GPE,0.17592593,0.51851852,en,1.8,,-1,,,,,,,Wet Spell
-103,U.S.,U.S.,GPE,0.28828463,0.95102814,en,1.8,,-1,,,,,,,Wet Spell
-102,Switzerland,Switzerland,GPE,0.0,0.0,en,1.8,,-1,,,,,,,Wet Spell
-101,Bengaluru,Bengaluru,GPE,-0.05555556,0.33333333,en,1.8,4004431-2,1277333,X,12.97194,77.593689,ASIA,India,SAS,Wet Spell
-100,Mohali,Mohali,GPE,-0.00347222,0.13078704,en,1.8,,-1,,,,,,,Wet Spell
-99,the Kelani River basin,the Kelani River basin,LOC,0.05601852,0.3412037,en,1.8,,-1,,,,,,,Wet Spell
-104,Northeast,Northeast,LOC,0.21230159,0.53108466,en,1.8,,-1,,,,,,,Wet Spell
-98,Delhi-NCR,Delhi-NCR,GPE,-0.10884354,0.36054422,en,1.8,,-1,,,,,,,Wet Spell
-115,Delhi,Delhi,GPE,0.36470588,0.98823529,en,1.7,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Wet Spell
-116,Rajasthan,Rajasthan,GPE,0.47712418,1.24836601,en,1.7,4076502-7,1258899,X,26.0,74.0,ASIA,India,SAS,Wet Spell
-134,Southern Zambia,Southern Zambia,LOC,0.0,0.0,en,1.6,,-1,,,,,,,Wet Spell
-130,America,America,GPE,0.39950284,0.72620739,en,1.6,,-1,,,,,,,Wet Spell
-132,Western Australia,Western Australia,LOC,-0.0078125,0.57447917,en,1.6,,-1,,,,,,,Wet Spell
-133,Indonesias Sumatra,Indonesias Sumatra,GPE,0.18541667,0.95625,en,1.6,,-1,,,,,,,Wet Spell
-139,Guiana,Guiana,GPE,0.0,0.0,en,1.6,4072186-3,3378535,X,5.0,-59.0,SOUTH-AMERICA,Guyana,NSA,Wet Spell
-135,Mediterranean,Mediterranean,LOC,0.03125,0.40625,en,1.6,,-1,,,,,,,Wet Spell
-136,Southeast,Southeast,LOC,0.23524306,0.83246528,en,1.6,,-1,,,,,,,Wet Spell
-137,Miami,Miami,GPE,0.375,0.9375,en,1.6,,-1,,,,,,,Wet Spell
-138,Pune,Pune,GPE,0.16145833,0.29166667,en,1.6,16035299-X,1259229,X,18.519444,73.855277,ASIA,India,SAS,Wet Spell
-128,Auckland,Auckland,GPE,0.19270833,0.92708333,en,1.6,4086091-7,2193733,X,-36.866666,174.766666,OCEANIA,New Zealand,NZ,Wet Spell
-129,Lahore,Lahore,GPE,0.375,0.5625,en,1.6,4034107-0,1172451,X,31.54972,74.343609,ASIA,Pakistan,WCA,Wet Spell
-131,Houston,Houston,GPE,-0.0625,0.0625,en,1.6,,-1,,,,,,,Wet Spell
-127,Poland,Poland,GPE,0.08482143,0.25892857,en,1.6,,-1,,,,,,,Wet Spell
-126,Kiev,Kiev,GPE,0.12743506,0.27597403,en,1.6,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Wet Spell
-125,Gisborne,Gisborne,GPE,0.015625,0.75520833,en,1.6,4718057-2,2206854,X,-38.653329,178.004169,OCEANIA,New Zealand,NZ,Wet Spell
-124,East Texas,East Texas,LOC,0.0217803,0.32954545,en,1.6,,-1,,,,,,,Wet Spell
-123,West Indies,West Indies,GPE,0.15909091,0.51988636,en,1.6,,-1,,,,,,,Wet Spell
-122,the Bay of Bengal,the Bay of Bengal,LOC,-0.0164536,0.45513731,en,1.6,,-1,,,,,,,Wet Spell
-121,Cambodia,Cambodia,GPE,0.04261364,0.17329545,en,1.6,4029400-6,1831722,X,13.0,105.0,ASIA,Cambodia,SEA,Wet Spell
-120,Iceland,Iceland,GPE,0.140625,0.69791667,en,1.6,4027754-9,2629691,X,65.0,-18.0,POLAR,Iceland,GIC,Wet Spell
-119,Italy,Italy,GPE,-0.16145833,0.66666667,en,1.6,,-1,,,,,,,Wet Spell
-118,Taiwan,Taiwan,GPE,-0.59722222,0.80555556,en,1.6,4017875-4,1668284,X,24.0,121.0,ASIA,Taiwan,EAS,Wet Spell
-117,Andhra,Andhra,GPE,-0.00795455,0.25,en,1.6,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Wet Spell
-140,Karnataka,Karnataka,GPE,-0.06666667,0.16666667,en,1.5,4110022-0,1267701,X,13.5,76.0,ASIA,India,SAS,Wet Spell
-142,ROME,ROME,GPE,-0.19047619,0.26190476,en,1.4,,-1,,,,,,,Wet Spell
-141,the Pacific Northwest,the Pacific Northwest,LOC,0.22619048,0.61904762,en,1.4,,-1,,,,,,,Wet Spell
-186,Villupuram,Villupuram,GPE,-0.16153846,0.43846154,en,1.3,,-1,,,,,,,Wet Spell
-174,Wellington,Wellington,GPE,0.09032634,0.64189977,en,1.3,4119042-7,2179537,X,-41.286388,174.775555,OCEANIA,New Zealand,NZ,Wet Spell
-175,Rift Valley,Rift Valley,LOC,0.04807692,0.2724359,en,1.3,,-1,,,,,,,Wet Spell
-176,COLOMBO,COLOMBO,GPE,0.16729798,0.65506022,en,1.3,,-1,,,,,,,Wet Spell
-177,Peru,Peru,GPE,-0.02735043,0.77948718,en,1.3,4045312-1,3932488,X,-10.0,-76.0,SOUTH-AMERICA,Peru,NWS,Wet Spell
-178,the Gulf Coast,the Gulf Coast,LOC,0.31517094,0.8707265,en,1.3,,-1,,,,,,,Wet Spell
-179,Kigali,Kigali,GPE,-0.14102564,0.21794872,en,1.3,4495092-5,202061,X,-1.94995,30.058849,AFRICA,Rwanda,SEAF,Wet Spell
-180,Zakynthos,Zakynthos,GPE,-0.0294289,0.61645299,en,1.3,,-1,,,,,,,Wet Spell
-181,Odisha,Odisha,GPE,0.0298951,0.44749417,en,1.3,1319054684,1261029,X,20.5,84.416669,ASIA,India,SAS,Wet Spell
-182,South Australia,South Australia,GPE,-0.61538462,1.30769231,en,1.3,,-1,,,,,,,Wet Spell
-183,Goolwa Beach,Goolwa Beach,GPE,-0.61538462,1.30769231,en,1.3,,-1,,,,,,,Wet Spell
-184,Chengalpattu,Chengalpattu,GPE,-0.06538462,0.15,en,1.3,,-1,,,,,,,Wet Spell
-185,Thiruvallur,Thiruvallur,GPE,-0.06538462,0.15,en,1.3,,-1,,,,,,,Wet Spell
-193,Sumatra island,Sumatra island,LOC,-0.09230769,0.21538462,en,1.3,,-1,,,,,,,Wet Spell
-187,the Northern Territory,the Northern Territory,LOC,-0.12820513,0.52564103,en,1.3,,-1,,,,,,,Wet Spell
-188,Darjeeling,Darjeeling,GPE,-0.33076923,0.82692308,en,1.3,4011057-6,1273467,X,27.033329,88.26667,ASIA,India,TIB,Wet Spell
-189,Canberra,Canberra,GPE,0.25641026,0.55512821,en,1.3,4085133-3,2172517,X,-35.283459,149.12807,OCEANIA,Australia,SAU,Wet Spell
-190,Aitoloakarnania,Aitoloakarnania,GPE,0.15384615,0.46153846,en,1.3,,-1,,,,,,,Wet Spell
-191,Peninsular Malaysia,Peninsular Malaysia,GPE,0.06837607,0.83760684,en,1.3,,-1,,,,,,,Wet Spell
-192,Wicklow,Wicklow,GPE,0.0,0.19230769,en,1.3,,-1,,,,,,,Wet Spell
-194,Aceh,Aceh,GPE,0.0,0.0,en,1.3,,-1,,,,,,,Wet Spell
-195,Jakarta,Jakarta,GPE,0.16777865,0.45918367,en,1.3,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Wet Spell
-196,Berlin,Berlin,GPE,0.1517094,0.36538462,en,1.3,4005728-8,2950157,X,52.5,13.416669,EUROPE,Germany,WCE,Wet Spell
-197,Oyam district,Oyam district,GPE,0.15384615,0.15384615,en,1.3,,-1,,,,,,,Wet Spell
-198,Jamaica,Jamaica,GPE,-0.15384615,0.38461538,en,1.3,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Wet Spell
-199,Uganda,Uganda,GPE,0.15384615,0.15384615,en,1.3,4061457-8,226074,X,2.0,33.0,AFRICA,Uganda,SEAF,Wet Spell
-172,Ladakh,Ladakh,GPE,-0.11538462,0.96153846,en,1.3,,-1,,,,,,,Wet Spell
-173,Tauranga,Tauranga,GPE,0.0,0.0,en,1.3,4379727-1,2208032,X,-37.686109,176.16667,OCEANIA,New Zealand,NZ,Wet Spell
-169,Bokurdak,Bokurdak,GPE,-0.07692308,0.45726496,en,1.3,,-1,,,,,,,Wet Spell
-171,Cairns,Cairns,GPE,-0.15384615,0.30769231,en,1.3,4376462-9,2172797,X,-16.92304,145.76625,OCEANIA,Australia,NAU,Wet Spell
-156,Twickenham,Twickenham,GPE,0.0,0.76923077,en,1.3,4128199-8,2635308,X,51.445399,-0.32968,EUROPE,United Kingdom,NEU,Wet Spell
-143,Chhattisgarh,Chhattisgarh,GPE,-0.06293706,0.32867133,en,1.3,4670233-7,1444364,X,21.5,82.0,ASIA,India,SAS,Wet Spell
-144,Wexford,Wexford,GPE,0.0,0.19230769,en,1.3,4405190-6,2960964,X,52.33417,-6.457499,EUROPE,,NEU,Wet Spell
-145,B.C.,B.C.,GPE,0.25641026,0.8525641,en,1.3,,-1,,,,,,,Wet Spell
-146,Gaza City,Gaza City,GPE,-0.34615385,0.57692308,en,1.3,,-1,,,,,,,Wet Spell
-147,Carlow,Carlow,GPE,0.0,0.19230769,en,1.3,4089031-4,2965768,X,52.840829,-6.92611,EUROPE,Ireland,NEU,Wet Spell
-148,Sirmaur,Sirmaur,GPE,0.23076923,0.53846154,en,1.3,4641185-9,1256072,X,24.83539,81.36605,ASIA,India,SAS,Wet Spell
-149,Kilkenny,Kilkenny,GPE,0.0,0.19230769,en,1.3,4265639-4,2963398,X,52.65417,-7.25222,EUROPE,Ireland,NEU,Wet Spell
-150,Northland,Northland,GPE,0.23717949,0.98717949,en,1.3,,-1,,,,,,,Wet Spell
-151,Uttar Pradesh,Uttar Pradesh,GPE,-0.13888889,0.58760684,en,1.3,,-1,,,,,,,Wet Spell
-152,South,South,LOC,-0.10683761,0.52991453,en,1.3,,-1,,,,,,,Wet Spell
-153,Galway,Galway,GPE,-0.04807692,0.14423077,en,1.3,4086664-6,2964180,X,53.27194,-9.04889,EUROPE,Ireland,NEU,Wet Spell
-154,Himachal Pradesh,Himachal Pradesh,GPE,-0.13461538,0.57692308,en,1.3,4240080-6,1270101,X,31.0,78.0,ASIA,India,TIB,Wet Spell
-155,the North Island,the North Island,LOC,-0.53846154,0.61538462,en,1.3,,-1,,,,,,,Wet Spell
-157,Nile,Nile,LOC,0.16317016,0.24475524,en,1.3,,-1,,,,,,,Wet Spell
-163,New South Wales,New South Wales,GPE,0.48951049,0.73426573,en,1.3,,-1,,,,,,,Wet Spell
-170,Laconia,Laconia,GPE,-0.0294289,0.61645299,en,1.3,,-1,,,,,,,Wet Spell
-168,the Mojave Desert,the Mojave Desert,LOC,-0.14038462,0.84230769,en,1.3,,-1,,,,,,,Wet Spell
-167,Valley,Valley,LOC,-0.14038462,0.84230769,en,1.3,,-1,,,,,,,Wet Spell
-166,Mexico City,Mexico City,GPE,-0.07252747,0.3021978,en,1.3,4039060-3,3530597,X,19.428333,-99.1275,CENTRAL-AMERICA,Mexico,NCA,Wet Spell
-165,Bay Area,Bay Area,LOC,0.121337,0.77838828,en,1.3,,-1,,,,,,,Wet Spell
-164,Yunnan Province,Yunnan Province,GPE,-0.38461538,1.53846154,en,1.3,,-1,,,,,,,Wet Spell
-162,Mexico,Mexico,GPE,0.02779272,0.51900663,en,1.3,,-1,,,,,,,Wet Spell
-161,the Red Planet,the Red Planet,LOC,-0.03554779,0.30244755,en,1.3,,-1,,,,,,,Wet Spell
-160,the Northeast Monsoon,the Northeast Monsoon,LOC,0.01057692,0.78076923,en,1.3,,-1,,,,,,,Wet Spell
-159,Nevada,Nevada,GPE,-0.14038462,0.84230769,en,1.3,4041996-4,5509151,X,39.25021,-116.751189,NORTH-AMERICA,United States,WNA,Wet Spell
-158,Slovakia,Slovakia,GPE,0.1043956,0.12637363,en,1.3,,-1,,,,,,,Wet Spell
-204,Denmark,Denmark,GPE,-0.27651515,1.06439394,en,1.2,4010877-6,2623032,X,56.0,10.0,EUROPE,Denmark,NEU,Wet Spell
-207,Campinas,Campinas,GPE,0.02777778,0.05555556,en,1.2,4264280-2,3467865,X,-22.905555,-47.060833,SOUTH-AMERICA,Brazil,SES,Wet Spell
-206,Kathmandu,Kathmandu,GPE,0.0,0.0,en,1.2,4030036-5,1283240,X,27.701689,85.320599,ASIA,Nepal,TIB,Wet Spell
-205,Metropolitan City’s,Metropolitan City’s,GPE,0.0,0.0,en,1.2,,-1,,,,,,,Wet Spell
-208,Melbourne,Melbourne,GPE,0.375,0.97916667,en,1.2,4038526-7,2158177,X,-37.814,144.96332,OCEANIA,Australia,SAU,Wet Spell
-203,Germany,Germany,GPE,0.42592593,0.47222222,en,1.2,,-1,,,,,,,Wet Spell
-202,Midlands,Midlands,GPE,0.25,0.5,en,1.2,,-1,,,,,,,Wet Spell
-200,Jharkhand,Jharkhand,GPE,-0.7962963,1.25925926,en,1.2,4364512-4,1444365,X,23.75,85.5,ASIA,India,SAS,Wet Spell
-201,Amritsar,Amritsar,GPE,0.0,0.52777778,en,1.2,4079760-0,1278710,X,31.63661,74.874759,ASIA,India,WCA,Wet Spell
-210,Sawai Madhopur,Sawai Madhopur,GPE,0.90909091,0.90909091,en,1.1,,-1,,,,,,,Wet Spell
-211,Plüschow,Plüschow,GPE,0.30808081,0.33333333,en,1.1,4360459-6,2853093,X,53.833329,11.266669,EUROPE,Germany,NEU,Wet Spell
-212,Duhai,Duhai,GPE,0.22727273,0.3030303,en,1.1,,-1,,,,,,,Wet Spell
-213,Moldova,Moldova,GPE,-0.11363636,0.34090909,en,1.1,4039967-9,617790,X,47.0,29.0,EUROPE,Moldova,WCE,Wet Spell
-214,Kolkata,Kolkata,GPE,-0.02892562,1.52479339,en,1.1,4029344-0,1275004,X,22.562629,88.363039,ASIA,India,SAS,Wet Spell
-215,Wyoming,Wyoming,GPE,0.81818182,1.13636364,en,1.1,4067130-6,5843591,X,43.399999,-107.5009,NORTH-AMERICA,United States,WNA,Wet Spell
-209,T2E,T2E,LOC,0.15151515,0.3030303,en,1.1,,-1,,,,,,,Wet Spell
-373,B.C.s north,B.C.s north,GPE,-0.1,0.375,en,1.0,,-1,,,,,,,Wet Spell
-399,West Arnhem Land,West Arnhem Land,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-383,Gulf,Gulf,LOC,-0.1,0.25,en,1.0,,-1,,,,,,,Wet Spell
-382,Portugal,Portugal,GPE,0.07777778,0.41111111,en,1.0,4046843-4,2264397,X,39.5,-8.0,EUROPE-AFRICA,Portugal,MED,Wet Spell
-381,Spain,Spain,GPE,0.07777778,0.41111111,en,1.0,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Wet Spell
-380,Gwaii,Gwaii,GPE,0.43333333,0.73333333,en,1.0,,-1,,,,,,,Wet Spell
-376,North Coast,North Coast,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-379,Lakshadweep islands,Lakshadweep islands,LOC,0.08708333,0.59,en,1.0,,-1,,,,,,,Wet Spell
-378,Nicobar,Nicobar,GPE,0.08708333,0.59,en,1.0,,-1,,,,,,,Wet Spell
-377,Andaman,Andaman,LOC,0.08708333,0.59,en,1.0,,-1,,,,,,,Wet Spell
-384,Caribbean,Caribbean,LOC,-0.1,0.25,en,1.0,,-1,,,,,,,Wet Spell
-374,Typhoon Fung-wong,Typhoon Fung-wong,GPE,-0.8,1.0,en,1.0,,-1,,,,,,,Wet Spell
-375,Vancouver Island,Vancouver Island,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-389,Cyberjaya,Cyberjaya,GPE,-0.1,0.15,en,1.0,,-1,,,,,,,Wet Spell
-385,Atlantic,Atlantic,LOC,0.3,0.56666667,en,1.0,,-1,,,,,,,Wet Spell
-386,Weather Ireland,Weather Ireland,GPE,-0.1,0.25,en,1.0,,-1,,,,,,,Wet Spell
-387,india,india,GPE,-0.13333333,0.16666667,en,1.0,,-1,,,,,,,Wet Spell
-388,mumbai,mumbai,GPE,-0.13333333,0.16666667,en,1.0,,-1,,,,,,,Wet Spell
-390,Indias,Indias,GPE,-0.17777778,0.28888889,en,1.0,,-1,,,,,,,Wet Spell
-391,Dak Lak,Dak Lak,GPE,-0.25,0.25,en,1.0,,-1,,,,,,,Wet Spell
-392,DAK LAK,DAK LAK,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Wet Spell
-393,Devon,Devon,GPE,0.13333333,0.23333333,en,1.0,4070441-5,2651292,X,50.75,-3.75,EUROPE,United Kingdom,NEU,Wet Spell
-394,pe…,pe…,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-395,the Gaza Strip,the Gaza Strip,GPE,-0.4,0.75,en,1.0,,-1,,,,,,,Wet Spell
-396,chemtrails,chemtrails,GPE,0.0,0.725,en,1.0,,-1,,,,,,,Wet Spell
-397,Venezuela,Venezuela,GPE,0.0,0.725,en,1.0,4062512-6,3625428,X,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Wet Spell
-398,Trumpishness,Trumpishness,GPE,0.0,0.725,en,1.0,,-1,,,,,,,Wet Spell
-371,west,west,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-372,Waterford,Waterford,GPE,0.0,0.25,en,1.0,4471434-8,2960992,X,52.25833,-7.111939,EUROPE,Ireland,NEU,Wet Spell
-350,New Raipur,New Raipur,LOC,-0.00909091,0.43636364,en,1.0,,-1,,,,,,,Wet Spell
-370,Kan… Chennai,Kan… Chennai,GPE,-0.14625,0.475,en,1.0,,-1,,,,,,,Wet Spell
-354,Northern Territory,Northern Territory,LOC,-0.23333333,0.45,en,1.0,,-1,,,,,,,Wet Spell
-341,Western Sicily,Western Sicily,GPE,0.0,0.3125,en,1.0,,-1,,,,,,,Wet Spell
-342,the Stagnone lagoon reserve,the Stagnone lagoon reserve,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-343,Puduch,Puduch,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
-344,Southern India,Southern India,LOC,-0.04666667,0.32666667,en,1.0,,-1,,,,,,,Wet Spell
-345,Solan,Solan,GPE,0.3,0.7,en,1.0,4323123-8,1255850,X,30.908599,77.108729,ASIA,India,TIB,Wet Spell
-346,Karaikal,Karaikal,GPE,0.05454545,0.62272727,en,1.0,,-1,,,,,,,Wet Spell
-347,Kangra,Kangra,GPE,0.3,0.7,en,1.0,,-1,,,,,,,Wet Spell
-348,Bihar,Bihar,GPE,-0.025,0.475,en,1.0,4006563-7,1275715,X,25.75,85.75,ASIA,India,SAS,Wet Spell
-349,Telangana,Telangana,GPE,-0.025,0.475,en,1.0,,-1,,,,,,,Wet Spell
-401,somew,somew,GPE,0.2,0.35,en,1.0,,-1,,,,,,,Wet Spell
-351,Pennsylvania,Pennsylvania,GPE,-0.05,0.1,en,1.0,4045103-3,6254927,X,40.272449,-76.90567,NORTH-AMERICA,United States,ENA,Wet Spell
-352,Adriatic Sea,Adriatic Sea,LOC,-0.18333333,0.25,en,1.0,,-1,,,,,,,Wet Spell
-353,Nouvelle-Acadie,Nouvelle-Acadie,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-355,Thiruvarur,Thiruvarur,GPE,-0.085,0.195,en,1.0,,-1,,,,,,,Wet Spell
-369,GAZA CITY,GAZA CITY,GPE,-0.25,0.25,en,1.0,,-1,,,,,,,Wet Spell
-356,Bathurst,Bathurst,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-357,New Brunswick,New Brunswick,GPE,-0.12121212,0.68484848,en,1.0,,-1,,,,,,,Wet Spell
-358,Jacksonville,Jacksonville,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-359,Conway,Conway,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Wet Spell
-360,South Africa’s,South Africa’s,GPE,0.3,0.4,en,1.0,,-1,,,,,,,Wet Spell
-361,Tamil Nadu’s,Tamil Nadu’s,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-362,Island,Island,LOC,0.01428571,0.39285714,en,1.0,4027754-9,2629691,X,65.0,-18.0,POLAR,Iceland,GIC,Wet Spell
-363,Cauvery,Cauvery,LOC,0.125,0.29166667,en,1.0,,-1,,,,,,,Wet Spell
-364,Central Europe,Central Europe,LOC,0.0,0.25,en,1.0,,-1,,,,,,,Wet Spell
-365,Lublin,Lublin,GPE,0.0,0.25,en,1.0,4036418-5,765876,X,51.25,22.566669,EUROPE,Poland,WCE,Wet Spell
-366,Cape Town,Cape Town,GPE,0.0625,0.5,en,1.0,4029615-5,3369157,X,-33.92584,18.42322,AFRICA,South Africa,WSAF,Wet Spell
-367,Tiwi Islands,Tiwi Islands,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-368,Ne,Ne,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Wet Spell
-400,Kalimpong,Kalimpong,GPE,-0.2,0.5,en,1.0,4346328-9,1268403,X,27.068339,88.46508,ASIA,India,TIB,Wet Spell
-423,N.Y.,N.Y.,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
-402,the southwest Bay,the southwest Bay,LOC,0.0,0.5,en,1.0,,-1,,,,,,,Wet Spell
-434,Kolonnawa,Kolonnawa,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
-436,Hat Yai,Hat Yai,GPE,0.0,0.0,en,1.0,4415782-4,1610780,X,7.008359,100.47668,ASIA,Thailand,SEA,Wet Spell
-437,ITALY,ITALY,GPE,0.05,0.5,en,1.0,,-1,,,,,,,Wet Spell
-438,CORTINA D'AMPEZZO,CORTINA D'AMPEZZO,GPE,0.05,0.5,en,1.0,,-1,,,,,,,Wet Spell
-439,San Siro,San Siro,GPE,0.125,0.66666667,en,1.0,,-1,,,,,,,Wet Spell
-440,Milan,Milan,GPE,0.125,0.66666667,en,1.0,4037100-1,3173435,X,45.464269,9.18951,EUROPE,Italy,WCE,Wet Spell
-441,Kedah,Kedah,GPE,0.0,0.0,en,1.0,4260409-6,1733048,X,6.0,100.666669,ASIA,Malaysia,SEA,Wet Spell
-442,Kimberley,Kimberley,GPE,-0.15,0.45,en,1.0,,-1,,,,,,,Wet Spell
-443,Pipeline,Pipeline,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-444,Thursda,Thursda,GPE,0.00111111,0.28638889,en,1.0,,-1,,,,,,,Wet Spell
-445,Suryakumar,Suryakumar,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Wet Spell
-446,us,us,GPE,0.6,0.9,en,1.0,,-1,,,,,,,Wet Spell
-447,Minas Gerais,Minas Gerais,GPE,-0.00625,0.31875,en,1.0,,-1,,,,,,,Wet Spell
-448,Selangor,Selangor,GPE,0.0,0.0,en,1.0,4461681-8,1733037,X,3.166669,101.5,ASIA,Malaysia,SEA,Wet Spell
-449,New Zealands,New Zealands,LOC,0.24954545,0.65681818,en,1.0,,-1,,,,,,,Wet Spell
-450,Washington,Washington,GPE,0.0,0.0,en,1.0,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Wet Spell
-451,Brussels,Brussels,GPE,0.0,0.0,en,1.0,4008460-7,2800866,X,50.850277,4.348611,EUROPE,Belgium,WCE,Wet Spell
-452,the Arabian Sea,the Arabian Sea,LOC,0.6,0.9,en,1.0,,-1,,,,,,,Wet Spell
-453,eastern coast,eastern coast,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-454,Aurangabad,Aurangabad,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-455,South-East,South-East,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-456,East England,East England,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-457,Harihurganj,Harihurganj,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-458,Palamu,Palamu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-459,preve,preve,GPE,-0.27777778,0.42222222,en,1.0,,-1,,,,,,,Wet Spell
-460,Homagama,Homagama,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
-461,Kaduwela,Kaduwela,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
-339,New York City,New York City,GPE,-0.03181818,0.47727273,en,1.0,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Wet Spell
-435,Quebec,Quebec,GPE,-0.05,0.2,en,1.0,,-1,,,,,,,Wet Spell
-433,Kelaniya,Kelaniya,GPE,0.0625,0.5,en,1.0,4339429-2,1240622,X,6.9553,79.921999,INDIAN,Sri Lanka,EIO,Wet Spell
-403,Ranchi,Ranchi,GPE,-0.05,0.1,en,1.0,4358136-5,1258526,X,23.35,85.33333,ASIA,India,SAS,Wet Spell
-432,Seethawaka,Seethawaka,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
-404,Churachandpur,Churachandpur,GPE,-0.4,0.0,en,1.0,,-1,,,,,,,Wet Spell
-405,Greecetoday,Greecetoday,GPE,-0.11860119,0.38849206,en,1.0,,-1,,,,,,,Wet Spell
-406,Manipur village,Manipur village,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-407,Garrison,Garrison,GPE,0.01818182,0.27727273,en,1.0,,-1,,,,,,,Wet Spell
-408,Hudson Valley Shakespeare,Hudson Valley Shakespeare,GPE,0.21666667,0.7,en,1.0,,-1,,,,,,,Wet Spell
-409,Hudson River,Hudson River,LOC,0.31818182,0.72727273,en,1.0,,-1,,,,,,,Wet Spell
-410,the Hudson Valley,the Hudson Valley,LOC,0.27878788,0.61818182,en,1.0,,-1,,,,,,,Wet Spell
-411,Christmas Island,Christmas Island,GPE,0.5,0.5,en,1.0,4219436-2,2078138,X,-10.5,105.666669,INDIAN,Christmas Island,SIO,Wet Spell
-412,Tasik Subang Dam,Tasik Subang Dam,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-413,Sri Lanka's,Sri Lanka's,GPE,-1.0,1.0,en,1.0,,-1,,,,,,,Wet Spell
-414,North Coastal Andhra Pradesh,North Coastal Andhra Pradesh,GPE,0.27777778,0.71111111,en,1.0,,-1,,,,,,,Wet Spell
-415,South Coastal Andhra Pradesh,South Coastal Andhra Pradesh,GPE,-0.23,0.575,en,1.0,,-1,,,,,,,Wet Spell
-416,New Delhi's,New Delhi's,GPE,0.11818182,0.41893939,en,1.0,,-1,,,,,,,Wet Spell
-417,Jalpaiguri,Jalpaiguri,GPE,-0.23,0.575,en,1.0,,-1,,,,,,,Wet Spell
-418,Chengalpet,Chengalpet,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-419,the Tamil Nadu,the Tamil Nadu,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-420,Tamil NaduPuducherry,Tamil NaduPuducherry,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-421,Longreads,Longreads,GPE,0.46666667,0.63333333,en,1.0,,-1,,,,,,,Wet Spell
-422,ROCHESTER,ROCHESTER,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
-424,pe… Chennai,pe… Chennai,GPE,-0.0625,0.3125,en,1.0,,-1,,,,,,,Wet Spell
-425,Latin America,Latin America,LOC,0.5,0.75,en,1.0,,-1,,,,,,,Wet Spell
-426,Western Greece,Western Greece,LOC,0.03363636,0.42857955,en,1.0,,-1,,,,,,,Wet Spell
-427,North Africa,North Africa,GPE,0.03363636,0.42857955,en,1.0,,-1,,,,,,,Wet Spell
-428,Asia Pacific,Asia Pacific,LOC,0.5,0.75,en,1.0,,-1,,,,,,,Wet Spell
-429,Negril,Negril,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-430,Sub-Saharan Africa,Sub-Saharan Africa,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-431,Dompe,Dompe,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
-340,France,France,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Wet Spell
-231,et al,et al,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-338,Kanchipuram,Kanchipuram,GPE,-0.125,0.375,en,1.0,,-1,,,,,,,Wet Spell
-246,Annona squamosa,Annona squamosa,LOC,-0.25,1.0,en,1.0,,-1,,,,,,,Wet Spell
-248,Sabah,Sabah,GPE,0.04444444,0.54444444,en,1.0,4042495-9,1733039,X,5.5,117.0,ASIA,Malaysia,SEA,Wet Spell
-249,Ranthambore,Ranthambore,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-250,Indias east,Indias east,LOC,-0.02840909,0.3375,en,1.0,,-1,,,,,,,Wet Spell
-251,Southeast Asia,Southeast Asia,LOC,-0.2,0.4,en,1.0,,-1,,,,,,,Wet Spell
-252,Viet Nam,Viet Nam,GPE,0.25,0.375,en,1.0,,-1,,,,,,,Wet Spell
-253,Tamil Nadu city,Tamil Nadu city,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
-254,Cameroon,Cameroon,LOC,0.075,0.475,en,1.0,4029413-4,2233387,X,6.0,12.0,AFRICA,Cameroon,CAF,Wet Spell
-255,Kakinada,Kakinada,GPE,0.09318182,0.35,en,1.0,,-1,,,,,,,Wet Spell
-256,Kalingapatnam,Kalingapatnam,GPE,0.09318182,0.35,en,1.0,,-1,,,,,,,Wet Spell
-257,the southeast Bay,the southeast Bay,LOC,0.09318182,0.35,en,1.0,,-1,,,,,,,Wet Spell
-258,Kong,Kong,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-259,the Southern Ocean,the Southern Ocean,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-260,Evia - When,Evia - When,LOC,0.13227273,0.41257576,en,1.0,,-1,,,,,,,Wet Spell
-261,east,east,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-262,Americas,Americas,LOC,-1.0,1.0,en,1.0,,-1,,,,,,,Wet Spell
-263,West Bengals,West Bengals,LOC,-0.05,0.25,en,1.0,,-1,,,,,,,Wet Spell
-264,Mataur,Mataur,GPE,-0.00625,0.23541667,en,1.0,,-1,,,,,,,Wet Spell
-265,Southwest,Southwest,LOC,0.25714286,0.66428571,en,1.0,,-1,,,,,,,Wet Spell
-266,Bangkok,Bangkok,GPE,-0.25,0.4,en,1.0,4004432-4,1609350,X,13.75398,100.50144,ASIA,Thailand,SEA,Wet Spell
-267,Mali,Mali,LOC,-0.5,0.9,en,1.0,4074505-3,2453866,X,18.0,-2.0,AFRICA,Mali,SAH,Wet Spell
-268,Central Africa,Central Africa,GPE,0.055,0.485,en,1.0,,-1,,,,,,,Wet Spell
-269,Pacific Northwest,Pacific Northwest,LOC,0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
-270,Fari Islands,Fari Islands,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-271,the Miami Dolphins,the Miami Dolphins,LOC,0.5,0.9,en,1.0,,-1,,,,,,,Wet Spell
-272,Türkiye,Türkiye,GPE,0.5,1.0,en,1.0,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Wet Spell
-273,England/,England/,GPE,0.02,0.12,en,1.0,,-1,,,,,,,Wet Spell
-274,NZ,NZ,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-247,Peninsular M'sia,Peninsular M'sia,LOC,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
-245,Midwest,Midwest,LOC,0.15284091,0.55113636,en,1.0,,-1,,,,,,,Wet Spell
-276,London,London,GPE,-0.2,0.3,en,1.0,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Wet Spell
-244,Maldives,Maldives,GPE,0.0,0.0,en,1.0,4037212-1,1282028,X,3.2,73.0,INDIAN,,EIO,Wet Spell
-216,Teichman,Teichman,GPE,0.14444444,0.57777778,en,1.0,,-1,,,,,,,Wet Spell
-217,Lubbock,Lubbock,GPE,0.13,0.47,en,1.0,,-1,,,,,,,Wet Spell
-218,Naples,Naples,GPE,-0.06666667,0.56666667,en,1.0,4041476-0,3172394,X,40.833329,14.25,EUROPE-AFRICA,Italy,MED,Wet Spell
-219,the Basin of Mexico,the Basin of Mexico,LOC,-0.09428571,0.39285714,en,1.0,,-1,,,,,,,Wet Spell
-220,Borneo,Borneo,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-221,Serbia,Serbia,GPE,0.1,0.4,en,1.0,4054598-2,6290252,X,44.818919,20.45998,EUROPE-AFRICA,Serbia,MED,Wet Spell
-222,Vojvodina,Vojvodina,GPE,0.1,0.4,en,1.0,4066811-3,784272,X,45.0,20.0,EUROPE,Serbia,WCE,Wet Spell
-223,earth,earth,LOC,0.3,0.53333333,en,1.0,,-1,,,,,,,Wet Spell
-224,maintai…,maintai…,GPE,0.14666667,0.74,en,1.0,,-1,,,,,,,Wet Spell
-225,Marin County's,Marin County's,GPE,0.0,0.06666667,en,1.0,,-1,,,,,,,Wet Spell
-226,Mount Vesuvius,Mount Vesuvius,LOC,0.33333333,1.0,en,1.0,,-1,,,,,,,Wet Spell
-227,K'tan,K'tan,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Wet Spell
-228,Fiordland,Fiordland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-229,East Africa,East Africa,GPE,0.15284091,0.55113636,en,1.0,,-1,,,,,,,Wet Spell
-230,Zeitoun,Zeitoun,GPE,-0.2,0.5,en,1.0,7593445-0,359477,X,29.147439,25.78396,AFRICA,Egypt,SAH,Wet Spell
-232,Turkmenistan,Turkmenistan,GPE,0.0,0.0,en,1.0,4061255-7,1218197,X,40.0,60.0,ASIA,Turkmenistan,WCA,Wet Spell
-233,the South Island,the South Island,LOC,0.0,0.35,en,1.0,,-1,,,,,,,Wet Spell
-234,the Karakum Desert,the Karakum Desert,LOC,-0.05,0.31111111,en,1.0,,-1,,,,,,,Wet Spell
-235,South Island,South Island,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Wet Spell
-236,East Coast,East Coast,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-237,West Country,West Country,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
-238,Bristol,Bristol,GPE,-0.06666667,0.6,en,1.0,4090130-0,2654675,X,51.45523,-2.596649,EUROPE,United Kingdom,NEU,Wet Spell
-239,Somerset,Somerset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
-240,Dorset,Dorset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
-241,south Gloucestershire,south Gloucestershire,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
-242,Wiltshire,Wiltshire,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
-243,the Sahara Desert,the Sahara Desert,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Wet Spell
-275,Accra,Accra,GPE,0.0,0.0,en,1.0,4000338-3,2306104,X,5.55602,-0.1969,AFRICA,Ghana,WAF,Wet Spell
-277,The North Island,The North Island,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Wet Spell
-337,Tirupati,Tirupati,GPE,-0.03333333,0.83333333,en,1.0,4361438-3,1254360,X,13.6355,79.419889,ASIA,India,SAS,Wet Spell
-308,STOCKHOLM,STOCKHOLM,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Wet Spell
-310,LAS VEGAS,LAS VEGAS,GPE,0.4375,0.9375,en,1.0,,-1,,,,,,,Wet Spell
-311,emirate,emirate,GPE,0.39375,0.79375,en,1.0,,-1,,,,,,,Wet Spell
-312,Sharjah,Sharjah,GPE,0.39375,0.79375,en,1.0,,-1,,,,,,,Wet Spell
-313,Adelaide,Adelaide,GPE,0.16666667,0.25,en,1.0,4079623-1,2078025,X,-34.92866,138.59863,OCEANIA,Australia,SAU,Wet Spell
-314,WEST CHILTINGTON,WEST CHILTINGTON,GPE,0.02,0.12,en,1.0,,-1,,,,,,,Wet Spell
-315,AMSTERDAM,AMSTERDAM,GPE,0.0,1.0,en,1.0,,-1,,,,,,,Wet Spell
-316,North India,North India,GPE,-0.175,0.75,en,1.0,,-1,,,,,,,Wet Spell
-317,Haryana,Haryana,GPE,-0.15555556,0.28888889,en,1.0,4239291-3,1270260,X,29.0,76.0,ASIA,India,SAS,Wet Spell
-318,dhaba,dhaba,GPE,-0.26666667,0.39166667,en,1.0,,-1,,,,,,,Wet Spell
-319,Hastings,Hastings,GPE,0.0,0.0,en,1.0,4023626-2,2647356,X,50.85519,0.57292,EUROPE,,NEU,Wet Spell
-320,El Nido,El Nido,GPE,0.27272727,1.0,en,1.0,,-1,,,,,,,Wet Spell
-321,Palawan,Palawan,GPE,0.47272727,1.4,en,1.0,,-1,,,,,,,Wet Spell
-322,CALIFORNIA,CALIFORNIA,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-323,Hawkes Bay,Hawkes Bay,LOC,0.08333333,0.40833333,en,1.0,,-1,,,,,,,Wet Spell
-324,South America,South America,LOC,-0.03333333,0.2,en,1.0,,-1,,,,,,,Wet Spell
-325,Lake Naivasha,Lake Naivasha,LOC,0.0625,0.35416667,en,1.0,,-1,,,,,,,Wet Spell
-326,Kenyas Rift Valley,Kenyas Rift Valley,LOC,0.0625,0.35416667,en,1.0,,-1,,,,,,,Wet Spell
-327,Zika,Zika,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-328,Sepang,Sepang,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-329,Qld,Qld,GPE,1.0,0.3,en,1.0,,-1,,,,,,,Wet Spell
-330,Southern Calif,Southern Calif,LOC,-0.17916667,0.46666667,en,1.0,,-1,,,,,,,Wet Spell
-331,the South Peninsula,the South Peninsula,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-332,Whakatāne,Whakatāne,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
-333,the Bay of Plenty,the Bay of Plenty,LOC,-0.05,0.45,en,1.0,,-1,,,,,,,Wet Spell
-334,Whakatne,Whakatne,GPE,-0.05,0.45,en,1.0,,-1,,,,,,,Wet Spell
-335,The South Island,The South Island,LOC,-0.1,0.4,en,1.0,,-1,,,,,,,Wet Spell
-336,Kallakurichi,Kallakurichi,GPE,-0.125,0.375,en,1.0,,-1,,,,,,,Wet Spell
-309,SWEDEN,SWEDEN,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Wet Spell
-307,Christchurch,Christchurch,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-278,Rotorua,Rotorua,GPE,0.0,0.0,en,1.0,4238505-2,6241325,X,-38.138739,176.245159,OCEANIA,New Zealand,NZ,Wet Spell
-306,Cuddalore,Cuddalore,GPE,-0.125,0.375,en,1.0,4733701-1,1273802,X,11.74629,79.764359,ASIA,India,SAS,Wet Spell
-279,Jalandhar,Jalandhar,GPE,-0.3,0.29,en,1.0,,-1,,,,,,,Wet Spell
-280,Moscow,Moscow,GPE,-0.3,0.29,en,1.0,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Wet Spell
-281,Southern Hungary,Southern Hungary,LOC,0.1952381,0.36904762,en,1.0,,-1,,,,,,,Wet Spell
-282,KISKUNMAJSA,KISKUNMAJSA,GPE,0.1952381,0.36904762,en,1.0,,-1,,,,,,,Wet Spell
-283,Will Delhi,Will Delhi,GPE,-0.05,0.75,en,1.0,,-1,,,,,,,Wet Spell
-284,Noida,Noida,GPE,-0.05,0.75,en,1.0,7669301-6,7279746,X,28.579999,77.329999,ASIA,India,SAS,Wet Spell
-285,robotaxis,robotaxis,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Wet Spell
-286,Southern California for,Southern California for,LOC,0.06818182,0.22727273,en,1.0,,-1,,,,,,,Wet Spell
-287,Maharashtra,Maharashtra,GPE,-0.5,0.625,en,1.0,4037057-4,1264418,X,19.5,75.0,ASIA,India,SAS,Wet Spell
-288,Oktoberfest,Oktoberfest,GPE,0.47159091,0.47613636,en,1.0,,-1,,,,,,,Wet Spell
-289,Quito,Quito,GPE,0.0,0.0,en,1.0,4116883-5,3652462,X,-0.22985,-78.52495,SOUTH-AMERICA,Ecuador,NWS,Wet Spell
-290,Anadolu,Anadolu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-291,Sunrisers East,Sunrisers East,LOC,0.33333333,0.66666667,en,1.0,,-1,,,,,,,Wet Spell
-292,Mashpi Lodge,Mashpi Lodge,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-293,Sri LankaHow,Sri LankaHow,GPE,0.13636364,0.5,en,1.0,,-1,,,,,,,Wet Spell
-294,Rwanda,Rwanda,GPE,0.0,0.0,en,1.0,4076910-0,49518,X,-2.0,30.0,AFRICA,Rwanda,SEAF,Wet Spell
-295,Premadasa Stadium,Premadasa Stadium,GPE,0.13636364,0.5,en,1.0,,-1,,,,,,,Wet Spell
-296,Musango village,Musango village,GPE,-0.18333333,0.28333333,en,1.0,,-1,,,,,,,Wet Spell
-297,San Rafael,San Rafael,GPE,0.04545455,0.48484848,en,1.0,,-1,,,,,,,Wet Spell
-298,the Bay Area's,the Bay Area's,LOC,0.04545455,0.48484848,en,1.0,,-1,,,,,,,Wet Spell
-299,Leptospira,Leptospira,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-300,São Paulo,São Paulo,GPE,0.0,0.0,en,1.0,4051667-2,3448439,X,-23.5475,-46.636111,SOUTH-AMERICA,Brazil,SES,Wet Spell
-301,Antarctica,Antarctica,LOC,0.375,0.41666667,en,1.0,,-1,,,,,,,Wet Spell
-302,RainPoin,RainPoin,GPE,0.0,0.13333333,en,1.0,,-1,,,,,,,Wet Spell
-303,Central Queensland,Central Queensland,LOC,0.25555556,0.43888889,en,1.0,,-1,,,,,,,Wet Spell
-304,TN,TN,GPE,0.08333333,0.25,en,1.0,,-1,,,,,,,Wet Spell
-305,Altadena,Altadena,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
-462,Houthi Red Sea,Houthi Red Sea,LOC,0.025,0.275,en,1.0,,-1,,,,,,,Wet Spell
+0,Südtirol,Südtirol,LOC,-0.18441065,0.04435995,de,78.9,4060814-1,3165244,A,46.5,11.33333,EUROPE,Italy,WCE,Snow Avalanche
+0,Iran,Iran,GPE,-0.16526472,0.67352775,en,65.0,4027653-3,130758,X,32.0,53.0,ASIA,Iran,WCA,Drought
+1,Tirol,Tirol,LOC,0.23678161,0.08045977,de,43.5,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Snow Avalanche
+1,Tehran,Tehran,GPE,-0.20423093,0.70770453,en,42.4,4059304-6,112931,X,35.694389,51.421509,ASIA,Iran,WCA,Drought
+2,Alpen,Alpen,LOC,-0.13285024,0.02415459,de,41.4,4001328-5,682673,T,45.5,24.25,EUROPE,Romania,WCE,Snow Avalanche
+0,Nepal,Nepal,GPE,-0.16326567,0.16680912,en,39.0,4041612-4,1282988,A,28.0,84.0,ASIA,Nepal,TIB,Snow Avalanche
+1,Italy,Italy,GPE,-0.03156676,0.06733081,en,31.1,4027833-5,3175395,A,42.83333,12.83333,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+3,Bayern,Bayern,LOC,0.03625954,0.0,de,26.2,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Snow Avalanche
+2,Delhi,Delhi,GPE,0.00340858,0.44539995,en,25.6,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Drought
+3,India,India,GPE,0.21301885,0.62030958,en,21.7,,-1,,,,,,,Drought
+2,Philippines,Philippines,GPE,-0.20983302,0.26981679,en,19.6,4045771-0,1694008,A,13.40882,122.56155,ASIA,Philippines,SEA,Snow Avalanche
+4,Deutschland,Deutschland,LOC,-0.29142857,0.05714286,de,17.5,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Snow Avalanche
+0,Äthiopien,Äthiopien,LOC,0.0,0.11439842,de,16.9,4000639-6,337996,X,8.0,38.0,AFRICA,Ethiopia,NEAF,Volcano
+3,Alps,Alps,GPE,-0.02417989,0.07845118,en,16.5,,2661786,T,46.41667,10.0,EUROPE,Switzerland,WCE,Snow Avalanche
+1,Indonesien,Indonesien,LOC,0.24358974,0.0,de,15.6,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Volcano
+4,California,California,GPE,0.14551377,1.11376735,en,15.45,,-1,,,,,,,Drought
+4,Colorado,Colorado,GPE,0.10837955,0.74994223,en,15.3,4010406-0,5417618,A,39.00027,-105.50083,NORTH-AMERICA,United States,WNA,Snow Avalanche
+5,Ortlergebirge,Ortlergebirge,LOC,-0.16,0.13333333,de,15.0,,0,,,,,,,Snow Avalanche
+2,Java,Java,LOC,0.04666667,0.0,de,15.0,,-1,,,,,,,Volcano
+5,New Delhi,New Delhi,GPE,0.01335513,0.49380712,en,14.7,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Drought
+5,California,California,GPE,0.01474961,0.29452269,en,14.2,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Snow Avalanche
+6,Lawinen,Lawinen,LOC,-0.20437956,0.0729927,de,13.7,,3868469,H,-49.36246,-74.65861,SOUTH-AMERICA,Chile,SSA,Snow Avalanche
+7,Stubaier,Stubaier,LOC,0.0,0.0,de,13.6,,2764095,T,47.08333,11.16667,EUROPE,Austria,WCE,Snow Avalanche
+8,Himalaya,Himalaya,LOC,-0.17910448,0.0,de,13.4,4024923-2,1252558,T,28.0,84.0,ASIA,Nepal,TIB,Snow Avalanche
+3,Sizilien,Sizilien,LOC,0.10526316,0.0,de,13.3,,-1,,,,,,,Volcano
+6,Alaska,Alaska,GPE,-0.08846438,0.51064046,en,12.9,4001016-8,5879092,A,64.00028,-150.00028,NORTH-AMERICA,United States,NWN,Snow Avalanche
+7,South Tyrol,South Tyrol,GPE,-0.00582682,0.09397786,en,12.8,4007901-6,3181913,P,46.49067,11.33982,EUROPE,Italy,WCE,Snow Avalanche
+9,Nepal,Nepal,LOC,0.08196721,0.0,de,12.2,4041612-4,1282988,A,28.0,84.0,ASIA,Nepal,TIB,Snow Avalanche
+0,Mars,Mars,LOC,0.02542373,0.0,de,11.8,,6621751,T,-76.66667,161.95,POLAR,Antarctica,EAN,Thunderstorm
+10,Frankreich,Frankreich,LOC,-0.37288136,0.0,de,11.8,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Snow Avalanche
+11,Norditalien,Norditalien,LOC,-0.11864407,0.0,de,11.8,,0,,,,,,,Snow Avalanche
+12,Lawinenunglück,Lawinenunglück,LOC,-0.0877193,0.0,de,11.4,,0,,,,,,,Snow Avalanche
+13,Lawinenabgang,Lawinenabgang,LOC,0.0,0.0,de,10.1,,0,,,,,,,Snow Avalanche
+14,Baden-Württemberg,Baden-Württemberg,LOC,-0.485,0.0,de,10.0,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Snow Avalanche
+15,…,…,LOC,0.07,0.0,de,10.0,,0,,,,,,,Snow Avalanche
+16,Lawine,Lawine,LOC,0.4,0.0,de,10.0,,11355774,P,31.72819,-6.8798,EUROPE-AFRICA,Morocco,MED,Snow Avalanche
+17,Himalaya-Gebirge,Himalaya-Gebirge,LOC,-0.51052632,0.0,de,9.5,,0,,,,,,,Snow Avalanche
+1,Hessen,Hessen,LOC,0.0,0.0,de,9.1,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Thunderstorm
+4,Lewotobi Laki-Laki,Lewotobi Laki-Laki,LOC,0.0,0.0,de,9.0,,-1,,,,,,,Volcano
+8,Mount Yalung Ri,Mount Yalung Ri,LOC,-0.22111742,0.20217803,en,8.8,,0,,,,,,,Snow Avalanche
+9,ROME,ROME,GPE,0.00921569,0.1427451,en,8.5,4050471-2,3169070,P,41.89193,12.51133,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+19,Italien,Italien,LOC,-0.05952381,0.05952381,de,8.4,4027833-5,3175395,A,42.83333,12.83333,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+18,Österreich,Österreich,LOC,-0.32142857,0.0,de,8.4,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Snow Avalanche
+20,Tiroler,Tiroler,LOC,0.0,0.0,de,8.2,,2783037,H,47.85,12.5,EUROPE,Germany,WCE,Snow Avalanche
+2,Ibiza,Ibiza,LOC,-0.17073171,0.0,de,8.2,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Thunderstorm
+3,Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.08536585,0.0,de,8.2,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Thunderstorm
+4,Saarland,Saarland,LOC,-0.08536585,0.0,de,8.2,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE,Thunderstorm
+5,Flores,Flores,LOC,-0.0875,0.0,de,8.0,,-1,,,,,,,Volcano
+10,Washington,Washington,GPE,-0.1350211,0.2721519,en,7.9,4064682-8,4140963,P,38.89511,-77.03637,NORTH-AMERICA,United States,ENA,Snow Avalanche
+21,Bozen,Bozen,LOC,0.17948718,0.0,de,7.8,4007901-6,3181913,P,46.49067,11.33982,EUROPE,Italy,WCE,Snow Avalanche
+11,B.C.,B.C.,GPE,-0.03846154,0.60737179,en,7.8,,7315164,P,32.71904,-114.66005,CENTRAL-AMERICA,United States,NCA,Snow Avalanche
+12,Austria,Austria,GPE,-0.14473684,0.09210526,en,7.6,4043271-3,2782113,A,47.33333,13.33333,EUROPE,Austria,WCE,Snow Avalanche
+6,Brazil,Brazil,GPE,0.13329966,0.93260382,en,7.5,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Drought
+5,Formentera,Formentera,LOC,-0.19178082,0.0,de,7.3,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Thunderstorm
+6,Tourette,Tourette,LOC,0.05479452,0.1369863,de,7.3,4328062-6,3006197,P,43.38057,2.33399,EUROPE-AFRICA,France,MED,Thunderstorm
+24,Stubaier Gletscher,Stubaier Gletscher,LOC,0.09589041,0.0,de,7.3,,0,,,,,,,Snow Avalanche
+23,bayerischen Alpen,bayerischen Alpen,LOC,0.19178082,0.0,de,7.3,,0,,,,,,,Snow Avalanche
+22,Lawinenabgängen,Lawinenabgängen,LOC,-0.4109589,0.0,de,7.3,,0,,,,,,,Snow Avalanche
+6,Mittelmeerinsel,Mittelmeerinsel,LOC,0.30434783,0.0,de,6.9,,-1,,,,,,,Volcano
+7,Ätna,Ätna,LOC,0.0942029,0.07246377,de,6.9,,-1,,,,,,,Volcano
+7,Baden-Württemberg,Baden-Württemberg,LOC,0.02205882,0.0,de,6.8,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Thunderstorm
+13,Juneau,Juneau,GPE,0.03128406,0.71282871,en,6.7,4198801-2,5554072,P,58.30194,-134.41972,NORTH-AMERICA,United States,NWN,Snow Avalanche
+8,Deutschland,Deutschland,LOC,-0.02238806,0.0,de,6.7,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Thunderstorm
+14,Switzerland,Switzerland,GPE,0.05,0.36410256,en,6.5,,2658434,A,47.00016,8.01427,EUROPE,Switzerland,WCE,Snow Avalanche
+25,Bergen,Bergen,LOC,0.10769231,0.0,de,6.5,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Snow Avalanche
+7,Türkiye,Türkiye,GPE,0.03469122,0.64880952,en,6.4,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Drought
+8,U.S.,U.S.,GPE,0.38365655,1.74551971,en,6.2,,-1,,,,,,,Drought
+15,Kathmandu,Kathmandu,GPE,-0.20277778,0.38194444,en,6.0,4030036-5,1283240,P,27.70169,85.3206,ASIA,Nepal,TIB,Snow Avalanche
+26,Ortler-Gebirge,Ortler-Gebirge,LOC,-0.16666667,0.0,de,6.0,,0,,,,,,,Snow Avalanche
+8,Semeru,Semeru,LOC,0.06779661,0.0,de,5.9,,-1,,,,,,,Volcano
+9,Hawaii,Hawaii,LOC,0.38793103,0.0,de,5.8,4023877-5,5855797,X,20.75028,-156.50028,PACIFIC,,NPO,Volcano
+9,PHOENIX,PHOENIX,GPE,0.09482759,0.26149425,en,5.8,,-1,,,,,,,Drought
+10,Indonesia,Indonesia,GPE,-0.40904344,1.16071429,en,5.7,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Drought
+11,B.C.,B.C.,GPE,-0.0625,0.28794643,en,5.6,,-1,,,,,,,Drought
+9,Berlin,Berlin,LOC,-0.43636364,0.54545455,de,5.5,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Thunderstorm
+27,Kitzbühel,Kitzbühel,LOC,0.0,0.0,de,5.5,4030895-9,2774347,P,47.44637,12.39215,EUROPE,Austria,WCE,Snow Avalanche
+28,Allgäuer Alpen,Allgäuer Alpen,LOC,-0.05454545,0.0,de,5.5,4001265-7,2958341,T,47.4,10.25,EUROPE,Germany,WCE,Snow Avalanche
+16,Europe,Europe,LOC,0.23076923,0.88461538,en,5.2,,12217848,L,50.28762,15.1903,EUROPE,Czechia,WCE,Snow Avalanche
+10,Flughafen,Flughafen,LOC,-0.28,0.0,de,5.0,,-1,,,,,,,Volcano
+17,France,France,GPE,-0.07472222,0.10972222,en,5.0,4018145-5,3017382,A,46.0,2.0,EUROPE,France,WCE,Snow Avalanche
+18,Salzburg,Salzburg,GPE,-0.13333333,0.0,en,5.0,4076982-3,2766824,P,47.79941,13.04399,EUROPE,Austria,WCE,Snow Avalanche
+19,Canada,Canada,GPE,-0.02475251,1.12846823,en,4.9,4029456-0,6251999,A,60.10867,-113.64258,NORTH-AMERICA,Canada,NWN,Snow Avalanche
+11,Arabische Halbinsel,Arabische Halbinsel,LOC,-0.4375,0.0,de,4.8,,-1,,,,,,,Volcano
+20,Greece,Greece,GPE,0.00496032,0.51215278,en,4.8,4022047-3,390903,A,39.0,22.0,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+30,Schneemassen,Schneemassen,LOC,-0.22340426,0.10638298,de,4.7,,0,,,,,,,Snow Avalanche
+29,Ri,Ri,LOC,-0.21276596,0.0,de,4.7,4042300-1,2328926,A,10.0,8.0,AFRICA,Nigeria,WAF,Snow Avalanche
+12,US,US,GPE,0.34870479,1.31539589,en,4.65,,-1,,,,,,,Drought
+12,Bonn,Bonn,LOC,0.39130435,0.0,de,4.6,4007666-0,6296510,S,50.87894,7.12292,EUROPE,Germany,WCE,Thunderstorm
+13,Kashmir,Kashmir,LOC,-0.01449275,0.27717391,en,4.6,,-1,,,,,,,Drought
+12,Vulkans Semeru,Vulkans Semeru,LOC,0.0,0.0,de,4.6,,-1,,,,,,,Volcano
+13,Erde,Erde,LOC,0.67391304,0.0,de,4.6,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Thunderstorm
+11,Sturmböen,Sturmböen,LOC,-0.15217391,0.0,de,4.6,,0,,,,,,,Thunderstorm
+10,Brandenburg,Brandenburg,LOC,-0.30434783,0.65217391,de,4.6,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Thunderstorm
+13,Aschesäule,Aschesäule,LOC,0.65217391,0.0,de,4.6,,-1,,,,,,,Volcano
+14,China,China,GPE,0.25103306,0.57541322,en,4.4,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Drought
+15,the Middle East,the Middle East,LOC,-0.02264836,0.78693182,en,4.4,,-1,,,,,,,Drought
+18,Earth,Earth,LOC,0.30757576,1.41427061,en,4.3,,-1,,,,,,,Drought
+17,Morocco,Morocco,GPE,-0.32170543,0.54108527,en,4.3,4037680-1,2542007,X,32.0,-5.0,EUROPE-AFRICA,Morocco,MED,Drought
+16,Florida,Florida,GPE,-0.07081718,0.75371447,en,4.3,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Drought
+19,Sri Lanka,Sri Lanka,GPE,0.09418605,0.94366925,en,4.3,4009696-8,1227603,X,7.0,81.0,INDIAN,Sri Lanka,BOB,Drought
+14,Europas,Europas,LOC,0.3452381,0.11904762,de,4.2,,-1,,,,,,,Volcano
+23,La Plagne,La Plagne,GPE,-0.03968254,0.15873016,en,4.2,4536802-8,6690630,P,47.18831,7.28706,EUROPE,Switzerland,WCE,Snow Avalanche
+22,Mammoth Mountain,Mammoth Mountain,LOC,0.10515873,0.22619048,en,4.2,,5831487,P,44.9766,-110.7016,NORTH-AMERICA,United States,WNA,Snow Avalanche
+21,Wyoming,Wyoming,GPE,-0.06785714,0.11587302,en,4.2,4067130-6,5843591,A,43.00024,-107.5009,NORTH-AMERICA,United States,WNA,Snow Avalanche
+31,Goch,Goch,LOC,-0.425,0.0,de,4.0,4021402-3,6696828,T,53.0128,-4.24137,EUROPE,United Kingdom,NEU,Snow Avalanche
+15,Erde,Erde,LOC,0.0,0.0,de,4.0,,-1,,,,,,,Volcano
+24,Ontario,Ontario,GPE,0.06896374,0.79456169,en,4.0,4122012-2,6094817,P,45.41117,-75.69812,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+32,Lawinen-Drama,Lawinen-Drama,LOC,-0.51282051,0.0,de,3.9,,0,,,,,,,Snow Avalanche
+33,Mount Everest,Mount Everest,LOC,0.0,0.0,de,3.9,4040417-1,1283416,T,27.98791,86.92529,ASIA,China,TIB,Snow Avalanche
+20,Kathmandu,Kathmandu,GPE,-0.04385965,0.42690058,en,3.8,4030036-5,1283240,X,27.701689,85.320599,ASIA,Nepal,TIB,Drought
+37,Deutschlands,Deutschlands,LOC,0.31081081,0.0,de,3.7,,0,,,,,,,Snow Avalanche
+23,Andhra Pradesh,Andhra Pradesh,GPE,0.00804376,0.22039897,en,3.7,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Drought
+22,agriforest-crops,agriforest-crops,LOC,0.0,0.0,en,3.7,,-1,,,,,,,Drought
+36,Zentralgriechenland,Zentralgriechenland,LOC,-0.27027027,0.0,de,3.7,,0,,,,,,,Snow Avalanche
+35,Oberbayern,Oberbayern,LOC,-0.45945946,0.0,de,3.7,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Snow Avalanche
+21,Dujiangyan,Dujiangyan,GPE,0.41523342,0.60933661,en,3.7,,-1,,,,,,,Drought
+25,Germany,Germany,GPE,0.38006757,0.59459459,en,3.7,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Snow Avalanche
+34,Rettungseinsatz,Rettungseinsatz,LOC,0.0,0.0,de,3.7,,0,,,,,,,Snow Avalanche
+15,Saturn,Saturn,LOC,0.83783784,0.0,de,3.7,,6624777,T,-66.13333,101.15,POLAR,Antarctica,EAN,Thunderstorm
+38,Griechenland,Griechenland,LOC,0.0,0.0,de,3.7,4022047-3,390903,A,39.0,22.0,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+14,Jupiter,Jupiter,LOC,0.83783784,0.0,de,3.7,,4160610,P,26.93422,-80.09421,NORTH-AMERICA,United States,ENA,Thunderstorm
+16,Feuerberg,Feuerberg,LOC,0.38888889,0.0,de,3.6,,-1,,,,,,,Volcano
+24,Israel,Israel,GPE,-0.06097884,0.43865741,en,3.6,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Drought
+26,Iran,Iran,GPE,0.2952381,0.42857143,en,3.5,4027653-3,130758,A,32.0,53.0,ASIA,Iran,WCA,Snow Avalanche
+25,ISTANBUL,ISTANBUL,GPE,0.23367347,0.55306122,en,3.5,,-1,,,,,,,Drought
+17,Kilauea,Kilauea,LOC,0.20588235,0.0,de,3.4,,-1,,,,,,,Volcano
+27,Himalayas,Himalayas,GPE,-0.14192344,0.50163399,en,3.4,,1252558,T,28.0,84.0,ASIA,Nepal,TIB,Snow Avalanche
+27,Ukraine,Ukraine,GPE,0.05168569,0.50393546,en,3.3,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Drought
+26,Calgary,Calgary,GPE,-0.04877345,0.28398268,en,3.3,4085122-9,5913490,X,51.05,-114.085277,NORTH-AMERICA,Canada,NWN,Drought
+28,Ottawa,Ottawa,GPE,-0.046875,0.36588542,en,3.2,4122012-2,6094817,X,45.411111,-75.698055,NORTH-AMERICA,Canada,ENA,Drought
+39,Hamburg,Hamburg,LOC,-0.21875,0.625,de,3.2,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Snow Avalanche
+29,Jammu,Jammu,GPE,0.31584821,0.57328869,en,3.2,4387357-1,1269321,X,32.735689,74.86911,ASIA,India,WCA,Drought
+30,Thailand,Thailand,GPE,-0.53219898,1.53113553,en,3.1,4078228-1,1605651,X,15.0,100.0,ASIA,Thailand,SEA,Drought
+28,Southern California,Southern California,LOC,0.33160522,1.17327189,en,3.1,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Snow Avalanche
+19,Philippinen,Philippinen,LOC,0.56666667,0.0,de,3.0,4045771-0,1694008,X,13.0,122.0,ASIA,,SEA,Volcano
+29,Florida,Florida,GPE,-0.17218294,1.11725028,en,3.0,4017585-6,12217087,L,26.5,-81.0,NORTH-AMERICA,United States,ENA,Snow Avalanche
+18,Neapel,Neapel,LOC,0.0,0.0,de,3.0,4041476-0,3172394,X,40.833329,14.25,EUROPE-AFRICA,Italy,MED,Volcano
+31,TEHRAN,TEHRAN,GPE,-0.26777778,0.93,en,3.0,,-1,,,,,,,Drought
+16,…,…,LOC,0.0,0.0,de,3.0,,0,,,,,,,Thunderstorm
+32,Los Angeles,Los Angeles,GPE,-0.02011494,0.59051724,en,2.9,,-1,,,,,,,Drought
+30,Russia,Russia,GPE,0.09822362,0.5553814,en,2.9,4076899-5,2017370,A,60.0,100.0,ASIA,Russia,ESB,Snow Avalanche
+22,Berlin,Berlin,LOC,0.24137931,0.0,de,2.9,4005728-8,2950157,X,52.5,13.416669,EUROPE,Germany,WCE,Volcano
+23,Mount Kanlaon,Mount Kanlaon,LOC,-0.06034483,0.25862069,de,2.9,,-1,,,,,,,Volcano
+40,Himalaja,Himalaja,LOC,0.0,0.0,de,2.9,4024923-2,12631325,T,61.47832,22.29583,EUROPE,Finland,NEU,Snow Avalanche
+21,Gipfelkratern,Gipfelkratern,LOC,0.0,0.0,de,2.9,,-1,,,,,,,Volcano
+20,Jahrtausenden,Jahrtausenden,LOC,0.0,0.0,de,2.9,,-1,,,,,,,Volcano
+36,Maharashtra,Maharashtra,GPE,-0.03401361,0.11054422,en,2.8,4037057-4,1264418,X,19.5,75.0,ASIA,India,SAS,Drought
+35,Hyderabad,Hyderabad,GPE,0.11309524,0.42142857,en,2.8,,-1,,,,,,,Drought
+38,Chennai,Chennai,GPE,0.05357143,0.30238095,en,2.8,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Drought
+39,Istanbul,Istanbul,GPE,0.10204082,0.20408163,en,2.8,4027821-9,745044,X,41.013611,28.949444,EUROPE-AFRICA,Turkey,MED,Drought
+40,Southern Zambia,Southern Zambia,LOC,0.0,0.0,en,2.8,,-1,,,,,,,Drought
+34,Europe,Europe,LOC,0.07305195,0.90322872,en,2.8,,-1,,,,,,,Drought
+53,Vorarlberg,Vorarlberg,LOC,0.44642857,0.0,de,2.8,4063944-7,2762300,A,47.25,9.91667,EUROPE,Austria,WCE,Snow Avalanche
+52,Daunscharte,Daunscharte,LOC,0.125,0.17857143,de,2.8,,11808634,T,46.9914,11.0916,EUROPE,Austria,WCE,Snow Avalanche
+51,Waldgrenze,Waldgrenze,LOC,0.30357143,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+25,Notunterkünften,Notunterkünften,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Volcano
+50,Lawinengefahr,Lawinengefahr,LOC,0.25,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+33,Afghanistan,Afghanistan,GPE,-0.31309524,1.1172619,en,2.8,4000687-6,1149361,X,33.0,66.0,ASIA,Afghanistan,WCA,Drought
+37,Kanpur,Kanpur,GPE,0.04464286,0.25595238,en,2.8,4029504-7,1267995,X,26.4478,80.34627,ASIA,India,SAS,Drought
+24,Europa,Europa,LOC,-0.46428571,0.0,de,2.8,4015701-5,6255148,X,48.690959,9.14062,EUROPE,Germany,WCE,Volcano
+48,St. Anton am Arlberg,St. Anton am Arlberg,LOC,0.25,0.0,de,2.8,4196372-6,2766757,P,47.1275,10.26372,EUROPE,Austria,WCE,Snow Avalanche
+47,Türkei,Türkei,LOC,-0.66071429,0.0,de,2.8,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED,Snow Avalanche
+20,Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.35714286,0.0,de,2.8,4036934-1,2874545,P,52.12773,11.62916,EUROPE,Germany,WCE,Thunderstorm
+19,Olympia,Olympia,LOC,-0.35714286,0.0,de,2.8,4271795-4,5805687,P,47.04491,-122.90169,NORTH-AMERICA,United States,WNA,Thunderstorm
+18,NRW,NRW,LOC,0.0,0.35714286,de,2.8,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
+17,Gewitter,Gewitter,LOC,0.0,0.0,de,2.8,,0,,,,,,,Thunderstorm
+31,the United States,the United States,GPE,0.39880952,0.9047619,en,2.8,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+32,Minneapolis,Minneapolis,GPE,0.23412698,0.27480159,en,2.8,4039497-9,5037649,P,44.97997,-93.26384,NORTH-AMERICA,United States,CNA,Snow Avalanche
+33,Dolkha,Dolkha,LOC,-0.13392857,0.40178571,en,2.8,4554187-5,12095469,A,27.82413,86.22166,ASIA,Nepal,TIB,Snow Avalanche
+49,französischen Alpen,französischen Alpen,LOC,-0.35714286,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+41,Tirols,Tirols,LOC,0.75,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+42,Piemont,Piemont,LOC,0.0,0.0,de,2.8,4046039-3,3170831,A,45.0,8.0,EUROPE,Italy,WCE,Snow Avalanche
+43,Nepals,Nepals,LOC,0.0,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+44,Italiener,Italiener,LOC,-0.5,0.0,de,2.8,,12216629,R,46.60614,13.84133,EUROPE,Austria,WCE,Snow Avalanche
+45,Valle Maira,Valle Maira,LOC,0.0,0.0,de,2.8,,0,,,,,,,Snow Avalanche
+46,Neukölln,Neukölln,LOC,0.0,0.0,de,2.8,4102500-3,2864695,P,52.47719,13.43126,EUROPE,Germany,WCE,Snow Avalanche
+44,Southeast Asia,Southeast Asia,LOC,-0.79012346,0.86419753,en,2.7,,-1,,,,,,,Drought
+42,Labrador,Labrador,GPE,0.20092593,0.39166667,en,2.7,,-1,,,,,,,Drought
+41,Newfoundland,Newfoundland,GPE,0.20092593,0.39166667,en,2.7,,-1,,,,,,,Drought
+34,US,US,GPE,-0.16997755,0.6187991,en,2.7,,12217089,L,8.62,-170.11,PACIFIC,,NPO,Snow Avalanche
+26,Tag,Tag,LOC,0.0,0.0,de,2.7,,-1,,,,,,,Volcano
+43,Russia,Russia,GPE,-0.02425044,0.44135802,en,2.7,,-1,,,,,,,Drought
+45,Nepal,Nepal,GPE,0.89423077,0.86446886,en,2.6,4041612-4,1282988,X,28.0,84.0,ASIA,Nepal,TIB,Drought
+54,Regen,Regen,LOC,-0.26923077,0.0,de,2.6,4048975-9,2849495,P,48.9719,13.12824,EUROPE,Germany,WCE,Snow Avalanche
+35,Andorra,Andorra,GPE,-0.19230769,0.28846154,en,2.6,4001937-8,3041565,A,42.55,1.58333,EUROPE-AFRICA,Andorra,MED,Snow Avalanche
+36,Sea,Sea,LOC,-0.38461538,0.61538462,en,2.6,,10922499,L,41.25206,36.96073,EUROPE-AFRICA,Turkey,MED,Snow Avalanche
+29,Lava,Lava,LOC,0.0,0.0,de,2.6,,-1,,,,,,,Volcano
+28,Mount Semeru,Mount Semeru,LOC,0.53846154,0.0,de,2.6,,-1,,,,,,,Volcano
+41,Nevada County,Nevada County,GPE,-0.03846154,0.19230769,en,2.6,,5505411,P,36.0397,-114.98194,NORTH-AMERICA,United States,WNA,Snow Avalanche
+46,UK,UK,GPE,0.46153846,1.44444444,en,2.6,,-1,,,,,,,Drought
+42,Truckee,Truckee,GPE,0.05769231,0.46153846,en,2.6,,5403683,S,39.31991,-120.14047,NORTH-AMERICA,United States,WNA,Snow Avalanche
+47,NEW DELHI,NEW DELHI,GPE,-0.06876457,0.43638306,en,2.6,,-1,,,,,,,Drought
+48,Summerland,Summerland,GPE,0.0,0.11538462,en,2.6,,-1,,,,,,,Drought
+49,New Delhi's,New Delhi's,GPE,0.13636364,0.48339161,en,2.6,,-1,,,,,,,Drought
+30,Indien,Indien,LOC,0.11538462,0.0,de,2.6,4026722-2,1269750,X,20.0,77.0,ASIA,India,SAS,Volcano
+50,Athens,Athens,GPE,-0.03571429,0.05769231,en,2.6,4003366-1,264371,X,37.979449,23.716219,EUROPE-AFRICA,Greece,MED,Drought
+27,Aschewolke,Aschewolke,LOC,0.26923077,0.0,de,2.6,,-1,,,,,,,Volcano
+40,MANILA,MANILA,GPE,-0.11398601,0.19825175,en,2.6,4037344-7,1701668,P,14.6042,120.9822,ASIA,Philippines,SEA,Snow Avalanche
+39,alps,alps,GPE,-0.06043956,0.12637363,en,2.6,,2661786,T,46.41667,10.0,EUROPE,Switzerland,WCE,Snow Avalanche
+38,the Gastein Valley,the Gastein Valley,LOC,-0.20512821,0.0,en,2.6,,0,,,,,,,Snow Avalanche
+43,Oregon,Oregon,GPE,0.12087912,0.33791209,en,2.6,4043760-7,5744337,A,44.00013,-120.50139,NORTH-AMERICA,United States,WNA,Snow Avalanche
+44,U.S.,U.S.,GPE,-0.04106773,1.51416408,en,2.6,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+37,Rocky Mountain National Park,Rocky Mountain National Park,LOC,0.0,0.0,en,2.6,4445595-1,5581493,L,40.34281,-105.68364,NORTH-AMERICA,United States,WNA,Snow Avalanche
+21,Wien,Wien,LOC,0.23076923,0.0,de,2.6,4066009-6,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE,Thunderstorm
+47,Britain,Britain,GPE,0.12,0.36,en,2.5,4321693-6,4839292,P,41.66121,-72.77954,NORTH-AMERICA,United States,ENA,Snow Avalanche
+51,Louisiana,Louisiana,GPE,0.07454545,0.42181818,en,2.5,4036394-6,4331987,X,31.699999,-92.999999,NORTH-AMERICA,United States,CNA,Drought
+46,Northern Ireland,Northern Ireland,GPE,0.36727273,0.65090909,en,2.5,4027667-3,2963597,A,53.0,-8.0,EUROPE,Ireland,NEU,Snow Avalanche
+48,China,China,GPE,0.02747475,1.17843434,en,2.5,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Snow Avalanche
+45,Telluride,Telluride,GPE,0.08222222,0.60444444,en,2.5,,5441213,S,37.9536,-107.90895,NORTH-AMERICA,United States,WNA,Snow Avalanche
+54,Tripureshwor,Tripureshwor,GPE,0.0,0.10416667,en,2.4,,-1,,,,,,,Drought
+53,CALGARY,CALGARY,GPE,-0.0640873,0.2952381,en,2.4,,-1,,,,,,,Drought
+49,Spain,Spain,GPE,-0.00694444,0.5625,en,2.4,4055964-6,2510769,A,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Snow Avalanche
+52,England,England,GPE,0.20089286,0.50595238,en,2.4,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Drought
+56,Canada,Canada,GPE,0.28221344,0.59288538,en,2.3,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Drought
+55,Iraq,Iraq,GPE,-0.22463768,1.88405797,en,2.3,,-1,,,,,,,Drought
+57,Gaza,Gaza,GPE,0.11363636,0.14204545,en,2.2,,-1,,,,,,,Drought
+58,Argentina,Argentina,GPE,-0.03592746,1.34067952,en,2.2,,-1,,,,,,,Drought
+59,Queensland,Queensland,GPE,0.27982955,0.99810606,en,2.2,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Drought
+52,Minnesota,Minnesota,GPE,0.13636364,0.26136364,en,2.2,4101012-7,5037779,A,46.25024,-94.25055,NORTH-AMERICA,United States,CNA,Snow Avalanche
+50,Finland,Finland,GPE,0.20018365,0.8194674,en,2.2,4017243-0,660013,A,64.0,26.0,EUROPE,Finland,NEU,Snow Avalanche
+53,America,America,GPE,0.0,0.3030303,en,2.2,10107251-X,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+51,Arctic,Arctic,LOC,-0.15909091,0.98484848,en,2.2,4002924-4,2960860,H,85.0,0.0,ARCTIC,,ARO,Snow Avalanche
+61,Dublin,Dublin,GPE,0.05102041,0.99433107,en,2.1,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Drought
+60,Calif.,Calif.,GPE,-0.05385488,0.69160998,en,2.1,,-1,,,,,,,Drought
+54,New York City,New York City,GPE,-0.25844156,1.84963925,en,2.1,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Snow Avalanche
+55,Schneelast,Schneelast,LOC,1.0,0.0,de,2.1,,0,,,,,,,Snow Avalanche
+31,Manila,Manila,LOC,0.5,0.0,de,2.0,4037344-7,1701668,X,14.6042,120.9822,ASIA,Philippines,SEA,Volcano
+32,Negros,Negros,LOC,-0.175,0.25,de,2.0,,-1,,,,,,,Volcano
+33,Kilauea-Caldera,Kilauea-Caldera,LOC,0.35,0.0,de,2.0,,-1,,,,,,,Volcano
+34,Iran,Iran,LOC,-0.125,0.0,de,2.0,4027653-3,130758,X,32.0,53.0,ASIA,Iran,WCA,Volcano
+35,Vulkans Taal,Vulkans Taal,LOC,0.5,0.0,de,2.0,,-1,,,,,,,Volcano
+63,Ganderbal,Ganderbal,GPE,0.0,0.2125,en,2.0,,-1,,,,,,,Drought
+56,Salzburg,Salzburg,LOC,0.35,0.0,de,2.0,4076982-3,2766824,P,47.79941,13.04399,EUROPE,Austria,WCE,Snow Avalanche
+63,Probanden,Probanden,LOC,1.0,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+22,Deutschlands,Deutschlands,LOC,0.0,0.0,de,2.0,,0,,,,,,,Thunderstorm
+62,JAMMU,JAMMU,GPE,0.0,0.2125,en,2.0,,-1,,,,,,,Drought
+55,Denver,Denver,GPE,0.6469697,0.96212121,en,2.0,4085412-7,5419384,P,39.73915,-104.9847,NORTH-AMERICA,United States,CNA,Snow Avalanche
+57,Trentino,Trentino,LOC,-0.35,0.0,de,2.0,4060814-1,3165244,A,46.5,11.33333,EUROPE,Italy,WCE,Snow Avalanche
+64,Unfälle,Unfälle,LOC,0.0,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+64,Attica,Attica,GPE,-0.07321429,0.7375,en,2.0,,-1,,,,,,,Drought
+62,Schwaben,Schwaben,LOC,0.0,0.0,de,2.0,4053668-3,2824481,L,48.0,9.0,EUROPE,Germany,WCE,Snow Avalanche
+61,bergen,bergen,LOC,0.0,0.0,de,2.0,1027742-0,3161732,P,60.39299,5.32415,EUROPE,Norway,NEU,Snow Avalanche
+60,Großen Schmiedinger,Großen Schmiedinger,LOC,0.7,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+59,Bobojach,Bobojach,LOC,0.35,0.0,de,2.0,,2781662,P,47.01667,12.4,EUROPE,Austria,WCE,Snow Avalanche
+58,Rolwalingtal,Rolwalingtal,LOC,0.0,0.0,de,2.0,,0,,,,,,,Snow Avalanche
+94,Ortler-Alpen,Ortler-Alpen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+95,Spiekeroog,Spiekeroog,LOC,0.0,0.42105263,de,1.9,4056216-5,2830534,P,53.77012,7.69481,EUROPE,Germany,NEU,Snow Avalanche
+25,Kaltfront,Kaltfront,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+97,bayerischen Bergen,bayerischen Bergen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+98,Savoyen,Savoyen,LOC,-0.36842105,0.0,de,1.9,4051850-4,6354997,S,48.19156,16.38091,EUROPE,Austria,WCE,Snow Avalanche
+99,Lawinenwarndienst Bayern,Lawinenwarndienst Bayern,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+100,Weerberg,Weerberg,LOC,0.0,0.0,de,1.9,4358511-5,2761794,A,47.3,11.66667,EUROPE,Austria,WCE,Snow Avalanche
+101,Reutte,Reutte,LOC,-0.36842105,0.0,de,1.9,4049661-2,2767510,A,47.41667,10.55,EUROPE,Austria,WCE,Snow Avalanche
+23,Bali,Bali,LOC,0.0,0.0,de,1.9,4004327-7,1650534,T,-8.33333,115.0,ASIA,Indonesia,SEA,Thunderstorm
+24,Lübeck,Lübeck,LOC,-0.36842105,0.0,de,1.9,4036483-5,2875601,P,53.86893,10.68729,EUROPE,Germany,NEU,Thunderstorm
+96,Norderney,Norderney,LOC,-0.36842105,0.0,de,1.9,4042519-8,2862042,T,53.71417,7.2415,EUROPE,Germany,NEU,Snow Avalanche
+30,Youtube-Kanal,Youtube-Kanal,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
+26,Offenbach,Offenbach,LOC,0.0,0.0,de,1.9,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Thunderstorm
+27,Gewitterwolken,Gewitterwolken,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+28,Potsdam,Potsdam,LOC,-0.52631579,0.0,de,1.9,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Thunderstorm
+29,Sturmböen fegen,Sturmböen fegen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
+91,Notfälle,Notfälle,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+31,Youtube-Szene,Youtube-Szene,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+32,Gewittern,Gewittern,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+33,Instagram,Instagram,LOC,0.0,0.0,de,1.9,,12070367,S,40.63591,22.94217,EUROPE-AFRICA,Greece,MED,Thunderstorm
+34,Museum von Olympia,Museum von Olympia,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+56,Argentina,Argentina,GPE,0.49342105,0.69078947,en,1.9,4002890-2,3865483,A,-34.0,-64.0,SOUTH-AMERICA,Argentina,SES,Snow Avalanche
+57,Caribbean,Caribbean,LOC,0.63157895,0.68421053,en,1.9,,7729891,L,20.38583,-72.33398,CENTRAL-AMERICA,,CAR,Snow Avalanche
+58,KATHMANDU,KATHMANDU,GPE,-0.15570175,0.12061404,en,1.9,4030036-5,1283240,P,27.70169,85.3206,ASIA,Nepal,TIB,Snow Avalanche
+59,the Rolwaling Valley,the Rolwaling Valley,LOC,-0.21052632,0.05263158,en,1.9,,0,,,,,,,Snow Avalanche
+93,München,München,LOC,0.0,0.0,de,1.9,4245720-8,2867714,P,48.13743,11.57549,EUROPE,Germany,WCE,Snow Avalanche
+86,"Ringe""-Dreh","Ringe""-Dreh",LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+90,Japan,Japan,LOC,-0.36842105,0.0,de,1.9,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS,Snow Avalanche
+89,Rom,Rom,LOC,0.0,0.0,de,1.9,4050471-2,3169070,P,41.89193,12.51133,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+65,Brandenburg,Brandenburg,LOC,-1.78947368,0.0,de,1.9,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Snow Avalanche
+66,Berlin,Berlin,LOC,-1.78947368,0.0,de,1.9,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Snow Avalanche
+67,Landkreis Göppingen,Landkreis Göppingen,LOC,0.0,0.0,de,1.9,4021434-5,2919054,P,48.70354,9.65209,EUROPE,Germany,WCE,Snow Avalanche
+68,Japanischen Alpen,Japanischen Alpen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+69,Tateyama-Kurobe-Alpenroute,Tateyama-Kurobe-Alpenroute,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+70,Toyama,Toyama,LOC,0.0,0.0,de,1.9,4230546-9,1849876,P,36.7,137.21667,ASIA,Japan,EAS,Snow Avalanche
+71,Omachi,Omachi,LOC,0.0,0.0,de,1.9,,6201387,U,29.21667,140.76667,PACIFIC,,NPO,Snow Avalanche
+72,Land,Land,LOC,-0.73684211,0.0,de,1.9,,3421288,L,81.9,-56.75,POLAR,Greenland,GIC,Snow Avalanche
+73,Japans Alpen,Japans Alpen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+74,Norditaliens,Norditaliens,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+75,Pyrenäen,Pyrenäen,LOC,-1.05263158,0.0,de,1.9,4047911-0,6299377,S,43.38,-0.41861,EUROPE-AFRICA,France,MED,Snow Avalanche
+76,Unglücke,Unglücke,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+77,Karabiner,Karabiner,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+78,Leitstelle Tirol,Leitstelle Tirol,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+80,Vardousia-Bergen,Vardousia-Bergen,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+81,Zweier-Gruppe,Zweier-Gruppe,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+82,Fokida,Fokida,LOC,0.0,0.0,de,1.9,,262322,A,38.5,22.25,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+83,Maira-Tal,Maira-Tal,LOC,-0.07894737,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+84,Skifahrern,Skifahrern,LOC,0.0,0.0,de,1.9,,0,,,,,,,Snow Avalanche
+85,Marmolata,Marmolata,LOC,-1.05263158,0.0,de,1.9,4074592-2,3173892,T,46.43459,11.8509,EUROPE,Italy,WCE,Snow Avalanche
+40,Jakarta,Jakarta,LOC,0.0,0.0,de,1.9,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Volcano
+39,Afar,Afar,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Volcano
+38,Vulkanausbruch,Vulkanausbruch,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Volcano
+37,Gestein,Gestein,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Volcano
+36,sch…,sch…,LOC,0.0,1.05263158,de,1.9,,-1,,,,,,,Volcano
+87,Dolomiten,Dolomiten,LOC,-1.05263158,0.0,de,1.9,4012682-1,6299589,S,46.46019,11.32638,EUROPE,Italy,WCE,Snow Avalanche
+88,Kapuzinerberg,Kapuzinerberg,LOC,0.0,0.0,de,1.9,,2774753,T,47.80399,13.05734,EUROPE,Austria,WCE,Snow Avalanche
+79,Süddeutschland,Süddeutschland,LOC,-0.52631579,0.0,de,1.9,4078022-3,12909096,L,48.58781,10.71652,EUROPE,Germany,WCE,Snow Avalanche
+92,Landes,Landes,LOC,-0.07894737,0.0,de,1.9,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Snow Avalanche
+70,Malaysia,Malaysia,GPE,-0.79949875,1.19047619,en,1.9,4037203-0,1733045,X,2.5,112.5,ASIA,Malaysia,SEA,Drought
+83,Krishna district,Krishna district,LOC,-0.07205514,0.2537594,en,1.9,,-1,,,,,,,Drought
+66,Texas,Texas,GPE,0.10526316,1.0877193,en,1.9,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Drought
+69,Senegal,Senegal,GPE,0.0,0.0,en,1.9,4054529-5,2245662,X,14.0,-14.0,AFRICA,Senegal,WAF,Drought
+65,Colorado,Colorado,GPE,0.39440457,1.00746943,en,1.9,,-1,,,,,,,Drought
+71,Washington,Washington,GPE,-0.16666667,0.42105263,en,1.9,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Drought
+72,Jigawa,Jigawa,GPE,-0.26315789,0.26315789,en,1.9,,-1,,,,,,,Drought
+73,PITTSBURGH,PITTSBURGH,GPE,0.0,0.28947368,en,1.9,,-1,,,,,,,Drought
+74,Sichuan province,Sichuan province,GPE,0.44019139,0.71291866,en,1.9,,-1,,,,,,,Drought
+75,Yunnan Province,Yunnan Province,GPE,-0.26315789,1.05263158,en,1.9,,-1,,,,,,,Drought
+82,Bengaluru,Bengaluru,GPE,0.07894737,0.44561404,en,1.9,4004431-2,1277333,X,12.97194,77.593689,ASIA,India,SAS,Drought
+67,The City of Dawson Creek,The City of Dawson Creek,GPE,0.03349282,0.62699362,en,1.9,,-1,,,,,,,Drought
+81,Covington,Covington,GPE,0.02631579,0.31578947,en,1.9,,-1,,,,,,,Drought
+80,Shasta County,Shasta County,GPE,0.0,0.03508772,en,1.9,,-1,,,,,,,Drought
+79,vineyards,vineyards,LOC,0.04775828,0.5380117,en,1.9,,-1,,,,,,,Drought
+78,CHENGDU,CHENGDU,GPE,0.44019139,0.71291866,en,1.9,,-1,,,,,,,Drought
+77,Romania,Romania,GPE,0.04385965,0.70175439,en,1.9,4288396-9,4560808,X,39.793419,-79.044749,NORTH-AMERICA,United States,ENA,Drought
+76,Egypt,Egypt,GPE,0.07894737,0.44561404,en,1.9,4000556-2,357994,X,27.0,30.0,AFRICA,Egypt,SAH,Drought
+68,Ontario,Ontario,GPE,1.05263158,1.05263158,en,1.9,4102089-3,6093943,X,49.25014,-84.49983,NORTH-AMERICA,Canada,ENA,Drought
+60,Binaliw,Binaliw,GPE,0.12962963,0.42592593,en,1.8,,11834729,A,13.68891,123.2604,ASIA,Philippines,SEA,Snow Avalanche
+61,Milan,Milan,GPE,0.11111111,0.83333333,en,1.8,4037100-1,3173435,P,45.46427,9.18951,EUROPE,Italy,WCE,Snow Avalanche
+63,Dolomite mountains,Dolomite mountains,LOC,-0.0952381,0.16666667,en,1.8,,3177545,T,46.38333,11.85,EUROPE,Italy,WCE,Snow Avalanche
+64,Rolwaling,Rolwaling,GPE,-0.375,0.64814815,en,1.8,,1283400,T,27.9568,86.33692,ASIA,China,TIB,Snow Avalanche
+103,Reißleine,Reißleine,LOC,-0.77777778,0.0,de,1.8,,0,,,,,,,Snow Avalanche
+65,Cebu city,Cebu city,GPE,-0.19444444,0.125,en,1.8,,1717512,P,10.31672,123.89071,ASIA,Philippines,SEA,Snow Avalanche
+66,the Făgăraș Mountains,the Făgăraș Mountains,LOC,0.23809524,0.47619048,en,1.8,,0,,,,,,,Snow Avalanche
+67,Hollywood,Hollywood,GPE,0.25,0.68055556,en,1.8,4408912-0,4158928,P,26.0112,-80.14949,NORTH-AMERICA,United States,ENA,Snow Avalanche
+68,Vietnam,Vietnam,GPE,-0.22361111,0.62361111,en,1.8,4063514-4,1562822,A,16.16667,107.83333,ASIA,Vietnam,SEA,Snow Avalanche
+69,Kittitas County Sheriff,Kittitas County Sheriff,GPE,0.05555556,0.22222222,en,1.8,,8497028,S,46.99689,-120.54941,NORTH-AMERICA,United States,WNA,Snow Avalanche
+74,French Alps,French Alps,GPE,-0.03703704,0.0,en,1.8,,2983390,L,43.2332,6.5918,EUROPE-AFRICA,France,MED,Snow Avalanche
+73,Val-d'Isere,Val-d'Isere,GPE,-0.0162037,0.07638889,en,1.8,,2971074,P,45.45142,6.97455,EUROPE,France,WCE,Snow Avalanche
+72,PARIS,PARIS,GPE,-0.0162037,0.07638889,en,1.8,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Snow Avalanche
+71,Savoie,Savoie,GPE,-0.0162037,0.07638889,en,1.8,117150-1,2975517,A,45.46805,6.48547,EUROPE,France,WCE,Snow Avalanche
+70,Scotland,Scotland,GPE,0.15151515,0.50505051,en,1.8,4053233-1,5057190,A,40.4526,-92.14705,NORTH-AMERICA,United States,CNA,Snow Avalanche
+104,Stadt,Stadt,LOC,-0.77777778,0.0,de,1.8,,2661604,P,47.55839,7.57327,EUROPE,Switzerland,WCE,Snow Avalanche
+42,Ähthiopien,Ähthiopien,LOC,0.55555556,0.0,de,1.8,,-1,,,,,,,Volcano
+102,Ballast,Ballast,LOC,-0.38888889,0.0,de,1.8,,2077282,T,-35.75013,137.75534,OCEANIA,Australia,SAU,Snow Avalanche
+91,Konya province,Konya province,GPE,0.09722222,0.36111111,en,1.8,,-1,,,,,,,Drought
+62,Yalung Ri Mountain,Yalung Ri Mountain,LOC,-0.375,0.64814815,en,1.8,,0,,,,,,,Snow Avalanche
+46,Catania,Catania,LOC,0.0,0.0,de,1.8,4085181-3,2525068,X,37.50213,15.087189,EUROPE-AFRICA,Italy,MED,Volcano
+45,Bergs,Bergs,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
+44,Äthiopiens,Äthiopiens,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
+43,Vulkane,Vulkane,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
+41,…,…,LOC,0.0,0.0,de,1.8,,-1,,,,,,,Volcano
+93,the Colorado River Basin,the Colorado River Basin,LOC,0.0,0.0,en,1.8,,-1,,,,,,,Drought
+92,the Pacific Ocean,the Pacific Ocean,LOC,-0.46212121,0.95959596,en,1.8,,-1,,,,,,,Drought
+35,Tramuntana-Gebirge,Tramuntana-Gebirge,LOC,0.0,0.0,de,1.8,,0,,,,,,,Thunderstorm
+90,crisi,crisi,GPE,-0.09511785,0.49158249,en,1.8,,-1,,,,,,,Drought
+36,Verkehrsministeriums,Verkehrsministeriums,LOC,0.0,0.0,de,1.8,,0,,,,,,,Thunderstorm
+88,Patmos,Patmos,GPE,-0.02579365,0.04166667,en,1.8,,-1,,,,,,,Drought
+84,Mexico,Mexico,GPE,0.23148148,1.89444444,en,1.8,,-1,,,,,,,Drought
+85,Mars,Mars,LOC,0.22023008,0.92124018,en,1.8,,-1,,,,,,,Drought
+86,Safi,Safi,GPE,-0.44444444,0.64814815,en,1.8,4482785-4,2537881,X,32.299444,-9.237222,EUROPE-AFRICA,Morocco,MED,Drought
+87,Leros,Leros,GPE,-0.02579365,0.04166667,en,1.8,,-1,,,,,,,Drought
+89,Okanagan,Okanagan,GPE,0.0,0.0,en,1.8,,-1,,,,,,,Drought
+76,New York,New York,GPE,0.18449198,0.86987522,en,1.7,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Snow Avalanche
+75,WASHINGTON,WASHINGTON,GPE,-0.12058824,1.46666667,en,1.7,4064682-8,4140963,P,38.89511,-77.03637,NORTH-AMERICA,United States,ENA,Snow Avalanche
+77,Nagano,Nagano,GPE,0.0,0.58823529,en,1.7,4310172-0,1856215,P,36.65,138.18333,ASIA,Japan,EAS,Snow Avalanche
+100,SAN DIEGO,SAN DIEGO,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Drought
+99,Kelantan,Kelantan,GPE,-0.02941176,0.31176471,en,1.7,4097779-1,1733044,X,5.33333,102.0,ASIA,Malaysia,SEA,Drought
+98,Nunavut,Nunavut,GPE,-0.24509804,0.23529412,en,1.7,4248598-8,6091732,X,70.167839,-90.733249,NORTH-AMERICA,,NEN,Drought
+97,Ocean,Ocean,LOC,0.03921569,0.25490196,en,1.7,,-1,,,,,,,Drought
+96,Kugaaruk,Kugaaruk,GPE,-0.24509804,0.23529412,en,1.7,,-1,,,,,,,Drought
+94,New South Wales,New South Wales,GPE,0.43137255,0.8627451,en,1.7,,-1,,,,,,,Drought
+95,Turlock Irrigation District,Turlock Irrigation District,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Drought
+90,Carolina,Carolina,GPE,-0.453125,0.875,en,1.6,,4563243,P,18.38078,-65.95739,CENTRAL-AMERICA,Puerto Rico,CAR,Snow Avalanche
+78,Norway,Norway,GPE,0.25,0.25,en,1.6,4042640-3,3144096,A,62.0,10.0,EUROPE,Norway,NEU,Snow Avalanche
+79,Vernon,Vernon,GPE,-0.40625,0.84375,en,1.6,7687034-0,5127835,P,40.9126,-73.83708,NORTH-AMERICA,United States,ENA,Snow Avalanche
+47,Pompeji,Pompeji,LOC,0.0,0.0,de,1.6,4046755-7,3170335,X,40.745833,14.496944,EUROPE-AFRICA,Italy,MED,Volcano
+101,Australia,Australia,GPE,0.41856061,2.75284091,en,1.6,,-1,,,,,,,Drought
+102,Somalia,Somalia,GPE,-0.625,1.0,en,1.6,4077509-4,51537,X,6.0,48.0,AFRICA,Somalia,NEAF,Drought
+103,Filly Mangassa,Filly Mangassa,LOC,0.0,0.0,en,1.6,,-1,,,,,,,Drought
+104,Oregon,Oregon,GPE,-0.0625,0.4140625,en,1.6,4043760-7,5744337,X,44.299999,-120.50139,NORTH-AMERICA,United States,WNA,Drought
+105,Black Sea,Black Sea,LOC,0.09288194,0.89236111,en,1.6,,-1,,,,,,,Drought
+106,Moscow,Moscow,GPE,0.0,0.03125,en,1.6,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Drought
+91,Fla.,Fla.,GPE,0.08630952,1.40662202,en,1.6,,6453361,A,60.4291,9.46611,EUROPE,Norway,NEU,Snow Avalanche
+89,Chicago,Chicago,GPE,-0.29204545,1.18484848,en,1.6,4009921-0,4887398,P,41.85003,-87.65005,NORTH-AMERICA,United States,ENA,Snow Avalanche
+87,Summit Kingdom,Summit Kingdom,GPE,0.1875,0.7375,en,1.6,,6495325,S,18.0495,-63.1185,CENTRAL-AMERICA,Sint Maarten,CAR,Snow Avalanche
+86,Quebec,Quebec,GPE,0.29352679,0.43005952,en,1.6,4103473-9,6325494,P,46.81228,-71.21454,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+85,South Western Railway,South Western Railway,LOC,0.03819444,0.40972222,en,1.6,,12011997,A,10.71298,122.57339,ASIA,Philippines,SEA,Snow Avalanche
+84,India,India,GPE,-0.30555556,0.75347222,en,1.6,4026722-2,1269750,A,22.0,79.0,ASIA,India,SAS,Snow Avalanche
+83,Telluride Ski Resort,Telluride Ski Resort,GPE,-0.00520833,0.34375,en,1.6,,0,,,,,,,Snow Avalanche
+82,Iceland,Iceland,GPE,0.25,0.25,en,1.6,4027754-9,2629691,A,65.0,-18.0,POLAR,Iceland,GIC,Snow Avalanche
+81,Kentucky,Kentucky,GPE,-0.09375,0.55208333,en,1.6,4097823-0,6254925,A,38.20042,-84.87762,NORTH-AMERICA,United States,ENA,Snow Avalanche
+80,Ireland,Ireland,GPE,0.015625,0.5,en,1.6,4027667-3,2963597,A,53.0,-8.0,EUROPE,Ireland,NEU,Snow Avalanche
+92,DENVER,DENVER,GPE,-0.265625,0.86458333,en,1.6,4085412-7,5419384,P,39.73915,-104.9847,NORTH-AMERICA,United States,CNA,Snow Avalanche
+88,Mississippi,Mississippi,GPE,0.02430556,0.59375,en,1.6,4039588-1,4436296,A,32.75041,-89.75036,NORTH-AMERICA,United States,ENA,Snow Avalanche
+93,Hong Kong,Hong Kong,GPE,0.61111111,0.71111111,en,1.5,1318138531,1819729,P,22.27832,114.17469,ASIA,Hong Kong,EAS,Snow Avalanche
+37,CDU-Landeschef,CDU-Landeschef,LOC,-0.46666667,0.0,de,1.5,,0,,,,,,,Thunderstorm
+109,Northeast,Northeast,LOC,-0.13160173,1.62720058,en,1.5,,-1,,,,,,,Drought
+108,the United States,the United States,GPE,0.00555556,0.73611111,en,1.5,,-1,,,,,,,Drought
+107,Jordan,Jordan,GPE,0.11784848,1.55927273,en,1.5,,-1,,,,,,,Drought
+112,TORONTO,TORONTO,GPE,0.49107143,0.85714286,en,1.4,,-1,,,,,,,Drought
+95,Khabarhub,Khabarhub,GPE,0.34672619,0.71428571,en,1.4,,0,,,,,,,Snow Avalanche
+115,Japan,Japan,GPE,0.42012987,1.18376623,en,1.4,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Drought
+114,Hollywood,Hollywood,GPE,-0.08801948,1.27779221,en,1.4,,-1,,,,,,,Drought
+113,Africa,Africa,LOC,0.13095238,1.11904762,en,1.4,,-1,,,,,,,Drought
+94,the Vardousia Mountains,the Vardousia Mountains,LOC,0.11904762,0.63492063,en,1.4,,0,,,,,,,Snow Avalanche
+111,Virginia,Virginia,GPE,-0.39285714,0.60714286,en,1.4,4063592-2,6254928,X,37.548119,-77.446749,NORTH-AMERICA,United States,ENA,Drought
+110,South Africa,South Africa,GPE,0.0,0.23809524,en,1.4,4078012-0,953987,X,-29.0,24.0,AFRICA,South Africa,WSAF,Drought
+105,Schnee,Schnee,LOC,0.5,0.0,de,1.4,,2728679,T,80.42142,19.61903,ARCTIC,Svalbard and Jan Mayen,ARO,Snow Avalanche
+38,Syrien,Syrien,LOC,-0.5,0.0,de,1.4,4058794-0,163843,A,35.0,38.0,EUROPE-AFRICA,Syria,MED,Thunderstorm
+118,Iowa,Iowa,GPE,-0.12820513,0.57692308,en,1.3,4109226-0,4862182,X,42.7,-93.500489,NORTH-AMERICA,United States,CNA,Drought
+120,Fla.,Fla.,GPE,0.52884615,0.875,en,1.3,,-1,,,,,,,Drought
+114,Texas,Texas,GPE,-0.05769231,0.33974359,en,1.3,4059594-8,12217092,L,28.9204,-98.5772,CENTRAL-AMERICA,United States,NCA,Snow Avalanche
+122,LONDON,LONDON,GPE,-0.05128205,0.6039886,en,1.3,,-1,,,,,,,Drought
+123,Rajasthan,Rajasthan,GPE,0.11153846,0.61410256,en,1.3,4076502-7,1258899,X,26.0,74.0,ASIA,India,SAS,Drought
+124,Wivenhoe Dam,Wivenhoe Dam,LOC,0.01201923,0.47115385,en,1.3,,-1,,,,,,,Drought
+111,Mo.,Mo.,GPE,0.0,0.0,en,1.3,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB,Snow Avalanche
+110,MADRID,MADRID,GPE,0.21794872,1.03846154,en,1.3,4036862-2,3117735,P,40.4165,-3.70256,EUROPE-AFRICA,Spain,MED,Snow Avalanche
+109,Montana,Montana,GPE,0.65384615,0.59615385,en,1.3,4262460-5,729114,P,43.4125,23.225,EUROPE-AFRICA,Bulgaria,MED,Snow Avalanche
+108,Helsinki,Helsinki,GPE,0.19230769,0.49679487,en,1.3,4024351-5,658225,P,60.16952,24.93545,EUROPE,Finland,NEU,Snow Avalanche
+119,TAMPA,TAMPA,GPE,0.52884615,0.875,en,1.3,,-1,,,,,,,Drought
+121,Cairns,Cairns,GPE,-0.15384615,0.30769231,en,1.3,4376462-9,2172797,X,-16.92304,145.76625,OCEANIA,Australia,NAU,Drought
+117,Caribbean,Caribbean,LOC,-0.61538462,0.65384615,en,1.3,,-1,,,,,,,Drought
+116,New York City,New York City,GPE,0.1951049,1.42727273,en,1.3,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Drought
+106,TORONTO,TORONTO,GPE,0.26510989,0.4010989,en,1.3,4060459-7,6167865,P,43.70643,-79.39864,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+113,Mountain Village,Mountain Village,GPE,0.08653846,0.77884615,en,1.3,,5869366,P,62.08556,-163.72944,NORTH-AMERICA,United States,NWN,Snow Avalanche
+106,Kalifornien,Kalifornien,LOC,-0.76923077,0.0,de,1.3,4029307-5,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Snow Avalanche
+112,KANSAS CITY,KANSAS CITY,GPE,0.0,0.0,en,1.3,4109999-0,4393217,P,39.09973,-94.57857,NORTH-AMERICA,United States,CNA,Snow Avalanche
+107,Liga-Restart,Liga-Restart,LOC,-1.53846154,0.0,de,1.3,,0,,,,,,,Snow Avalanche
+108,Glatteis,Glatteis,LOC,-1.53846154,0.0,de,1.3,,0,,,,,,,Snow Avalanche
+49,Vesuv,Vesuv,LOC,1.07692308,0.0,de,1.3,,-1,,,,,,,Volcano
+48,Lake Toba,Lake Toba,LOC,0.0,0.0,de,1.3,,-1,,,,,,,Volcano
+109,Trainingsplätze,Trainingsplätze,LOC,0.0,0.0,de,1.3,,0,,,,,,,Snow Avalanche
+113,China,China,LOC,-0.76923077,0.76923077,de,1.3,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Snow Avalanche
+112,Wind,Wind,LOC,-1.53846154,0.0,de,1.3,,8335343,L,31.29,18.03,EUROPE-AFRICA,,MED,Snow Avalanche
+107,Eastern Ontario,Eastern Ontario,LOC,0.40537241,0.66910867,en,1.3,,5744166,P,44.02655,-116.96294,NORTH-AMERICA,United States,WNA,Snow Avalanche
+105,Vancouver Island,Vancouver Island,GPE,-0.23076923,0.34615385,en,1.3,10356200-X,8630140,L,49.75152,-126.48958,NORTH-AMERICA,Canada,WNA,Snow Avalanche
+110,Hamburgs,Hamburgs,LOC,-0.35897436,0.25641026,de,1.3,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Snow Avalanche
+131,the Snoqualmie River,the Snoqualmie River,LOC,0.0,0.0,en,1.3,,-1,,,,,,,Drought
+137,Quinte,Quinte,GPE,0.76923077,0.76923077,en,1.3,,-1,,,,,,,Drought
+136,Venezuela,Venezuela,GPE,0.0,0.0,en,1.3,4062512-6,3625428,X,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Drought
+135,Mississippi Valley,Mississippi Valley,LOC,0.76923077,0.76923077,en,1.3,,-1,,,,,,,Drought
+134,Dawson Creek,Dawson Creek,GPE,-0.23076923,0.38461538,en,1.3,,-1,,,,,,,Drought
+133,Madhya Pradesh,Madhya Pradesh,GPE,0.10302198,0.49450549,en,1.3,4234626-5,1264542,X,23.5,78.5,ASIA,India,SAS,Drought
+132,New Zealand,New Zealand,GPE,0.20979021,0.6993007,en,1.3,,-1,,,,,,,Drought
+130,Midwest,Midwest,LOC,-0.06075175,0.98339161,en,1.3,,-1,,,,,,,Drought
+139,the Red Planet,the Red Planet,LOC,-0.03554779,0.30244755,en,1.3,,-1,,,,,,,Drought
+129,Uruguay,Uruguay,GPE,-0.24125874,0.88811189,en,1.3,4062186-8,3439705,X,-33.0,-56.0,SOUTH-AMERICA,Uruguay,SES,Drought
+128,New York,New York,GPE,-0.07342657,0.90909091,en,1.3,,-1,,,,,,,Drought
+127,Haryana,Haryana,GPE,0.11153846,0.61410256,en,1.3,4239291-3,1270260,X,29.0,76.0,ASIA,India,SAS,Drought
+126,America,America,GPE,0.0,0.23076923,en,1.3,,-1,,,,,,,Drought
+125,Staten Island,Staten Island,GPE,-0.25811966,0.71452991,en,1.3,,-1,,,,,,,Drought
+122,LOS ANGELES,LOS ANGELES,GPE,0.13846154,0.83076923,en,1.3,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Snow Avalanche
+104,US Gulf,US Gulf,LOC,-0.08391608,1.05361305,en,1.3,,12212749,L,30.3314,-89.73221,NORTH-AMERICA,United States,ENA,Snow Avalanche
+138,Toulouse,Toulouse,GPE,0.87393162,1.01709402,en,1.3,4060518-8,2972315,X,43.604259,1.44367,EUROPE-AFRICA,France,MED,Drought
+140,Kerrville,Kerrville,GPE,0.0,0.0,en,1.3,,-1,,,,,,,Drought
+121,UK,UK,GPE,-0.06118881,0.27680653,en,1.3,4022153-2,2635167,A,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Snow Avalanche
+103,Northeast,Northeast,LOC,-0.08391608,1.05361305,en,1.3,,11887749,L,42.80019,-74.11805,NORTH-AMERICA,United States,ENA,Snow Avalanche
+102,Metro Vancouver,Metro Vancouver,GPE,-0.23076923,0.34615385,en,1.3,4119364-7,6173331,P,49.24966,-123.11934,NORTH-AMERICA,Canada,WNA,Snow Avalanche
+101,Prince George,Prince George,GPE,-0.38141026,0.63141026,en,1.3,4529627-3,4349159,P,38.94278,-76.73028,NORTH-AMERICA,United States,ENA,Snow Avalanche
+100,South Coast,South Coast,LOC,0.0,0.0,en,1.3,,11497252,L,13.81674,109.05029,ASIA,Vietnam,SEA,Snow Avalanche
+99,Slope,Slope,LOC,0.07692308,0.76923077,en,1.3,,5870308,A,69.25056,-152.00056,NORTH-AMERICA,United States,NWN,Snow Avalanche
+98,Lake Superior,Lake Superior,LOC,0.84615385,1.06730769,en,1.3,4075549-6,6048728,H,48.33222,-87.09861,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+97,Indiana,Indiana,GPE,0.07692308,0.15384615,en,1.3,4109219-3,12213487,L,39.74743,-86.20614,NORTH-AMERICA,United States,ENA,Snow Avalanche
+96,London,London,GPE,0.14835165,0.22710623,en,1.3,4074335-4,2643743,P,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Snow Avalanche
+115,Sweden,Sweden,GPE,0.66783217,0.98251748,en,1.3,4077258-5,2661886,A,62.0,15.0,EUROPE,Sweden,NEU,Snow Avalanche
+116,Québec,Québec,GPE,-0.08173077,0.64903846,en,1.3,4103473-9,6325494,P,46.81228,-71.21454,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+117,Purdue,Purdue,GPE,-0.11538462,0.67948718,en,1.3,,4924709,S,40.41226,-86.93668,NORTH-AMERICA,United States,ENA,Snow Avalanche
+118,East,East,LOC,-0.1013986,0.55944056,en,1.3,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Snow Avalanche
+119,Venezuela,Venezuela,GPE,-0.46263736,0.98901099,en,1.3,4062512-6,3625428,A,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Snow Avalanche
+120,Gaza,Gaza,GPE,0.0,0.0,en,1.3,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Snow Avalanche
+111,Hoffenheim,Hoffenheim,LOC,-1.53846154,0.0,de,1.3,4815169-5,2902584,P,49.272,8.84099,EUROPE,Germany,WCE,Snow Avalanche
+155,San Francisco,San Francisco,GPE,-0.55555556,0.98611111,en,1.2,,-1,,,,,,,Drought
+127,ECHL,ECHL,GPE,0.18055556,0.47222222,en,1.2,,0,,,,,,,Snow Avalanche
+126,Buenos Aires,Buenos Aires,GPE,0.0,0.0,en,1.2,4008756-6,3435910,P,-34.61315,-58.37723,SOUTH-AMERICA,Argentina,SES,Snow Avalanche
+41,CSU-Chef,CSU-Chef,LOC,1.66666667,0.83333333,de,1.2,,0,,,,,,,Thunderstorm
+156,the United Kingdom,the United Kingdom,GPE,-0.33854167,1.28125,en,1.2,,-1,,,,,,,Drought
+136,uninhabited island,uninhabited island,LOC,0.27866162,1.00138889,en,1.2,,0,,,,,,,Snow Avalanche
+143,Indore,Indore,GPE,0.19907407,0.27314815,en,1.2,4368406-3,1269743,P,22.71792,75.8333,ASIA,India,SAS,Snow Avalanche
+142,United States,United States,GPE,-0.5,0.75,en,1.2,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+141,Netherlands,Netherlands,GPE,0.0,0.0,en,1.2,4042203-3,2750405,A,52.25,5.75,EUROPE,The Netherlands,NEU,Snow Avalanche
+140,CAM,CAM,GPE,0.51851852,0.55787037,en,1.2,,7732862,S,11.99806,109.21944,ASIA,Vietnam,SEA,Snow Avalanche
+139,Australia,Australia,GPE,0.0,0.0,en,1.2,4003900-6,2077456,A,-25.0,135.0,OCEANIA,Australia,CAU,Snow Avalanche
+138,Arizona,Arizona,GPE,0.10416667,0.375,en,1.2,4002920-7,5551752,A,34.5003,-111.50098,NORTH-AMERICA,United States,WNA,Snow Avalanche
+137,TAMPA,TAMPA,GPE,-0.19047619,0.7921627,en,1.2,4122651-3,4174757,P,27.94752,-82.45843,NORTH-AMERICA,United States,ENA,Snow Avalanche
+124,Longyearbyen,Longyearbyen,GPE,0.0,0.0,en,1.2,4099794-7,2729907,P,78.22334,15.64689,ARCTIC,Svalbard and Jan Mayen,ARO,Snow Avalanche
+128,St. Vincent,St. Vincent,GPE,0.37689394,0.82228535,en,1.2,2034200-7,498817,P,59.93863,30.31413,EUROPE,Russia,NEU,Snow Avalanche
+135,New York Rangers,New York Rangers,GPE,-0.25757576,0.53030303,en,1.2,,0,,,,,,,Snow Avalanche
+134,Grenadines,Grenadines,GPE,0.37689394,0.82228535,en,1.2,,3577892,A,12.8781,-61.18283,CENTRAL-AMERICA,Saint Vincent and the Grenadines,CAR,Snow Avalanche
+133,the Mile High City,the Mile High City,LOC,0.53333333,0.8,en,1.2,4085412-7,5419384,P,39.73915,-104.9847,NORTH-AMERICA,United States,CNA,Snow Avalanche
+132,Tennessee,Tennessee,GPE,-0.125,0.125,en,1.2,4119557-7,12217091,L,35.8,-86.5,NORTH-AMERICA,United States,ENA,Snow Avalanche
+131,CHICAGO,CHICAGO,GPE,-0.20833333,0.5,en,1.2,4009921-0,4887398,P,41.85003,-87.65005,NORTH-AMERICA,United States,ENA,Snow Avalanche
+130,the Gulf of Finland,the Gulf of Finland,LOC,0.27866162,1.00138889,en,1.2,,0,,,,,,,Snow Avalanche
+129,Mattighofen,Mattighofen,GPE,0.02777778,0.25,en,1.2,4100657-4,2774401,P,48.0389,13.11519,EUROPE,Austria,WCE,Snow Avalanche
+125,Badrinath,Badrinath,GPE,0.22222222,1.0,en,1.2,4364513-6,1277960,T,30.7333,79.2833,ASIA,India,TIB,Snow Avalanche
+147,New Jersey,New Jersey,GPE,0.35774411,1.1986532,en,1.2,4042004-8,5101760,X,40.167059,-74.49987,NORTH-AMERICA,United States,ENA,Drought
+123,BUENOS AIRES,BUENOS AIRES,GPE,0.0,0.0,en,1.2,4008756-6,3435910,P,-34.61315,-58.37723,SOUTH-AMERICA,Argentina,SES,Snow Avalanche
+151,Seneca,Seneca,GPE,0.25252525,0.87878788,en,1.2,,-1,,,,,,,Drought
+39,Landtagswahl,Landtagswahl,LOC,0.58333333,0.0,de,1.2,,0,,,,,,,Thunderstorm
+141,Turkey,Turkey,GPE,0.0,0.0,en,1.2,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Drought
+142,North America,North America,LOC,0.08928571,1.10119048,en,1.2,,-1,,,,,,,Drought
+143,Jragung Dam,Jragung Dam,GPE,0.0,0.41666667,en,1.2,,-1,,,,,,,Drought
+144,Ladakh,Ladakh,GPE,0.38095238,0.72619048,en,1.2,,-1,,,,,,,Drought
+145,Massachusetts,Massachusetts,GPE,0.10416667,0.83333333,en,1.2,4037858-5,6254926,X,42.36565,-71.10832,NORTH-AMERICA,United States,ENA,Drought
+146,Chicago,Chicago,GPE,-0.03661616,0.42424242,en,1.2,4009921-0,4887398,X,41.850029,-87.650049,NORTH-AMERICA,United States,ENA,Drought
+40,Union,Union,LOC,-0.58333333,0.0,de,1.2,,3584767,A,13.55,-87.9,CENTRAL-AMERICA,El Salvador,SCA,Thunderstorm
+148,CBD,CBD,GPE,0.47869318,1.52272727,en,1.2,,-1,,,,,,,Drought
+154,Seoul,Seoul,GPE,0.74621212,0.91792929,en,1.2,4122021-3,1835848,X,37.56826,126.977829,ASIA,South Korea,EAS,Drought
+150,the Middle East's,the Middle East's,LOC,0.16666667,1.16666667,en,1.2,,-1,,,,,,,Drought
+149,Sacramento County,Sacramento County,GPE,-0.24583333,0.42638889,en,1.2,,-1,,,,,,,Drought
+118,Zillertal,Zillertal,LOC,-0.83333333,0.0,de,1.2,4109019-6,7602524,L,47.24321,12.0249,EUROPE,Austria,WCE,Snow Avalanche
+114,Hessen,Hessen,LOC,0.0,0.0,de,1.2,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Snow Avalanche
+116,Hessens,Hessens,LOC,0.0,0.0,de,1.2,,0,,,,,,,Snow Avalanche
+115,Willingen,Willingen,LOC,0.0,0.0,de,1.2,5350718-6,2808544,P,51.29418,8.6091,EUROPE,Germany,WCE,Snow Avalanche
+153,Colorado River,Colorado River,LOC,-0.10416667,0.625,en,1.2,,-1,,,,,,,Drought
+152,BAGHDAD,BAGHDAD,GPE,0.16666667,1.16666667,en,1.2,,-1,,,,,,,Drought
+117,Wochenmitte,Wochenmitte,LOC,0.0,0.83333333,de,1.2,,0,,,,,,,Snow Avalanche
+146,Narchyang,Narchyang,GPE,-0.58636364,1.14090909,en,1.1,,7802087,A,28.53652,83.70201,ASIA,Nepal,TIB,Snow Avalanche
+145,Asia,Asia,LOC,0.32467532,0.76623377,en,1.1,4003217-6,6255147,L,29.84064,89.29688,ASIA,China,TIB,Snow Avalanche
+144,Annapurna Rural Municipality-4,Annapurna Rural Municipality-4,GPE,-0.58636364,1.14090909,en,1.1,,0,,,,,,,Snow Avalanche
+197,Las Vegas,Las Vegas,GPE,-0.14545455,0.61212121,en,1.1,,-1,,,,,,,Drought
+148,Earth,Earth,LOC,0.0,0.0,en,1.1,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Snow Avalanche
+190,Kamloops,Kamloops,GPE,0.5,0.86363636,en,1.1,4250976-2,5989045,X,50.66648,-120.319199,NORTH-AMERICA,Canada,NWN,Drought
+196,Pontian,Pontian,GPE,-0.1375,0.58068182,en,1.1,,-1,,,,,,,Drought
+195,Louisville,Louisville,GPE,-0.12121212,0.36363636,en,1.1,,-1,,,,,,,Drought
+194,Alaska,Alaska,GPE,-0.67045455,0.80681818,en,1.1,4001016-8,5879092,X,64.8,-150.8,NORTH-AMERICA,United States,NWN,Drought
+193,Minnesota,Minnesota,GPE,0.24242424,1.33333333,en,1.1,4101012-7,5037779,X,46.250239,-94.25055,NORTH-AMERICA,United States,CNA,Drought
+147,Uttarakhand,Uttarakhand,GPE,0.15151515,0.72727273,en,1.1,1358877971,1444366,A,30.25,79.25,ASIA,India,TIB,Snow Avalanche
+160,Pakistan,Pakistan,GPE,0.25568182,0.53030303,en,1.1,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Drought
+149,Glacier National Park,Glacier National Park,LOC,0.90909091,0.90909091,en,1.1,,5654292,L,48.68306,-113.80031,NORTH-AMERICA,United States,WNA,Snow Avalanche
+173,Fargo,Fargo,GPE,0.45454545,1.54545455,en,1.1,,-1,,,,,,,Drought
+171,Western Australia,Western Australia,LOC,0.08815427,0.46556474,en,1.1,,-1,,,,,,,Drought
+170,JAMAICA,JAMAICA,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
+169,Amherst,Amherst,GPE,0.15151515,1.16161616,en,1.1,,-1,,,,,,,Drought
+168,Doctolib,Doctolib,GPE,0.25974026,0.48701299,en,1.1,,-1,,,,,,,Drought
+167,Greece,Greece,GPE,0.12396694,0.9258494,en,1.1,,-1,,,,,,,Drought
+166,Mediterranean,Mediterranean,LOC,0.81818182,1.18181818,en,1.1,,-1,,,,,,,Drought
+165,Sacramento,Sacramento,GPE,-0.63636364,0.63636364,en,1.1,,-1,,,,,,,Drought
+164,Semarang District,Semarang District,GPE,0.0,0.45454545,en,1.1,,-1,,,,,,,Drought
+163,Central Java,Central Java,GPE,0.0,0.45454545,en,1.1,,-1,,,,,,,Drought
+162,Kerala,Kerala,GPE,0.40909091,0.36363636,en,1.1,4030266-0,1267254,X,10.0,76.5,ASIA,India,SAS,Drought
+161,the Space Coast,the Space Coast,LOC,0.12396694,0.50413223,en,1.1,,-1,,,,,,,Drought
+191,A.L.,A.L.,GPE,0.0,0.27272727,en,1.1,,-1,,,,,,,Drought
+119,Wasserkuppe,Wasserkuppe,LOC,0.0,0.0,de,1.1,4064748-1,2813735,T,50.4982,9.93739,EUROPE,Germany,WCE,Snow Avalanche
+150,Kuber,Kuber,GPE,0.15151515,0.72727273,en,1.1,,7839418,A,-29.01137,134.75189,OCEANIA,Australia,CAU,Snow Avalanche
+43,Rückführungen,Rückführungen,LOC,0.0,0.0,de,1.1,,0,,,,,,,Thunderstorm
+42,Stuttgart,Stuttgart,LOC,0.0,0.0,de,1.1,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Thunderstorm
+157,Atlanta,Atlanta,GPE,0.0,1.81818182,en,1.1,4086063-2,4180439,X,33.748888,-84.387777,NORTH-AMERICA,United States,ENA,Drought
+158,Vadodara,Vadodara,GPE,0.54545455,0.86363636,en,1.1,4349634-9,1253573,X,22.299399,73.208119,ASIA,India,SAS,Drought
+159,Maritimes,Maritimes,GPE,0.45643939,1.0625,en,1.1,,-1,,,,,,,Drought
+172,the East Coast,the East Coast,LOC,0.24793388,0.82644628,en,1.1,,-1,,,,,,,Drought
+192,West Palm Beach,West Palm Beach,GPE,-0.28282828,0.52525253,en,1.1,,-1,,,,,,,Drought
+174,North Dakota,North Dakota,GPE,0.45454545,1.54545455,en,1.1,4075498-4,5690763,X,47.50027,-100.8,NORTH-AMERICA,United States,CNA,Drought
+183,Los Gatos,Los Gatos,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
+187,South Korea,South Korea,GPE,0.1322314,0.31955923,en,1.1,4078029-6,1835841,X,37.0,127.5,ASIA,South Korea,EAS,Drought
+188,Lantang Valley,Lantang Valley,LOC,0.0,0.0,en,1.1,,-1,,,,,,,Drought
+189,Kansas,Kansas,GPE,0.12396694,0.41322314,en,1.1,4114131-3,4273857,X,38.500289,-98.50063,NORTH-AMERICA,United States,CNA,Drought
+50,Armero,Armero,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Volcano
+152,Japan,Japan,GPE,0.37465565,0.22865014,en,1.1,4028495-5,1861060,A,35.68536,139.75309,ASIA,Japan,EAS,Snow Avalanche
+186,Atlantic,Atlantic,LOC,-0.54545455,0.72727273,en,1.1,,-1,,,,,,,Drought
+151,stablecoin,stablecoin,GPE,0.0,0.0,en,1.1,,0,,,,,,,Snow Avalanche
+185,Qonto,Qonto,GPE,0.25974026,0.48701299,en,1.1,,-1,,,,,,,Drought
+184,Operation Cloudburst,Operation Cloudburst,LOC,0.90909091,1.54545455,en,1.1,,-1,,,,,,,Drought
+182,Lancaster city,Lancaster city,GPE,0.12396694,0.41322314,en,1.1,,-1,,,,,,,Drought
+181,Mass.,Mass.,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
+180,Cayman Islands,Cayman Islands,GPE,0.29090909,0.43636364,en,1.1,4310479-4,3580718,X,19.5,-80.666669,CENTRAL-AMERICA,,CAR,Drought
+179,Zanzibar,Zanzibar,GPE,0.0,0.0,en,1.1,4051641-6,148730,X,-6.16394,39.197929,AFRICA,Tanzania,SEAF,Drought
+178,Nev.,Nev.,GPE,0.04545455,0.18181818,en,1.1,,-1,,,,,,,Drought
+177,Mauritius,Mauritius,GPE,0.17045455,0.58522727,en,1.1,4074641-0,934292,X,-20.3,57.583329,INDIAN,Mauritius,SIO,Drought
+176,The United Kingdom,The United Kingdom,GPE,0.23140496,0.80165289,en,1.1,,-1,,,,,,,Drought
+175,Jammu North,Jammu North,GPE,-0.12662338,0.91774892,en,1.1,,-1,,,,,,,Drought
+51,Nevado del Ruiz,Nevado del Ruiz,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Volcano
+45,Gewitter-Gefahr,Gewitter-Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+304,Schneedeckenaufbau,Schneedeckenaufbau,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+305,Dauereinsatz,Dauereinsatz,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+44,Pityusen,Pityusen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+51,Gaza,Gaza,LOC,0.0,0.0,de,1.0,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
+46,aufgewirbe…,aufgewirbe…,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+47,Israel,Israel,LOC,0.0,0.0,de,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Thunderstorm
+48,Klosterneuburg,Klosterneuburg,LOC,0.0,0.0,de,1.0,4031235-5,2773913,P,48.30521,16.32522,EUROPE,Austria,WCE,Thunderstorm
+49,Streaming-Partner,Streaming-Partner,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+50,Stunden in der Luft,Stunden in der Luft,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+302,Gefahrenstufen,Gefahrenstufen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+52,Gazastreifen,Gazastreifen,LOC,-0.5,0.5,de,1.0,4019325-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
+53,Dax-Konzerns,Dax-Konzerns,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+54,Naturkatastrophen,Naturkatastrophen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+55,Knochen,Knochen,LOC,0.0,0.0,de,1.0,,2879904,T,50.6906,13.16666,EUROPE,Germany,WCE,Thunderstorm
+303,Lawinenprobleme,Lawinenprobleme,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+295,Bergsteigern im Himalaya,Bergsteigern im Himalaya,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+301,Steinschlagschutz-Netze,Steinschlagschutz-Netze,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+300,Stadt Salzburg,Stadt Salzburg,LOC,0.0,0.0,de,1.0,4076982-3,2766824,P,47.79941,13.04399,EUROPE,Austria,WCE,Snow Avalanche
+279,Vertainspitze,Vertainspitze,LOC,-0.7,0.0,de,1.0,,6690374,T,46.53832,10.63537,EUROPE,Italy,WCE,Snow Avalanche
+280,Italiens,Italiens,LOC,0.0,0.0,de,1.0,,6116880,H,46.36199,-74.81286,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+281,Samstagnachmi…,Samstagnachmi…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+282,Ital…,Ital…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+283,Lärchen,Lärchen,LOC,0.0,0.0,de,1.0,,2880419,T,50.61056,9.45018,EUROPE,Germany,WCE,Snow Avalanche
+284,Ortler-Massiv,Ortler-Massiv,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+285,Sa…,Sa…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+286,bayerischen Landeskriminalamt,bayerischen Landeskriminalamt,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+287,Landkreis…,Landkreis…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+288,Behördenangaben,Behördenangaben,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+289,Saisonbeginn,Saisonbeginn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+290,Lawinenseminar,Lawinenseminar,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+291,Pinz…,Pinz…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+292,Universität Innsbruck,Universität Innsbruck,LOC,0.85,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+293,Kitzsteinhorn-Gebiet,Kitzsteinhorn-Gebiet,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+294,Berg Yalung Ri,Berg Yalung Ri,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+57,blitzarm,blitzarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+296,Wintersaison,Wintersaison,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+297,Staaten,Staaten,LOC,-1.0,0.0,de,1.0,4078704-7,6252001,A,39.76,-98.5,NORTH-AMERICA,United States,CNA,Snow Avalanche
+298,Cholatse,Cholatse,LOC,1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+299,Bergs,Bergs,LOC,1.0,0.0,de,1.0,7773827-5,2722709,A,62.86106,13.71181,EUROPE,Sweden,NEU,Snow Avalanche
+56,Jahresverlauf,Jahresverlauf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+64,Z…,Z…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+58,Erklärungen,Erklärungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+94,Steiermark Gewitter,Steiermark Gewitter,LOC,-0.66666667,0.33333333,de,1.0,,0,,,,,,,Thunderstorm
+85,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.0,0.0,de,1.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
+86,lhe,lhe,LOC,0.0,0.0,de,1.0,4034107-0,1172451,P,31.558,74.35071,ASIA,Pakistan,WCA,Thunderstorm
+87,Klimawandels,Klimawandels,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+88,YouTube-Star,YouTube-Star,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+89,Bucht vom Purt de Sóller,Bucht vom Purt de Sóller,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+90,Gewitter-im-Kopf,Gewitter-im-Kopf,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+91,Königswinter,Königswinter,LOC,-0.15,0.0,de,1.0,4031563-0,2885734,P,50.67734,7.19245,EUROPE,Germany,WCE,Thunderstorm
+92,Youtube,Youtube,LOC,0.7,0.0,de,1.0,,11789508,T,38.5173,-8.9055,EUROPE-AFRICA,Portugal,MED,Thunderstorm
+93,Peloponnes,Peloponnes,LOC,-1.0,0.0,de,1.0,4045064-8,255620,L,37.5,22.33333,EUROPE-AFRICA,Greece,MED,Thunderstorm
+95,Puig Major,Puig Major,LOC,0.0,0.0,de,1.0,7847917-4,2513992,T,39.80768,2.7943,EUROPE-AFRICA,Spain,MED,Thunderstorm
+59,Meteorologen,Meteorologen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+96,Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+97,Bayern,Bayern,LOC,0.0,0.0,de,1.0,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Thunderstorm
+98,Oberharz,Oberharz,LOC,0.0,0.0,de,1.0,4042923-4,2860465,T,51.83224,10.469,EUROPE,Germany,WCE,Thunderstorm
+99,November-Modus,November-Modus,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+100,Wochenend-Wetter,Wochenend-Wetter,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+101,Theaterfestivals,Theaterfestivals,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+102,Wetterkapriolen,Wetterkapriolen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+103,Landes,Landes,LOC,-0.7,0.0,de,1.0,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Thunderstorm
+104,Donn…,Donn…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+84,Schreihälse,Schreihälse,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+83,Stadtbild-Debatte,Stadtbild-Debatte,LOC,0.85,0.0,de,1.0,,0,,,,,,,Thunderstorm
+82,Wirtschaftskammer,Wirtschaftskammer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+81,Tirol,Tirol,LOC,0.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Thunderstorm
+60,b…,b…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+61,Abendstunden Sturmböen,Abendstunden Sturmböen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+62,Brandenburgs,Brandenburgs,LOC,-0.7,0.0,de,1.0,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Thunderstorm
+63,Umständen,Umständen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+65,Skijäger-Kosmos,Skijäger-Kosmos,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+66,Schweigen,Schweigen,LOC,0.0,0.0,de,1.0,,2834579,T,51.4,10.81667,EUROPE,Germany,WCE,Thunderstorm
+67,Aufruhr,Aufruhr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+68,Blitze,Blitze,LOC,0.0,0.0,de,1.0,,2948144,P,50.7569,7.48473,EUROPE,Germany,WCE,Thunderstorm
+69,Mallorca,Mallorca,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Thunderstorm
+70,YouTube-Kanal Gewitter,YouTube-Kanal Gewitter,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+71,Windböen,Windböen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+72,Tornados,Tornados,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+73,lsw,lsw,LOC,0.0,0.0,de,1.0,,1214658,P,5.1801,97.1507,ASIA,Indonesia,SEA,Thunderstorm
+74,CDU-Chef,CDU-Chef,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+75,Äste,Äste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+77,Orkanartige Böen,Orkanartige Böen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+78,Freitagnachmittag,Freitagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+79,Flughafenstraße,Flughafenstraße,LOC,0.0,0.0,de,1.0,,10387153,S,47.1879,7.40601,EUROPE,Switzerland,WCE,Thunderstorm
+80,Harz,Harz,LOC,0.0,0.0,de,1.0,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Thunderstorm
+76,Böen,Böen,LOC,0.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Thunderstorm
+303,Moroccos Atlantic,Moroccos Atlantic,GPE,-0.25,0.2,en,1.0,,-1,,,,,,,Drought
+277,Sch…,Sch…,LOC,-0.35,0.5,de,1.0,,0,,,,,,,Snow Avalanche
+293,Arai Mountain Resort,Arai Mountain Resort,LOC,0.35714286,0.84285714,en,1.0,,0,,,,,,,Snow Avalanche
+283,Ellis Park,Ellis Park,GPE,0.375,0.41666667,en,1.0,,7280911,S,-26.19748,28.06073,AFRICA,South Africa,ESAF,Snow Avalanche
+284,Johannesburg,Johannesburg,GPE,0.375,0.41666667,en,1.0,4028698-8,993800,P,-26.20227,28.04363,AFRICA,South Africa,ESAF,Snow Avalanche
+285,Tallaght Stadium,Tallaght Stadium,GPE,0.25,0.75,en,1.0,,7646084,S,53.28353,-6.3737,EUROPE,Ireland,NEU,Snow Avalanche
+286,PANAMA CITY,PANAMA CITY,GPE,0.0,0.08333333,en,1.0,4262523-3,3703443,P,8.9936,-79.51973,CENTRAL-AMERICA,Panama,SCA,Snow Avalanche
+287,Budapest Summit,Budapest Summit,GPE,0.25,0.375,en,1.0,,0,,,,,,,Snow Avalanche
+288,Louvre,Louvre,LOC,0.0,0.0,en,1.0,,2997319,S,48.86102,2.33587,EUROPE,France,WCE,Snow Avalanche
+289,Milei,Milei,GPE,-0.0625,0.3125,en,1.0,,186672,T,-0.47923,38.17793,AFRICA,Kenya,SEAF,Snow Avalanche
+290,Quartzsite,Quartzsite,GPE,0.125,0.45,en,1.0,,5310183,P,33.66391,-114.22995,CENTRAL-AMERICA,United States,NCA,Snow Avalanche
+291,South Korea,South Korea,GPE,0.41212121,0.25151515,en,1.0,4078029-6,1835841,A,36.5,127.75,ASIA,South Korea,EAS,Snow Avalanche
+292,Niseko United,Niseko United,GPE,0.35714286,0.84285714,en,1.0,,0,,,,,,,Snow Avalanche
+294,Brazil,Brazil,GPE,0.0,0.0,en,1.0,4008003-1,3469034,A,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+281,the Kanchenjunga river,the Kanchenjunga river,LOC,0.06666667,0.4,en,1.0,,0,,,,,,,Snow Avalanche
+295,turkey,turkey,GPE,0.6,1.0,en,1.0,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED,Snow Avalanche
+296,Jasper,Jasper,GPE,0.0,0.0,en,1.0,,4392768,P,37.08423,-94.51328,NORTH-AMERICA,United States,CNA,Snow Avalanche
+297,Snapscope,Snapscope,GPE,0.5,0.5,en,1.0,,0,,,,,,,Snow Avalanche
+298,Park,Park,GPE,-0.35,0.65,en,1.0,4398110-0,4178560,P,28.6,-81.33924,NORTH-AMERICA,United States,ENA,Snow Avalanche
+299,Colorados Park,Colorados Park,LOC,-0.35,0.65,en,1.0,,0,,,,,,,Snow Avalanche
+300,Salahuddin,Salahuddin,GPE,0.25,0.25,en,1.0,,12388169,A,0.7925,127.37694,ASIA,Indonesia,SEA,Snow Avalanche
+301,Chetwynd,Chetwynd,GPE,-0.1,0.1,en,1.0,,6631102,T,-76.33333,162.03333,POLAR,Antarctica,EAN,Snow Avalanche
+302,West Pine,West Pine,LOC,-0.1,0.1,en,1.0,,5514990,A,39.44216,-114.90159,NORTH-AMERICA,United States,WNA,Snow Avalanche
+303,the Fraser Valley,the Fraser Valley,LOC,0.0,0.56666667,en,1.0,,6164463,T,49.51639,-121.61926,NORTH-AMERICA,Canada,WNA,Snow Avalanche
+304,the Nooksack River,the Nooksack River,LOC,0.0,0.56666667,en,1.0,,5804868,H,48.77483,-122.59906,NORTH-AMERICA,United States,WNA,Snow Avalanche
+282,AIRES,AIRES,GPE,0.0,0.0,en,1.0,4008756-6,3435910,P,-34.61315,-58.37723,SOUTH-AMERICA,Argentina,SES,Snow Avalanche
+280,Chamoli district,Chamoli district,LOC,0.06666667,0.4,en,1.0,,1261991,T,30.37584,79.97077,ASIA,India,TIB,Snow Avalanche
+306,Fraser Valley,Fraser Valley,LOC,0.02,0.12,en,1.0,4671933-7,5881791,P,49.05798,-122.25257,NORTH-AMERICA,Canada,WNA,Snow Avalanche
+267,Hebei,Hebei,GPE,-0.2,0.85,en,1.0,4025840-3,1808773,A,39.0,115.66667,ASIA,China,EAS,Snow Avalanche
+257,Allt,Allt,LOC,0.0,0.0,en,1.0,,7298349,A,51.58866,-3.01726,EUROPE,United Kingdom,NEU,Snow Avalanche
+258,Girdwood,Girdwood,GPE,-0.3,0.6,en,1.0,4605278-1,5862837,P,60.9425,-149.16639,NORTH-AMERICA,United States,NWN,Snow Avalanche
+259,the Deep South,the Deep South,LOC,-0.04166667,0.325,en,1.0,,12217079,L,33.37,-85.94,NORTH-AMERICA,United States,ENA,Snow Avalanche
+260,Navarre,Navarre,GPE,0.4,0.75,en,1.0,4115835-0,3114472,P,42.81687,-1.64323,EUROPE-AFRICA,Spain,MED,Snow Avalanche
+261,East Coast,East Coast,LOC,-0.6,1.0,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Snow Avalanche
+262,Belem,Belem,GPE,0.0,0.0,en,1.0,4208294-8,3405870,P,-1.45583,-48.50444,SOUTH-AMERICA,Brazil,NES,Snow Avalanche
+263,Prague,Prague,GPE,0.0,0.0,en,1.0,4076310-9,3067696,P,50.08804,14.42076,EUROPE,Czechia,WCE,Snow Avalanche
+264,Sparta,Sparta,GPE,0.0,0.0,en,1.0,4056054-5,4409615,P,37.00116,-93.08157,NORTH-AMERICA,United States,CNA,Snow Avalanche
+265,Winter Backpacking Packs,Winter Backpacking Packs,GPE,0.109375,0.32548077,en,1.0,,0,,,,,,,Snow Avalanche
+266,Mt,Mt,GPE,0.35714286,0.84285714,en,1.0,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Snow Avalanche
+268,New Zealand,New Zealand,GPE,0.13636364,0.45454545,en,1.0,4041915-0,2186224,A,-42.0,174.0,OCEANIA,New Zealand,NZ,Snow Avalanche
+279,Kanchenjunga river,Kanchenjunga river,LOC,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+269,the North Pole,the North Pole,LOC,0.0,0.0,en,1.0,7605041-5,5870294,P,64.75111,-147.34944,NORTH-AMERICA,United States,NWN,Snow Avalanche
+270,Everest,Everest,LOC,0.04722222,0.31111111,en,1.0,,1283416,T,27.98791,86.92529,ASIA,China,TIB,Snow Avalanche
+271,North Face of Mount Everest,North Face of Mount Everest,LOC,-0.24166667,0.63333333,en,1.0,,0,,,,,,,Snow Avalanche
+272,Mount Eve…,Mount Eve…,GPE,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+273,Mount Everest,Mount Everest,LOC,0.0,0.0,en,1.0,4040417-1,1283416,T,27.98791,86.92529,ASIA,China,TIB,Snow Avalanche
+274,North America's,North America's,LOC,0.8,0.75,en,1.0,4518159-7,3576022,P,17.12096,-61.84329,CENTRAL-AMERICA,Antigua and Barbuda,CAR,Snow Avalanche
+275,Great Lakes,Great Lakes,LOC,0.8,0.75,en,1.0,4022167-2,12212304,L,44.57143,-84.69022,NORTH-AMERICA,United States,ENA,Snow Avalanche
+276,the Great Lakes,the Great Lakes,LOC,0.8,0.75,en,1.0,,12212304,L,44.57143,-84.69022,NORTH-AMERICA,United States,ENA,Snow Avalanche
+277,NEW YORK,NEW YORK,GPE,0.12424242,0.43636364,en,1.0,4042011-5,5128581,P,40.71427,-74.00597,NORTH-AMERICA,United States,ENA,Snow Avalanche
+278,New Yorks,New Yorks,GPE,0.12424242,0.43636364,en,1.0,,4983664,L,43.1837,-70.61116,NORTH-AMERICA,United States,ENA,Snow Avalanche
+305,British Columbia,British Columbia,GPE,0.02,0.12,en,1.0,4119364-7,6173331,P,49.24966,-123.11934,NORTH-AMERICA,Canada,WNA,Snow Avalanche
+307,Queensland,Queensland,GPE,0.2875,0.475,en,1.0,4103475-2,11523972,L,-16.56884,142.4846,OCEANIA,Australia,NAU,Snow Avalanche
+153,the LaBarge Creek,the LaBarge Creek,LOC,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+345,Minnesota Wild,Minnesota Wild,LOC,0.05,0.45,en,1.0,,5052816,A,47.28234,-96.25817,NORTH-AMERICA,United States,CNA,Snow Avalanche
+335,NASHVILLE,NASHVILLE,GPE,0.25,1.0,en,1.0,4102368-7,4644585,P,36.16589,-86.78444,NORTH-AMERICA,United States,ENA,Snow Avalanche
+336,New Zealand's,New Zealand's,GPE,0.13636364,0.45454545,en,1.0,,2190224,P,-39.6381,176.84918,OCEANIA,New Zealand,NZ,Snow Avalanche
+337,New Zealand 's,New Zealand 's,GPE,0.06818182,0.28977273,en,1.0,,2161314,P,-29.05459,167.96628,PACIFIC,Norfolk Island,SPO,Snow Avalanche
+338,Indigenous Sámi,Indigenous Sámi,LOC,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+339,the Finnmark Plateau,the Finnmark Plateau,LOC,0.4,0.4,en,1.0,,0,,,,,,,Snow Avalanche
+340,Sápmi,Sápmi,GPE,0.36818182,0.67727273,en,1.0,,0,,,,,,,Snow Avalanche
+341,Northern Norway,Northern Norway,LOC,0.36818182,0.67727273,en,1.0,4042640-3,3144096,A,62.0,10.0,EUROPE,Norway,NEU,Snow Avalanche
+342,Southern Europe,Southern Europe,LOC,0.0,0.0625,en,1.0,,9408658,L,41.34382,-3.33984,EUROPE-AFRICA,Spain,MED,Snow Avalanche
+343,New Jersey Devils,New Jersey Devils,GPE,0.06818182,0.27727273,en,1.0,,5097243,H,40.33014,-74.62311,NORTH-AMERICA,United States,ENA,Snow Avalanche
+344,Turkey,Turkey,GPE,0.04814815,0.3962963,en,1.0,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED,Snow Avalanche
+346,PAUL,PAUL,GPE,0.3,0.575,en,1.0,,3575170,P,17.40605,-62.83562,CENTRAL-AMERICA,St Kitts and Nevis,CAR,Snow Avalanche
+333,Gabelhorn,Gabelhorn,LOC,0.0,0.05,en,1.0,,6697734,T,46.03855,7.66805,EUROPE,Switzerland,WCE,Snow Avalanche
+347,Minn.,Minn.,GPE,0.3,0.575,en,1.0,,4640874,S,35.39853,-84.56008,NORTH-AMERICA,United States,ENA,Snow Avalanche
+348,the South Atlantic,the South Atlantic,LOC,0.4,0.4,en,1.0,,12110877,L,33.91855,-81.28668,NORTH-AMERICA,United States,ENA,Snow Avalanche
+349,the Atlantic Ocean,the Atlantic Ocean,LOC,0.17777778,0.56666667,en,1.0,,4504476,P,39.95373,-74.19792,NORTH-AMERICA,United States,ENA,Snow Avalanche
+350,B.C,B.C,GPE,-0.2625,0.4875,en,1.0,,7315164,P,32.71904,-114.66005,CENTRAL-AMERICA,United States,NCA,Snow Avalanche
+351,New York City Facing Snowy Commute,New York City Facing Snowy Commute,GPE,0.11818182,0.37727273,en,1.0,,0,,,,,,,Snow Avalanche
+352,Midwest,Midwest,LOC,-0.05454545,0.68484848,en,1.0,4074909-5,12212748,L,43.61327,-88.28917,NORTH-AMERICA,United States,ENA,Snow Avalanche
+353,beginni,beginni,GPE,0.16742424,0.39280303,en,1.0,,0,,,,,,,Snow Avalanche
+354,Albania,Albania,GPE,0.1,0.4,en,1.0,4001028-4,783754,A,41.0,20.0,EUROPE-AFRICA,Albania,MED,Snow Avalanche
+355,Accursed Mountains,Accursed Mountains,LOC,0.1,0.4,en,1.0,,0,,,,,,,Snow Avalanche
+356,the Accursed Mountains,the Accursed Mountains,LOC,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+334,Northern,Northern,LOC,0.0,0.0,en,1.0,,7729890,L,54.77535,-105.64453,NORTH-AMERICA,Canada,NWN,Snow Avalanche
+332,china,china,GPE,0.41666667,0.5,en,1.0,4009937-4,1814991,A,35.0,105.0,ASIA,China,EAS,Snow Avalanche
+308,Michigan,Michigan,GPE,0.13636364,0.45454545,en,1.0,4115139-2,5001836,A,44.25029,-85.50033,NORTH-AMERICA,United States,ENA,Snow Avalanche
+319,Coast,Coast,LOC,-0.2,0.65,en,1.0,,12212303,L,37.02332,-77.36954,NORTH-AMERICA,United States,ENA,Snow Avalanche
+309,NY,NY,GPE,0.01212121,0.28484848,en,1.0,,3042198,P,54.22209,-4.69099,EUROPE,Isle of Man,NEU,Snow Avalanche
+310,Nashville,Nashville,GPE,0.0,0.0,en,1.0,4102368-7,4644585,P,36.16589,-86.78444,NORTH-AMERICA,United States,ENA,Snow Avalanche
+311,Alberta,Alberta,GPE,0.0,0.05,en,1.0,4085122-9,5913490,P,51.05011,-114.08529,NORTH-AMERICA,Canada,NWN,Snow Avalanche
+312,Green Bay,Green Bay,LOC,0.275,0.55,en,1.0,4692091-2,5254962,P,44.51916,-88.01983,NORTH-AMERICA,United States,ENA,Snow Avalanche
+313,petro,petro,GPE,0.0,0.05,en,1.0,,3373505,P,13.25072,-59.64396,CENTRAL-AMERICA,Barbados,CAR,Snow Avalanche
+314,Icelandic,Icelandic,LOC,0.0,0.0,en,1.0,,3163614,U,60.25,-7.5,EUROPE,,NEU,Snow Avalanche
+315,the Winnipeg Jets,the Winnipeg Jets,LOC,0.8,0.4,en,1.0,,0,,,,,,,Snow Avalanche
+316,Winnipeg Jets,Winnipeg Jets,GPE,0.5,0.5,en,1.0,,0,,,,,,,Snow Avalanche
+317,Dallas,Dallas,GPE,0.5,0.5,en,1.0,4085382-2,4684888,P,32.78306,-96.80667,NORTH-AMERICA,United States,CNA,Snow Avalanche
+318,Baylor,Baylor,GPE,-0.075,0.44166667,en,1.0,,4672691,A,33.61649,-99.21351,NORTH-AMERICA,United States,CNA,Snow Avalanche
+320,Trenton,Trenton,GPE,-0.05,0.2,en,1.0,4120075-5,5105496,P,40.21705,-74.74294,NORTH-AMERICA,United States,ENA,Snow Avalanche
+331,Kyiv,Kyiv,GPE,0.0,0.0,en,1.0,4030522-3,703448,P,50.45466,30.5238,EUROPE,Ukraine,WCE,Snow Avalanche
+321,N.J.,N.J.,GPE,-0.05,0.2,en,1.0,,4503800,S,39.92707,-74.29304,NORTH-AMERICA,United States,ENA,Snow Avalanche
+322,Edmonton,Edmonton,GPE,0.4,0.8,en,1.0,4085533-8,5946768,P,53.55014,-113.46871,NORTH-AMERICA,Canada,NWN,Snow Avalanche
+323,Israel,Israel,GPE,-0.07954545,0.35984848,en,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Snow Avalanche
+324,Algeria,Algeria,GPE,0.0,0.0,en,1.0,4001179-3,2589581,A,28.0,3.0,AFRICA,Algeria,SAH,Snow Avalanche
+325,colonizat,colonizat,GPE,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+326,N.Y.,N.Y.,GPE,0.0,0.0,en,1.0,4044569-0,2088628,A,-6.0,147.0,ASIA,Papua New Guinea,SEA,Snow Avalanche
+327,Americas,Americas,LOC,0.3,0.1,en,1.0,,3496393,L,21.0,-86.0,CENTRAL-AMERICA,,SCA,Snow Avalanche
+328,Montenegro,Montenegro,GPE,0.0,0.0,en,1.0,4040163-7,3194884,A,42.75,19.25,EUROPE-AFRICA,Montenegro,MED,Snow Avalanche
+329,Zhangjiakou,Zhangjiakou,GPE,-0.2,0.85,en,1.0,5030818-X,2033196,P,40.78341,114.87139,ASIA,China,EAS,Snow Avalanche
+330,Ukraine,Ukraine,GPE,0.0,0.0,en,1.0,4061496-7,690791,A,49.0,32.0,EUROPE,Ukraine,WCE,Snow Avalanche
+256,the Allt Backpack,the Allt Backpack,LOC,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+255,Nepals,Nepals,GPE,-0.15,0.2,en,1.0,,0,,,,,,,Snow Avalanche
+254,Rolwaling Valley,Rolwaling Valley,LOC,-0.2,0.05,en,1.0,,0,,,,,,,Snow Avalanche
+190,Connacht,Connacht,GPE,0.0,0.1,en,1.0,4755231-1,7521313,A,53.87,-8.63333,EUROPE,Ireland,NEU,Snow Avalanche
+180,North Bend,North Bend,GPE,-0.05,0.4,en,1.0,4118740-4,4926563,P,41.68338,-86.25001,NORTH-AMERICA,United States,ENA,Snow Avalanche
+181,Cebu City,Cebu City,GPE,0.1,0.45,en,1.0,4216903-3,1717512,P,10.31672,123.89071,ASIA,Philippines,SEA,Snow Avalanche
+182,the Sea to Sky region,the Sea to Sky region,LOC,0.21818182,0.47727273,en,1.0,,0,,,,,,,Snow Avalanche
+183,Anekal,Anekal,GPE,-0.03333333,0.35833333,en,1.0,,1278609,P,12.7111,77.69557,ASIA,India,SAS,Snow Avalanche
+184,Bommasandra,Bommasandra,GPE,-0.03333333,0.35833333,en,1.0,,6695468,P,12.81774,77.68415,ASIA,India,SAS,Snow Avalanche
+185,Cebu,Cebu,LOC,0.13333333,0.31666667,en,1.0,4323998-5,1717512,P,10.31672,123.89071,ASIA,Philippines,SEA,Snow Avalanche
+186,Antrim,Antrim,GPE,-0.07777778,0.14444444,en,1.0,4079799-5,4984284,A,45.00737,-85.17579,NORTH-AMERICA,United States,ENA,Snow Avalanche
+187,Calif.,Calif.,GPE,-0.2,0.0,en,1.0,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Snow Avalanche
+188,Armagh,Armagh,GPE,-0.07777778,0.14444444,en,1.0,4293636-6,2657060,P,54.35,-6.66667,EUROPE,United Kingdom,NEU,Snow Avalanche
+189,Derry,Derry,GPE,-0.07777778,0.14444444,en,1.0,136708-0,2643736,P,54.9981,-7.30934,EUROPE,United Kingdom,NEU,Snow Avalanche
+191,Louth,Louth,GPE,0.0,0.1,en,1.0,5175146-X,2964540,P,54.0,-6.41667,EUROPE,Ireland,NEU,Snow Avalanche
+178,INDORE,INDORE,GPE,0.23888889,0.32777778,en,1.0,4368406-3,1269743,P,22.71792,75.8333,ASIA,India,SAS,Snow Avalanche
+192,Munster,Munster,GPE,0.0,0.1,en,1.0,4090557-3,2965140,P,51.89797,-8.47061,EUROPE,Ireland,NEU,Snow Avalanche
+193,Weather Juneau,Weather Juneau,GPE,-0.00166667,0.44,en,1.0,,0,,,,,,,Snow Avalanche
+194,Belfast,Belfast,GPE,0.31818182,0.47727273,en,1.0,4080332-6,2655984,P,54.59682,-5.92541,EUROPE,United Kingdom,NEU,Snow Avalanche
+195,CALIFORNIA,CALIFORNIA,GPE,0.0,0.0,en,1.0,,11071615,L,34.68743,-116.78467,NORTH-AMERICA,United States,WNA,Snow Avalanche
+196,New York Islanders,New York Islanders,GPE,0.13636364,0.45454545,en,1.0,,0,,,,,,,Snow Avalanche
+197,Paris,Paris,GPE,-0.16666667,0.16666667,en,1.0,4044660-8,2988507,P,48.85341,2.3488,EUROPE,France,WCE,Snow Avalanche
+198,Madrid,Madrid,GPE,0.0,0.0,en,1.0,4036862-2,3117735,P,40.4165,-3.70256,EUROPE-AFRICA,Spain,MED,Snow Avalanche
+199,"Middle East
+","Middle East
+",LOC,0.03333333,0.1,en,1.0,,6269133,L,33.13906,35.85869,EUROPE-AFRICA,Syria,MED,Snow Avalanche
+200,Vancouver,Vancouver,GPE,-0.3,0.45,en,1.0,4119364-7,6173331,P,49.24966,-123.11934,NORTH-AMERICA,Canada,WNA,Snow Avalanche
+201,North Shore,North Shore,LOC,-0.3,0.45,en,1.0,16338458-7,5108169,P,40.7251,-73.24539,NORTH-AMERICA,United States,ENA,Snow Avalanche
+179,Okanogan,Okanogan,GPE,0.2,0.5,en,1.0,,5805553,A,48.54885,-119.74079,NORTH-AMERICA,United States,WNA,Snow Avalanche
+177,Bitcoin,Bitcoin,GPE,0.13636364,0.45454545,en,1.0,,0,,,,,,,Snow Avalanche
+253,Mount Yalung,Mount Yalung,LOC,-0.5,0.5,en,1.0,,0,,,,,,,Snow Avalanche
+164,Phoenix,Phoenix,GPE,0.0,0.0,en,1.0,4119970-4,5308655,P,33.44838,-112.07404,CENTRAL-AMERICA,United States,NCA,Snow Avalanche
+154,Squamish,Squamish,GPE,-0.4,0.7,en,1.0,4446318-2,6296029,S,49.78279,-123.16185,NORTH-AMERICA,Canada,WNA,Snow Avalanche
+155,Terrace,Terrace,GPE,0.0,0.8,en,1.0,,4174969,P,28.0353,-82.38926,NORTH-AMERICA,United States,ENA,Snow Avalanche
+156,Dez Basin,Dez Basin,LOC,0.5,0.5,en,1.0,4728234-4,2978918,P,44.05469,4.69976,EUROPE-AFRICA,France,MED,Snow Avalanche
+157,Santas,Santas,GPE,0.0,0.25,en,1.0,,2743304,P,41.21017,-8.57599,EUROPE-AFRICA,Portugal,MED,Snow Avalanche
+158,The City and Borough of Juneau,The City and Borough of Juneau,GPE,0.0,0.25,en,1.0,4198801-2,5554072,P,58.30194,-134.41972,NORTH-AMERICA,United States,NWN,Snow Avalanche
+159,Whistler Blackcomb,Whistler Blackcomb,GPE,-0.2,0.5,en,1.0,,5902385,L,50.0914,-122.87353,NORTH-AMERICA,Canada,NWN,Snow Avalanche
+160,Las Vegas,Las Vegas,GPE,0.24545455,0.4459596,en,1.0,4034659-6,5506956,P,36.17497,-115.13722,NORTH-AMERICA,United States,WNA,Snow Avalanche
+161,North Carolina,North Carolina,GPE,0.0,0.0,en,1.0,4042551-4,4563243,P,18.38078,-65.95739,CENTRAL-AMERICA,Puerto Rico,CAR,Snow Avalanche
+162,Swiss Alps,Swiss Alps,GPE,-0.2,0.2,en,1.0,,2661549,T,46.41667,7.75,EUROPE,Switzerland,WCE,Snow Avalanche
+163,The United States,The United States,GPE,0.0,0.62,en,1.0,,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+165,the Pyrenees Mountains,the Pyrenees Mountains,LOC,-0.5,0.75,en,1.0,,3113382,T,42.5,2.25,EUROPE-AFRICA,France,MED,Snow Avalanche
+176,Kittitas County,Kittitas County,GPE,0.0,0.0,en,1.0,,5799889,A,47.12417,-120.67972,NORTH-AMERICA,United States,WNA,Snow Avalanche
+166,New Jersey,New Jersey,GPE,-0.12007576,0.49280303,en,1.0,4442932-0,5099836,P,40.72816,-74.07764,NORTH-AMERICA,United States,ENA,Snow Avalanche
+167,Western,Western,LOC,0.0,0.0,en,1.0,,7729897,L,25.83945,43.24219,ASIA,Saudi Arabia,ARP,Snow Avalanche
+168,Us,Us,GPE,0.2,0.425,en,1.0,,12217089,L,8.62,-170.11,PACIFIC,,NPO,Snow Avalanche
+169,Vardousia Mountains,Vardousia Mountains,LOC,-0.13333333,0.23333333,en,1.0,,252276,T,38.64171,22.13944,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+170,GENEVA,GENEVA,GPE,-0.07857143,0.16428571,en,1.0,4020137-5,2660646,P,46.20222,6.14569,EUROPE,Switzerland,WCE,Snow Avalanche
+171,Anadolu,Anadolu,GPE,0.0,0.0,en,1.0,,10922506,L,38.10898,41.32862,ASIA,Turkey,WCA,Snow Avalanche
+172,Los Angeles,Los Angeles,GPE,0.0,0.7,en,1.0,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Snow Avalanche
+173,VIENNA,VIENNA,GPE,-0.1,0.0,en,1.0,,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE,Snow Avalanche
+174,the San Francisco Bay Area,the San Francisco Bay Area,LOC,0.1,0.4,en,1.0,4051520-5,5391959,P,37.77493,-122.41942,NORTH-AMERICA,United States,WNA,Snow Avalanche
+175,the Vardousia Mountains inFokida,the Vardousia Mountains inFokida,LOC,-0.03181818,0.25227273,en,1.0,,0,,,,,,,Snow Avalanche
+202,B.C.s South Coast,B.C.s South Coast,LOC,-0.3,0.45,en,1.0,,7235132,P,34.59556,-87.07917,NORTH-AMERICA,United States,ENA,Snow Avalanche
+203,Coloradonlooks,Coloradonlooks,GPE,0.33333333,0.6,en,1.0,,0,,,,,,,Snow Avalanche
+204,Hamburg,Hamburg,GPE,0.0,0.0,en,1.0,4239189-1,2911298,P,53.55073,9.99302,EUROPE,Germany,NEU,Snow Avalanche
+241,JPYC,JPYC,GPE,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+231,Altadena,Altadena,GPE,0.0,0.0,en,1.0,,5323525,P,34.18973,-118.13118,NORTH-AMERICA,United States,WNA,Snow Avalanche
+232,Kosovo,Kosovo,GPE,0.0,0.0,en,1.0,4032571-4,831053,A,42.58333,20.91667,EUROPE-AFRICA,Kosovo,MED,Snow Avalanche
+233,Alta.,Alta.,GPE,0.0,0.0,en,1.0,,3598119,P,15.47025,-90.37455,CENTRAL-AMERICA,Guatemala,SCA,Snow Avalanche
+234,Dolakha,Dolakha,LOC,-0.1625,0.3875,en,1.0,,12095469,A,27.82413,86.22166,ASIA,Nepal,TIB,Snow Avalanche
+235,Atlantic,Atlantic,LOC,0.11212121,0.21818182,en,1.0,,12110846,L,40.58629,-76.28807,NORTH-AMERICA,United States,ENA,Snow Avalanche
+236,Snowmass,Snowmass,GPE,0.15,0.45,en,1.0,4438463-4,5439284,P,39.21304,-106.93782,NORTH-AMERICA,United States,WNA,Snow Avalanche
+237,Treasury Mountain,Treasury Mountain,LOC,0.0,0.25,en,1.0,,5441949,T,39.01443,-107.09949,NORTH-AMERICA,United States,WNA,Snow Avalanche
+238,the Elk Mountains,the Elk Mountains,LOC,0.0,0.25,en,1.0,,5443638,T,38.74861,-107.24922,NORTH-AMERICA,United States,WNA,Snow Avalanche
+239,Marble,Marble,GPE,0.0,0.25,en,1.0,,6637512,T,-77.43333,163.83333,POLAR,Antarctica,EAN,Snow Avalanche
+240,Stablecoin,Stablecoin,GPE,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+242,Pacific(APAC,Pacific(APAC,LOC,0.0,0.0,en,1.0,,6664494,P,-10.15859,-77.47451,SOUTH-AMERICA,Peru,NWS,Snow Avalanche
+205,the Carolina Hurricanes,the Carolina Hurricanes,GPE,-0.04166667,0.15833333,en,1.0,,0,,,,,,,Snow Avalanche
+243,Vineland,Vineland,GPE,0.1,0.6,en,1.0,4670813-3,4504621,P,39.48623,-75.02573,NORTH-AMERICA,United States,ENA,Snow Avalanche
+244,Québec City,Québec City,GPE,0.14444444,0.47777778,en,1.0,4103473-9,6325494,P,46.81228,-71.21454,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+245,climbe,climbe,GPE,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+246,Ortler,Ortler,LOC,0.0,0.0,en,1.0,4795224-6,3171890,T,46.50929,10.54458,EUROPE,Italy,WCE,Snow Avalanche
+247,Ita,Ita,LOC,0.0,0.0,en,1.0,,2109701,P,-8.76778,160.69778,PACIFIC,Solomon Islands,EPO,Snow Avalanche
+248,Yalung Ri,Yalung Ri,GPE,-0.06666667,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+249,Ont.,Ont.,GPE,0.19285714,0.2952381,en,1.0,4060459-7,6167865,P,43.70643,-79.39864,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+250,Gaurishankar Rural,Gaurishankar Rural,GPE,-0.4,0.5,en,1.0,,0,,,,,,,Snow Avalanche
+251,Dolakha district,Dolakha district,LOC,-0.4,0.5,en,1.0,,0,,,,,,,Snow Avalanche
+252,avalanch,avalanch,LOC,0.0,0.0,en,1.0,,5244399,P,43.60219,-90.78041,NORTH-AMERICA,United States,CNA,Snow Avalanche
+230,Loetschental,Loetschental,GPE,0.0,0.0,en,1.0,,2659847,T,46.40957,7.802,EUROPE,Switzerland,WCE,Snow Avalanche
+229,Bend,Bend,GPE,0.15357143,0.33214286,en,1.0,4118740-4,4926563,P,41.68338,-86.25001,NORTH-AMERICA,United States,ENA,Snow Avalanche
+228,Cavan,Cavan,GPE,0.0,0.1,en,1.0,4451192-9,2965535,P,53.99083,-7.36056,EUROPE,Ireland,NEU,Snow Avalanche
+227,Nev,Nev,GPE,0.15357143,0.33214286,en,1.0,,7729898,L,-27.83908,143.26172,OCEANIA,Australia,CAU,Snow Avalanche
+206,Vegas,Vegas,GPE,0.05214286,0.32214286,en,1.0,4034659-6,5506956,P,36.17497,-115.13722,NORTH-AMERICA,United States,WNA,Snow Avalanche
+207,the Lötschental valley,the Lötschental valley,LOC,0.0625,0.33333333,en,1.0,,0,,,,,,,Snow Avalanche
+208,TRUCKEE,TRUCKEE,GPE,-0.2,0.0,en,1.0,,5403683,S,39.31991,-120.14047,NORTH-AMERICA,United States,WNA,Snow Avalanche
+209,Philadelphia,Philadelphia,GPE,0.1,0.4,en,1.0,4103331-0,4560349,P,39.95238,-75.16362,NORTH-AMERICA,United States,ENA,Snow Avalanche
+210,Monaghan,Monaghan,GPE,0.0,0.1,en,1.0,4660452-2,2962568,P,54.25,-6.96667,EUROPE,Ireland,NEU,Snow Avalanche
+211,Canton Valais,Canton Valais,GPE,0.0,0.0,en,1.0,4064466-2,2658205,A,46.22925,7.45972,EUROPE,Switzerland,WCE,Snow Avalanche
+212,Svalbard,Svalbard,LOC,0.0,0.0,en,1.0,4118926-7,2729907,P,78.22334,15.64689,ARCTIC,Svalbard and Jan Mayen,ARO,Snow Avalanche
+213,The Czech Republic,The Czech Republic,GPE,0.0,0.0,en,1.0,,6986495,T,28.44912,56.84917,ASIA,Iran,WCA,Snow Avalanche
+214,the Rocky Mountains,the Rocky Mountains,LOC,-0.26666667,0.53333333,en,1.0,,5836950,T,43.35826,-110.91743,NORTH-AMERICA,United States,WNA,Snow Avalanche
+215,Ottawa,Ottawa,GPE,0.2,0.4,en,1.0,4122012-2,6094817,P,45.41117,-75.69812,NORTH-AMERICA,Canada,ENA,Snow Avalanche
+216,The City and Borough of Juneau Docks,The City and Borough of Juneau Docks,GPE,0.0,0.0,en,1.0,,0,,,,,,,Snow Avalanche
+217,Türkiye,Türkiye,GPE,0.17367424,0.63030303,en,1.0,4061163-2,298795,A,39.0,35.0,EUROPE-AFRICA,Turkey,MED,Snow Avalanche
+218,Mount Elbrus,Mount Elbrus,LOC,-0.15555556,0.28888889,en,1.0,,563532,T,43.35236,42.43765,ASIA,Russia,WCA,Snow Avalanche
+219,ISTANBUL,ISTANBUL,GPE,0.17367424,0.63030303,en,1.0,4088772-8,745044,P,41.01384,28.94966,EUROPE-AFRICA,Turkey,MED,Snow Avalanche
+220,accor,accor,GPE,0.17367424,0.63030303,en,1.0,,10124586,S,1.24517,103.82791,ASIA,Singapore,SEA,Snow Avalanche
+221,Bina,Bina,GPE,-0.2,0.0,en,1.0,,586968,P,40.45076,50.08686,ASIA,Azerbaijan,WCA,Snow Avalanche
+222,Donegal,Donegal,GPE,0.0,0.1,en,1.0,4085468-1,7668216,S,55.04413,-8.34128,EUROPE,Ireland,NEU,Snow Avalanche
+223,Bâlea Lac,Bâlea Lac,GPE,0.21428571,0.42857143,en,1.0,,11395371,P,45.60584,24.61564,EUROPE,Romania,WCE,Snow Avalanche
+224,Salt Lake City,Salt Lake City,GPE,-0.4,0.4,en,1.0,4118295-9,5780993,P,40.76078,-111.89105,NORTH-AMERICA,United States,WNA,Snow Avalanche
+225,Italys Dolomite,Italys Dolomite,LOC,-0.07142857,0.3,en,1.0,,0,,,,,,,Snow Avalanche
+226,Utah,Utah,GPE,0.08333333,0.08333333,en,1.0,4062214-9,5549030,A,39.25024,-111.75103,NORTH-AMERICA,United States,WNA,Snow Avalanche
+278,Niedernsill,Niedernsill,LOC,0.7,0.0,de,1.0,4538098-3,7872245,A,47.26303,12.64877,EUROPE,Austria,WCE,Snow Avalanche
+243,Bergsteigerlagern,Bergsteigerlagern,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+276,Ausschaufeln,Ausschaufeln,LOC,1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+298,South Africa’s,South Africa’s,GPE,0.13636364,0.86287879,en,1.0,,-1,,,,,,,Drought
+296,Palisades,Palisades,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+295,Sudan,Sudan,GPE,0.0,0.0,en,1.0,4058378-8,366755,X,16.0,30.0,AFRICA,Sudan,SAH,Drought
+294,Torit,Torit,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+293,Harappan,Harappan,LOC,-0.2,0.85,en,1.0,,-1,,,,,,,Drought
+292,Mesopotamia,Mesopotamia,GPE,0.15,0.34666667,en,1.0,,-1,,,,,,,Drought
+291,South Carolina,South Carolina,GPE,-0.05,0.4,en,1.0,4055656-6,4597040,X,34.3,-81.0,NORTH-AMERICA,United States,ENA,Drought
+290,the Sri Lanka Women,the Sri Lanka Women,GPE,0.13727273,0.49,en,1.0,,-1,,,,,,,Drought
+289,SC,SC,LOC,-0.3,0.7,en,1.0,,-1,,,,,,,Drought
+288,Midlands,Midlands,GPE,-0.3,0.7,en,1.0,,-1,,,,,,,Drought
+287,La.,La.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+286,RUSTON,RUSTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+285,the Kiskatinaw River,the Kiskatinaw River,LOC,-0.05,0.8125,en,1.0,,-1,,,,,,,Drought
+284,Ras El Hekma,Ras El Hekma,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
+283,Glasgow mount,Glasgow mount,GPE,0.9,0.9,en,1.0,,-1,,,,,,,Drought
+282,Peop,Peop,GPE,0.05,0.12380952,en,1.0,,-1,,,,,,,Drought
+281,Wadi El-Raml,Wadi El-Raml,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
+280,Wash.,Wash.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+279,the Indus Valley,the Indus Valley,LOC,0.03122294,0.52272727,en,1.0,,-1,,,,,,,Drought
+278,Dallas,Dallas,GPE,0.025,0.21666667,en,1.0,,-1,,,,,,,Drought
+277,Jharkhand,Jharkhand,GPE,0.07142857,0.14285714,en,1.0,4364512-4,1444365,X,23.75,85.5,ASIA,India,SAS,Drought
+276,the LA Basin,the LA Basin,LOC,0.125,0.83333333,en,1.0,,-1,,,,,,,Drought
+275,Andhra,Andhra,GPE,0.0,0.0,en,1.0,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Drought
+274,K.D.,K.D.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+273,the Navajo County Sheriffs Office,the Navajo County Sheriffs Office,GPE,0.2,0.6,en,1.0,,-1,,,,,,,Drought
+272,Arizona,Arizona,GPE,0.2,0.6,en,1.0,4002920-7,5551752,X,34.5003,-111.500979,NORTH-AMERICA,United States,WNA,Drought
+271,Imperial Irrigation District,Imperial Irrigation District,LOC,0.3,1.0,en,1.0,,-1,,,,,,,Drought
+270,West Bengal,West Bengal,GPE,0.0825,0.29833333,en,1.0,4079196-8,1252881,X,24.0,88.0,ASIA,India,SAS,Drought
+297,Nevada,Nevada,GPE,0.0,0.3,en,1.0,4041996-4,5509151,X,39.25021,-116.751189,NORTH-AMERICA,United States,WNA,Drought
+299,Colombia,Colombia,GPE,0.0,0.0,en,1.0,4031812-6,3686110,X,4.0,-72.0,SOUTH-AMERICA,Colombia,NWS,Drought
+426,El Paso,El Paso,GPE,0.2,1.0,en,1.0,,-1,,,,,,,Drought
+300,Indus,Indus,GPE,0.15,0.34666667,en,1.0,,-1,,,,,,,Drought
+428,Portland,Portland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+429,South Sudan,South Sudan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+430,Vishwamitri River,Vishwamitri River,LOC,0.6,0.95,en,1.0,,-1,,,,,,,Drought
+431,Missouri,Missouri,GPE,0.2,0.2,en,1.0,,-1,,,,,,,Drought
+432,kingdom,kingdom,GPE,0.04927273,0.57890909,en,1.0,,-1,,,,,,,Drought
+433,Ukrai,Ukrai,GPE,0.03333333,0.16666667,en,1.0,,-1,,,,,,,Drought
+434,Valley,Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+435,New Mexico,New Mexico,GPE,0.24659091,0.4219697,en,1.0,4042006-1,5481136,X,34.50034,-106.499999,NORTH-AMERICA,United States,WNA,Drought
+436,Galilee,Galilee,GPE,0.0,0.3,en,1.0,,-1,,,,,,,Drought
+437,Glasgow Central,Glasgow Central,GPE,0.25,0.625,en,1.0,,-1,,,,,,,Drought
+438,New UK,New UK,GPE,0.06818182,0.62727273,en,1.0,,-1,,,,,,,Drought
+439,Preclinic,Preclinic,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+440,RENO,RENO,GPE,0.05,0.1,en,1.0,,-1,,,,,,,Drought
+441,the Kingdom of Saudi Arabia,the Kingdom of Saudi Arabia,GPE,0.35714286,0.77142857,en,1.0,,-1,,,,,,,Drought
+442,Cumbria,Cumbria,GPE,0.25,0.625,en,1.0,,-1,,,,,,,Drought
+443,Shap,Shap,LOC,0.25,0.625,en,1.0,,-1,,,,,,,Drought
+444,FREMONT,FREMONT,GPE,0.05357143,0.28571429,en,1.0,,-1,,,,,,,Drought
+445,Lancaster city council,Lancaster city council,GPE,-0.1,0.1,en,1.0,,-1,,,,,,,Drought
+446,Nanofluids,Nanofluids,GPE,-0.15,0.05,en,1.0,,-1,,,,,,,Drought
+447,Port Hedland,Port Hedland,GPE,-0.45,0.3,en,1.0,1213932335,2063042,X,-20.311944,118.610555,OCEANIA,Australia,CAU,Drought
+448,Lake Tefé,Lake Tefé,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+449,The United Arab Emirates,The United Arab Emirates,GPE,0.175,0.275,en,1.0,,-1,,,,,,,Drought
+450,the City Sinks Into,the City Sinks Into,GPE,-0.1,0.0,en,1.0,,-1,,,,,,,Drought
+451,the City Sinks Into the Desert,the City Sinks Into the Desert,GPE,-0.1,0.0,en,1.0,,-1,,,,,,,Drought
+452,Shasta Countys,Shasta Countys,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+302,the River Park,the River Park,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Drought
+301,Sichuan,Sichuan,GPE,0.7,0.9,en,1.0,,-1,,,,,,,Drought
+269,France,France,GPE,-0.15833333,0.35,en,1.0,,-1,,,,,,,Drought
+268,Uttar Pradesh,Uttar Pradesh,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Drought
+267,Southern Calif,Southern Calif,LOC,-0.17916667,0.46666667,en,1.0,,-1,,,,,,,Drought
+266,Kashmirs Pampore,Kashmirs Pampore,LOC,0.01111111,0.66666667,en,1.0,,-1,,,,,,,Drought
+78,Reisemobil,Reisemobil,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
+79,Traumziel,Traumziel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+80,Afrika,Afrika,LOC,-0.7,0.0,de,1.0,4000695-5,6255146,X,7.1881,21.09375,AFRICA,Central African Republic,CAF,Volcano
+81,Eifel,Eifel,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
+82,Survival-Extraction-Spiel,Survival-Extraction-Spiel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+83,Römer,Römer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+84,Afar hinauszieht,Afar hinauszieht,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
+85,Guatemala,Guatemala,LOC,0.85,0.0,de,1.0,4022428-4,3595528,X,15.5,-90.25,CENTRAL-AMERICA,Guatemala,SCA,Volcano
+86,Jahrtausen,Jahrtausen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+87,Heißer Lavasee,Heißer Lavasee,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+88,Außenpo…,Außenpo…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+89,Azoren,Azoren,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+90,Algarve,Algarve,LOC,0.0,0.0,de,1.0,4001155-0,2271989,X,37.16667,-8.25,EUROPE-AFRICA,Portugal,MED,Volcano
+91,Portugal,Portugal,LOC,0.0,0.0,de,1.0,4046843-4,2264397,X,39.5,-8.0,EUROPE-AFRICA,Portugal,MED,Volcano
+92,Lissabon,Lissabon,LOC,0.0,0.0,de,1.0,4035919-0,2267057,X,38.71667,-9.13333,EUROPE-AFRICA,Portugal,MED,Volcano
+93,Grindavík,Grindavík,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+94,Taal,Taal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+95,Lavafontänen,Lavafontänen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+96,Abständen,Abständen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+97,Taftan,Taftan,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+98,Arabien,Arabien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+99,Iran-Pakistan,Iran-Pakistan,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+100,Evakuierungen,Evakuierungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+101,Reisterrassen,Reisterrassen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+102,Gili-Inseln,Gili-Inseln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+103,türkisen Meer,türkisen Meer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+104,Bali,Bali,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+77,Vulkanisches Erbe,Vulkanisches Erbe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+76,Bonn,Bonn,LOC,1.0,0.0,de,1.0,4007666-0,2946447,X,50.734166,7.095277,EUROPE,Germany,WCE,Volcano
+75,Pest-Katastrophe,Pest-Katastrophe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+60,wi…,wi…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+265,Pampore,Pampore,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+264,East Coast,East Coast,LOC,-0.23181818,0.72727273,en,1.0,,-1,,,,,,,Drought
+263,Wonderland,Wonderland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+262,NC,NC,GPE,0.05,0.15,en,1.0,,-1,,,,,,,Drought
+52,Sumatra,Sumatra,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+53,Brandschlag am Morgen,Brandschlag am Morgen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+54,Danakil-Senke,Danakil-Senke,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+55,Gubbi,Gubbi,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+56,Insel Sizilien,Insel Sizilien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+57,Lavastrom,Lavastrom,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+58,Kraftwerk Lichterfelde,Kraftwerk Lichterfelde,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+59,Vulkanausbrüche,Vulkanausbrüche,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+61,Vul…,Vul…,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+74,Ereignissen,Ereignissen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+62,Stadt für Tage,Stadt für Tage,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+63,Halemaʻumaʻu-Krater,Halemaʻumaʻu-Krater,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+64,Hawaii Lavasäulen,Hawaii Lavasäulen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+65,Schildvulkan,Schildvulkan,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+66,Äthiopier,Äthiopier,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Volcano
+67,Bewohner,Bewohner,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+68,Mittelmeer-Insel Sizilien,Mittelmeer-Insel Sizilien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+69,Römisches Reich,Römisches Reich,LOC,0.7,0.0,de,1.0,4076778-4,8354456,X,41.8925,12.485,EUROPE-AFRICA,Italy,MED,Volcano
+70,Vesuvs,Vesuvs,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+71,Lavafontänen am Ätna,Lavafontänen am Ätna,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+72,Ätna rumort,Ätna rumort,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+73,Asche-Wolken,Asche-Wolken,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+427,the San Luis Valley,the San Luis Valley,LOC,0.24659091,0.4219697,en,1.0,,-1,,,,,,,Drought
+425,Pacific Ocean,Pacific Ocean,LOC,0.06666667,0.2,en,1.0,,-1,,,,,,,Drought
+106,pass… Inseln,pass… Inseln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+334,Delhi NCR,Delhi NCR,GPE,0.3,0.95,en,1.0,,-1,,,,,,,Drought
+336,Central Iowa,Central Iowa,LOC,0.125,0.29166667,en,1.0,,-1,,,,,,,Drought
+337,Peloponnese,Peloponnese,GPE,0.04545455,0.38207071,en,1.0,,-1,,,,,,,Drought
+338,the Tibetan Plateau,the Tibetan Plateau,LOC,0.0625,0.5,en,1.0,,-1,,,,,,,Drought
+339,Watts Water,Watts Water,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+340,Sonapurs,Sonapurs,GPE,-0.05555556,0.44444444,en,1.0,,-1,,,,,,,Drought
+341,Williams,Williams,GPE,0.03333333,0.35,en,1.0,,-1,,,,,,,Drought
+342,Bellingham,Bellingham,GPE,-0.1,0.5,en,1.0,,-1,,,,,,,Drought
+343,Johor,Johor,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+344,J.G.,J.G.,GPE,-0.16666667,0.16666667,en,1.0,,-1,,,,,,,Drought
+345,the San Joaquin Valley,the San Joaquin Valley,LOC,0.0,0.125,en,1.0,,-1,,,,,,,Drought
+346,NEW YORK,NEW YORK,GPE,-0.09848485,0.56060606,en,1.0,,-1,,,,,,,Drought
+347,Northwest Delhi,Northwest Delhi,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Drought
+348,votar,votar,GPE,0.14166667,0.2,en,1.0,,-1,,,,,,,Drought
+349,Jamaica,Jamaica,GPE,0.0,0.0,en,1.0,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Drought
+350,sma,sma,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+351,Empire,Empire,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+352,Central-Southeast Europe,Central-Southeast Europe,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+353,the Gulf of California,the Gulf of California,LOC,0.23888889,0.63777778,en,1.0,,-1,,,,,,,Drought
+354,Jurassic Park,Jurassic Park,GPE,0.3,0.35,en,1.0,,-1,,,,,,,Drought
+355,Kyiv,Kyiv,GPE,0.0,0.0,en,1.0,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Drought
+356,Donbas,Donbas,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+357,visibil,visibil,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Drought
+358,Rockies,Rockies,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+359,the Global South,the Global South,LOC,-0.25,0.25,en,1.0,,-1,,,,,,,Drought
+360,Florida Everglades,Florida Everglades,GPE,-0.1,0.05,en,1.0,,-1,,,,,,,Drought
+361,Capital,Capital,GPE,-0.3,0.2,en,1.0,,-1,,,,,,,Drought
+362,Corner Brook,Corner Brook,LOC,0.0,0.3,en,1.0,4793714-2,5927969,X,48.966709,-57.948399,NORTH-AMERICA,,ENA,Drought
+335,Crete,Crete,GPE,0.04545455,0.38207071,en,1.0,,-1,,,,,,,Drought
+333,Caribbean beaches,Caribbean beaches,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Drought
+424,the Great Lakes,the Great Lakes,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Drought
+332,the Sargassum Belt,the Sargassum Belt,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+305,K'tan,K'tan,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
+306,Columbia,Columbia,GPE,-0.05,0.4,en,1.0,,-1,,,,,,,Drought
+307,Jaunti,Jaunti,GPE,-0.15,0.2,en,1.0,,-1,,,,,,,Drought
+308,Southern Thailand,Southern Thailand,LOC,-0.15,0.2,en,1.0,,-1,,,,,,,Drought
+309,New Glenn,New Glenn,GPE,0.06818182,0.27727273,en,1.0,,-1,,,,,,,Drought
+310,Lokal,Lokal,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+311,Kuta Cot Glie,Kuta Cot Glie,GPE,-0.09583333,0.4875,en,1.0,,-1,,,,,,,Drought
+312,Germany,Germany,GPE,0.1,0.275,en,1.0,,-1,,,,,,,Drought
+313,Tacoma,Tacoma,GPE,0.07454545,0.43181818,en,1.0,,-1,,,,,,,Drought
+314,solarpunk city,solarpunk city,GPE,0.03333333,0.43333333,en,1.0,,-1,,,,,,,Drought
+315,KY,KY,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
+316,LOUISVILLE,LOUISVILLE,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
+317,Honolulu,Honolulu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+318,Corcoran 6 feet,Corcoran 6 feet,LOC,0.0,0.75,en,1.0,,-1,,,,,,,Drought
+319,ICC,ICC,GPE,0.0,0.03333333,en,1.0,,-1,,,,,,,Drought
+320,Cappadocia,Cappadocia,GPE,0.25,0.55,en,1.0,,-1,,,,,,,Drought
+321,United States,United States,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+322,feasibili,feasibili,GPE,0.05844156,0.34520202,en,1.0,,-1,,,,,,,Drought
+323,Switzerland,Switzerland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+324,Kholm,Kholm,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+325,Central Valley,Central Valley,LOC,0.0,0.75,en,1.0,,-1,,,,,,,Drought
+326,the Aegean Sea,the Aegean Sea,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+327,Santorini,Santorini,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+328,Jakarta,Jakarta,GPE,0.0,0.25,en,1.0,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Drought
+329,Galveston Island Brewing,Galveston Island Brewing,GPE,0.0125,0.2,en,1.0,,-1,,,,,,,Drought
+330,Galveston,Galveston,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+331,earth,earth,LOC,0.0,0.06666667,en,1.0,,-1,,,,,,,Drought
+363,Tabalong,Tabalong,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+364,Las Vegas Desert,Las Vegas Desert,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
+365,Haruai,Haruai,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+366,Tarquinia,Tarquinia,GPE,0.0,0.0,en,1.0,4105777-6,3165919,X,42.25419,11.75657,EUROPE-AFRICA,Italy,MED,Drought
+397,Ethiopia,Ethiopia,GPE,0.0,0.0,en,1.0,4000639-6,337996,X,8.0,38.0,AFRICA,Ethiopia,NEAF,Drought
+398,Urmia lake basin,Urmia lake basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+399,Latyan dam,Latyan dam,LOC,0.0625,0.69166667,en,1.0,,-1,,,,,,,Drought
+400,Middle East,Middle East,LOC,0.0625,0.69166667,en,1.0,,-1,,,,,,,Drought
+401,Kiskatinaw River,Kiskatinaw River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+402,South Australia,South Australia,LOC,-0.06333333,0.46,en,1.0,,-1,,,,,,,Drought
+403,Yemen,Yemen,GPE,-0.4,0.65,en,1.0,4073009-8,69543,X,15.5,47.5,ASIA,Yemen,ARP,Drought
+404,Syria,Syria,GPE,-0.4,0.65,en,1.0,4058794-0,163843,X,35.0,38.0,EUROPE-AFRICA,Syria,MED,Drought
+405,N.,N.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+406,Myers,Myers,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+407,Victoria,Victoria,GPE,-0.06333333,0.46,en,1.0,,-1,,,,,,,Drought
+408,the United States of,the United States of,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+409,Bitcoin,Bitcoin,GPE,-0.08181818,0.52727273,en,1.0,,-1,,,,,,,Drought
+410,eastern Ontario,eastern Ontario,LOC,0.25,0.4,en,1.0,,-1,,,,,,,Drought
+411,Floridas,Floridas,GPE,-0.06666667,0.3,en,1.0,,-1,,,,,,,Drought
+412,the Sunshine State,the Sunshine State,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+413,Latin America Encuentra,Latin America Encuentra,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+414,Buenos Aires,Buenos Aires,GPE,0.375,0.75,en,1.0,4008756-6,3435910,X,-34.613149,-58.377229,SOUTH-AMERICA,Argentina,SES,Drought
+415,Kingston,Kingston,GPE,0.0,0.3,en,1.0,,-1,,,,,,,Drought
+416,Haiti,Haiti,GPE,0.0,0.0,en,1.0,4022974-9,3723988,X,19.0,-72.416669,CENTRAL-AMERICA,Haiti,CAR,Drought
+417,Skies,Skies,LOC,0.9,1.0,en,1.0,,-1,,,,,,,Drought
+418,Sea of Galilee,Sea of Galilee,LOC,0.06666667,0.17333333,en,1.0,,-1,,,,,,,Drought
+419,Omaha,Omaha,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+420,San Luis Valley,San Luis Valley,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+421,NORTH ANDOVER,NORTH ANDOVER,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+422,Gujarat,Gujarat,GPE,0.0,1.0,en,1.0,4118450-6,1270770,X,23.0,72.0,ASIA,India,SAS,Drought
+423,SAN JOSE,SAN JOSE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+396,Belém,Belém,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Drought
+395,Soil Moisture and Ocean Salinity,Soil Moisture and Ocean Salinity,LOC,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
+394,Janus,Janus,LOC,-0.07142857,0.14285714,en,1.0,,-1,,,,,,,Drought
+379,Ghost Coast,Ghost Coast,GPE,0.0125,0.2,en,1.0,,-1,,,,,,,Drought
+367,Italy,Italy,GPE,-0.2,0.375,en,1.0,,-1,,,,,,,Drought
+368,The National Oceanic,The National Oceanic,LOC,0.125,0.4375,en,1.0,,-1,,,,,,,Drought
+369,San Diego,San Diego,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+370,the Jammu Region,the Jammu Region,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+371,Spain,Spain,GPE,0.1,0.4,en,1.0,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Drought
+372,Dolgarrog village,Dolgarrog village,GPE,-0.05,0.225,en,1.0,,-1,,,,,,,Drought
+373,farmingrebuilding soil health,farmingrebuilding soil health,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+374,Brazils,Brazils,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+375,Bronx,Bronx,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+376,Queens,Queens,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+377,Brooklyn,Brooklyn,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+378,north Wales,north Wales,GPE,-0.05,0.225,en,1.0,,-1,,,,,,,Drought
+380,Tauranga,Tauranga,GPE,0.19318182,0.47727273,en,1.0,4379727-1,2208032,X,-37.686109,176.16667,OCEANIA,New Zealand,NZ,Drought
+393,Vishwamitri river,Vishwamitri river,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+381,New England,New England,LOC,-0.03787879,0.40151515,en,1.0,,-1,,,,,,,Drought
+382,UMass Amherst,UMass Amherst,GPE,0.1,0.4,en,1.0,,-1,,,,,,,Drought
+383,the Urmia lake basin,the Urmia lake basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+384,Adediran,Adediran,GPE,0.0,0.6,en,1.0,,-1,,,,,,,Drought
+385,previou,previou,GPE,0.35,0.05,en,1.0,,-1,,,,,,,Drought
+386,the Paris of South America,the Paris of South America,GPE,0.375,0.75,en,1.0,,-1,,,,,,,Drought
+387,The Bay Area's,The Bay Area's,LOC,-0.1,0.4,en,1.0,,-1,,,,,,,Drought
+388,Southeast Asia's,Southeast Asia's,LOC,0.6,0.9,en,1.0,,-1,,,,,,,Drought
+389,Rainfall,Rainfall,GPE,-0.24333333,0.59333333,en,1.0,,-1,,,,,,,Drought
+390,Amirkabir dam,Amirkabir dam,LOC,-0.6,0.8,en,1.0,,-1,,,,,,,Drought
+391,Colo.,Colo.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+392,Redding,Redding,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+105,Mount Batur,Mount Batur,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+107,Afrikas,Afrikas,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+275,Neustift im Stubaital,Neustift im Stubaital,LOC,0.7,0.0,de,1.0,4126139-2,2770651,P,47.11667,11.31667,EUROPE,Austria,WCE,Snow Avalanche
+185,P…,P…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+187,Europa,Europa,LOC,0.66666667,0.33333333,de,1.0,4015701-5,6255148,L,48.69096,9.14062,EUROPE,Germany,WCE,Snow Avalanche
+188,Niederbayern,Niederbayern,LOC,-0.7,0.0,de,1.0,4034367-4,2881485,P,48.52961,12.16179,EUROPE,Germany,WCE,Snow Avalanche
+189,Näh…,Näh…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+190,Mount-Everest-Gebiet,Mount-Everest-Gebiet,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+191,Erde,Erde,LOC,-1.85,0.0,de,1.0,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Snow Avalanche
+192,Erdsystems,Erdsystems,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+193,Australien,Australien,LOC,-0.81666667,0.83333333,de,1.0,4003900-6,2077456,A,-25.0,135.0,OCEANIA,Australia,CAU,Snow Avalanche
+194,Wallis,Wallis,LOC,0.0,0.0,de,1.0,4210894-9,4034749,A,-13.3,-176.2,PACIFIC,Wallis and Futuna,SPO,Snow Avalanche
+195,Alpendorf,Alpendorf,LOC,0.0,0.0,de,1.0,117068968X,2605968,P,47.31667,13.2,EUROPE,Austria,WCE,Snow Avalanche
+196,Bayerns,Bayerns,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+197,Temperaturen,Temperaturen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+198,Montagnachmittag,Montagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+199,Hochfügenerstraße,Hochfügenerstraße,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+200,Bezirk Schwaz,Bezirk Schwaz,LOC,0.0,0.0,de,1.0,4053811-4,2765389,A,47.26667,11.76667,EUROPE,Austria,WCE,Snow Avalanche
+201,Tirols Bergen,Tirols Bergen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+202,Hahntennjoch,Hahntennjoch,LOC,0.7,0.0,de,1.0,,2777043,T,47.28333,10.65,EUROPE,Austria,WCE,Snow Avalanche
+203,Imst,Imst,LOC,0.7,0.0,de,1.0,4026692-8,2775307,P,47.24504,10.73974,EUROPE,Austria,WCE,Snow Avalanche
+204,Arlberg,Arlberg,LOC,-0.7,0.0,de,1.0,4196372-6,2766757,P,47.1275,10.26372,EUROPE,Austria,WCE,Snow Avalanche
+205,Favelas,Favelas,LOC,0.0,0.0,de,1.0,,3400448,H,-6.01532,-40.26168,SOUTH-AMERICA,Brazil,NES,Snow Avalanche
+206,Rio de Janeiro,Rio de Janeiro,LOC,0.0,0.0,de,1.0,4076741-3,3451190,P,-22.90642,-43.18223,SOUTH-AMERICA,Brazil,SES,Snow Avalanche
+207,Lupe,Lupe,LOC,0.0,0.0,de,1.0,,11881015,L,-14.29531,-178.12616,PACIFIC,Wallis and Futuna,SPO,Snow Avalanche
+208,Osttirol,Osttirol,LOC,0.7,0.0,de,1.0,4100637-9,2771828,P,47.0,12.53333,EUROPE,Austria,WCE,Snow Avalanche
+209,Iseltal,Iseltal,LOC,0.7,0.0,de,1.0,4699408-7,3217409,T,46.91444,12.61583,EUROPE,Austria,WCE,Snow Avalanche
+210,Taiwan,Taiwan,LOC,0.0,0.0,de,1.0,4017875-4,1668284,A,24.0,121.0,ASIA,Taiwan,EAS,Snow Avalanche
+211,L…,L…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+212,Sulden,Sulden,LOC,0.0,0.0,de,1.0,4058547-5,3166437,P,46.52715,10.58905,EUROPE,Italy,WCE,Snow Avalanche
+213,Südtiroler Ortlergebirge,Südtiroler Ortlergebirge,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+186,Österreichs,Österreichs,LOC,0.7,0.0,de,1.0,,13513071,S,48.2043,16.37016,EUROPE,Austria,WCE,Snow Avalanche
+184,Vorschein,Vorschein,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+154,Bundesliga-Partien,Bundesliga-Partien,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+183,Gebäuden,Gebäuden,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+156,Ski-Tour,Ski-Tour,LOC,0.0,0.0,de,1.0,,11592437,P,50.8648,4.34651,EUROPE,Belgium,WCE,Snow Avalanche
+157,Schneemasse,Schneemasse,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+158,Mailand,Mailand,LOC,0.0,0.0,de,1.0,4037100-1,3173435,P,45.46427,9.18951,EUROPE,Italy,WCE,Snow Avalanche
+159,Glätte-Unfälle,Glätte-Unfälle,LOC,0.0,1.0,de,1.0,,0,,,,,,,Snow Avalanche
+160,St. Pauli,St. Pauli,LOC,0.0,0.0,de,1.0,4118227-3,5045360,P,44.94441,-93.09327,NORTH-AMERICA,United States,CNA,Snow Avalanche
+161,Tiroler Bergen,Tiroler Bergen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+162,Fügen-Kaltenbach,Fügen-Kaltenbach,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+163,Leipzig-Spiel,Leipzig-Spiel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+164,Sicherheitsgründen,Sicherheitsgründen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+165,Schneeräumen,Schneeräumen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+166,Schneesturmwarnung,Schneesturmwarnung,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+167,Sporthallen,Sporthallen,LOC,0.0,0.0,de,1.0,,6951789,S,52.34026,4.85396,EUROPE,The Netherlands,NEU,Snow Avalanche
+168,Winterchaos,Winterchaos,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+169,Dachs,Dachs,LOC,-1.0,0.0,de,1.0,4119971-6,5132143,P,41.70037,-73.92097,NORTH-AMERICA,United States,ENA,Snow Avalanche
+170,Kreis Kleve,Kreis Kleve,LOC,-1.0,0.0,de,1.0,4031156-9,2887835,P,51.78826,6.13865,EUROPE,Germany,WCE,Snow Avalanche
+171,Schaufel,Schaufel,LOC,0.0,0.0,de,1.0,7832124-4,2840157,T,51.0,11.4,EUROPE,Germany,WCE,Snow Avalanche
+172,Österreich…,Österreich…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+173,Riesernock,Riesernock,LOC,0.0,0.0,de,1.0,,7627990,T,46.92993,12.13191,EUROPE,Italy,WCE,Snow Avalanche
+174,Rieserfernergruppe,Rieserfernergruppe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+175,Tauferer Ahrntal,Tauferer Ahrntal,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+176,Ungar,Ungar,LOC,0.0,0.0,de,1.0,4078541-5,719819,A,47.0,20.0,EUROPE,Hungary,WCE,Snow Avalanche
+177,di…,di…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+178,Jugendfreizeiteinrichtungen,Jugendfreizeiteinrichtungen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+179,Kitzbühel von…,Kitzbühel von…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+180,Bezirk,Bezirk,LOC,0.7,0.0,de,1.0,5173948-3,598098,P,55.7068,21.13912,EUROPE,Lithuania,WCE,Snow Avalanche
+181,Streif,Streif,LOC,0.0,0.0,de,1.0,,11523528,T,50.12575,10.80012,EUROPE,Germany,WCE,Snow Avalanche
+182,Kitzbüheler,Kitzbüheler,LOC,-1.0,0.0,de,1.0,,2774342,T,47.46667,12.41667,EUROPE,Austria,WCE,Snow Avalanche
+214,Südtiroler Alpen,Südtiroler Alpen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+215,Meteorologen,Meteorologen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+216,Wochenanfang,Wochenanfang,LOC,-1.4,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+217,Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+248,Bezirk Reutte,Bezirk Reutte,LOC,0.0,0.0,de,1.0,4049663-6,2767510,A,47.41667,10.55,EUROPE,Austria,WCE,Snow Avalanche
+249,St…,St…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+250,“,“,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+251,Rettungskräfte,Rettungskräfte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+252,Skipiste hinunterstürze,Skipiste hinunterstürze,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+253,Stuben,Stuben,LOC,0.0,0.0,de,1.0,,4926796,A,41.64387,-85.00077,NORTH-AMERICA,United States,ENA,Snow Avalanche
+254,Landkreis Ostallgäu,Landkreis Ostallgäu,LOC,0.0,0.0,de,1.0,4018831-0,2923507,P,47.57143,10.70171,EUROPE,Germany,WCE,Snow Avalanche
+255,Donnerstag am …,Donnerstag am …,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+256,Österreichs Bergen,Österreichs Bergen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+257,Lawinen-Rucksack,Lawinen-Rucksack,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+258,Sicherheitsarmband,Sicherheitsarmband,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+259,Anti-Erstickungspumpe,Anti-Erstickungspumpe,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+260,Ehrwald,Ehrwald,LOC,0.0,0.0,de,1.0,4232857-3,3319581,P,47.4,10.91667,EUROPE,Austria,WCE,Snow Avalanche
+261,Zugspitze19-Jähriger,Zugspitze19-Jähriger,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+262,Bezirk Innsbruck-Land…,Bezirk Innsbruck-Land…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+263,Pistenwacht,Pistenwacht,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+264,Witz,Witz,LOC,0.0,0.0,de,1.0,,2976557,P,49.091,2.57122,EUROPE,France,WCE,Snow Avalanche
+265,Großglockner-Fall,Großglockner-Fall,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+266,Führerrolle,Führerrolle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+267,Was-wäre-wenn,Was-wäre-wenn,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+268,Gletscher-Sterben,Gletscher-Sterben,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+269,Vorschau,Vorschau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+270,Pinzgauer Straße,Pinzgauer Straße,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+271,B311,B311,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+272,Weißbach,Weißbach,LOC,0.7,0.0,de,1.0,,2812018,H,51.03505,10.9736,EUROPE,Germany,WCE,Snow Avalanche
+273,Lofer,Lofer,LOC,0.7,0.0,de,1.0,4036192-5,2772330,P,47.58475,12.69333,EUROPE,Austria,WCE,Snow Avalanche
+274,Pinzgau,Pinzgau,LOC,0.7,0.0,de,1.0,4046112-9,2762000,P,47.24643,12.22731,EUROPE,Austria,WCE,Snow Avalanche
+247,Lawinendrama,Lawinendrama,LOC,-0.35,0.5,de,1.0,,0,,,,,,,Snow Avalanche
+246,Bergwacht,Bergwacht,LOC,0.0,1.0,de,1.0,,0,,,,,,,Snow Avalanche
+245,Vertai…,Vertai…,LOC,0.0,1.0,de,1.0,,0,,,,,,,Snow Avalanche
+230,Notbremse,Notbremse,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+218,Hochgebirge,Hochgebirge,LOC,-0.7,0.0,de,1.0,4252330-8,2768175,P,47.63333,15.93333,EUROPE,Austria,WCE,Snow Avalanche
+219,Neuschnee,Neuschnee,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+220,Unterfranken,Unterfranken,LOC,-1.0,0.0,de,1.0,4061905-9,2822571,P,50.20097,10.31906,EUROPE,Germany,WCE,Snow Avalanche
+221,Wetterexperten,Wetterexperten,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+222,Dauerregen,Dauerregen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+223,Franken,Franken,LOC,0.0,0.0,de,1.0,4018093-1,2803465,L,50.0,9.0,EUROPE,Germany,WCE,Snow Avalanche
+224,Oberfranken,Oberfranken,LOC,0.0,0.0,de,1.0,4049080-4,2849446,P,50.24921,12.03422,EUROPE,Germany,WCE,Snow Avalanche
+225,Oberpfalz,Oberpfalz,LOC,0.0,0.0,de,1.0,4041837-6,2864549,P,49.28028,11.46278,EUROPE,Germany,WCE,Snow Avalanche
+226,Alpennähe,Alpennähe,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+227,Klimakurve,Klimakurve,LOC,1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+228,Nordsee,Nordsee,LOC,-2.0,0.0,de,1.0,4042579-4,2960848,H,55.33333,3.0,EUROPE,,NEU,Snow Avalanche
+229,Klima-Experte,Klima-Experte,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+231,Freistaat,Freistaat,LOC,0.0,0.0,de,1.0,4059979-6,2822542,A,50.91667,11.0,EUROPE,Germany,WCE,Snow Avalanche
+244,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+232,Fährausfälle,Fährausfälle,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+233,Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,1.0,4003191-3,2955272,P,49.97704,9.15214,EUROPE,Germany,WCE,Snow Avalanche
+234,Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1.0,4005574-7,2950881,P,47.63236,13.00187,EUROPE,Germany,WCE,Snow Avalanche
+235,SZ,SZ,LOC,0.0,0.0,de,1.0,4000695-5,6255146,L,7.1881,21.09375,AFRICA,Central African Republic,CAF,Snow Avalanche
+236,Weltmeeren,Weltmeeren,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+237,Mittelmeer,Mittelmeer,LOC,-0.7,0.0,de,1.0,4074895-9,363196,H,35.0,20.0,EUROPE-AFRICA,,MED,Snow Avalanche
+238,Böen,Böen,LOC,0.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Snow Avalanche
+239,Sturmtief,Sturmtief,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+240,Ostsee,Ostsee,LOC,0.0,0.0,de,1.0,4021328-6,2919765,P,54.83503,9.55218,EUROPE,Germany,NEU,Snow Avalanche
+241,Tibet,Tibet,LOC,-0.7,0.0,de,1.0,4111286-6,1280737,P,29.65,91.1,ASIA,China,TIB,Snow Avalanche
+242,Schneesturm,Schneesturm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+304,Lamar,Lamar,GPE,0.025,0.21666667,en,1.0,,-1,,,,,,,Drought
+155,Landes am Morgen,Landes am Morgen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+153,Meterhohe Schneeverwehungen,Meterhohe Schneeverwehungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+108,Pazifik,Pazifik,LOC,0.0,0.0,de,1.0,4044981-6,2363254,X,3.51342,-132.1875,PACIFIC,,EPO,Volcano
+255,Mahakali river,Mahakali river,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+253,Denham Springs,Denham Springs,GPE,-0.11666667,0.25,en,1.0,,-1,,,,,,,Drought
+252,west Ottawa,west Ottawa,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+251,dividen,dividen,GPE,-0.1,0.16666667,en,1.0,,-1,,,,,,,Drought
+250,London,London,GPE,0.0625,0.4375,en,1.0,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Drought
+249,Pettinga D,Pettinga D,GPE,0.0,0.125,en,1.0,,-1,,,,,,,Drought
+248,BURLINGTON,BURLINGTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+247,Matrouh Governorate,Matrouh Governorate,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
+246,Sri Lanka Women,Sri Lanka Women,GPE,0.06818182,0.25,en,1.0,,-1,,,,,,,Drought
+245,Southwest,Southwest,LOC,0.25714286,0.66428571,en,1.0,,-1,,,,,,,Drought
+244,Ann Arbor,Ann Arbor,GPE,0.1,0.43333333,en,1.0,,-1,,,,,,,Drought
+243,Kyrgyzstan,Kyrgyzstan,GPE,0.1,0.43333333,en,1.0,4030848-0,1527747,X,41.0,75.0,ASIA,Kyrgyzstan,WCA,Drought
+242,Badulla,Badulla,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
+241,PyPI,PyPI,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+240,pe… COLOMBO:,pe… COLOMBO:,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
+239,Sheffield,Sheffield,GPE,-0.4,0.4,en,1.0,4118617-5,2638077,X,53.38297,-1.4659,EUROPE,United Kingdom,NEU,Drought
+238,Ghana,Ghana,GPE,0.0,0.0,en,1.0,4020949-0,2300660,X,8.099999,-1.199999,AFRICA,Ghana,WAF,Drought
+237,driest springs,driest springs,GPE,0.13333333,0.46666667,en,1.0,,-1,,,,,,,Drought
+236,Kumasi,Kumasi,GPE,0.0,0.0,en,1.0,4266544-9,2298890,X,6.68848,-1.62443,AFRICA,Ghana,WAF,Drought
+235,Yellow River,Yellow River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+234,Nigeria,Nigeria,GPE,0.0,0.0,en,1.0,4042300-1,2328926,X,10.0,8.0,AFRICA,Nigeria,WAF,Drought
+233,Hudson,Hudson,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Drought
+232,Turlock,Turlock,GPE,0.5,1.0,en,1.0,,-1,,,,,,,Drought
+231,East Africa,East Africa,GPE,0.15284091,0.55113636,en,1.0,,-1,,,,,,,Drought
+230,Aceh province,Aceh province,GPE,-0.46666667,0.5,en,1.0,,-1,,,,,,,Drought
+229,Maui,Maui,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+228,unde…,unde…,GPE,0.14285714,0.28571429,en,1.0,,-1,,,,,,,Drought
+227,West Maui,West Maui,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+254,Tulare Lake,Tulare Lake,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+256,West Country,West Country,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+152,Eisregen,Eisregen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+257,Bristol,Bristol,GPE,-0.06666667,0.6,en,1.0,4090130-0,2654675,X,51.45523,-2.596649,EUROPE,United Kingdom,NEU,Drought
+109,Beobachter,Beobachter,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+110,Japan,Japan,LOC,0.0,0.0,de,1.0,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Volcano
+111,Kagoshima,Kagoshima,LOC,0.0,0.0,de,1.0,4308810-7,1860827,X,31.560179,130.55814,ASIA,,EAS,Volcano
+112,Medan,Medan,LOC,0.0,0.0,de,1.0,4469031-9,1214520,X,3.58333,98.666669,ASIA,Indonesia,SEA,Volcano
+113,Orang-Utan-Trekking,Orang-Utan-Trekking,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+114,Unterkünften,Unterkünften,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+115,Flügen,Flügen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+116,Orang Utan-Abenteuer,Orang Utan-Abenteuer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+117,Rätsel,Rätsel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+118,Semeru Asche,Semeru Asche,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+119,Mittwoch,Mittwoch,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+120,Insel Java,Insel Java,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+121,Spaniens,Spaniens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+122,Aschepartikeln,Aschepartikeln,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Volcano
+123,Gasen,Gasen,LOC,-1.0,0.0,de,1.0,4527588-9,2778832,X,47.38333,15.56667,EUROPE,Austria,WCE,Volcano
+124,Urlaubsinsel,Urlaubsinsel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+125,Urlaubsinsel Bali,Urlaubsinsel Bali,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+126,,,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Volcano
+127,Hohen Norden,Hohen Norden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+128,Wunschliste,Wunschliste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+129,Japans,Japans,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+130,Sakurajima,Sakurajima,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+131,Big Island,Big Island,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Volcano
+261,Wiltshire,Wiltshire,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+260,south Gloucestershire,south Gloucestershire,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+259,Dorset,Dorset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+258,Somerset,Somerset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+226,west Maui,west Maui,LOC,0.16,0.54,en,1.0,,-1,,,,,,,Drought
+225,The United States',The United States',GPE,0.27777778,0.47777778,en,1.0,,-1,,,,,,,Drought
+224,Sumatra,Sumatra,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
+223,Silicon Valley,Silicon Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+125,Athen,Athen,LOC,0.0,0.0,de,1.0,4003366-1,264371,P,37.98376,23.72784,EUROPE-AFRICA,Greece,MED,Snow Avalanche
+126,Hannover,Hannover,LOC,0.0,0.0,de,1.0,4023349-2,2910831,P,52.37052,9.73322,EUROPE,Germany,WCE,Snow Avalanche
+127,Waldschneisen,Waldschneisen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+128,Rückflug,Rückflug,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+129,Reformstau,Reformstau,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+130,Schlammlawine,Schlammlawine,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+131,Valloire,Valloire,LOC,0.0,0.0,de,1.0,4288453-6,2976895,P,45.28774,4.94903,EUROPE,France,WCE,Snow Avalanche
+132,Lichtungen,Lichtungen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+133,Bremen,Bremen,LOC,0.0,1.0,de,1.0,4090044-7,2944388,P,53.07582,8.80717,EUROPE,Germany,NEU,Snow Avalanche
+134,Savoie,Savoie,LOC,0.0,0.0,de,1.0,117150-1,2975517,A,45.46805,6.48547,EUROPE,France,WCE,Snow Avalanche
+135,Savoie  ,Savoie  ,LOC,0.0,0.0,de,1.0,,2975517,A,45.46805,6.48547,EUROPE,France,WCE,Snow Avalanche
+136,Hohe Lawinengefahr,Hohe Lawinengefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+137,Lawinenabgang am Gampen,Lawinenabgang am Gampen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+138,St. Anton,St. Anton,LOC,0.0,0.0,de,1.0,4196372-6,2766757,P,47.1275,10.26372,EUROPE,Austria,WCE,Snow Avalanche
+139,Lawinenkegel,Lawinenkegel,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+140,US-Bundesstaates,US-Bundesstaates,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+141,Hubschrauber-Crew,Hubschrauber-Crew,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+142,USA,USA,LOC,0.0,0.0,de,1.0,4078704-7,6255150,L,-14.60485,-57.65625,SOUTH-AMERICA,Brazil,SAM,Snow Avalanche
+143,Los Angeles,Los Angeles,LOC,0.0,0.0,de,1.0,4036361-2,5368361,P,34.05223,-118.24368,NORTH-AMERICA,United States,WNA,Snow Avalanche
+144,Südkalifornien,Südkalifornien,LOC,-1.0,0.0,de,1.0,4096903-4,5404905,S,34.0218,-118.28664,NORTH-AMERICA,United States,WNA,Snow Avalanche
+145,Wrightwood,Wrightwood,LOC,-1.0,0.0,de,1.0,,5410682,P,34.36083,-117.63339,NORTH-AMERICA,United States,WNA,Snow Avalanche
+146,Hochtouren,Hochtouren,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+147,Union,Union,LOC,0.0,0.0,de,1.0,1383822557,3584767,A,13.55,-87.9,CENTRAL-AMERICA,El Salvador,SCA,Snow Avalanche
+148,Frankreichs,Frankreichs,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+149,Cuneo,Cuneo,LOC,0.0,0.0,de,1.0,4010768-1,6299587,S,44.54702,7.62322,EUROPE-AFRICA,Italy,MED,Snow Avalanche
+150,Freitag ob…,Freitag ob…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+151,Sturmböen,Sturmböen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+124,Ökonom Feld,Ökonom Feld,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+123,Industrie-Krise,Industrie-Krise,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+122,La Plagne/Valloire,La Plagne/Valloire,LOC,0.0,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+210,Belgium,Belgium,GPE,0.0,0.11666667,en,1.0,4005406-8,2802361,X,50.833329,4.0,EUROPE,Belgium,WCE,Drought
+222,Austin,Austin,GPE,0.25,0.25,en,1.0,,-1,,,,,,,Drought
+221,Anadolu,Anadolu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+220,Mumbai,Mumbai,GPE,-0.16666667,0.16666667,en,1.0,10013721-0,1275339,X,19.072777,72.8825,ASIA,India,SAS,Drought
+219,PANAMA CITY,PANAMA CITY,GPE,0.0,0.03333333,en,1.0,,-1,,,,,,,Drought
+218,TEXAS,TEXAS,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+217,Torabi,Torabi,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
+216,Talei,Talei,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
+215,A.,A.,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
+214,Annona squamosa,Annona squamosa,LOC,-0.25,1.0,en,1.0,,-1,,,,,,,Drought
+213,COLOMBO,COLOMBO,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
+212,worl,worl,LOC,0.45,0.55,en,1.0,,-1,,,,,,,Drought
+211,KERRVILLE,KERRVILLE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+209,MENA,MENA,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+121,Gefahrenstellen,Gefahrenstellen,LOC,0.7,0.0,de,1.0,,0,,,,,,,Snow Avalanche
+208,Hazaribag,Hazaribag,GPE,0.03333333,0.24444444,en,1.0,,-1,,,,,,,Drought
+207,Colorado River Basin,Colorado River Basin,LOC,0.2,0.2,en,1.0,,-1,,,,,,,Drought
+206,et al,et al,GPE,0.0,0.125,en,1.0,,-1,,,,,,,Drought
+205,New York Rangers,New York Rangers,GPE,0.22878788,0.2959596,en,1.0,,-1,,,,,,,Drought
+204,Islamic Republic,Islamic Republic,GPE,-0.10333333,0.50666667,en,1.0,,-1,,,,,,,Drought
+203,oscillationsrecurring,oscillationsrecurring,GPE,0.3,0.45,en,1.0,,-1,,,,,,,Drought
+202,Guwahati,Guwahati,GPE,0.0,0.5,en,1.0,4368296-0,1271476,X,26.18617,91.75095,ASIA,India,SAS,Drought
+201,the Pacific Northwest,the Pacific Northwest,LOC,0.03125,0.25,en,1.0,,-1,,,,,,,Drought
+200,Bear Mountain,Bear Mountain,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
+199,Euroclear,Euroclear,GPE,0.0,0.11666667,en,1.0,,-1,,,,,,,Drought
+198,the Guadalupe River,the Guadalupe River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
+120,Allgäu,Allgäu,LOC,-0.15,0.0,de,1.0,4030234-9,2891621,P,47.72674,10.31389,EUROPE,Germany,WCE,Snow Avalanche
+357,Tujetsch,Tujetsch,GPE,-0.07857143,0.16428571,en,1.0,7612022-3,2659634,P,46.68334,8.82514,EUROPE,Switzerland,WCE,Snow Avalanche
