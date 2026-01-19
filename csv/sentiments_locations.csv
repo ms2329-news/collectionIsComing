@@ -1,100 +1,1046 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Mars,Mars,LOC,0.02542373,0.0,de,11.8,,6621751,T,-76.66667,161.95,POLAR,Antarctica,EAN,Thunderstorm
-1,Hessen,Hessen,LOC,0.0,0.0,de,9.1,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Thunderstorm
-2,Saarland,Saarland,LOC,-0.08536585,0.0,de,8.2,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE,Thunderstorm
-3,Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.08536585,0.0,de,8.2,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Thunderstorm
-4,Ibiza,Ibiza,LOC,-0.17073171,0.0,de,8.2,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Thunderstorm
-5,Tourette,Tourette,LOC,0.05479452,0.1369863,de,7.3,4328062-6,3006197,P,43.38057,2.33399,EUROPE-AFRICA,France,MED,Thunderstorm
-6,Formentera,Formentera,LOC,-0.19178082,0.0,de,7.3,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Thunderstorm
-7,Baden-Württemberg,Baden-Württemberg,LOC,0.02205882,0.0,de,6.8,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Thunderstorm
-8,Deutschland,Deutschland,LOC,-0.02238806,0.0,de,6.7,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Thunderstorm
-9,Berlin,Berlin,LOC,-0.43636364,0.54545455,de,5.5,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Thunderstorm
-10,Sturmböen,Sturmböen,LOC,-0.15217391,0.0,de,4.6,,0,,,,,,,Thunderstorm
-11,Brandenburg,Brandenburg,LOC,-0.30434783,0.65217391,de,4.6,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Thunderstorm
-12,Erde,Erde,LOC,0.67391304,0.0,de,4.6,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Thunderstorm
-13,Bonn,Bonn,LOC,0.39130435,0.0,de,4.6,4007666-0,6296510,S,50.87894,7.12292,EUROPE,Germany,WCE,Thunderstorm
-14,Jupiter,Jupiter,LOC,0.83783784,0.0,de,3.7,,4160610,P,26.93422,-80.09421,NORTH-AMERICA,United States,ENA,Thunderstorm
-15,Saturn,Saturn,LOC,0.83783784,0.0,de,3.7,,6624777,T,-66.13333,101.15,POLAR,Antarctica,EAN,Thunderstorm
-16,…,…,LOC,0.0,0.0,de,3.0,,0,,,,,,,Thunderstorm
-19,Olympia,Olympia,LOC,-0.35714286,0.0,de,2.8,4271795-4,5805687,P,47.04491,-122.90169,NORTH-AMERICA,United States,WNA,Thunderstorm
-20,NRW,NRW,LOC,0.0,0.35714286,de,2.8,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
-17,Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.35714286,0.0,de,2.8,4036934-1,2874545,P,52.12773,11.62916,EUROPE,Germany,WCE,Thunderstorm
-18,Gewitter,Gewitter,LOC,0.0,0.0,de,2.8,,0,,,,,,,Thunderstorm
-21,Deutschlands,Deutschlands,LOC,0.0,0.0,de,2.0,,0,,,,,,,Thunderstorm
-22,Kaltfront,Kaltfront,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-23,Museum von Olympia,Museum von Olympia,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-24,Gewitterwolken,Gewitterwolken,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-25,Youtube-Szene,Youtube-Szene,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-26,Offenbach,Offenbach,LOC,0.0,0.0,de,1.9,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Thunderstorm
-27,Youtube-Kanal,Youtube-Kanal,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
-28,Instagram,Instagram,LOC,0.0,0.0,de,1.9,,12070367,S,40.63591,22.94217,EUROPE-AFRICA,Greece,MED,Thunderstorm
-29,Lübeck,Lübeck,LOC,-0.36842105,0.0,de,1.9,4036483-5,2875601,P,53.86893,10.68729,EUROPE,Germany,NEU,Thunderstorm
-30,Bali,Bali,LOC,0.0,0.0,de,1.9,4004327-7,1650534,T,-8.33333,115.0,ASIA,Indonesia,SEA,Thunderstorm
-31,Potsdam,Potsdam,LOC,-0.52631579,0.0,de,1.9,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Thunderstorm
-32,Sturmböen fegen,Sturmböen fegen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
-33,Gewittern,Gewittern,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
-34,Tramuntana-Gebirge,Tramuntana-Gebirge,LOC,0.0,0.0,de,1.8,,0,,,,,,,Thunderstorm
-35,CDU-Landeschef,CDU-Landeschef,LOC,-0.46666667,0.0,de,1.5,,0,,,,,,,Thunderstorm
-36,Syrien,Syrien,LOC,-0.5,0.0,de,1.4,4058794-0,163843,A,35.0,38.0,EUROPE-AFRICA,Syria,MED,Thunderstorm
-38,Union,Union,LOC,-0.58333333,0.0,de,1.2,,3584767,A,13.55,-87.9,CENTRAL-AMERICA,El Salvador,SCA,Thunderstorm
-39,CSU-Chef,CSU-Chef,LOC,1.66666667,0.83333333,de,1.2,,0,,,,,,,Thunderstorm
-37,Landtagswahl,Landtagswahl,LOC,0.58333333,0.0,de,1.2,,0,,,,,,,Thunderstorm
-40,Stuttgart,Stuttgart,LOC,0.0,0.0,de,1.1,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Thunderstorm
-41,Rückführungen,Rückführungen,LOC,0.0,0.0,de,1.1,,0,,,,,,,Thunderstorm
-78,Böen,Böen,LOC,0.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Thunderstorm
-82,Tornados,Tornados,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-81,lsw,lsw,LOC,0.0,0.0,de,1.0,,1214658,P,5.1801,97.1507,ASIA,Indonesia,SEA,Thunderstorm
-80,CDU-Chef,CDU-Chef,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-79,Äste,Äste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-75,Freitagnachmittag,Freitagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-77,Orkanartige Böen,Orkanartige Böen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-76,Windböen,Windböen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-84,Flughafenstraße,Flughafenstraße,LOC,0.0,0.0,de,1.0,,10387153,S,47.1879,7.40601,EUROPE,Switzerland,WCE,Thunderstorm
-74,Harz,Harz,LOC,0.0,0.0,de,1.0,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Thunderstorm
-73,Tirol,Tirol,LOC,0.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Thunderstorm
-72,Wirtschaftskammer,Wirtschaftskammer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-83,lhe,lhe,LOC,0.0,0.0,de,1.0,4034107-0,1172451,P,31.558,74.35071,ASIA,Pakistan,WCA,Thunderstorm
-87,Landes,Landes,LOC,-0.7,0.0,de,1.0,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Thunderstorm
-85,Klimawandels,Klimawandels,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-86,Bayern,Bayern,LOC,0.0,0.0,de,1.0,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Thunderstorm
-88,Wetterkapriolen,Wetterkapriolen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-89,Theaterfestivals,Theaterfestivals,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-90,Wochenend-Wetter,Wochenend-Wetter,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-70,Schreihälse,Schreihälse,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-91,Oberharz,Oberharz,LOC,0.0,0.0,de,1.0,4042923-4,2860465,T,51.83224,10.469,EUROPE,Germany,WCE,Thunderstorm
-92,Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-93,Mallorca,Mallorca,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Thunderstorm
-94,Bucht vom Purt de Sóller,Bucht vom Purt de Sóller,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-95,Puig Major,Puig Major,LOC,0.0,0.0,de,1.0,7847917-4,2513992,T,39.80768,2.7943,EUROPE-AFRICA,Spain,MED,Thunderstorm
-96,Steiermark Gewitter,Steiermark Gewitter,LOC,-0.66666667,0.33333333,de,1.0,,0,,,,,,,Thunderstorm
-97,Peloponnes,Peloponnes,LOC,-1.0,0.0,de,1.0,4045064-8,255620,L,37.5,22.33333,EUROPE-AFRICA,Greece,MED,Thunderstorm
-71,Stadtbild-Debatte,Stadtbild-Debatte,LOC,0.85,0.0,de,1.0,,0,,,,,,,Thunderstorm
-49,Klosterneuburg,Klosterneuburg,LOC,0.0,0.0,de,1.0,4031235-5,2773913,P,48.30521,16.32522,EUROPE,Austria,WCE,Thunderstorm
-69,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.0,0.0,de,1.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
-68,Youtube,Youtube,LOC,0.7,0.0,de,1.0,,11789508,T,38.5173,-8.9055,EUROPE-AFRICA,Portugal,MED,Thunderstorm
-42,Abendstunden Sturmböen,Abendstunden Sturmböen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-43,YouTube-Kanal Gewitter,YouTube-Kanal Gewitter,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-44,Meteorologen,Meteorologen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-45,YouTube-Star,YouTube-Star,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-46,b…,b…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-47,Umständen,Umständen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-48,Blitze,Blitze,LOC,0.0,0.0,de,1.0,,2948144,P,50.7569,7.48473,EUROPE,Germany,WCE,Thunderstorm
-50,blitzarm,blitzarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-51,Erklärungen,Erklärungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-52,Schweigen,Schweigen,LOC,0.0,0.0,de,1.0,,2834579,T,51.4,10.81667,EUROPE,Germany,WCE,Thunderstorm
-53,Brandenburgs,Brandenburgs,LOC,-0.7,0.0,de,1.0,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Thunderstorm
-54,Skijäger-Kosmos,Skijäger-Kosmos,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-55,Stunden in der Luft,Stunden in der Luft,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-56,aufgewirbe…,aufgewirbe…,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-57,Gewitter-Gefahr,Gewitter-Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-58,Streaming-Partner,Streaming-Partner,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-59,Israel,Israel,LOC,0.0,0.0,de,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Thunderstorm
-60,Z…,Z…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-61,Gaza,Gaza,LOC,0.0,0.0,de,1.0,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
-62,Gazastreifen,Gazastreifen,LOC,-0.5,0.5,de,1.0,4019325-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
-63,Gewitter-im-Kopf,Gewitter-im-Kopf,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-64,Aufruhr,Aufruhr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-65,Pityusen,Pityusen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
-66,November-Modus,November-Modus,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
-67,Königswinter,Königswinter,LOC,-0.15,0.0,de,1.0,4031563-0,2885734,P,50.67734,7.19245,EUROPE,Germany,WCE,Thunderstorm
-98,Jahresverlauf,Jahresverlauf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+0,Berlin,Berlin,LOC,0.16506922,0.04046858,de,156.5,4005728-8,2950157,X,52.5,13.416669,EUROPE,Germany,WCE,Snow&Ice
+1,Deutschland,Deutschland,LOC,-0.03794444,0.06944444,de,150.0,4011882-4,2921044,X,51.5,10.5,EUROPE,Germany,WCE,Snow&Ice
+2,Brandenburg,Brandenburg,LOC,0.08724058,0.0563669,de,130.1,4007955-7,2945356,X,52.5,13.5,EUROPE,Germany,WCE,Snow&Ice
+3,Bayern,Bayern,LOC,-0.08832685,0.0693904,de,128.5,4005044-0,2951839,X,49.0,11.5,EUROPE,Germany,WCE,Snow&Ice
+4,Glatteis,Glatteis,LOC,-0.03430316,0.05926724,de,92.8,,-1,,,,,,,Snow&Ice
+5,Hessen,Hessen,LOC,-0.0137457,0.02195494,de,87.3,4024729-6,2905330,X,50.5,9.25,EUROPE,Germany,WCE,Snow&Ice
+6,Deutschlands,Deutschlands,LOC,-0.11595118,0.06102694,de,79.2,,-1,,,,,,,Snow&Ice
+7,Schnee,Schnee,LOC,0.07656827,0.10147601,de,54.2,,-1,,,,,,,Snow&Ice
+8,Hamburg,Hamburg,LOC,-0.05640535,0.03824092,de,52.3,4023118-5,2911297,X,53.583329,10.0,EUROPE,Germany,NEU,Snow&Ice
+9,Alpen,Alpen,LOC,0.00435844,0.17259414,de,47.8,,-1,,,,,,,Snow&Ice
+10,Thüringen,Thüringen,LOC,-0.09538653,0.0,de,40.1,4059979-6,2822542,X,50.91667,11.0,EUROPE,Germany,WCE,Snow&Ice
+12,Sachsen,Sachsen,LOC,-0.10641399,0.0255102,de,39.2,4051176-5,2842566,X,51.0,13.25,EUROPE,Germany,WCE,Snow&Ice
+11,NRW,NRW,LOC,0.16092687,0.0,de,39.2,,-1,,,,,,,Snow&Ice
+13,Niedersachsen,Niedersachsen,LOC,0.02380952,0.17070979,de,37.1,4042226-4,2862926,X,52.0,10.0,EUROPE,Germany,WCE,Snow&Ice
+14,Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.09193841,0.04076087,de,36.8,4049795-1,2847618,X,49.66667,7.5,EUROPE,Germany,WCE,Snow&Ice
+15,…,…,LOC,-0.0482866,0.04153686,de,32.1,,-1,,,,,,,Snow&Ice
+16,Saarland,Saarland,LOC,-0.08545648,0.0477707,de,31.4,4076919-7,2842635,X,49.404719,6.960829,EUROPE,Germany,WCE,Snow&Ice
+17,Baden-Württemberg,Baden-Württemberg,LOC,-0.15998839,0.20905923,de,28.7,4004176-1,2953481,X,48.5,9.0,EUROPE,Germany,WCE,Snow&Ice
+18,Bayerns,Bayerns,LOC,0.12436869,0.11994949,de,26.4,,-1,,,,,,,Snow&Ice
+19,Harz,Harz,LOC,0.09351145,0.09541985,de,26.2,,-1,,,,,,,Snow&Ice
+21,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.19028871,0.0,de,25.4,4042570-8,2861876,X,51.218949,6.76339,EUROPE,Germany,WCE,Snow&Ice
+20,Erzgebirge,Erzgebirge,LOC,-0.1148294,0.05905512,de,25.4,,-1,,,,,,,Snow&Ice
+22,Mount Everest,Mount Everest,LOC,0.0125,0.0,de,24.0,,-1,,,,,,,Snow&Ice
+23,USA,USA,LOC,-0.0619469,0.06637168,de,22.6,4078704-7,6252001,X,39.759999,-98.5,NORTH-AMERICA,United States,CNA,Snow&Ice
+24,Offenbach,Offenbach,LOC,-0.24006116,0.12232416,de,21.8,,-1,,,,,,,Snow&Ice
+25,Bergen,Bergen,LOC,-0.00492611,0.04926108,de,20.3,,-1,,,,,,,Snow&Ice
+26,Schleswig-Holstein,Schleswig-Holstein,LOC,-0.09162304,0.13089005,de,19.1,4052692-6,2838632,X,54.0,10.5,EUROPE,Germany,NEU,Snow&Ice
+27,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.11052632,0.0,de,19.0,4242861-0,2872567,X,53.5,12.5,EUROPE,Germany,WCE,Snow&Ice
+28,New York,New York,LOC,-0.39736842,0.05263158,de,19.0,,-1,,,,,,,Snow&Ice
+29,Bremen,Bremen,LOC,0.22857143,0.08571429,de,17.5,4008135-7,2944387,X,53.083329,8.83333,EUROPE,Germany,NEU,Snow&Ice
+30,“,“,LOC,-0.04046243,0.0,de,17.3,,-1,,,,,,,Snow&Ice
+31,Unfälle,Unfälle,LOC,-0.04294479,0.12269939,de,16.3,,-1,,,,,,,Snow&Ice
+32,Berlins,Berlins,LOC,0.13636364,0.0,de,15.4,,-1,,,,,,,Snow&Ice
+33,Sauerland,Sauerland,LOC,-0.02272727,0.03246753,de,15.4,,-1,,,,,,,Snow&Ice
+34,Landes,Landes,LOC,-0.34532374,0.0,de,13.9,,-1,,,,,,,Snow&Ice
+35,Sachsens,Sachsens,LOC,0.20798319,0.0,de,13.6,,-1,,,,,,,Snow&Ice
+36,Sölden,Sölden,LOC,0.15384615,0.0,de,13.0,4208193-2,2764957,X,46.96667,11.0,EUROPE,Austria,WCE,Snow&Ice
+37,Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.0859375,0.0,de,12.8,4051181-9,2842565,X,51.91667,11.5,EUROPE,Germany,WCE,Snow&Ice
+38,Freistaat,Freistaat,LOC,0.07874016,0.0,de,12.7,,-1,,,,,,,Snow&Ice
+39,Österreich,Österreich,LOC,0.35245902,0.16393443,de,12.2,4043271-3,2782113,X,47.333329,13.33333,EUROPE,Austria,WCE,Snow&Ice
+40,Streusalz,Streusalz,LOC,0.0375,0.16666667,de,12.0,,-1,,,,,,,Snow&Ice
+41,Oberwiesenthal,Oberwiesenthal,LOC,-0.05882353,0.33613445,de,11.9,4043017-0,2882332,X,50.419429,12.96836,EUROPE,Czechia,WCE,Snow&Ice
+42,Schneeschauer,Schneeschauer,LOC,0.02542373,0.0,de,11.8,,-1,,,,,,,Snow&Ice
+43,Skigebiete,Skigebiete,LOC,0.27118644,0.0,de,11.8,,-1,,,,,,,Snow&Ice
+44,Schneesturm,Schneesturm,LOC,-0.22222222,0.02923977,de,11.4,,-1,,,,,,,Snow&Ice
+45,München,München,LOC,-0.0030303,0.03030303,de,11.0,4127793-4,2867714,X,48.137222,11.575277,EUROPE,Germany,WCE,Snow&Ice
+46,Nässe,Nässe,LOC,0.02752294,0.0,de,10.9,,-1,,,,,,,Snow&Ice
+47,Unfällen,Unfällen,LOC,-0.015,0.0,de,10.0,,-1,,,,,,,Snow&Ice
+48,Schneetreiben,Schneetreiben,LOC,0.21,0.0,de,10.0,,-1,,,,,,,Snow&Ice
+49,Wochenmitte,Wochenmitte,LOC,0.085,0.0,de,10.0,,-1,,,,,,,Snow&Ice
+50,Céüze,Céüze,LOC,-0.16071429,0.28061224,de,9.8,,-1,,,,,,,Snow&Ice
+51,Ostsee,Ostsee,LOC,-0.51648352,0.05494505,de,9.1,,-1,,,,,,,Snow&Ice
+52,Regen,Regen,LOC,-0.04545455,0.0,de,8.8,4048975-9,2849495,X,48.971666,13.128055,EUROPE,Germany,WCE,Snow&Ice
+53,Italien,Italien,LOC,0.08235294,0.11764706,de,8.5,4027833-5,3175395,X,42.833329,12.83333,EUROPE-AFRICA,Italy,MED,Snow&Ice
+54,Erfurt,Erfurt,LOC,-0.42682927,0.0,de,8.2,4015240-6,2929670,X,50.978611,11.032777,EUROPE,Germany,WCE,Snow&Ice
+55,Wintereinbruch,Wintereinbruch,LOC,0.34146341,0.0,de,8.2,,-1,,,,,,,Snow&Ice
+56,Mittelgebirgen,Mittelgebirgen,LOC,0.0,0.0,de,8.2,,-1,,,,,,,Snow&Ice
+57,Stadt,Stadt,LOC,-0.20121951,0.06097561,de,8.2,,-1,,,,,,,Snow&Ice
+58,Norddeutschland,Norddeutschland,LOC,0.13414634,0.12195122,de,8.2,,-1,,,,,,,Snow&Ice
+62,Warnungen,Warnungen,LOC,0.0,0.0,de,7.3,,-1,,,,,,,Snow&Ice
+64,Frankreich,Frankreich,LOC,-0.0890411,0.06849315,de,7.3,4018145-5,3017382,X,46.0,2.0,EUROPE,France,WCE,Snow&Ice
+63,Ibiza,Ibiza,LOC,-0.04794521,0.43378995,de,7.3,,-1,,,,,,,Snow&Ice
+59,Meteorologen,Meteorologen,LOC,-0.09589041,0.68493151,de,7.3,,-1,,,,,,,Snow&Ice
+61,Dauereinsatz,Dauereinsatz,LOC,0.0,0.68493151,de,7.3,,-1,,,,,,,Snow&Ice
+60,Frost,Frost,LOC,-0.09589041,0.0,de,7.3,,-1,,,,,,,Snow&Ice
+65,Sturmböen,Sturmböen,LOC,-0.25,0.0,de,6.8,,-1,,,,,,,Snow&Ice
+66,Russland,Russland,LOC,-0.43181818,0.0,de,6.6,4076899-5,2017370,X,60.0,100.0,ASIA,Russia,ESB,Snow&Ice
+67,Allgäu,Allgäu,LOC,0.0,0.0,de,6.5,,-1,,,,,,,Snow&Ice
+68,Thüringer Wald,Thüringer Wald,LOC,0.375,0.0,de,6.4,,-1,,,,,,,Snow&Ice
+69,Oberpfalz,Oberpfalz,LOC,0.0625,0.0,de,6.4,,-1,,,,,,,Snow&Ice
+70,Österreichs,Österreichs,LOC,0.1640625,0.234375,de,6.4,,-1,,,,,,,Snow&Ice
+71,Schneeregen,Schneeregen,LOC,0.0,0.0,de,6.4,,-1,,,,,,,Snow&Ice
+72,Wasserkuppe,Wasserkuppe,LOC,-0.140625,0.078125,de,6.4,,-1,,,,,,,Snow&Ice
+73,Willingen,Willingen,LOC,0.359375,0.0,de,6.4,7611371-1,2862720,X,50.7727,11.036749,EUROPE,Germany,WCE,Snow&Ice
+74,Hessens,Hessens,LOC,-0.03125,0.078125,de,6.4,,-1,,,,,,,Snow&Ice
+75,Leipzig,Leipzig,LOC,0.2734375,0.078125,de,6.4,4035206-7,2879139,X,51.339444,12.371111,EUROPE,Germany,WCE,Snow&Ice
+76,Ludwigsburg,Ludwigsburg,LOC,-0.23333333,0.0,de,6.0,4036469-0,2875392,X,48.897309,9.19161,EUROPE,Germany,WCE,Snow&Ice
+80,Ukraine,Ukraine,LOC,-0.35087719,0.0,de,5.7,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Snow&Ice
+79,Anmarsch,Anmarsch,LOC,0.0,0.0,de,5.7,,-1,,,,,,,Snow&Ice
+78,Mitteldeutschland,Mitteldeutschland,LOC,0.1754386,0.35087719,de,5.7,,-1,,,,,,,Snow&Ice
+77,lsw,lsw,LOC,0.11403509,0.0,de,5.7,,-1,,,,,,,Snow&Ice
+81,China,China,LOC,0.625,0.0,de,5.6,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Snow&Ice
+83,Feldberg,Feldberg,LOC,-0.33035714,0.53571429,de,5.6,,-1,,,,,,,Snow&Ice
+84,Nebel,Nebel,LOC,-0.0625,0.26785714,de,5.6,,-1,,,,,,,Snow&Ice
+82,Schweiz,Schweiz,LOC,0.125,0.0,de,5.6,,-1,,,,,,,Snow&Ice
+91,Stuttgart,Stuttgart,LOC,0.06363636,0.0,de,5.5,4058282-6,2825297,X,48.782222,9.176944,EUROPE,Germany,WCE,Snow&Ice
+96,Staus,Staus,LOC,0.25454545,0.0,de,5.5,,-1,,,,,,,Snow&Ice
+95,Niederbayern,Niederbayern,LOC,0.00909091,0.27272727,de,5.5,,-1,,,,,,,Snow&Ice
+94,Sturm,Sturm,LOC,-0.12727273,0.0,de,5.5,,-1,,,,,,,Snow&Ice
+93,Silvesternacht,Silvesternacht,LOC,-0.18181818,0.0,de,5.5,,-1,,,,,,,Snow&Ice
+92,Tag,Tag,LOC,-0.1,0.0,de,5.5,,-1,,,,,,,Snow&Ice
+90,Rutschpartien,Rutschpartien,LOC,-0.6,0.18181818,de,5.5,,-1,,,,,,,Snow&Ice
+88,Winterdienste,Winterdienste,LOC,0.18181818,0.72727273,de,5.5,,-1,,,,,,,Snow&Ice
+87,Tirol,Tirol,LOC,0.25454545,0.18181818,de,5.5,4060207-2,2763586,X,47.25,11.33333,EUROPE,Austria,WCE,Snow&Ice
+86,sn,sn,LOC,0.16277056,0.0,de,5.5,,-1,,,,,,,Snow&Ice
+85,Morgenstunden,Morgenstunden,LOC,0.0,0.0,de,5.5,,-1,,,,,,,Snow&Ice
+89,Mittelgebirge,Mittelgebirge,LOC,0.12727273,0.0,de,5.5,,-1,,,,,,,Snow&Ice
+97,Schüssen,Schüssen,LOC,-0.14,0.0,de,5.0,,-1,,,,,,,Snow&Ice
+99,Temperaturen,Temperaturen,LOC,-0.24468085,0.21276596,de,4.7,,-1,,,,,,,Snow&Ice
+98,Orkanböen,Orkanböen,LOC,-0.65957447,0.0,de,4.7,,-1,,,,,,,Snow&Ice
+100,Winterwetter,Winterwetter,LOC,0.30434783,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+109,Glatteisgefahr,Glatteisgefahr,LOC,-0.15217391,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+115,Dresden,Dresden,LOC,0.0931677,0.0,de,4.6,4012995-0,2935022,X,51.05089,13.738319,EUROPE,Germany,WCE,Snow&Ice
+114,Sprühregen,Sprühregen,LOC,-0.15217391,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+113,Potsdam,Potsdam,LOC,0.30434783,0.0,de,4.6,4046948-7,2852458,X,52.398859,13.065659,EUROPE,Germany,WCE,Snow&Ice
+112,Straßenmeistereien,Straßenmeistereien,LOC,0.2173913,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+111,Niederösterreich,Niederösterreich,LOC,0.2173913,0.0,de,4.6,4075391-8,2770542,X,48.333329,15.75,EUROPE,Austria,WCE,Snow&Ice
+110,Oberharz,Oberharz,LOC,0.0,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+108,Wien,Wien,LOC,0.36956522,0.0,de,4.6,4066009-6,2761367,X,48.208199,16.37169,EUROPE,Austria,WCE,Snow&Ice
+101,Amsterdam,Amsterdam,LOC,0.0,0.2173913,de,4.6,4001783-7,2759794,X,52.374029,4.889689,EUROPE,The Netherlands,NEU,Snow&Ice
+107,Minusgrade,Minusgrade,LOC,-0.15217391,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+106,Süddeutschland,Süddeutschland,LOC,0.15217391,0.07246377,de,4.6,,-1,,,,,,,Snow&Ice
+105,Flughafen München,Flughafen München,LOC,0.0,0.43478261,de,4.6,,-1,,,,,,,Snow&Ice
+104,Brandenburgs,Brandenburgs,LOC,0.45652174,0.2173913,de,4.6,,-1,,,,,,,Snow&Ice
+103,Thüringens,Thüringens,LOC,0.15217391,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+102,Glätte,Glätte,LOC,0.0,0.0,de,4.6,,-1,,,,,,,Snow&Ice
+118,Tibet,Tibet,LOC,-0.25,0.0,de,4.0,,-1,,,,,,,Snow&Ice
+117,Osthangs,Osthangs,LOC,0.0,0.0,de,4.0,,-1,,,,,,,Snow&Ice
+116,Himalaya-Region,Himalaya-Region,LOC,0.0,0.0,de,4.0,,-1,,,,,,,Snow&Ice
+119,Kaltfront,Kaltfront,LOC,-0.08974359,0.12820513,de,3.9,,-1,,,,,,,Snow&Ice
+120,Europas,Europas,LOC,0.0,0.0,de,3.8,,-1,,,,,,,Snow&Ice
+121,Himalaya,Himalaya,LOC,0.52631579,0.0,de,3.8,,-1,,,,,,,Snow&Ice
+140,Autobahn 93,Autobahn 93,LOC,0.0,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+141,Sonne am Tag,Sonne am Tag,LOC,0.0,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+142,Europa,Europa,LOC,1.08108108,0.0,de,3.7,4015701-5,6255148,X,48.690959,9.14062,EUROPE,Germany,WCE,Snow&Ice
+143,Notstand,Notstand,LOC,-0.18918919,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+144,A7,A7,LOC,1.08108108,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+145,Thüringer,Thüringer,LOC,0.18918919,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+146,MV,MV,LOC,0.37837838,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+147,Salzburger,Salzburger,LOC,0.09459459,0.40540541,de,3.7,,-1,,,,,,,Snow&Ice
+139,Klagenfurt,Klagenfurt,LOC,0.37837838,0.0,de,3.7,4030921-6,2774326,X,46.624722,14.305277,EUROPE,Austria,WCE,Snow&Ice
+149,Baden-Württembergs,Baden-Württembergs,LOC,-0.18918919,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+150,Glättegefahr,Glättegefahr,LOC,0.0,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+151,A93,A93,LOC,-0.27027027,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+152,Hochlagen,Hochlagen,LOC,0.27027027,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+153,lrs,lrs,LOC,-0.40540541,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+154,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.72972973,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+148,Pongau,Pongau,LOC,0.28378378,0.13513514,de,3.7,,-1,,,,,,,Snow&Ice
+137,A1,A1,LOC,-0.37837838,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+138,Salzburg,Salzburg,LOC,0.56756757,0.0,de,3.7,4076982-3,2766824,X,47.799166,13.043888,EUROPE,Austria,WCE,Snow&Ice
+128,Schneeflocken,Schneeflocken,LOC,-0.56756757,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+122,Braunlage,Braunlage,LOC,0.0,0.0,de,3.7,4008060-2,2945055,X,51.726509,10.6109,EUROPE,Germany,WCE,Snow&Ice
+123,Autobahn 1,Autobahn 1,LOC,-1.08108108,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+124,Sonntag Glatteis,Sonntag Glatteis,LOC,-0.81081081,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+125,Freistaat Winterwetter,Freistaat Winterwetter,LOC,-0.37837838,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+126,Hessens Bergen,Hessens Bergen,LOC,-0.13513514,0.13513514,de,3.7,,-1,,,,,,,Snow&Ice
+127,Oberbayern,Oberbayern,LOC,0.09459459,0.13513514,de,3.7,,-1,,,,,,,Snow&Ice
+129,den USA,den USA,LOC,-0.04054054,0.54054054,de,3.7,,-1,,,,,,,Snow&Ice
+136,Startlöchern,Startlöchern,LOC,0.0,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+130,Hessens Berge,Hessens Berge,LOC,0.0,0.81081081,de,3.7,,-1,,,,,,,Snow&Ice
+131,Hildesheim,Hildesheim,LOC,-0.60810811,0.0,de,3.7,4024881-1,2904789,X,52.150555,9.951111,EUROPE,Germany,WCE,Snow&Ice
+132,Erbeskopf,Erbeskopf,LOC,0.0,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+133,Lausitz,Lausitz,LOC,-0.18918919,0.0,de,3.7,,-1,,,,,,,Snow&Ice
+134,Weihnachten,Weihnachten,LOC,0.09459459,0.40540541,de,3.7,,-1,,,,,,,Snow&Ice
+135,Eisregen,Eisregen,LOC,0.03153153,0.22522523,de,3.7,,-1,,,,,,,Snow&Ice
+156,Westchinas,Westchinas,LOC,-0.23333333,0.0,de,3.0,,-1,,,,,,,Snow&Ice
+157,Razzia,Razzia,LOC,0.0,0.0,de,3.0,,-1,,,,,,,Snow&Ice
+155,Hochkönig,Hochkönig,LOC,0.0,0.33333333,de,3.0,,-1,,,,,,,Snow&Ice
+159,Niedersachsens,Niedersachsens,LOC,0.0,0.68965517,de,2.9,,-1,,,,,,,Snow&Ice
+160,Alpenrand,Alpenrand,LOC,0.0,0.0,de,2.9,,-1,,,,,,,Snow&Ice
+158,Spätherbst,Spätherbst,LOC,0.0,0.0,de,2.9,,-1,,,,,,,Snow&Ice
+199,Kärntner,Kärntner,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+204,Innsbruck,Innsbruck,LOC,0.5,0.35714286,de,2.8,4027096-8,2775220,X,47.2625,11.394444,EUROPE,Austria,WCE,Snow&Ice
+203,Schneekanonen,Schneekanonen,LOC,0.0,0.71428571,de,2.8,,-1,,,,,,,Snow&Ice
+202,Emsland,Emsland,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+201,Nordrhein-Westfalens,Nordrhein-Westfalens,LOC,0.125,0.53571429,de,2.8,,-1,,,,,,,Snow&Ice
+200,Pinzgau,Pinzgau,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+216,Oberösterreich,Oberösterreich,LOC,0.10714286,0.0,de,2.8,4075560-5,2769848,X,48.25,14.0,EUROPE,Austria,WCE,Snow&Ice
+198,Südschwarzwald,Südschwarzwald,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+206,Land,Land,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+197,Hochschwarzwald,Hochschwarzwald,LOC,0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+196,Erde,Erde,LOC,0.0,0.28571429,de,2.8,,-1,,,,,,,Snow&Ice
+195,Rhein-Main,Rhein-Main,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+194,Einschränkungen,Einschränkungen,LOC,0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+205,Los Angeles,Los Angeles,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+209,Fichtelberg,Fichtelberg,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+207,Oberhof,Oberhof,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+208,Rodelspaß,Rodelspaß,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+191,Hamburger S-Bahn,Hamburger S-Bahn,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+210,Dec,Dec,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+211,Pariser,Pariser,LOC,-0.71428571,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+212,Hessen Offenbach,Hessen Offenbach,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+213,Nord-,Nord-,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+214,Wochenende,Wochenende,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+215,Landkreis Heidenheim,Landkreis Heidenheim,LOC,0.35714286,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+217,Winters,Winters,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+218,Hauser Kaibling,Hauser Kaibling,LOC,0.60714286,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+219,Torfhaus,Torfhaus,LOC,0.0,0.0,de,2.8,1139848631,2821822,X,51.801111,10.537222,EUROPE,Germany,WCE,Snow&Ice
+220,Formentera,Formentera,LOC,-0.125,0.29761905,de,2.8,,-1,,,,,,,Snow&Ice
+192,Flughafen,Flughafen,LOC,-0.53571429,0.53571429,de,2.8,,-1,,,,,,,Snow&Ice
+193,Schneeverwehungen,Schneeverwehungen,LOC,0.0,0.35714286,de,2.8,,-1,,,,,,,Snow&Ice
+190,Brand,Brand,LOC,0.71428571,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+175,Bürserberg,Bürserberg,LOC,0.0,0.0,de,2.8,4527842-8,7580215,X,47.146439,9.777359,EUROPE,Austria,WCE,Snow&Ice
+161,Ostküstenmetropole New York,Ostküstenmetropole New York,LOC,-0.46428571,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+162,Schnees,Schnees,LOC,0.0,1.07142857,de,2.8,,-1,,,,,,,Snow&Ice
+163,Florida,Florida,LOC,-0.35714286,0.0,de,2.8,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Snow&Ice
+164,Potsdamer Platz,Potsdamer Platz,LOC,0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+165,Schwarzwald,Schwarzwald,LOC,0.0,0.71428571,de,2.8,,-1,,,,,,,Snow&Ice
+166,Vorarlberger,Vorarlberger,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+167,Schmitten,Schmitten,LOC,-0.42857143,0.17857143,de,2.8,,-1,,,,,,,Snow&Ice
+168,Oberkärnten,Oberkärnten,LOC,0.0,0.71428571,de,2.8,,-1,,,,,,,Snow&Ice
+169,Hansestadt,Hansestadt,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+170,Salzburger Land,Salzburger Land,LOC,0.33333333,0.0,de,2.8,4051423-7,2766823,X,47.41667,13.25,EUROPE,Austria,WCE,Snow&Ice
+171,d…,d…,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+189,Dauerfrost,Dauerfrost,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+173,Wintermodus,Wintermodus,LOC,-0.125,0.17857143,de,2.8,,-1,,,,,,,Snow&Ice
+174,Portal Flightaware,Portal Flightaware,LOC,-0.17857143,0.17857143,de,2.8,,-1,,,,,,,Snow&Ice
+172,Oder,Oder,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+176,Schwäbischen Alb,Schwäbischen Alb,LOC,0.29464286,0.08928571,de,2.8,,-1,,,,,,,Snow&Ice
+183,Maxhütte-Haidhof,Maxhütte-Haidhof,LOC,0.0,0.0,de,2.8,4038071-3,2872670,X,49.199629,12.09229,EUROPE,Germany,WCE,Snow&Ice
+188,Mittelhessen,Mittelhessen,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+187,Arlberg,Arlberg,LOC,0.10714286,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+177,Bodennähe,Bodennähe,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+185,Haus,Haus,LOC,0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+184,Brandenburgs Straßenmeistereien,Brandenburgs Straßenmeistereien,LOC,0.0,1.07142857,de,2.8,,-1,,,,,,,Snow&Ice
+186,Ostwestfalen-Lippe,Ostwestfalen-Lippe,LOC,0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+182,lhe,lhe,LOC,0.0,0.35714286,de,2.8,,-1,,,,,,,Snow&Ice
+181,Oldenburg,Oldenburg,LOC,-0.25,0.0,de,2.8,4043457-6,2857458,X,53.141111,8.214444,EUROPE,Germany,NEU,Snow&Ice
+180,Wetter-Mix,Wetter-Mix,LOC,0.0,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+179,Winter-Chaos,Winter-Chaos,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Snow&Ice
+178,Nepal,Nepal,LOC,-0.25,0.0,de,2.8,4041612-4,1282988,X,28.0,84.0,ASIA,Nepal,TIB,Snow&Ice
+221,Nordsee,Nordsee,LOC,-0.13043478,0.0,de,2.3,,-1,,,,,,,Snow&Ice
+229,Wetterwoche,Wetterwoche,LOC,0.5,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+235,Mallnitz,Mallnitz,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+234,Rettungsaktion,Rettungsaktion,LOC,1.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+233,Schmutz,Schmutz,LOC,0.15,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+232,Chinas,Chinas,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+231,Tür,Tür,LOC,0.35,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+230,Basislager,Basislager,LOC,-0.7,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+236,Gartenliebhaber,Gartenliebhaber,LOC,-1.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+228,Peking,Peking,LOC,0.0,0.0,de,2.0,4075971-4,1816670,X,39.9075,116.397222,ASIA,China,EAS,Snow&Ice
+226,Bietigheim-Bissingen,Bietigheim-Bissingen,LOC,-0.35,0.0,de,2.0,4006554-6,2949012,X,48.94407,9.117549,EUROPE,Germany,WCE,Snow&Ice
+225,Rettung am Reinersberg,Rettung am Reinersberg,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+224,Provinz Qinghai,Provinz Qinghai,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+223,Schnee-Drama,Schnee-Drama,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+222,T…,T…,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+227,Olympiapark,Olympiapark,LOC,0.35,0.0,de,2.0,,-1,,,,,,,Snow&Ice
+344,Markgräfler Land,Markgräfler Land,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+337,Tiroler,Tiroler,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+338,Dolomiten,Dolomiten,LOC,-1.05263158,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+339,L…,L…,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+340,Nordseeküste,Nordseeküste,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+341,Zugreisende,Zugreisende,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+342,Oberschwaben,Oberschwaben,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+343,Nassfeld,Nassfeld,LOC,0.89473684,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+347,Sonntagnachmittag,Sonntagnachmittag,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+345,US-Bundesstaat Kalifornien,US-Bundesstaat Kalifornien,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+346,Steiermark,Steiermark,LOC,0.36842105,0.0,de,1.9,4057092-7,2764581,X,47.25,15.166669,EUROPE,Austria,WCE,Snow&Ice
+335,Wintersturm,Wintersturm,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+348,Schneefallgrenze,Schneefallgrenze,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+349,Starkregen,Starkregen,LOC,-1.05263158,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+350,BVG,BVG,LOC,-0.89473684,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+351,Eisregen-Walze,Eisregen-Walze,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+352,Streusalz-Alternativen,Streusalz-Alternativen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+336,Berchtesgadener Land,Berchtesgadener Land,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+331,Mittelfranken,Mittelfranken,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+334,Ostdeutschland,Ostdeutschland,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+323,Kurzes Wintergastspiel,Kurzes Wintergastspiel,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+354,Ranstadt,Ranstadt,LOC,-0.36842105,0.0,de,1.9,4048409-9,2850425,X,50.35,8.98333,EUROPE,Germany,WCE,Snow&Ice
+317,Strahlende Wintersonne,Strahlende Wintersonne,LOC,0.89473684,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+318,Lawinengefahr,Lawinengefahr,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+319,Sony Center,Sony Center,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+320,Nieselregen,Nieselregen,LOC,0.89473684,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+321,Sulzberg,Sulzberg,LOC,0.0,0.0,de,1.9,4118889-5,2824787,X,47.66033,10.349909,EUROPE,Germany,WCE,Snow&Ice
+322,Hochhäderich,Hochhäderich,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+324,Verkehrsproblemen,Verkehrsproblemen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+333,Wintermontur,Wintermontur,LOC,0.0,1.05263158,de,1.9,,-1,,,,,,,Snow&Ice
+325,Hövelhof,Hövelhof,LOC,0.24561404,0.1754386,de,1.9,4025447-1,2898364,X,51.81667,8.65,EUROPE,Germany,WCE,Snow&Ice
+326,Zalando,Zalando,LOC,-0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+327,Industriechemikalien,Industriechemikalien,LOC,-1.05263158,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+328,Alb,Alb,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+329,Miniatur-Wunderland-Gründer,Miniatur-Wunderland-Gründer,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+330,Neckargemünd,Neckargemünd,LOC,1.05263158,0.0,de,1.9,4102409-6,2866774,X,49.388989,8.795899,EUROPE,Germany,WCE,Snow&Ice
+332,Niederschläge,Niederschläge,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+353,Bayerischen Wald,Bayerischen Wald,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+315,Rhein-Main-Liveblog,Rhein-Main-Liveblog,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+355,Crans-Montana,Crans-Montana,LOC,-0.36842105,0.0,de,1.9,4275008-8,6559506,X,46.313055,7.478888,EUROPE,Switzerland,WCE,Snow&Ice
+385,Potsdam/Berlin,Potsdam/Berlin,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+378,Fahrbahn,Fahrbahn,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+379,Winterwochenende,Winterwochenende,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+380,Tübingen,Tübingen,LOC,0.0,0.0,de,1.9,4061147-4,2820860,X,48.52266,9.05222,EUROPE,Germany,WCE,Snow&Ice
+381,Zermatt,Zermatt,LOC,0.0,0.0,de,1.9,4108981-9,2657928,X,46.02,7.748611,EUROPE,Switzerland,WCE,Snow&Ice
+382,Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1.9,4005574-7,2950881,X,47.632359,13.00186,EUROPE,Germany,WCE,Snow&Ice
+383,Ischgl,Ischgl,LOC,0.36842105,0.0,de,1.9,4261861-7,2775183,X,47.012569,10.29179,EUROPE,Austria,WCE,Snow&Ice
+384,Semmering,Semmering,LOC,-0.36842105,0.0,de,1.9,4054504-0,2765170,X,47.633333,15.83,EUROPE,Austria,WCE,Snow&Ice
+386,Bezirk Neunkirchen,Bezirk Neunkirchen,LOC,0.52631579,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+376,Brandenburgs Winterdienst,Brandenburgs Winterdienst,LOC,0.36842105,0.52631579,de,1.9,,-1,,,,,,,Snow&Ice
+387,Oberlausitz,Oberlausitz,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+388,türkisblaues Meer,türkisblaues Meer,LOC,-1.05263158,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+389,Dreikönigstag,Dreikönigstag,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+390,Plätzchen,Plätzchen,LOC,-0.10526316,0.35087719,de,1.9,,-1,,,,,,,Snow&Ice
+391,Flugausfälle,Flugausfälle,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+392,Panbari,Panbari,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+393,Loser,Loser,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+377,Wintersaison,Wintersaison,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+375,Sonnenschein,Sonnenschein,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+356,gefrierender Regen,gefrierender Regen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+364,bayerischen Alpen,bayerischen Alpen,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+357,Sturmtief «Elli,Sturmtief «Elli,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+358,Nordmeer,Nordmeer,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+359,Landeshälfte,Landeshälfte,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+360,Minusbereich,Minusbereich,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+361,Verspätungen,Verspätungen,LOC,-0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+362,Paris,Paris,LOC,0.0,0.0,de,1.9,4044660-8,2988507,X,48.853409,2.3488,EUROPE,France,WCE,Snow&Ice
+363,Hochrhein,Hochrhein,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+365,Berchtesgadener Alpen,Berchtesgadener Alpen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+374,Ermäßigungen,Ermäßigungen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+367,Rutschbahn,Rutschbahn,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+368,Flughafen Berlin Brandenburg,Flughafen Berlin Brandenburg,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+369,Flughafen BER,Flughafen BER,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+370,Verkehrschaos,Verkehrschaos,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+371,New York Schnee,New York Schnee,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+372,Winterwunderland,Winterwunderland,LOC,0.52631579,0.52631579,de,1.9,,-1,,,,,,,Snow&Ice
+373,New Jersey,New Jersey,LOC,0.0,0.0,de,1.9,4042004-8,5101760,X,40.167059,-74.49987,NORTH-AMERICA,United States,ENA,Snow&Ice
+316,Großbritannien,Großbritannien,LOC,0.0,0.0,de,1.9,4022153-2,2635167,X,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Snow&Ice
+366,Weihnachtsfilmen,Weihnachtsfilmen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+314,Reich von Russlands,Reich von Russlands,LOC,0.28947368,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+264,Eiskratzer,Eiskratzer,LOC,-0.18421053,0.78947368,de,1.9,,-1,,,,,,,Snow&Ice
+257,Dienstag,Dienstag,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+258,Rekordkälte an der Ostküste,Rekordkälte an der Ostküste,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+259,Berlin/Potsdam,Berlin/Potsdam,LOC,0.07894737,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+260,Verkehrseinschränkungen,Verkehrseinschränkungen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+261,Kommunen,Kommunen,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+262,Thüringer Skigebieten,Thüringer Skigebieten,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+263,Dauerregen,Dauerregen,LOC,-0.18421053,0.26315789,de,1.9,,-1,,,,,,,Snow&Ice
+237,Tschechien,Tschechien,LOC,0.0,0.0,de,1.9,4303381-7,3077311,X,49.75,15.0,EUROPE,Czechia,WCE,Snow&Ice
+255,Kärnten,Kärnten,LOC,0.36842105,0.0,de,1.9,4029175-3,2774686,X,46.75,13.83333,EUROPE,Austria,WCE,Snow&Ice
+265,Befürchtetes Glättechaos,Befürchtetes Glättechaos,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+267,Gehwegen,Gehwegen,LOC,0.89473684,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+268,Feiertagen,Feiertagen,LOC,0.07894737,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+269,Chancen,Chancen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+270,Slowenien,Slowenien,LOC,0.36842105,0.0,de,1.9,4055302-4,3190538,X,46.25,15.166669,EUROPE,Slovenia,WCE,Snow&Ice
+271,Tauernautobahn,Tauernautobahn,LOC,0.18421053,0.26315789,de,1.9,,-1,,,,,,,Snow&Ice
+272,Jilin,Jilin,LOC,0.0,0.0,de,1.9,4342897-6,2036502,X,43.85083,126.56028,ASIA,China,EAS,Snow&Ice
+256,Schockstarre,Schockstarre,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+254,Kanada,Kanada,LOC,0.44736842,0.0,de,1.9,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Snow&Ice
+274,Schneegriesel,Schneegriesel,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+244,Celsius,Celsius,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+313,Komfort,Komfort,LOC,0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+238,Weißröckchen,Weißröckchen,LOC,-0.18421053,0.26315789,de,1.9,,-1,,,,,,,Snow&Ice
+239,Mainz,Mainz,LOC,0.36842105,0.0,de,1.9,4037124-4,2874225,X,49.984166,8.278888,EUROPE,Germany,WCE,Snow&Ice
+240,Köhlbrandbrücke,Köhlbrandbrücke,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+241,Ski-Saison,Ski-Saison,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+242,’s,’s,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+243,Zugausfälle,Zugausfälle,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+245,Schneeflöckchen,Schneeflöckchen,LOC,-0.18421053,0.26315789,de,1.9,,-1,,,,,,,Snow&Ice
+253,Franken,Franken,LOC,-0.89473684,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+246,Volleinsatz,Volleinsatz,LOC,0.0,0.52631579,de,1.9,,-1,,,,,,,Snow&Ice
+247,Buëch-Dévoluy,Buëch-Dévoluy,LOC,-0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+248,Straße,Straße,LOC,-0.09210526,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+249,Südosteuropa,Südosteuropa,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+250,Dokumentationen,Dokumentationen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+251,st…,st…,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+252,feucht-kühl,feucht-kühl,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+273,Skibetrieb,Skibetrieb,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+266,Glättechaos,Glättechaos,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+275,milder,milder,LOC,-0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+294,Mailand,Mailand,LOC,0.0,0.0,de,1.9,4037100-1,3173435,X,45.464269,9.18951,EUROPE,Italy,WCE,Snow&Ice
+296,Hannover,Hannover,LOC,0.89473684,0.0,de,1.9,4023349-2,2910831,X,52.370277,9.733055,EUROPE,Germany,WCE,Snow&Ice
+297,Flughafen Schiphol,Flughafen Schiphol,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+298,Streumittel,Streumittel,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+299,Schneechaos,Schneechaos,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+300,Niederlande,Niederlande,LOC,0.0,0.0,de,1.9,4042203-3,2750405,X,52.5,5.75,EUROPE,The Netherlands,NEU,Snow&Ice
+301,Park Sanssouci,Park Sanssouci,LOC,0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+276,Tiefdruckeinfluss,Tiefdruckeinfluss,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+303,Trab,Trab,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+304,Wetter-Vorhersage,Wetter-Vorhersage,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+305,Rekordhöhe,Rekordhöhe,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+306,Würzburg,Würzburg,LOC,-0.36842105,0.0,de,1.9,4067037-5,2805615,X,49.787779,9.936109,EUROPE,Germany,WCE,Snow&Ice
+307,Lösungen,Lösungen,LOC,-0.52631579,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+308,Rhein,Rhein,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+309,Nebenflüssen,Nebenflüssen,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+310,Glatteises,Glatteises,LOC,0.0,1.05263158,de,1.9,,-1,,,,,,,Snow&Ice
+311,lnw,lnw,LOC,-0.18421053,0.26315789,de,1.9,,-1,,,,,,,Snow&Ice
+312,Neuschnee,Neuschnee,LOC,-0.73684211,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+295,Amsterdamer Flughafen Schiphol,Amsterdamer Flughafen Schiphol,LOC,0.12280702,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+302,Kürten,Kürten,LOC,0.36842105,0.0,de,1.9,4098791-7,2882318,X,51.049999,7.26667,EUROPE,Germany,WCE,Snow&Ice
+293,Donau,Donau,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+292,Schnee-Spaß,Schnee-Spaß,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+278,Silbersattel,Silbersattel,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+279,Bregenz,Bregenz,LOC,0.73684211,0.0,de,1.9,4008099-7,2781503,X,47.503109,9.747099,EUROPE,Austria,WCE,Snow&Ice
+280,Barentssee,Barentssee,LOC,-0.18421053,0.78947368,de,1.9,,-1,,,,,,,Snow&Ice
+281,Graz,Graz,LOC,0.73684211,0.0,de,1.9,4021912-4,2778067,X,47.066666,15.45,EUROPE,Austria,WCE,Snow&Ice
+282,Kusel,Kusel,LOC,0.0,0.0,de,1.9,4033862-9,2882265,X,49.53772,7.40472,EUROPE,Germany,WCE,Snow&Ice
+277,Düsseldorf,Düsseldorf,LOC,-0.18421053,0.26315789,de,1.9,4013255-9,2934246,X,51.221719,6.77616,EUROPE,Germany,WCE,Snow&Ice
+283,Kreis Kusel,Kreis Kusel,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+284,Bodensee,Bodensee,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+285,Kaltfront Brandenburg,Kaltfront Brandenburg,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+286,Sauerlands,Sauerlands,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+287,Weiße Weihnachten,Weiße Weihnachten,LOC,0.0,0.52631579,de,1.9,,-1,,,,,,,Snow&Ice
+288,Jahrzehnten,Jahrzehnten,LOC,0.36842105,0.52631579,de,1.9,,-1,,,,,,,Snow&Ice
+289,Niederlausitz,Niederlausitz,LOC,0.0,0.0,de,1.9,4042205-7,2880011,X,51.513129,13.347739,EUROPE,Germany,WCE,Snow&Ice
+290,Hoch Sieglinde,Hoch Sieglinde,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Snow&Ice
+291,Annaberg,Annaberg,LOC,0.36842105,0.0,de,1.9,4085813-3,2956005,X,50.579444,13.6111,EUROPE,Czechia,WCE,Snow&Ice
+396,Schulgesetz,Schulgesetz,LOC,0.0,2.30769231,de,1.3,,-1,,,,,,,Snow&Ice
+395,Frankfurter Messe,Frankfurter Messe,LOC,0.0,0.0,de,1.3,,-1,,,,,,,Snow&Ice
+394,Friedrich-Ebert-Anlage,Friedrich-Ebert-Anlage,LOC,0.0,0.0,de,1.3,,-1,,,,,,,Snow&Ice
+398,Donnerstag,Donnerstag,LOC,-0.375,0.0,de,1.2,,-1,,,,,,,Snow&Ice
+399,Regenschauer,Regenschauer,LOC,0.0,0.0,de,1.2,,-1,,,,,,,Snow&Ice
+400,Herbststurm,Herbststurm,LOC,0.0,0.0,de,1.2,,-1,,,,,,,Snow&Ice
+401,Frankfurt,Frankfurt,LOC,1.41666667,0.0,de,1.2,,-1,,,,,,,Snow&Ice
+402,Orkanartige Böen,Orkanartige Böen,LOC,-1.75,0.0,de,1.2,,-1,,,,,,,Snow&Ice
+403,Uber Arena,Uber Arena,LOC,0.41666667,0.41666667,de,1.2,,-1,,,,,,,Snow&Ice
+397,Gelnhausen,Gelnhausen,LOC,-0.27777778,0.0,de,1.2,4019945-9,2921473,X,50.201639,9.187419,EUROPE,Germany,WCE,Snow&Ice
+418,Fuldatal,Fuldatal,LOC,-0.3030303,0.0,de,1.1,4018865-6,2923815,X,51.38333,9.56667,EUROPE,Germany,WCE,Snow&Ice
+415,Oberrheingraben,Oberrheingraben,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+416,St. Anton,St. Anton,LOC,-0.31818182,1.36363636,de,1.1,,-1,,,,,,,Snow&Ice
+417,Herr Ebel,Herr Ebel,LOC,-1.27272727,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+413,Kultfilms,Kultfilms,LOC,1.27272727,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+419,Rheinland,Rheinland,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+420,Friedrichshain,Friedrichshain,LOC,0.45454545,0.45454545,de,1.1,,-1,,,,,,,Snow&Ice
+421,Freistaat Wind,Freistaat Wind,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+414,Nächtigungszahlen,Nächtigungszahlen,LOC,1.81818182,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+407,Zermatter Bergbahnen,Zermatter Bergbahnen,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+412,Skireisen,Skireisen,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+410,Ost-,Ost-,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+409,Mittelmeerraum,Mittelmeerraum,LOC,-1.81818182,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+408,Hochpreis-Image,Hochpreis-Image,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+406,Wilhelmshaven,Wilhelmshaven,LOC,-0.90909091,0.0,de,1.1,4066173-8,2808720,X,53.52998,8.112529,EUROPE,Germany,NEU,Snow&Ice
+405,der Schweiz,der Schweiz,LOC,-1.81818182,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+411,Gletscher,Gletscher,LOC,0.0,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+404,Herbstferien,Herbstferien,LOC,0.63636364,0.0,de,1.1,,-1,,,,,,,Snow&Ice
+839,Kernelement,Kernelement,LOC,-2.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+834,Buchungsplattform Holidu,Buchungsplattform Holidu,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+835,plöt­zen­see,plöt­zen­see,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+887,B311,B311,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+836,Bergen ins Herz der Stadt,Bergen ins Herz der Stadt,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+837,Tag am See,Tag am See,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+838,Garten,Garten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+843,französi…,französi…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+840,Matrashauses,Matrashauses,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+841,Wolken-Nebel-Mix,Wolken-Nebel-Mix,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+842,Skirollerskates,Skirollerskates,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+832,fo­to­gra­fiert,fo­to­gra­fiert,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+844,Schneemangel,Schneemangel,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+845,Berliner Sonne,Berliner Sonne,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+846,Geldhahn,Geldhahn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+847,Playa de Palma,Playa de Palma,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+833,see­en­de,see­en­de,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+829,Landesgericht St. Pölten,Landesgericht St. Pölten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+831,Weinlese,Weinlese,LOC,0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+821,Imst,Imst,LOC,0.7,0.0,de,1.0,4026692-8,2775307,X,47.245,10.739722,EUROPE,Austria,WCE,Snow&Ice
+814,Atlantik,Atlantik,LOC,-0.7,0.0,de,1.0,4003388-0,3373405,X,10.0,-25.0,ATLANTIC,,NAO,Snow&Ice
+815,Joshua,Joshua,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+816,Erzgebirgskreis,Erzgebirgskreis,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+817,Dagebüll,Dagebüll,LOC,0.0,0.0,de,1.0,4104277-3,2939489,X,54.72928,8.700829,EUROPE,Germany,NEU,Snow&Ice
+818,Hitze,Hitze,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+819,Weltraumspiegel,Weltraumspiegel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+820,Tirols Bergen,Tirols Bergen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+822,Vogtland,Vogtland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+830,Chile,Chile,LOC,0.0,0.0,de,1.0,4009929-5,3895114,X,-30.0,-71.0,SOUTH-AMERICA,Chile,SWS,Snow&Ice
+823,Reutte,Reutte,LOC,0.0,0.0,de,1.0,4049661-2,2767511,X,47.48333,10.71667,EUROPE,Austria,WCE,Snow&Ice
+824,Gewalttat in Maintal +++ Friedensbrücke,Gewalttat in Maintal +++ Friedensbrücke,LOC,0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+825,Weihnachtsmarkt,Weihnachtsmarkt,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+826,Schnee-Garantie,Schnee-Garantie,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+827,Weihnachtsmarkt Schneeflocken,Weihnachtsmarkt Schneeflocken,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+828,Wandsbeker Winterzauber,Wandsbeker Winterzauber,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+849,Bergnot,Bergnot,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+848,Ballermann,Ballermann,LOC,0.7,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+852,Burschen,Burschen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+850,Auernig,Auernig,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+879,bergen,bergen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+872,Arlberg-Schnellstraße,Arlberg-Schnellstraße,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+873,Lebensgefahr,Lebensgefahr,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+874,Frankenwald,Frankenwald,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+875,Oberpfälzer Wald,Oberpfälzer Wald,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+876,Freitag los,Freitag los,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+877,Altaussee,Altaussee,LOC,0.0,0.0,de,1.0,4464879-0,2782724,X,47.63844,13.762779,EUROPE,Austria,WCE,Snow&Ice
+878,Bezirk Liezen,Bezirk Liezen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+880,Unfallstellen,Unfallstellen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+851,Bezirk Spittal an der Drau,Bezirk Spittal an der Drau,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+881,Schneefahrbahn,Schneefahrbahn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+882,Schneematsch,Schneematsch,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+883,Inzersdorf,Inzersdorf,LOC,0.0,0.0,de,1.0,4548505-7,2775204,X,48.15028,16.34722,EUROPE,Austria,WCE,Snow&Ice
+884,Salzburgs,Salzburgs,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+885,Tennengau,Tennengau,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+886,Pinzgauer Straße,Pinzgauer Straße,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+812,Temperaturen w…,Temperaturen w…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+871,Immobilieneigentümern,Immobilieneigentümern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+870,Energieversorgers Gasag,Energieversorgers Gasag,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+869,Unfallchirurgen,Unfallchirurgen,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+868,Saalfelden,Saalfelden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+853,Skipiste,Skipiste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+854,Deutsch…,Deutsch…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+855,Alpenraum,Alpenraum,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+856,Urlaub,Urlaub,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+857,Energiesparmodus,Energiesparmodus,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+858,Helikopter,Helikopter,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+859,Todtnau,Todtnau,LOC,0.0,0.0,de,1.0,4227480-1,2821975,X,47.82941,7.9438,EUROPE,Germany,WCE,Snow&Ice
+860,Landwirtschaftskammer Schleswig-Holstein,Landwirtschaftskammer Schleswig-Holstein,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+861,Mitreden,Mitreden,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+862,Königssee,Königssee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+863,Gewalttat in Maintal +++ Liveblog,Gewalttat in Maintal +++ Liveblog,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+864,Roadmap,Roadmap,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+865,Neuschnee-Nachschub,Neuschnee-Nachschub,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+866,Zugspitze,Zugspitze,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+867,stürmische Böen,stürmische Böen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+813,Andermatt-Sedrun,Andermatt-Sedrun,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+760,Unterfranken,Unterfranken,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+811,Weltall,Weltall,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+762,Hesse…,Hesse…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+755,Planai-Hochwurzen-Bahnen,Planai-Hochwurzen-Bahnen,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+756,Lichtblick,Lichtblick,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+757,Leica Galerie Düsseldorf,Leica Galerie Düsseldorf,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+758,höheren Bergland,höheren Bergland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+759,Schneeflocken in Bayern,Schneeflocken in Bayern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+889,Fünf-Minuten-Weg,Fünf-Minuten-Weg,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+761,Brüssel d…,Brüssel d…,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+763,au…,au…,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+753,Turrache…,Turrache…,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+764,Winterberg,Winterberg,LOC,0.0,0.0,de,1.0,4262019-3,2807788,X,51.19248,8.534679,EUROPE,Germany,WCE,Snow&Ice
+765,Baden-Württemberg te,Baden-Württemberg te,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+766,Turnau,Turnau,LOC,0.0,0.0,de,1.0,4495272-7,3063853,X,50.583559,15.151859,EUROPE,Czechia,WCE,Snow&Ice
+767,Steuer,Steuer,LOC,0.175,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+768,Kitzbühel,Kitzbühel,LOC,0.7,0.0,de,1.0,4030895-9,2774347,X,47.44637,12.39215,EUROPE,Austria,WCE,Snow&Ice
+769,Winterliches Deutschland,Winterliches Deutschland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+770,Baden-Württemberg w…,Baden-Württemberg w…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+754,Reiteralm,Reiteralm,LOC,1.0,0.0,de,1.0,4300444-1,2848443,X,47.616666,12.783333,EUROPE,Austria,WCE,Snow&Ice
+752,Kreis Waldeck-Frankenberg,Kreis Waldeck-Frankenberg,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+810,Aussicht,Aussicht,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+742,Glatt,Glatt,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+735,Karwendelbahn,Karwendelbahn,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+736,Pongauer,Pongauer,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+737,A10,A10,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+738,Ampelregelungen,Ampelregelungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+739,Snow Space,Snow Space,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+740,Eiskratzen am Morgen,Eiskratzen am Morgen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+741,November-Wetter,November-Wetter,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+743,Tornados,Tornados,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+751,Straße abge…,Straße abge…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+744,Wasserhosen,Wasserhosen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+745,Winterurlaub,Winterurlaub,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+746,Wolken aufziehe…,Wolken aufziehe…,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+747,Niederungen,Niederungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+748,Tourismusbranche heuer,Tourismusbranche heuer,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+749,Schulbus,Schulbus,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+750,Thallichtenberg,Thallichtenberg,LOC,0.0,0.0,de,1.0,4724965-1,2823052,X,49.56667,7.349999,EUROPE,Germany,WCE,Snow&Ice
+771,Mittelgebirgsraum,Mittelgebirgsraum,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+772,Glätte-Alarm,Glätte-Alarm,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+773,Hessen ge,Hessen ge,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+801,Gewittern,Gewittern,LOC,-2.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+794,Hochfügenerstraße,Hochfügenerstraße,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+795,Zillertal,Zillertal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+796,Bezirk Schwaz,Bezirk Schwaz,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+797,Tirols,Tirols,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+798,Gebirgsregionen,Gebirgsregionen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+799,Irawan,Irawan,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+800,Wathosen,Wathosen,LOC,0.23333333,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+802,Saisonstart,Saisonstart,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+774,Schwabenbergarena,Schwabenbergarena,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+803,Katschberg,Katschberg,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+804,Ärmelkanal,Ärmelkanal,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+805,Bretagne,Bretagne,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+806,Alpengipfeln,Alpengipfeln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+807,Bayerische Wald,Bayerische Wald,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+808,Wälder,Wälder,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+809,Schwarzwalde…,Schwarzwalde…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+793,Montagnachmittag,Montagnachmittag,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+792,Kamin,Kamin,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+791,Sachs…,Sachs…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+790,Skipass,Skipass,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+775,Samstagmorgen,Samstagmorgen,LOC,0.0,0.33333333,de,1.0,,-1,,,,,,,Snow&Ice
+776,Werratal,Werratal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+777,Wintersports,Wintersports,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+778,Hahntennjoch,Hahntennjoch,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+779,Gewehe,Gewehe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+780,ARKOCHIC,ARKOCHIC,LOC,1.4,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+781,Brocken,Brocken,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+782,Insassen,Insassen,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+783,Kaunertal,Kaunertal,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+784,Straßenrand,Straßenrand,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+785,Beifahrer,Beifahrer,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+786,Herren-Riesentorlaufs,Herren-Riesentorlaufs,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+787,Sölden am Sonntag,Sölden am Sonntag,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+788,Offenbach/Poppenhausen,Offenbach/Poppenhausen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+789,Anhalt,Anhalt,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+888,Spiegelglatte,Spiegelglatte,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+942,Westösterreich,Westösterreich,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+890,Friaul,Friaul,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+997,Altenberg,Altenberg,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+990,Räumfahrzeug,Räumfahrzeug,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+991,Thalfang,Thalfang,LOC,0.0,0.0,de,1.0,4355486-6,3204961,X,49.75,7.0,EUROPE,Germany,WCE,Snow&Ice
+992,anr…,anr…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+993,Straßensperrungen,Straßensperrungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+994,Meinerzhagen,Meinerzhagen,LOC,-0.7,0.0,de,1.0,4038445-7,2872237,X,51.107399,7.64838,EUROPE,Germany,WCE,Snow&Ice
+995,NRW)/Suhl,NRW)/Suhl,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+996,laufen,laufen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+998,sächsischen Bergen,sächsischen Bergen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1007,Di…,Di…,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+999,Sonnenstrahlen,Sonnenstrahlen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1000,Saisonbeginn,Saisonbeginn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1001,Lech,Lech,LOC,0.0,0.0,de,1.0,4111228-3,2772798,X,47.208055,10.141944,EUROPE,Austria,WCE,Snow&Ice
+1002,Wirtschaftskammer Tirol,Wirtschaftskammer Tirol,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1003,Schnee“,Schnee“,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1004,plötzlic…,plötzlic…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1005,Cuxhaven,Cuxhaven,LOC,-0.7,0.0,de,1.0,4010793-0,2939658,X,53.87176,8.69087,EUROPE,,NEU,Snow&Ice
+989,Südschwarzwal…,Südschwarzwal…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+988,Schneeverwehungen im Schwarzwald,Schneeverwehungen im Schwarzwald,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+987,Sachsen-Anhalts,Sachsen-Anhalts,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+986,Infrastrukturministeriums,Infrastrukturministeriums,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+971,Rennsteigregion,Rennsteigregion,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+972,November-Sommer,November-Sommer,LOC,-0.5,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+973,Dresdner,Dresdner,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+974,Super-Vorverkau…,Super-Vorverkau…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+975,Sonntag Schnee,Sonntag Schnee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+976,Temperaturen absacken,Temperaturen absacken,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+977,Tourismusverband Innsbruck,Tourismusverband Innsbruck,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+978,Berufsverkehrs,Berufsverkehrs,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+979,Stunden am Morgen,Stunden am Morgen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+980,Passauer,Passauer,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+981,Wetterbericht,Wetterbericht,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+982,www.zuginfo.nrw,www.zuginfo.nrw,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+983,Arnsberg,Arnsberg,LOC,0.0,0.0,de,1.0,4003007-6,2955471,X,51.38333,8.08333,EUROPE,Germany,WCE,Snow&Ice
+984,Zügen,Zügen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+985,Metern,Metern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1006,Jever,Jever,LOC,-0.7,0.0,de,1.0,4028611-3,2894897,X,53.573611,7.898055,EUROPE,Germany,NEU,Snow&Ice
+1008,DeutschlandsGlatte,DeutschlandsGlatte,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+969,Geschriebenstein,Geschriebenstein,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1036,Brandenburg auf Schnee,Brandenburg auf Schnee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1029,Wochenendes,Wochenendes,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1030,Brande…,Brande…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1031,Land…,Land…,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1032,Ski-Tickets,Ski-Tickets,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1033,Bahngleise,Bahngleise,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1034,Was,Was,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1035,Ulm,Ulm,LOC,0.0,0.0,de,1.0,4061529-7,2820256,X,48.398409,9.99155,EUROPE,Germany,WCE,Snow&Ice
+1037,Zauchensee,Zauchensee,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1009,Nordtirol,Nordtirol,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1038,Himalaja,Himalaja,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1039,Obertauern,Obertauern,LOC,0.7,0.0,de,1.0,4043000-5,2769682,X,47.249609,13.557689,EUROPE,Austria,WCE,Snow&Ice
+1040,Pongau/Lungau,Pongau/Lungau,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1041,Winzern,Winzern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1042,Reifenwechsel,Reifenwechsel,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1043,Dachstein West heu…,Dachstein West heu…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+733,Bundesgerichtshof,Bundesgerichtshof,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1028,Ranstadt-Dauernheim,Ranstadt-Dauernheim,LOC,1.0,0.0,de,1.0,4090921-9,2938726,X,50.3622,8.95608,EUROPE,Germany,WCE,Snow&Ice
+1027,NÖ Bergerlebnispass,NÖ Bergerlebnispass,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1026,Gera,Gera,LOC,-0.7,0.0,de,1.0,4020295-1,2921232,X,50.88029,12.08187,EUROPE,Germany,WCE,Snow&Ice
+1025,Leer,Leer,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1010,Magdeburg/Halle,Magdeburg/Halle,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1011,Blitzeis,Blitzeis,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1012,gefrierenden Regen,gefrierenden Regen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1013,Schneesturm am,Schneesturm am,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1014,Höhengebiet,Höhengebiet,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1015,Winterwetters am Morgen,Winterwetters am Morgen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1016,S1,S1,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1017,S2,S2,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1018,S5,S5,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1019,lby,lby,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1020,Flughäfen,Flughäfen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1021,Flughafen Münche…,Flughafen Münche…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1022,Polizeidienststellen,Polizeidienststellen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1023,Provinzen,Provinzen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+1024,winterlich-kalt,winterlich-kalt,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+970,Thüringer Wald“,Thüringer Wald“,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+968,Bernstein,Bernstein,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+891,Blechschäden,Blechschäden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+918,Poseck,Poseck,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+911,Gefahrenstufen,Gefahrenstufen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+912,Dresden/Magdeburg/Erfurt,Dresden/Magdeburg/Erfurt,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+913,Lawinenprobleme,Lawinenprobleme,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+914,Riesen-Tanne,Riesen-Tanne,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+915,Berlin-Mitte,Berlin-Mitte,LOC,0.0,0.0,de,1.0,4248938-6,2870912,X,52.516669,13.366669,EUROPE,Germany,WCE,Snow&Ice
+916,Land Salzburg,Land Salzburg,LOC,0.0,0.0,de,1.0,4051423-7,2766823,X,47.41667,13.25,EUROPE,Austria,WCE,Snow&Ice
+917,GIeßen,GIeßen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+919,Tauernautobahn heuer,Tauernautobahn heuer,LOC,0.35,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+928,Lagerkomplex,Lagerkomplex,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+920,Oberösterreichs,Oberösterreichs,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+921,Tälern,Tälern,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+922,Polarkreis,Polarkreis,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+923,Krimi-Bestsellers,Krimi-Bestsellers,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+924,Anrede,Anrede,LOC,0.35,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+925,Hattersheim,Hattersheim,LOC,0.0,0.0,de,1.0,4023631-6,2909240,X,50.078539,8.475519,EUROPE,Germany,WCE,Snow&Ice
+926,Millionenschaden,Millionenschaden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+910,Bischofshofen,Bischofshofen,LOC,0.0,0.0,de,1.0,4225515-6,2781735,X,47.41667,13.21667,EUROPE,Austria,WCE,Snow&Ice
+909,Plöckenpass,Plöckenpass,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+908,Monaten,Monaten,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+907,Feldkirch,Feldkirch,LOC,-0.175,0.0,de,1.0,4016680-6,2779674,X,47.23306,9.599999,EUROPE,Austria,WCE,Snow&Ice
+892,Eibenstock,Eibenstock,LOC,0.0,0.0,de,1.0,4235508-4,2932738,X,50.494309,12.59978,EUROPE,Germany,WCE,Snow&Ice
+893,Mecklenburg-Vorpommerns,Mecklenburg-Vorpommerns,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+894,Ha…,Ha…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+895,Folge</li><li,Folge</li><li,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+896,Stürzens</li><li,Stürzens</li><li,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+897,Regensburg,Regensburg,LOC,0.0,0.0,de,1.0,4048989-9,2849483,X,49.015,12.09556,EUROPE,Germany,WCE,Snow&Ice
+898,Berges,Berges,LOC,-0.35,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+899,Mount Everest Region,Mount Everest Region,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+900,tiefwinterlich,tiefwinterlich,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+901,Gailtal,Gailtal,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+902,Furkajochs,Furkajochs,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+903,Furkajoch,Furkajoch,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+904,Bad Laterns,Bad Laterns,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+905,Damüls,Damüls,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+906,Sicherheitsgründen,Sicherheitsgründen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+927,Großbrand,Großbrand,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+929,Schladming-Dachstein,Schladming-Dachstein,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+967,Neusiedler See,Neusiedler See,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+958,Gefährliche Glätte,Gefährliche Glätte,LOC,-0.5,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+951,Sturmböen an der Nordsee,Sturmböen an der Nordsee,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+952,Fichtelberg …,Fichtelberg …,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+953,Bödele,Bödele,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+954,Dornbirn,Dornbirn,LOC,0.0,0.0,de,1.0,4012792-8,2780741,X,47.41667,9.73306,EUROPE,Austria,WCE,Snow&Ice
+955,A3,A3,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+956,Oldenburg/Bremen,Oldenburg/Bremen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+957,Oberpfalz sta,Oberpfalz sta,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+959,Nervenkitzel,Nervenkitzel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+930,Skigebiete Planai,Skigebiete Planai,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+960,Seebliga-Bahn,Seebliga-Bahn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+961,Wochenendbetrieb,Wochenendbetrieb,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+962,Seefelder Straße,Seefelder Straße,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+963,B177,B177,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+964,Zirl,Zirl,LOC,0.0,0.0,de,1.0,4119248-5,2760523,X,47.283329,11.23333,EUROPE,Austria,WCE,Snow&Ice
+965,Burgenlandes heuer,Burgenlandes heuer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+966,Eisenstadt,Eisenstadt,LOC,0.0,0.0,de,1.0,4014087-8,2780190,X,47.845649,16.52327,EUROPE,Austria,WCE,Snow&Ice
+950,besond…,besond…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+949,Glatteisrisiko,Glatteisrisiko,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+948,Offenbach vorhers…,Offenbach vorhers…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+947,Garmisch-Partenkirchen,Garmisch-Partenkirchen,LOC,0.5,0.5,de,1.0,4019275-1,2922530,X,47.492089,11.09576,EUROPE,Germany,WCE,Snow&Ice
+931,Zehner-Gondelbahn,Zehner-Gondelbahn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+932,Achter-Sesselbahn,Achter-Sesselbahn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+933,Indoor-Schneefall,Indoor-Schneefall,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+934,Eisfläche,Eisfläche,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+935,Winter-Wonderland,Winter-Wonderland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+936,Niederösterreichs,Niederösterreichs,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+937,Schneedeckenaufbau,Schneedeckenaufbau,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+938,Vorarlberg,Vorarlberg,LOC,0.0,0.0,de,1.0,4063944-7,2762300,X,47.25,9.916669,EUROPE,Austria,WCE,Snow&Ice
+939,Ostsachsen,Ostsachsen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+940,Oberlausitzer Bergland,Oberlausitzer Bergland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+941,Thüringer Bergland,Thüringer Bergland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+943,Nieder-,Nieder-,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+944,Steiermark …,Steiermark …,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+945,Couch,Couch,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+946,Hittisau,Hittisau,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+734,Arlbergbahn,Arlbergbahn,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+522,Glatteis-Unfälle,Glatteis-Unfälle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+732,IbizaHEUTE,IbizaHEUTE,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+527,lni,lni,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+519,Pichelsberg,Pichelsberg,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+520,Müllabfuhr,Müllabfuhr,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+521,Unwetter-Front,Unwetter-Front,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+523,Bibber-Nächte,Bibber-Nächte,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+524,Moerisch,Moerisch,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+525,Seeboden,Seeboden,LOC,-0.7,0.0,de,1.0,4054100-9,2765286,X,46.821939,13.494999,EUROPE,Austria,WCE,Snow&Ice
+526,Dreikönigstag winterlich,Dreikönigstag winterlich,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+528,Mittelbaden,Mittelbaden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+537,Alpentälern,Alpentälern,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+529,Glatteis-Gefahr,Glatteis-Gefahr,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+530,Landkreis Hameln-Pyrmont Mülltonnen,Landkreis Hameln-Pyrmont Mülltonnen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+531,Lauf-Alternativen,Lauf-Alternativen,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+532,Nordseek…,Nordseek…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+533,TTS-Player,TTS-Player,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+534,Schnee-Chaos,Schnee-Chaos,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+535,Blindenleitstreifen am Boden,Blindenleitstreifen am Boden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+518,Glätteunfällen,Glätteunfällen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+517,Millstätter See,Millstätter See,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+516,Bussen,Bussen,LOC,0.0,0.0,de,1.0,4009216-1,2940702,X,48.16667,9.55,EUROPE,Germany,WCE,Snow&Ice
+515,Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,1.0,4003191-3,2955272,X,49.97704,9.152139,EUROPE,Germany,WCE,Snow&Ice
+500,Brandenburg mild,Brandenburg mild,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+501,Prach…,Prach…,LOC,0.5,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+502,Hamburger Flughafen,Hamburger Flughafen,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+503,Flughafen“,Flughafen“,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+504,Warmwasserziele,Warmwasserziele,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+505,Kanaren,Kanaren,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+506,Ägypten,Ägypten,LOC,0.0,0.0,de,1.0,4000556-2,357994,X,27.0,30.0,AFRICA,Egypt,SAH,Snow&Ice
+507,Arabischen Golf,Arabischen Golf,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+508,Neue Loischkopfbahn,Neue Loischkopfbahn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+509,Loischkopf-Bahn,Loischkopf-Bahn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+510,Bergbahnen Brandnertal,Bergbahnen Brandnertal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+511,Heiligabend,Heiligabend,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+512,Schneefans,Schneefans,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+513,Weihnachtsfeiertagen,Weihnachtsfeiertagen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+514,Republik,Republik,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+536,Flughafen laufe,Flughafen laufe,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+538,Hamburg/Berlin Ein,Hamburg/Berlin Ein,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+498,Nassfeld-Pressegger-See,Nassfeld-Pressegger-See,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+566,Leipzig/Dresden/Chemnitz,Leipzig/Dresden/Chemnitz,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+559,St. Johannes Baptist,St. Johannes Baptist,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+560,Samstagfrüh,Samstagfrüh,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+561,"Sturmtief ""Elli""","Sturmtief ""Elli""",LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+562,"Sturmtief ""Elli","Sturmtief ""Elli",LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+563,Emden,Emden,LOC,0.0,0.0,de,1.0,4014564-5,2930596,X,53.367449,7.207779,EUROPE,Germany,NEU,Snow&Ice
+564,Ostfriesland,Ostfriesland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+565,Wintersportfans,Wintersportfans,LOC,0.42857143,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+567,Sch…,Sch…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+539,hinunterzusausen,hinunterzusausen,LOC,0.0,0.8,de,1.0,,-1,,,,,,,Snow&Ice
+568,Unsicherheiten,Unsicherheiten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+569,Komplikationen,Komplikationen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+570,Extremwetter,Extremwetter,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+571,St. Pauli,St. Pauli,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+572,Bahnfahrgäste,Bahnfahrgäste,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+573,Kreuzfahrtpassagiere,Kreuzfahrtpassagiere,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+574,Elli,Elli,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+558,Unterrichtsausfall,Unterrichtsausfall,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+557,Rekordtempo,Rekordtempo,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+556,Wintersport,Wintersport,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+555,Hannover/Bremen,Hannover/Bremen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+540,Rutschbahnen,Rutschbahnen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+541,Ged…,Ged…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+542,Polizeipräsidien,Polizeipräsidien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+543,Großeinsatz,Großeinsatz,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+544,Polizeireviers Heilbronn,Polizeireviers Heilbronn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+545,Winterferien,Winterferien,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+546,ICE-Züge,ICE-Züge,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+547,Köln-Hannover-Berlin,Köln-Hannover-Berlin,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+548,Wintereinbruc…,Wintereinbruc…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+549,Arbeiterunterkunft,Arbeiterunterkunft,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+550,Après-Ski,Après-Ski,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+551,Wiesbaden,Wiesbaden,LOC,-1.0,0.0,de,1.0,4066043-6,2809346,X,50.08258,8.24932,EUROPE,Germany,WCE,Snow&Ice
+552,Sperrungen,Sperrungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+553,Daue…,Daue…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+554,Kälte,Kälte,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+499,Fest,Fest,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+497,Tal auf Ku…,Tal auf Ku…,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+576,Bahn-Passagiere,Bahn-Passagiere,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+448,Lappland,Lappland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+441,zunichtegemacht,zunichtegemacht,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+442,Trient,Trient,LOC,0.0,0.0,de,1.0,4078405-8,3165243,X,46.067777,11.120833,EUROPE,Italy,WCE,Snow&Ice
+443,Monte Bondone,Monte Bondone,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+444,Pfas im Schnee,Pfas im Schnee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+445,Skitest,Skitest,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+446,Schnee-Kanonen,Schnee-Kanonen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+447,Arktis,Arktis,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+449,Weihnachtstage,Weihnachtstage,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+458,Salzburger Landes,Salzburger Landes,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+450,Innsbrucker,Innsbrucker,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+451,Gemütlich,Gemütlich,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+452,Gespräche,Gespräche,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+453,Verbrenner-Aus,Verbrenner-Aus,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+454,CSU-Chef,CSU-Chef,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+455,ARD-aktuell,ARD-aktuell,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+456,Ski-Looks,Ski-Looks,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+440,China-Route,China-Route,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+439,Finnland,Finnland,LOC,1.0,0.0,de,1.0,4017243-0,660013,X,64.0,26.0,EUROPE,Finland,NEU,Snow&Ice
+438,Hochrindl,Hochrindl,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+437,Mittelmeer,Mittelmeer,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+422,Schne…,Schne…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+423,Olympia,Olympia,LOC,0.0,0.0,de,1.0,4043508-8,264637,X,37.64788,21.627099,EUROPE-AFRICA,Greece,MED,Snow&Ice
+424,Bramberg,Bramberg,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+425,Skigebiete Steinplatte,Skigebiete Steinplatte,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+426,Oberallgäu,Oberallgäu,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+427,Kältestes Weihnachten,Kältestes Weihnachten,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+428,Wolkenfelder,Wolkenfelder,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+429,Cortina d’Ampezzo,Cortina d’Ampezzo,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+430,Mengen,Mengen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+431,Augentest,Augentest,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+432,Steinplatte,Steinplatte,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+433,Qudang,Qudang,LOC,1.4,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+434,Cortina,Cortina,LOC,0.0,0.0,de,1.0,4085339-1,3177952,X,46.5369,12.13903,EUROPE,Italy,WCE,Snow&Ice
+435,Velogemel-Fahren,Velogemel-Fahren,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+436,Landkreis Waldeck-Frankenberg,Landkreis Waldeck-Frankenberg,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+457,Täle…,Täle…,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+459,Ausrüstungen,Ausrüstungen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+496,Bolsterlanger Horn,Bolsterlanger Horn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+487,Berlin-Brandenburg,Berlin-Brandenburg,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+480,Private-Equity-Firmen,Private-Equity-Firmen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+481,noe,noe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+482,Bezirk Lilienfeld,Bezirk Lilienfeld,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+483,Lokalaugenschein,Lokalaugenschein,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+484,NRWs örtl,NRWs örtl,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+485,Nord-Saudi-Arabien,Nord-Saudi-Arabien,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+486,Süddeutschlands,Süddeutschlands,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+488,Österreich…,Österreich…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+460,Wintersporthandel,Wintersporthandel,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+489,TikTok,TikTok,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+490,Schwedens,Schwedens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+491,Stockholm,Stockholm,LOC,0.0,0.0,de,1.0,4057648-6,2673730,X,59.33258,18.0649,EUROPE,,NEU,Snow&Ice
+492,Steiermark 70,Steiermark 70,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+493,CHANGCHUN,CHANGCHUN,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+494,Böen,Böen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+495,US-Konzerne,US-Konzerne,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+479,Riedberger Horn,Riedberger Horn,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+478,Höss,Höss,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+477,Adventswochenende,Adventswochenende,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+476,Frankfurt am Main,Frankfurt am Main,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+461,Lunz am See,Lunz am See,LOC,1.0,0.0,de,1.0,4036679-0,2772186,X,47.861199,15.02998,EUROPE,Austria,WCE,Snow&Ice
+462,Ötscherliften,Ötscherliften,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+463,Lackenhof,Lackenhof,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+464,Bezirk Scheibbs,Bezirk Scheibbs,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+465,Altenburger Land,Altenburger Land,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+466,di…,di…,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+467,Freitagvormittag,Freitagvormittag,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+468,Frühlingsgefühle,Frühlingsgefühle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+469,sch…,sch…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+470,Österreicher,Österreicher,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+471,Beaver,Beaver,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+472,Beaver Creek,Beaver Creek,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+473,Wintersportsaison,Wintersportsaison,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+474,Tauplitz,Tauplitz,LOC,0.7,0.0,de,1.0,4375051-5,2763855,X,47.560049,14.01293,EUROPE,Austria,WCE,Snow&Ice
+475,Planai,Planai,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+575,Autofahrer,Autofahrer,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+577,Millerntor-Stadion,Millerntor-Stadion,LOC,0.6,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+731,Tourismusbranche,Tourismusbranche,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+683,Schneepracht,Schneepracht,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+676,Los,Los,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+677,Kilometerlange Staus,Kilometerlange Staus,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+678,Wintersport-Nahversorger,Wintersport-Nahversorger,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+679,St. Johann im Rosental,St. Johann im Rosental,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+680,Berg,Berg,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+681,Drautal,Drautal,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+682,Sü…,Sü…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+684,Parks,Parks,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+693,Auslage,Auslage,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+685,Maiszinken,Maiszinken,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+686,Orthopäden,Orthopäden,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+687,Schneeschieben,Schneeschieben,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+688,Afrika,Afrika,LOC,1.0,0.0,de,1.0,4000695-5,6255146,X,7.1881,21.09375,AFRICA,Central African Republic,CAF,Snow&Ice
+689,St,St,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+690,Rocky Mountains,Rocky Mountains,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+691,Flixbus,Flixbus,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+675,Kreischberg,Kreischberg,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+674,Weinebene,Weinebene,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+673,Weihnachtsferien,Weihnachtsferien,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+672,Wettermodelle,Wettermodelle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+657,Haustür,Haustür,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+658,Tem…,Tem…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+659,Ost…,Ost…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+660,A1 kracht,A1 kracht,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+661,Sankt Martin am Tennengebirge,Sankt Martin am Tennengebirge,LOC,0.35,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+662,Sankt Martin,Sankt Martin,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+663,Winterwetter in Deutschland,Winterwetter in Deutschland,LOC,0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+664,Reifendruck,Reifendruck,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+665,Wetter-Ausnahmezustand,Wetter-Ausnahmezustand,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+666,SZ,SZ,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+667,Rekordwerte,Rekordwerte,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+668,Erzgebirges,Erzgebirges,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+669,Marienberg,Marienberg,LOC,0.0,0.0,de,1.0,4037542-0,2873632,X,50.650509,13.16122,EUROPE,Germany,WCE,Snow&Ice
+670,Fährausfälle,Fährausfälle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+671,Parkplätze,Parkplätze,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+692,Skigebieten,Skigebieten,LOC,-0.5,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+694,Karacho,Karacho,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+655,Mütze,Mütze,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+722,westl…,westl…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+715,Abkommens,Abkommens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+716,Resterhöhe,Resterhöhe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+717,Skisaison,Skisaison,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+718,Tagesskipass,Tagesskipass,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+719,Jänner,Jänner,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+720,Lauterbach,Lauterbach,LOC,0.0,1.0,de,1.0,4034771-0,2879929,X,50.635555,9.397777,EUROPE,Germany,WCE,Snow&Ice
+721,Annaberg-Buchholz,Annaberg-Buchholz,LOC,-0.23333333,0.0,de,1.0,4085813-3,2956005,X,50.579444,13.6111,EUROPE,Czechia,WCE,Snow&Ice
+723,westli…,westli…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+695,halbe Land,halbe Land,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+724,Oberhausen,Oberhausen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+725,Italiens Alpen,Italiens Alpen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+726,Luxus,Luxus,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+727,Feuchtsalz,Feuchtsalz,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+728,k…,k…,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+729,Vorarlbergs,Vorarlbergs,LOC,0.5,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+730,nassen F,nassen F,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+714,Amerikaner,Amerikaner,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+713,Vail,Vail,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+712,Schwarzenberg,Schwarzenberg,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+711,Einheimischentarife,Einheimischentarife,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+696,Nordhälfte,Nordhälfte,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+697,Landes Schnee,Landes Schnee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+698,Nevada,Nevada,LOC,0.35,0.5,de,1.0,4041996-4,5509151,X,39.25021,-116.751189,NORTH-AMERICA,United States,WNA,Snow&Ice
+699,Westens,Westens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+700,Babelsberg,Babelsberg,LOC,0.35,0.5,de,1.0,4256237-5,2953775,X,52.393219,13.095499,EUROPE,Germany,WCE,Snow&Ice
+701,Ingelheim,Ingelheim,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+702,Türe,Türe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+703,Passauer Land,Passauer Land,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+704,Oleander,Oleander,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+705,Eisglätte,Eisglätte,LOC,0.5,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+706,F…,F…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+707,BGH,BGH,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+708,Deu…,Deu…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+709,Südbaden,Südbaden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+710,Straßenmeistereien des Landes,Straßenmeistereien des Landes,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+656,Handschuhe,Handschuhe,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+654,Schal,Schal,LOC,-0.85,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+578,St. Pauli vs.,St. Pauli vs.,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+605,Nordostküste,Nordostküste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+598,Oreschnik-Einsatz,Oreschnik-Einsatz,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+599,Ukraine beka…,Ukraine beka…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+600,Weihnachtsurlaub,Weihnachtsurlaub,LOC,0.35,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+601,Amsterdamer Flughafen,Amsterdamer Flughafen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+602,Griesbach,Griesbach,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+603,hö…,hö…,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+604,Schnee-Alarm,Schnee-Alarm,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+606,Qudang ge,Qudang ge,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+615,Skibetrieb los,Skibetrieb los,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+607,bleibts,bleibts,LOC,-0.23333333,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+608,minus e,minus e,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+609,Kairo,Kairo,LOC,1.0,0.0,de,1.0,4029236-8,360630,X,30.062629,31.249669,EUROPE-AFRICA,Egypt,MED,Snow&Ice
+610,Verkehrsunfällen,Verkehrsunfällen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+611,Kre…,Kre…,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+612,Gl…,Gl…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+613,Erzgebirgsdorf,Erzgebirgsdorf,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+597,Hamburg-Konzerte,Hamburg-Konzerte,LOC,-0.15,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+596,Unheilig-Auftritte,Unheilig-Auftritte,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+595,län…,län…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+594,Beschlag,Beschlag,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+579,Haup…,Haup…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+580,Schneefällen in de,Schneefällen in de,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+581,Glätteunfälle,Glätteunfälle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+582,Nato-Gebiet,Nato-Gebiet,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+583,Verkehrsbeeinträchtigungen,Verkehrsbeeinträchtigungen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+584,Schneeschippen,Schneeschippen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+585,Winterliches Sturmtief,Winterliches Sturmtief,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+586,WELT-Reporter,WELT-Reporter,LOC,0.46666667,0.33333333,de,1.0,,-1,,,,,,,Snow&Ice
+587,Schulausfälle,Schulausfälle,LOC,0.46666667,0.33333333,de,1.0,,-1,,,,,,,Snow&Ice
+588,Karibik,Karibik,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+589,Flügen,Flügen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+590,wei…,wei…,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+591,Schweizern,Schweizern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+592,Österreichern,Österreichern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+593,Verkehrsbetriebe,Verkehrsbetriebe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+614,Südbayern,Südbayern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+616,Himmelsleiter,Himmelsleiter,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+653,Polizeipräsidiums Westpfalz,Polizeipräsidiums Westpfalz,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+644,Heubach,Heubach,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+637,Frederick Douglas Airport,Frederick Douglas Airport,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+638,Rochester,Rochester,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+639,Geesthacht,Geesthacht,LOC,0.0,0.0,de,1.0,4019635-5,2922102,X,53.435749,10.3779,EUROPE,Germany,NEU,Snow&Ice
+640,Hause,Hause,LOC,-0.15,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+641,Kalifornien,Kalifornien,LOC,1.0,0.0,de,1.0,4029307-5,5332921,X,37.250219,-119.75126,NORTH-AMERICA,United States,WNA,Snow&Ice
+642,Skiklubs Bad Reichenhall,Skiklubs Bad Reichenhall,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+643,Masserberger,Masserberger,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+645,D…,D…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+617,Rainaissance,Rainaissance,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+646,Straße zu räume…,Straße zu räume…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+647,Winter-Wetter,Winter-Wetter,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+648,Schiphol,Schiphol,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+649,Chaos,Chaos,LOC,0.23333333,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+650,Niederlanden,Niederlanden,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+651,Strich,Strich,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Snow&Ice
+652,Sperrungen bei Schnee,Sperrungen bei Schnee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+636,Bayerns Alpen,Bayerns Alpen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+635,Everest,Everest,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+634,Evangelischen Waldkrankenhaus Spandau,Evangelischen Waldkrankenhaus Spandau,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+633,Italiens,Italiens,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+618,Tal!,Tal!,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+619,Winterkeule,Winterkeule,LOC,0.35,0.5,de,1.0,,-1,,,,,,,Snow&Ice
+620,Jahreswechsel,Jahreswechsel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+621,Steinach,Steinach,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+622,Vereinigten Staaten,Vereinigten Staaten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+623,Hauptstadtflughafen BER,Hauptstadtflughafen BER,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+624,Winterchaos,Winterchaos,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+625,Deutschlands</li><li,Deutschlands</li><li,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+626,Oberschwaben Schnee,Oberschwaben Schnee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+627,Schottland,Schottland,LOC,0.0,0.0,de,1.0,4053233-1,2638360,X,56.0,-4.0,EUROPE,United Kingdom,NEU,Snow&Ice
+628,Modriach,Modriach,LOC,0.0,0.0,de,1.0,7701410-8,2771330,X,46.95,15.05,EUROPE,Austria,WCE,Snow&Ice
+629,Packgebiet,Packgebiet,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+630,Rettungsdienste,Rettungsdienste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+631,Italiens Bergen,Italiens Bergen,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
+632,Neapel,Neapel,LOC,-1.0,0.0,de,1.0,4041476-0,3172394,X,40.833329,14.25,EUROPE-AFRICA,Italy,MED,Snow&Ice
+1044,Wei…,Wei…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Snow&Ice
