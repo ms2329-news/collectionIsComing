@@ -1,454 +1,464 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Iran,Iran,GPE,-0.16526472,0.67352775,en,65.0,4027653-3,130758,X,32.0,53.0,ASIA,Iran,WCA,Drought
-1,Tehran,Tehran,GPE,-0.20423093,0.70770453,en,42.4,4059304-6,112931,X,35.694389,51.421509,ASIA,Iran,WCA,Drought
-2,Delhi,Delhi,GPE,0.00340858,0.44539995,en,25.6,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Drought
-3,India,India,GPE,0.21301885,0.62030958,en,21.7,,-1,,,,,,,Drought
-4,California,California,GPE,0.14551377,1.11376735,en,15.45,,-1,,,,,,,Drought
-5,New Delhi,New Delhi,GPE,0.01335513,0.49380712,en,14.7,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Drought
-6,Brazil,Brazil,GPE,0.13329966,0.93260382,en,7.5,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Drought
-7,Türkiye,Türkiye,GPE,0.03469122,0.64880952,en,6.4,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Drought
-8,U.S.,U.S.,GPE,0.38365655,1.74551971,en,6.2,,-1,,,,,,,Drought
-9,PHOENIX,PHOENIX,GPE,0.09482759,0.26149425,en,5.8,,-1,,,,,,,Drought
-10,Indonesia,Indonesia,GPE,-0.40904344,1.16071429,en,5.7,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Drought
-11,B.C.,B.C.,GPE,-0.0625,0.28794643,en,5.6,,-1,,,,,,,Drought
-12,US,US,GPE,0.34870479,1.31539589,en,4.65,,-1,,,,,,,Drought
-13,Kashmir,Kashmir,LOC,-0.01449275,0.27717391,en,4.6,,-1,,,,,,,Drought
-14,China,China,GPE,0.25103306,0.57541322,en,4.4,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Drought
-15,the Middle East,the Middle East,LOC,-0.02264836,0.78693182,en,4.4,,-1,,,,,,,Drought
-17,Morocco,Morocco,GPE,-0.32170543,0.54108527,en,4.3,4037680-1,2542007,X,32.0,-5.0,EUROPE-AFRICA,Morocco,MED,Drought
-18,Earth,Earth,LOC,0.30757576,1.41427061,en,4.3,,-1,,,,,,,Drought
-19,Sri Lanka,Sri Lanka,GPE,0.09418605,0.94366925,en,4.3,4009696-8,1227603,X,7.0,81.0,INDIAN,Sri Lanka,BOB,Drought
-16,Florida,Florida,GPE,-0.07081718,0.75371447,en,4.3,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Drought
-20,Kathmandu,Kathmandu,GPE,-0.04385965,0.42690058,en,3.8,4030036-5,1283240,X,27.701689,85.320599,ASIA,Nepal,TIB,Drought
-23,Andhra Pradesh,Andhra Pradesh,GPE,0.00804376,0.22039897,en,3.7,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Drought
-22,agriforest-crops,agriforest-crops,LOC,0.0,0.0,en,3.7,,-1,,,,,,,Drought
-21,Dujiangyan,Dujiangyan,GPE,0.41523342,0.60933661,en,3.7,,-1,,,,,,,Drought
-24,Israel,Israel,GPE,-0.06097884,0.43865741,en,3.6,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Drought
-25,ISTANBUL,ISTANBUL,GPE,0.23367347,0.55306122,en,3.5,,-1,,,,,,,Drought
-27,Ukraine,Ukraine,GPE,0.05168569,0.50393546,en,3.3,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Drought
-26,Calgary,Calgary,GPE,-0.04877345,0.28398268,en,3.3,4085122-9,5913490,X,51.05,-114.085277,NORTH-AMERICA,Canada,NWN,Drought
-29,Jammu,Jammu,GPE,0.31584821,0.57328869,en,3.2,4387357-1,1269321,X,32.735689,74.86911,ASIA,India,WCA,Drought
-28,Ottawa,Ottawa,GPE,-0.046875,0.36588542,en,3.2,4122012-2,6094817,X,45.411111,-75.698055,NORTH-AMERICA,Canada,ENA,Drought
-30,Thailand,Thailand,GPE,-0.53219898,1.53113553,en,3.1,4078228-1,1605651,X,15.0,100.0,ASIA,Thailand,SEA,Drought
-31,TEHRAN,TEHRAN,GPE,-0.26777778,0.93,en,3.0,,-1,,,,,,,Drought
-32,Los Angeles,Los Angeles,GPE,-0.02011494,0.59051724,en,2.9,,-1,,,,,,,Drought
-36,Maharashtra,Maharashtra,GPE,-0.03401361,0.11054422,en,2.8,4037057-4,1264418,X,19.5,75.0,ASIA,India,SAS,Drought
-35,Hyderabad,Hyderabad,GPE,0.11309524,0.42142857,en,2.8,,-1,,,,,,,Drought
-34,Europe,Europe,LOC,0.07305195,0.90322872,en,2.8,,-1,,,,,,,Drought
-33,Afghanistan,Afghanistan,GPE,-0.31309524,1.1172619,en,2.8,4000687-6,1149361,X,33.0,66.0,ASIA,Afghanistan,WCA,Drought
-40,Southern Zambia,Southern Zambia,LOC,0.0,0.0,en,2.8,,-1,,,,,,,Drought
-38,Chennai,Chennai,GPE,0.05357143,0.30238095,en,2.8,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Drought
-39,Istanbul,Istanbul,GPE,0.10204082,0.20408163,en,2.8,4027821-9,745044,X,41.013611,28.949444,EUROPE-AFRICA,Turkey,MED,Drought
-37,Kanpur,Kanpur,GPE,0.04464286,0.25595238,en,2.8,4029504-7,1267995,X,26.4478,80.34627,ASIA,India,SAS,Drought
-42,Labrador,Labrador,GPE,0.20092593,0.39166667,en,2.7,,-1,,,,,,,Drought
-43,Russia,Russia,GPE,-0.02425044,0.44135802,en,2.7,,-1,,,,,,,Drought
-44,Southeast Asia,Southeast Asia,LOC,-0.79012346,0.86419753,en,2.7,,-1,,,,,,,Drought
-41,Newfoundland,Newfoundland,GPE,0.20092593,0.39166667,en,2.7,,-1,,,,,,,Drought
-47,NEW DELHI,NEW DELHI,GPE,-0.06876457,0.43638306,en,2.6,,-1,,,,,,,Drought
-50,Athens,Athens,GPE,-0.03571429,0.05769231,en,2.6,4003366-1,264371,X,37.979449,23.716219,EUROPE-AFRICA,Greece,MED,Drought
-49,New Delhi's,New Delhi's,GPE,0.13636364,0.48339161,en,2.6,,-1,,,,,,,Drought
-48,Summerland,Summerland,GPE,0.0,0.11538462,en,2.6,,-1,,,,,,,Drought
-45,Nepal,Nepal,GPE,0.89423077,0.86446886,en,2.6,4041612-4,1282988,X,28.0,84.0,ASIA,Nepal,TIB,Drought
-46,UK,UK,GPE,0.46153846,1.44444444,en,2.6,,-1,,,,,,,Drought
-51,Louisiana,Louisiana,GPE,0.07454545,0.42181818,en,2.5,4036394-6,4331987,X,31.699999,-92.999999,NORTH-AMERICA,United States,CNA,Drought
-53,CALGARY,CALGARY,GPE,-0.0640873,0.2952381,en,2.4,,-1,,,,,,,Drought
-54,Tripureshwor,Tripureshwor,GPE,0.0,0.10416667,en,2.4,,-1,,,,,,,Drought
-52,England,England,GPE,0.20089286,0.50595238,en,2.4,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Drought
-55,Iraq,Iraq,GPE,-0.22463768,1.88405797,en,2.3,,-1,,,,,,,Drought
-56,Canada,Canada,GPE,0.28221344,0.59288538,en,2.3,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Drought
-58,Argentina,Argentina,GPE,-0.03592746,1.34067952,en,2.2,,-1,,,,,,,Drought
-57,Gaza,Gaza,GPE,0.11363636,0.14204545,en,2.2,,-1,,,,,,,Drought
-59,Queensland,Queensland,GPE,0.27982955,0.99810606,en,2.2,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Drought
-61,Dublin,Dublin,GPE,0.05102041,0.99433107,en,2.1,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Drought
-60,Calif.,Calif.,GPE,-0.05385488,0.69160998,en,2.1,,-1,,,,,,,Drought
-64,Attica,Attica,GPE,-0.07321429,0.7375,en,2.0,,-1,,,,,,,Drought
-63,Ganderbal,Ganderbal,GPE,0.0,0.2125,en,2.0,,-1,,,,,,,Drought
-62,JAMMU,JAMMU,GPE,0.0,0.2125,en,2.0,,-1,,,,,,,Drought
-81,Covington,Covington,GPE,0.02631579,0.31578947,en,1.9,,-1,,,,,,,Drought
-82,Bengaluru,Bengaluru,GPE,0.07894737,0.44561404,en,1.9,4004431-2,1277333,X,12.97194,77.593689,ASIA,India,SAS,Drought
-83,Krishna district,Krishna district,LOC,-0.07205514,0.2537594,en,1.9,,-1,,,,,,,Drought
-80,Shasta County,Shasta County,GPE,0.0,0.03508772,en,1.9,,-1,,,,,,,Drought
-67,The City of Dawson Creek,The City of Dawson Creek,GPE,0.03349282,0.62699362,en,1.9,,-1,,,,,,,Drought
-66,Texas,Texas,GPE,0.10526316,1.0877193,en,1.9,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Drought
-65,Colorado,Colorado,GPE,0.39440457,1.00746943,en,1.9,,-1,,,,,,,Drought
-68,Ontario,Ontario,GPE,1.05263158,1.05263158,en,1.9,4102089-3,6093943,X,49.25014,-84.49983,NORTH-AMERICA,Canada,ENA,Drought
-78,CHENGDU,CHENGDU,GPE,0.44019139,0.71291866,en,1.9,,-1,,,,,,,Drought
-77,Romania,Romania,GPE,0.04385965,0.70175439,en,1.9,4288396-9,4560808,X,39.793419,-79.044749,NORTH-AMERICA,United States,ENA,Drought
-76,Egypt,Egypt,GPE,0.07894737,0.44561404,en,1.9,4000556-2,357994,X,27.0,30.0,AFRICA,Egypt,SAH,Drought
-72,Jigawa,Jigawa,GPE,-0.26315789,0.26315789,en,1.9,,-1,,,,,,,Drought
-75,Yunnan Province,Yunnan Province,GPE,-0.26315789,1.05263158,en,1.9,,-1,,,,,,,Drought
-74,Sichuan province,Sichuan province,GPE,0.44019139,0.71291866,en,1.9,,-1,,,,,,,Drought
-73,PITTSBURGH,PITTSBURGH,GPE,0.0,0.28947368,en,1.9,,-1,,,,,,,Drought
-79,vineyards,vineyards,LOC,0.04775828,0.5380117,en,1.9,,-1,,,,,,,Drought
-70,Malaysia,Malaysia,GPE,-0.79949875,1.19047619,en,1.9,4037203-0,1733045,X,2.5,112.5,ASIA,Malaysia,SEA,Drought
-71,Washington,Washington,GPE,-0.16666667,0.42105263,en,1.9,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Drought
-69,Senegal,Senegal,GPE,0.0,0.0,en,1.9,4054529-5,2245662,X,14.0,-14.0,AFRICA,Senegal,WAF,Drought
-85,Mars,Mars,LOC,0.22023008,0.92124018,en,1.8,,-1,,,,,,,Drought
-86,Safi,Safi,GPE,-0.44444444,0.64814815,en,1.8,4482785-4,2537881,X,32.299444,-9.237222,EUROPE-AFRICA,Morocco,MED,Drought
-87,Leros,Leros,GPE,-0.02579365,0.04166667,en,1.8,,-1,,,,,,,Drought
-93,the Colorado River Basin,the Colorado River Basin,LOC,0.0,0.0,en,1.8,,-1,,,,,,,Drought
-89,Okanagan,Okanagan,GPE,0.0,0.0,en,1.8,,-1,,,,,,,Drought
-90,crisi,crisi,GPE,-0.09511785,0.49158249,en,1.8,,-1,,,,,,,Drought
-84,Mexico,Mexico,GPE,0.23148148,1.89444444,en,1.8,,-1,,,,,,,Drought
-91,Konya province,Konya province,GPE,0.09722222,0.36111111,en,1.8,,-1,,,,,,,Drought
-88,Patmos,Patmos,GPE,-0.02579365,0.04166667,en,1.8,,-1,,,,,,,Drought
-92,the Pacific Ocean,the Pacific Ocean,LOC,-0.46212121,0.95959596,en,1.8,,-1,,,,,,,Drought
-98,Nunavut,Nunavut,GPE,-0.24509804,0.23529412,en,1.7,4248598-8,6091732,X,70.167839,-90.733249,NORTH-AMERICA,,NEN,Drought
-100,SAN DIEGO,SAN DIEGO,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Drought
-99,Kelantan,Kelantan,GPE,-0.02941176,0.31176471,en,1.7,4097779-1,1733044,X,5.33333,102.0,ASIA,Malaysia,SEA,Drought
-95,Turlock Irrigation District,Turlock Irrigation District,GPE,0.0,0.0,en,1.7,,-1,,,,,,,Drought
-94,New South Wales,New South Wales,GPE,0.43137255,0.8627451,en,1.7,,-1,,,,,,,Drought
-96,Kugaaruk,Kugaaruk,GPE,-0.24509804,0.23529412,en,1.7,,-1,,,,,,,Drought
-97,Ocean,Ocean,LOC,0.03921569,0.25490196,en,1.7,,-1,,,,,,,Drought
-104,Oregon,Oregon,GPE,-0.0625,0.4140625,en,1.6,4043760-7,5744337,X,44.299999,-120.50139,NORTH-AMERICA,United States,WNA,Drought
-105,Black Sea,Black Sea,LOC,0.09288194,0.89236111,en,1.6,,-1,,,,,,,Drought
-106,Moscow,Moscow,GPE,0.0,0.03125,en,1.6,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Drought
-101,Australia,Australia,GPE,0.41856061,2.75284091,en,1.6,,-1,,,,,,,Drought
-102,Somalia,Somalia,GPE,-0.625,1.0,en,1.6,4077509-4,51537,X,6.0,48.0,AFRICA,Somalia,NEAF,Drought
-103,Filly Mangassa,Filly Mangassa,LOC,0.0,0.0,en,1.6,,-1,,,,,,,Drought
-107,Jordan,Jordan,GPE,0.11784848,1.55927273,en,1.5,,-1,,,,,,,Drought
-108,the United States,the United States,GPE,0.00555556,0.73611111,en,1.5,,-1,,,,,,,Drought
-109,Northeast,Northeast,LOC,-0.13160173,1.62720058,en,1.5,,-1,,,,,,,Drought
-115,Japan,Japan,GPE,0.42012987,1.18376623,en,1.4,4028495-5,1861060,X,35.68536,139.753089,ASIA,Japan,EAS,Drought
-114,Hollywood,Hollywood,GPE,-0.08801948,1.27779221,en,1.4,,-1,,,,,,,Drought
-112,TORONTO,TORONTO,GPE,0.49107143,0.85714286,en,1.4,,-1,,,,,,,Drought
-110,South Africa,South Africa,GPE,0.0,0.23809524,en,1.4,4078012-0,953987,X,-29.0,24.0,AFRICA,South Africa,WSAF,Drought
-113,Africa,Africa,LOC,0.13095238,1.11904762,en,1.4,,-1,,,,,,,Drought
-111,Virginia,Virginia,GPE,-0.39285714,0.60714286,en,1.4,4063592-2,6254928,X,37.548119,-77.446749,NORTH-AMERICA,United States,ENA,Drought
-136,Venezuela,Venezuela,GPE,0.0,0.0,en,1.3,4062512-6,3625428,X,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Drought
-139,the Red Planet,the Red Planet,LOC,-0.03554779,0.30244755,en,1.3,,-1,,,,,,,Drought
-138,Toulouse,Toulouse,GPE,0.87393162,1.01709402,en,1.3,4060518-8,2972315,X,43.604259,1.44367,EUROPE-AFRICA,France,MED,Drought
-137,Quinte,Quinte,GPE,0.76923077,0.76923077,en,1.3,,-1,,,,,,,Drought
-128,New York,New York,GPE,-0.07342657,0.90909091,en,1.3,,-1,,,,,,,Drought
-131,the Snoqualmie River,the Snoqualmie River,LOC,0.0,0.0,en,1.3,,-1,,,,,,,Drought
-135,Mississippi Valley,Mississippi Valley,LOC,0.76923077,0.76923077,en,1.3,,-1,,,,,,,Drought
-132,New Zealand,New Zealand,GPE,0.20979021,0.6993007,en,1.3,,-1,,,,,,,Drought
-133,Madhya Pradesh,Madhya Pradesh,GPE,0.10302198,0.49450549,en,1.3,4234626-5,1264542,X,23.5,78.5,ASIA,India,SAS,Drought
-127,Haryana,Haryana,GPE,0.11153846,0.61410256,en,1.3,4239291-3,1270260,X,29.0,76.0,ASIA,India,SAS,Drought
-126,America,America,GPE,0.0,0.23076923,en,1.3,,-1,,,,,,,Drought
-116,New York City,New York City,GPE,0.1951049,1.42727273,en,1.3,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Drought
-134,Dawson Creek,Dawson Creek,GPE,-0.23076923,0.38461538,en,1.3,,-1,,,,,,,Drought
-119,TAMPA,TAMPA,GPE,0.52884615,0.875,en,1.3,,-1,,,,,,,Drought
-125,Staten Island,Staten Island,GPE,-0.25811966,0.71452991,en,1.3,,-1,,,,,,,Drought
-118,Iowa,Iowa,GPE,-0.12820513,0.57692308,en,1.3,4109226-0,4862182,X,42.7,-93.500489,NORTH-AMERICA,United States,CNA,Drought
-117,Caribbean,Caribbean,LOC,-0.61538462,0.65384615,en,1.3,,-1,,,,,,,Drought
-121,Cairns,Cairns,GPE,-0.15384615,0.30769231,en,1.3,4376462-9,2172797,X,-16.92304,145.76625,OCEANIA,Australia,NAU,Drought
-122,LONDON,LONDON,GPE,-0.05128205,0.6039886,en,1.3,,-1,,,,,,,Drought
-123,Rajasthan,Rajasthan,GPE,0.11153846,0.61410256,en,1.3,4076502-7,1258899,X,26.0,74.0,ASIA,India,SAS,Drought
-120,Fla.,Fla.,GPE,0.52884615,0.875,en,1.3,,-1,,,,,,,Drought
-124,Wivenhoe Dam,Wivenhoe Dam,LOC,0.01201923,0.47115385,en,1.3,,-1,,,,,,,Drought
-130,Midwest,Midwest,LOC,-0.06075175,0.98339161,en,1.3,,-1,,,,,,,Drought
-140,Kerrville,Kerrville,GPE,0.0,0.0,en,1.3,,-1,,,,,,,Drought
-129,Uruguay,Uruguay,GPE,-0.24125874,0.88811189,en,1.3,4062186-8,3439705,X,-33.0,-56.0,SOUTH-AMERICA,Uruguay,SES,Drought
-150,the Middle East's,the Middle East's,LOC,0.16666667,1.16666667,en,1.2,,-1,,,,,,,Drought
-151,Seneca,Seneca,GPE,0.25252525,0.87878788,en,1.2,,-1,,,,,,,Drought
-148,CBD,CBD,GPE,0.47869318,1.52272727,en,1.2,,-1,,,,,,,Drought
-149,Sacramento County,Sacramento County,GPE,-0.24583333,0.42638889,en,1.2,,-1,,,,,,,Drought
-147,New Jersey,New Jersey,GPE,0.35774411,1.1986532,en,1.2,4042004-8,5101760,X,40.167059,-74.49987,NORTH-AMERICA,United States,ENA,Drought
-146,Chicago,Chicago,GPE,-0.03661616,0.42424242,en,1.2,4009921-0,4887398,X,41.850029,-87.650049,NORTH-AMERICA,United States,ENA,Drought
-144,Ladakh,Ladakh,GPE,0.38095238,0.72619048,en,1.2,,-1,,,,,,,Drought
-145,Massachusetts,Massachusetts,GPE,0.10416667,0.83333333,en,1.2,4037858-5,6254926,X,42.36565,-71.10832,NORTH-AMERICA,United States,ENA,Drought
-154,Seoul,Seoul,GPE,0.74621212,0.91792929,en,1.2,4122021-3,1835848,X,37.56826,126.977829,ASIA,South Korea,EAS,Drought
-153,Colorado River,Colorado River,LOC,-0.10416667,0.625,en,1.2,,-1,,,,,,,Drought
-156,the United Kingdom,the United Kingdom,GPE,-0.33854167,1.28125,en,1.2,,-1,,,,,,,Drought
-155,San Francisco,San Francisco,GPE,-0.55555556,0.98611111,en,1.2,,-1,,,,,,,Drought
-152,BAGHDAD,BAGHDAD,GPE,0.16666667,1.16666667,en,1.2,,-1,,,,,,,Drought
-143,Jragung Dam,Jragung Dam,GPE,0.0,0.41666667,en,1.2,,-1,,,,,,,Drought
-142,North America,North America,LOC,0.08928571,1.10119048,en,1.2,,-1,,,,,,,Drought
-141,Turkey,Turkey,GPE,0.0,0.0,en,1.2,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Drought
-197,Las Vegas,Las Vegas,GPE,-0.14545455,0.61212121,en,1.1,,-1,,,,,,,Drought
-194,Alaska,Alaska,GPE,-0.67045455,0.80681818,en,1.1,4001016-8,5879092,X,64.8,-150.8,NORTH-AMERICA,United States,NWN,Drought
-158,Vadodara,Vadodara,GPE,0.54545455,0.86363636,en,1.1,4349634-9,1253573,X,22.299399,73.208119,ASIA,India,SAS,Drought
-159,Maritimes,Maritimes,GPE,0.45643939,1.0625,en,1.1,,-1,,,,,,,Drought
-182,Lancaster city,Lancaster city,GPE,0.12396694,0.41322314,en,1.1,,-1,,,,,,,Drought
-183,Los Gatos,Los Gatos,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-168,Doctolib,Doctolib,GPE,0.25974026,0.48701299,en,1.1,,-1,,,,,,,Drought
-169,Amherst,Amherst,GPE,0.15151515,1.16161616,en,1.1,,-1,,,,,,,Drought
-170,JAMAICA,JAMAICA,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-171,Western Australia,Western Australia,LOC,0.08815427,0.46556474,en,1.1,,-1,,,,,,,Drought
-172,the East Coast,the East Coast,LOC,0.24793388,0.82644628,en,1.1,,-1,,,,,,,Drought
-173,Fargo,Fargo,GPE,0.45454545,1.54545455,en,1.1,,-1,,,,,,,Drought
-174,North Dakota,North Dakota,GPE,0.45454545,1.54545455,en,1.1,4075498-4,5690763,X,47.50027,-100.8,NORTH-AMERICA,United States,CNA,Drought
-175,Jammu North,Jammu North,GPE,-0.12662338,0.91774892,en,1.1,,-1,,,,,,,Drought
-160,Pakistan,Pakistan,GPE,0.25568182,0.53030303,en,1.1,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Drought
-161,the Space Coast,the Space Coast,LOC,0.12396694,0.50413223,en,1.1,,-1,,,,,,,Drought
-162,Kerala,Kerala,GPE,0.40909091,0.36363636,en,1.1,4030266-0,1267254,X,10.0,76.5,ASIA,India,SAS,Drought
-163,Central Java,Central Java,GPE,0.0,0.45454545,en,1.1,,-1,,,,,,,Drought
-164,Semarang District,Semarang District,GPE,0.0,0.45454545,en,1.1,,-1,,,,,,,Drought
-190,Kamloops,Kamloops,GPE,0.5,0.86363636,en,1.1,4250976-2,5989045,X,50.66648,-120.319199,NORTH-AMERICA,Canada,NWN,Drought
-191,A.L.,A.L.,GPE,0.0,0.27272727,en,1.1,,-1,,,,,,,Drought
-176,The United Kingdom,The United Kingdom,GPE,0.23140496,0.80165289,en,1.1,,-1,,,,,,,Drought
-177,Mauritius,Mauritius,GPE,0.17045455,0.58522727,en,1.1,4074641-0,934292,X,-20.3,57.583329,INDIAN,Mauritius,SIO,Drought
-178,Nev.,Nev.,GPE,0.04545455,0.18181818,en,1.1,,-1,,,,,,,Drought
-179,Zanzibar,Zanzibar,GPE,0.0,0.0,en,1.1,4051641-6,148730,X,-6.16394,39.197929,AFRICA,Tanzania,SEAF,Drought
-180,Cayman Islands,Cayman Islands,GPE,0.29090909,0.43636364,en,1.1,4310479-4,3580718,X,19.5,-80.666669,CENTRAL-AMERICA,,CAR,Drought
-181,Mass.,Mass.,GPE,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-165,Sacramento,Sacramento,GPE,-0.63636364,0.63636364,en,1.1,,-1,,,,,,,Drought
-166,Mediterranean,Mediterranean,LOC,0.81818182,1.18181818,en,1.1,,-1,,,,,,,Drought
-167,Greece,Greece,GPE,0.12396694,0.9258494,en,1.1,,-1,,,,,,,Drought
-184,Operation Cloudburst,Operation Cloudburst,LOC,0.90909091,1.54545455,en,1.1,,-1,,,,,,,Drought
-185,Qonto,Qonto,GPE,0.25974026,0.48701299,en,1.1,,-1,,,,,,,Drought
-186,Atlantic,Atlantic,LOC,-0.54545455,0.72727273,en,1.1,,-1,,,,,,,Drought
-187,South Korea,South Korea,GPE,0.1322314,0.31955923,en,1.1,4078029-6,1835841,X,37.0,127.5,ASIA,South Korea,EAS,Drought
-188,Lantang Valley,Lantang Valley,LOC,0.0,0.0,en,1.1,,-1,,,,,,,Drought
-189,Kansas,Kansas,GPE,0.12396694,0.41322314,en,1.1,4114131-3,4273857,X,38.500289,-98.50063,NORTH-AMERICA,United States,CNA,Drought
-193,Minnesota,Minnesota,GPE,0.24242424,1.33333333,en,1.1,4101012-7,5037779,X,46.250239,-94.25055,NORTH-AMERICA,United States,CNA,Drought
-192,West Palm Beach,West Palm Beach,GPE,-0.28282828,0.52525253,en,1.1,,-1,,,,,,,Drought
-157,Atlanta,Atlanta,GPE,0.0,1.81818182,en,1.1,4086063-2,4180439,X,33.748888,-84.387777,NORTH-AMERICA,United States,ENA,Drought
-196,Pontian,Pontian,GPE,-0.1375,0.58068182,en,1.1,,-1,,,,,,,Drought
-195,Louisville,Louisville,GPE,-0.12121212,0.36363636,en,1.1,,-1,,,,,,,Drought
-452,Shasta Countys,Shasta Countys,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-416,Haiti,Haiti,GPE,0.0,0.0,en,1.0,4022974-9,3723988,X,19.0,-72.416669,CENTRAL-AMERICA,Haiti,CAR,Drought
-417,Skies,Skies,LOC,0.9,1.0,en,1.0,,-1,,,,,,,Drought
-418,Sea of Galilee,Sea of Galilee,LOC,0.06666667,0.17333333,en,1.0,,-1,,,,,,,Drought
-419,Omaha,Omaha,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-420,San Luis Valley,San Luis Valley,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-421,NORTH ANDOVER,NORTH ANDOVER,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-405,N.,N.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-406,Myers,Myers,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-407,Victoria,Victoria,GPE,-0.06333333,0.46,en,1.0,,-1,,,,,,,Drought
-408,the United States of,the United States of,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-409,Bitcoin,Bitcoin,GPE,-0.08181818,0.52727273,en,1.0,,-1,,,,,,,Drought
-410,eastern Ontario,eastern Ontario,LOC,0.25,0.4,en,1.0,,-1,,,,,,,Drought
-411,Floridas,Floridas,GPE,-0.06666667,0.3,en,1.0,,-1,,,,,,,Drought
-412,the Sunshine State,the Sunshine State,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-431,Missouri,Missouri,GPE,0.2,0.2,en,1.0,,-1,,,,,,,Drought
-432,kingdom,kingdom,GPE,0.04927273,0.57890909,en,1.0,,-1,,,,,,,Drought
-433,Ukrai,Ukrai,GPE,0.03333333,0.16666667,en,1.0,,-1,,,,,,,Drought
-434,Valley,Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-435,New Mexico,New Mexico,GPE,0.24659091,0.4219697,en,1.0,4042006-1,5481136,X,34.50034,-106.499999,NORTH-AMERICA,United States,WNA,Drought
-436,Galilee,Galilee,GPE,0.0,0.3,en,1.0,,-1,,,,,,,Drought
-437,Glasgow Central,Glasgow Central,GPE,0.25,0.625,en,1.0,,-1,,,,,,,Drought
-438,New UK,New UK,GPE,0.06818182,0.62727273,en,1.0,,-1,,,,,,,Drought
-439,Preclinic,Preclinic,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-440,RENO,RENO,GPE,0.05,0.1,en,1.0,,-1,,,,,,,Drought
-441,the Kingdom of Saudi Arabia,the Kingdom of Saudi Arabia,GPE,0.35714286,0.77142857,en,1.0,,-1,,,,,,,Drought
-442,Cumbria,Cumbria,GPE,0.25,0.625,en,1.0,,-1,,,,,,,Drought
-443,Shap,Shap,LOC,0.25,0.625,en,1.0,,-1,,,,,,,Drought
-444,FREMONT,FREMONT,GPE,0.05357143,0.28571429,en,1.0,,-1,,,,,,,Drought
-445,Lancaster city council,Lancaster city council,GPE,-0.1,0.1,en,1.0,,-1,,,,,,,Drought
-446,Nanofluids,Nanofluids,GPE,-0.15,0.05,en,1.0,,-1,,,,,,,Drought
-447,Port Hedland,Port Hedland,GPE,-0.45,0.3,en,1.0,1213932335,2063042,X,-20.311944,118.610555,OCEANIA,Australia,CAU,Drought
-198,the Guadalupe River,the Guadalupe River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-199,Euroclear,Euroclear,GPE,0.0,0.11666667,en,1.0,,-1,,,,,,,Drought
-200,Bear Mountain,Bear Mountain,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-201,the Pacific Northwest,the Pacific Northwest,LOC,0.03125,0.25,en,1.0,,-1,,,,,,,Drought
-202,Guwahati,Guwahati,GPE,0.0,0.5,en,1.0,4368296-0,1271476,X,26.18617,91.75095,ASIA,India,SAS,Drought
-203,oscillationsrecurring,oscillationsrecurring,GPE,0.3,0.45,en,1.0,,-1,,,,,,,Drought
-204,Islamic Republic,Islamic Republic,GPE,-0.10333333,0.50666667,en,1.0,,-1,,,,,,,Drought
-205,New York Rangers,New York Rangers,GPE,0.22878788,0.2959596,en,1.0,,-1,,,,,,,Drought
-206,et al,et al,GPE,0.0,0.125,en,1.0,,-1,,,,,,,Drought
-207,Colorado River Basin,Colorado River Basin,LOC,0.2,0.2,en,1.0,,-1,,,,,,,Drought
-208,Hazaribag,Hazaribag,GPE,0.03333333,0.24444444,en,1.0,,-1,,,,,,,Drought
-209,MENA,MENA,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-210,Belgium,Belgium,GPE,0.0,0.11666667,en,1.0,4005406-8,2802361,X,50.833329,4.0,EUROPE,Belgium,WCE,Drought
-211,KERRVILLE,KERRVILLE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-212,worl,worl,LOC,0.45,0.55,en,1.0,,-1,,,,,,,Drought
-213,COLOMBO,COLOMBO,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
-214,Annona squamosa,Annona squamosa,LOC,-0.25,1.0,en,1.0,,-1,,,,,,,Drought
-215,A.,A.,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-216,Talei,Talei,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-217,Torabi,Torabi,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-218,TEXAS,TEXAS,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-219,PANAMA CITY,PANAMA CITY,GPE,0.0,0.03333333,en,1.0,,-1,,,,,,,Drought
-220,Mumbai,Mumbai,GPE,-0.16666667,0.16666667,en,1.0,10013721-0,1275339,X,19.072777,72.8825,ASIA,India,SAS,Drought
-221,Anadolu,Anadolu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-222,Austin,Austin,GPE,0.25,0.25,en,1.0,,-1,,,,,,,Drought
-223,Silicon Valley,Silicon Valley,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-224,Sumatra,Sumatra,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
-225,The United States',The United States',GPE,0.27777778,0.47777778,en,1.0,,-1,,,,,,,Drought
-226,west Maui,west Maui,LOC,0.16,0.54,en,1.0,,-1,,,,,,,Drought
-227,West Maui,West Maui,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-228,unde…,unde…,GPE,0.14285714,0.28571429,en,1.0,,-1,,,,,,,Drought
-229,Maui,Maui,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-230,Aceh province,Aceh province,GPE,-0.46666667,0.5,en,1.0,,-1,,,,,,,Drought
-231,East Africa,East Africa,GPE,0.15284091,0.55113636,en,1.0,,-1,,,,,,,Drought
-232,Turlock,Turlock,GPE,0.5,1.0,en,1.0,,-1,,,,,,,Drought
-233,Hudson,Hudson,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Drought
-234,Nigeria,Nigeria,GPE,0.0,0.0,en,1.0,4042300-1,2328926,X,10.0,8.0,AFRICA,Nigeria,WAF,Drought
-235,Yellow River,Yellow River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-236,Kumasi,Kumasi,GPE,0.0,0.0,en,1.0,4266544-9,2298890,X,6.68848,-1.62443,AFRICA,Ghana,WAF,Drought
-237,driest springs,driest springs,GPE,0.13333333,0.46666667,en,1.0,,-1,,,,,,,Drought
-238,Ghana,Ghana,GPE,0.0,0.0,en,1.0,4020949-0,2300660,X,8.099999,-1.199999,AFRICA,Ghana,WAF,Drought
-239,Sheffield,Sheffield,GPE,-0.4,0.4,en,1.0,4118617-5,2638077,X,53.38297,-1.4659,EUROPE,United Kingdom,NEU,Drought
-240,pe… COLOMBO:,pe… COLOMBO:,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
-241,PyPI,PyPI,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-242,Badulla,Badulla,GPE,-0.2,0.23888889,en,1.0,,-1,,,,,,,Drought
-243,Kyrgyzstan,Kyrgyzstan,GPE,0.1,0.43333333,en,1.0,4030848-0,1527747,X,41.0,75.0,ASIA,Kyrgyzstan,WCA,Drought
-244,Ann Arbor,Ann Arbor,GPE,0.1,0.43333333,en,1.0,,-1,,,,,,,Drought
-245,Southwest,Southwest,LOC,0.25714286,0.66428571,en,1.0,,-1,,,,,,,Drought
-246,Sri Lanka Women,Sri Lanka Women,GPE,0.06818182,0.25,en,1.0,,-1,,,,,,,Drought
-247,Matrouh Governorate,Matrouh Governorate,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-248,BURLINGTON,BURLINGTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-249,Pettinga D,Pettinga D,GPE,0.0,0.125,en,1.0,,-1,,,,,,,Drought
-250,London,London,GPE,0.0625,0.4375,en,1.0,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Drought
-251,dividen,dividen,GPE,-0.1,0.16666667,en,1.0,,-1,,,,,,,Drought
-252,west Ottawa,west Ottawa,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-253,Denham Springs,Denham Springs,GPE,-0.11666667,0.25,en,1.0,,-1,,,,,,,Drought
-254,Tulare Lake,Tulare Lake,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-255,Mahakali river,Mahakali river,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-256,West Country,West Country,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-257,Bristol,Bristol,GPE,-0.06666667,0.6,en,1.0,4090130-0,2654675,X,51.45523,-2.596649,EUROPE,United Kingdom,NEU,Drought
-258,Somerset,Somerset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-259,Dorset,Dorset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-260,south Gloucestershire,south Gloucestershire,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-261,Wiltshire,Wiltshire,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-262,NC,NC,GPE,0.05,0.15,en,1.0,,-1,,,,,,,Drought
-263,Wonderland,Wonderland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-264,East Coast,East Coast,LOC,-0.23181818,0.72727273,en,1.0,,-1,,,,,,,Drought
-265,Pampore,Pampore,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-266,Kashmirs Pampore,Kashmirs Pampore,LOC,0.01111111,0.66666667,en,1.0,,-1,,,,,,,Drought
-267,Southern Calif,Southern Calif,LOC,-0.17916667,0.46666667,en,1.0,,-1,,,,,,,Drought
-268,Uttar Pradesh,Uttar Pradesh,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Drought
-269,France,France,GPE,-0.15833333,0.35,en,1.0,,-1,,,,,,,Drought
-270,West Bengal,West Bengal,GPE,0.0825,0.29833333,en,1.0,4079196-8,1252881,X,24.0,88.0,ASIA,India,SAS,Drought
-271,Imperial Irrigation District,Imperial Irrigation District,LOC,0.3,1.0,en,1.0,,-1,,,,,,,Drought
-272,Arizona,Arizona,GPE,0.2,0.6,en,1.0,4002920-7,5551752,X,34.5003,-111.500979,NORTH-AMERICA,United States,WNA,Drought
-273,the Navajo County Sheriffs Office,the Navajo County Sheriffs Office,GPE,0.2,0.6,en,1.0,,-1,,,,,,,Drought
-274,K.D.,K.D.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-275,Andhra,Andhra,GPE,0.0,0.0,en,1.0,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Drought
-276,the LA Basin,the LA Basin,LOC,0.125,0.83333333,en,1.0,,-1,,,,,,,Drought
-277,Jharkhand,Jharkhand,GPE,0.07142857,0.14285714,en,1.0,4364512-4,1444365,X,23.75,85.5,ASIA,India,SAS,Drought
-278,Dallas,Dallas,GPE,0.025,0.21666667,en,1.0,,-1,,,,,,,Drought
-279,the Indus Valley,the Indus Valley,LOC,0.03122294,0.52272727,en,1.0,,-1,,,,,,,Drought
-280,Wash.,Wash.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-281,Wadi El-Raml,Wadi El-Raml,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-282,Peop,Peop,GPE,0.05,0.12380952,en,1.0,,-1,,,,,,,Drought
-283,Glasgow mount,Glasgow mount,GPE,0.9,0.9,en,1.0,,-1,,,,,,,Drought
-284,Ras El Hekma,Ras El Hekma,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Drought
-285,the Kiskatinaw River,the Kiskatinaw River,LOC,-0.05,0.8125,en,1.0,,-1,,,,,,,Drought
-286,RUSTON,RUSTON,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-287,La.,La.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-288,Midlands,Midlands,GPE,-0.3,0.7,en,1.0,,-1,,,,,,,Drought
-289,SC,SC,LOC,-0.3,0.7,en,1.0,,-1,,,,,,,Drought
-290,the Sri Lanka Women,the Sri Lanka Women,GPE,0.13727273,0.49,en,1.0,,-1,,,,,,,Drought
-291,South Carolina,South Carolina,GPE,-0.05,0.4,en,1.0,4055656-6,4597040,X,34.3,-81.0,NORTH-AMERICA,United States,ENA,Drought
-292,Mesopotamia,Mesopotamia,GPE,0.15,0.34666667,en,1.0,,-1,,,,,,,Drought
-293,Harappan,Harappan,LOC,-0.2,0.85,en,1.0,,-1,,,,,,,Drought
-294,Torit,Torit,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-295,Sudan,Sudan,GPE,0.0,0.0,en,1.0,4058378-8,366755,X,16.0,30.0,AFRICA,Sudan,SAH,Drought
-296,Palisades,Palisades,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-297,Nevada,Nevada,GPE,0.0,0.3,en,1.0,4041996-4,5509151,X,39.25021,-116.751189,NORTH-AMERICA,United States,WNA,Drought
-298,South Africa’s,South Africa’s,GPE,0.13636364,0.86287879,en,1.0,,-1,,,,,,,Drought
-299,Colombia,Colombia,GPE,0.0,0.0,en,1.0,4031812-6,3686110,X,4.0,-72.0,SOUTH-AMERICA,Colombia,NWS,Drought
-300,Indus,Indus,GPE,0.15,0.34666667,en,1.0,,-1,,,,,,,Drought
-301,Sichuan,Sichuan,GPE,0.7,0.9,en,1.0,,-1,,,,,,,Drought
-302,the River Park,the River Park,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Drought
-303,Moroccos Atlantic,Moroccos Atlantic,GPE,-0.25,0.2,en,1.0,,-1,,,,,,,Drought
-304,Lamar,Lamar,GPE,0.025,0.21666667,en,1.0,,-1,,,,,,,Drought
-305,K'tan,K'tan,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
-306,Columbia,Columbia,GPE,-0.05,0.4,en,1.0,,-1,,,,,,,Drought
-307,Jaunti,Jaunti,GPE,-0.15,0.2,en,1.0,,-1,,,,,,,Drought
-308,Southern Thailand,Southern Thailand,LOC,-0.15,0.2,en,1.0,,-1,,,,,,,Drought
-309,New Glenn,New Glenn,GPE,0.06818182,0.27727273,en,1.0,,-1,,,,,,,Drought
-310,Lokal,Lokal,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-311,Kuta Cot Glie,Kuta Cot Glie,GPE,-0.09583333,0.4875,en,1.0,,-1,,,,,,,Drought
-312,Germany,Germany,GPE,0.1,0.275,en,1.0,,-1,,,,,,,Drought
-313,Tacoma,Tacoma,GPE,0.07454545,0.43181818,en,1.0,,-1,,,,,,,Drought
-314,solarpunk city,solarpunk city,GPE,0.03333333,0.43333333,en,1.0,,-1,,,,,,,Drought
-315,KY,KY,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
-316,LOUISVILLE,LOUISVILLE,GPE,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
-317,Honolulu,Honolulu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-318,Corcoran 6 feet,Corcoran 6 feet,LOC,0.0,0.75,en,1.0,,-1,,,,,,,Drought
-319,ICC,ICC,GPE,0.0,0.03333333,en,1.0,,-1,,,,,,,Drought
-320,Cappadocia,Cappadocia,GPE,0.25,0.55,en,1.0,,-1,,,,,,,Drought
-321,United States,United States,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-322,feasibili,feasibili,GPE,0.05844156,0.34520202,en,1.0,,-1,,,,,,,Drought
-323,Switzerland,Switzerland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-324,Kholm,Kholm,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-325,Central Valley,Central Valley,LOC,0.0,0.75,en,1.0,,-1,,,,,,,Drought
-326,the Aegean Sea,the Aegean Sea,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-327,Santorini,Santorini,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-328,Jakarta,Jakarta,GPE,0.0,0.25,en,1.0,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Drought
-329,Galveston Island Brewing,Galveston Island Brewing,GPE,0.0125,0.2,en,1.0,,-1,,,,,,,Drought
-330,Galveston,Galveston,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-331,earth,earth,LOC,0.0,0.06666667,en,1.0,,-1,,,,,,,Drought
-332,the Sargassum Belt,the Sargassum Belt,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-333,Caribbean beaches,Caribbean beaches,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Drought
-334,Delhi NCR,Delhi NCR,GPE,0.3,0.95,en,1.0,,-1,,,,,,,Drought
-335,Crete,Crete,GPE,0.04545455,0.38207071,en,1.0,,-1,,,,,,,Drought
-336,Central Iowa,Central Iowa,LOC,0.125,0.29166667,en,1.0,,-1,,,,,,,Drought
-337,Peloponnese,Peloponnese,GPE,0.04545455,0.38207071,en,1.0,,-1,,,,,,,Drought
-338,the Tibetan Plateau,the Tibetan Plateau,LOC,0.0625,0.5,en,1.0,,-1,,,,,,,Drought
-339,Watts Water,Watts Water,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-340,Sonapurs,Sonapurs,GPE,-0.05555556,0.44444444,en,1.0,,-1,,,,,,,Drought
-341,Williams,Williams,GPE,0.03333333,0.35,en,1.0,,-1,,,,,,,Drought
-342,Bellingham,Bellingham,GPE,-0.1,0.5,en,1.0,,-1,,,,,,,Drought
-343,Johor,Johor,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Drought
-344,J.G.,J.G.,GPE,-0.16666667,0.16666667,en,1.0,,-1,,,,,,,Drought
-345,the San Joaquin Valley,the San Joaquin Valley,LOC,0.0,0.125,en,1.0,,-1,,,,,,,Drought
-346,NEW YORK,NEW YORK,GPE,-0.09848485,0.56060606,en,1.0,,-1,,,,,,,Drought
-347,Northwest Delhi,Northwest Delhi,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Drought
-348,votar,votar,GPE,0.14166667,0.2,en,1.0,,-1,,,,,,,Drought
-349,Jamaica,Jamaica,GPE,0.0,0.0,en,1.0,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Drought
-350,sma,sma,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-351,Empire,Empire,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-352,Central-Southeast Europe,Central-Southeast Europe,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-353,the Gulf of California,the Gulf of California,LOC,0.23888889,0.63777778,en,1.0,,-1,,,,,,,Drought
-354,Jurassic Park,Jurassic Park,GPE,0.3,0.35,en,1.0,,-1,,,,,,,Drought
-355,Kyiv,Kyiv,GPE,0.0,0.0,en,1.0,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Drought
-356,Donbas,Donbas,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-357,visibil,visibil,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Drought
-358,Rockies,Rockies,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-359,the Global South,the Global South,LOC,-0.25,0.25,en,1.0,,-1,,,,,,,Drought
-360,Florida Everglades,Florida Everglades,GPE,-0.1,0.05,en,1.0,,-1,,,,,,,Drought
-361,Capital,Capital,GPE,-0.3,0.2,en,1.0,,-1,,,,,,,Drought
-362,Corner Brook,Corner Brook,LOC,0.0,0.3,en,1.0,4793714-2,5927969,X,48.966709,-57.948399,NORTH-AMERICA,,ENA,Drought
-363,Tabalong,Tabalong,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-364,Las Vegas Desert,Las Vegas Desert,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Drought
-365,Haruai,Haruai,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-366,Tarquinia,Tarquinia,GPE,0.0,0.0,en,1.0,4105777-6,3165919,X,42.25419,11.75657,EUROPE-AFRICA,Italy,MED,Drought
-367,Italy,Italy,GPE,-0.2,0.375,en,1.0,,-1,,,,,,,Drought
-368,The National Oceanic,The National Oceanic,LOC,0.125,0.4375,en,1.0,,-1,,,,,,,Drought
-369,San Diego,San Diego,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-370,the Jammu Region,the Jammu Region,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-371,Spain,Spain,GPE,0.1,0.4,en,1.0,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Drought
-372,Dolgarrog village,Dolgarrog village,GPE,-0.05,0.225,en,1.0,,-1,,,,,,,Drought
-373,farmingrebuilding soil health,farmingrebuilding soil health,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-374,Brazils,Brazils,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-375,Bronx,Bronx,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-376,Queens,Queens,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-377,Brooklyn,Brooklyn,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-378,north Wales,north Wales,GPE,-0.05,0.225,en,1.0,,-1,,,,,,,Drought
-379,Ghost Coast,Ghost Coast,GPE,0.0125,0.2,en,1.0,,-1,,,,,,,Drought
-380,Tauranga,Tauranga,GPE,0.19318182,0.47727273,en,1.0,4379727-1,2208032,X,-37.686109,176.16667,OCEANIA,New Zealand,NZ,Drought
-381,New England,New England,LOC,-0.03787879,0.40151515,en,1.0,,-1,,,,,,,Drought
-382,UMass Amherst,UMass Amherst,GPE,0.1,0.4,en,1.0,,-1,,,,,,,Drought
-383,the Urmia lake basin,the Urmia lake basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-384,Adediran,Adediran,GPE,0.0,0.6,en,1.0,,-1,,,,,,,Drought
-385,previou,previou,GPE,0.35,0.05,en,1.0,,-1,,,,,,,Drought
-386,the Paris of South America,the Paris of South America,GPE,0.375,0.75,en,1.0,,-1,,,,,,,Drought
-387,The Bay Area's,The Bay Area's,LOC,-0.1,0.4,en,1.0,,-1,,,,,,,Drought
-388,Southeast Asia's,Southeast Asia's,LOC,0.6,0.9,en,1.0,,-1,,,,,,,Drought
-389,Rainfall,Rainfall,GPE,-0.24333333,0.59333333,en,1.0,,-1,,,,,,,Drought
-390,Amirkabir dam,Amirkabir dam,LOC,-0.6,0.8,en,1.0,,-1,,,,,,,Drought
-391,Colo.,Colo.,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-392,Redding,Redding,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-393,Vishwamitri river,Vishwamitri river,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-394,Janus,Janus,LOC,-0.07142857,0.14285714,en,1.0,,-1,,,,,,,Drought
-395,Soil Moisture and Ocean Salinity,Soil Moisture and Ocean Salinity,LOC,-0.1,0.2,en,1.0,,-1,,,,,,,Drought
-396,Belém,Belém,GPE,0.0,0.25,en,1.0,,-1,,,,,,,Drought
-397,Ethiopia,Ethiopia,GPE,0.0,0.0,en,1.0,4000639-6,337996,X,8.0,38.0,AFRICA,Ethiopia,NEAF,Drought
-398,Urmia lake basin,Urmia lake basin,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-399,Latyan dam,Latyan dam,LOC,0.0625,0.69166667,en,1.0,,-1,,,,,,,Drought
-400,Middle East,Middle East,LOC,0.0625,0.69166667,en,1.0,,-1,,,,,,,Drought
-401,Kiskatinaw River,Kiskatinaw River,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-402,South Australia,South Australia,LOC,-0.06333333,0.46,en,1.0,,-1,,,,,,,Drought
-403,Yemen,Yemen,GPE,-0.4,0.65,en,1.0,4073009-8,69543,X,15.5,47.5,ASIA,Yemen,ARP,Drought
-404,Syria,Syria,GPE,-0.4,0.65,en,1.0,4058794-0,163843,X,35.0,38.0,EUROPE-AFRICA,Syria,MED,Drought
-413,Latin America Encuentra,Latin America Encuentra,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-414,Buenos Aires,Buenos Aires,GPE,0.375,0.75,en,1.0,4008756-6,3435910,X,-34.613149,-58.377229,SOUTH-AMERICA,Argentina,SES,Drought
-415,Kingston,Kingston,GPE,0.0,0.3,en,1.0,,-1,,,,,,,Drought
-448,Lake Tefé,Lake Tefé,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-449,The United Arab Emirates,The United Arab Emirates,GPE,0.175,0.275,en,1.0,,-1,,,,,,,Drought
-450,the City Sinks Into,the City Sinks Into,GPE,-0.1,0.0,en,1.0,,-1,,,,,,,Drought
-451,the City Sinks Into the Desert,the City Sinks Into the Desert,GPE,-0.1,0.0,en,1.0,,-1,,,,,,,Drought
-422,Gujarat,Gujarat,GPE,0.0,1.0,en,1.0,4118450-6,1270770,X,23.0,72.0,ASIA,India,SAS,Drought
-423,SAN JOSE,SAN JOSE,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-424,the Great Lakes,the Great Lakes,LOC,0.8,0.75,en,1.0,,-1,,,,,,,Drought
-425,Pacific Ocean,Pacific Ocean,LOC,0.06666667,0.2,en,1.0,,-1,,,,,,,Drought
-426,El Paso,El Paso,GPE,0.2,1.0,en,1.0,,-1,,,,,,,Drought
-427,the San Luis Valley,the San Luis Valley,LOC,0.24659091,0.4219697,en,1.0,,-1,,,,,,,Drought
-428,Portland,Portland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-429,South Sudan,South Sudan,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Drought
-430,Vishwamitri River,Vishwamitri River,LOC,0.6,0.95,en,1.0,,-1,,,,,,,Drought
+0,India,India,GPE,0.18504317,0.93737196,en,21.3,,-1,,,,,,,Wet Spell
+1,Tamil Nadu,Tamil Nadu,GPE,-0.06911253,0.8768516,en,16.7,4078142-2,1255053,X,11.0,78.0,ASIA,India,SAS,Wet Spell
+2,Chennai,Chennai,GPE,-0.00261111,0.69341162,en,15.0,5351481-6,1264527,X,13.087777,80.278333,ASIA,India,SAS,Wet Spell
+3,Kelantan,Kelantan,GPE,0.03252874,0.51867816,en,14.5,4097779-1,1733044,X,5.33333,102.0,ASIA,Malaysia,SEA,Wet Spell
+4,South Africa,South Africa,GPE,0.36716212,0.55998213,en,11.4,4078012-0,953987,X,-29.0,24.0,AFRICA,South Africa,WSAF,Wet Spell
+5,Sri Lanka,Sri Lanka,GPE,0.33156183,1.10861519,en,9.9,4009696-8,1227603,X,7.0,81.0,INDIAN,Sri Lanka,BOB,Wet Spell
+6,Ireland,Ireland,GPE,-0.04560911,0.480733,en,8.2,4027667-3,2963597,X,53.0,-8.0,EUROPE,Ireland,NEU,Wet Spell
+7,New Zealand,New Zealand,GPE,0.23162505,0.95477334,en,8.2,,-1,,,,,,,Wet Spell
+8,US,US,GPE,0.0560396,1.01398707,en,7.9,,-1,,,,,,,Wet Spell
+9,Vietnam,Vietnam,GPE,-0.42472944,0.91558442,en,7.0,4063514-4,1562822,X,16.166669,107.83333,ASIA,Vietnam,SEA,Wet Spell
+10,Southern California,Southern California,LOC,0.16867201,0.46942959,en,6.8,,-1,,,,,,,Wet Spell
+11,Ukraine,Ukraine,GPE,0.04726476,0.93070524,en,6.7,4061496-7,690791,X,49.0,32.0,EUROPE,Ukraine,WCE,Wet Spell
+12,Brazil,Brazil,GPE,0.13156566,0.87651515,en,6.0,4008003-1,3469034,X,-10.0,-55.0,SOUTH-AMERICA,Brazil,SAM,Wet Spell
+13,Tiruvallur,Tiruvallur,GPE,-0.09561782,0.25862069,en,5.8,,-1,,,,,,,Wet Spell
+14,Kerala,Kerala,GPE,-0.00884503,0.35716374,en,5.7,4030266-0,1267254,X,10.0,76.5,ASIA,India,SAS,Wet Spell
+15,Indonesia,Indonesia,GPE,0.23592612,0.89595417,en,5.7,4026761-1,1643084,X,-5.0,120.0,ASIA,Indonesia,SEA,Wet Spell
+16,Australia,Australia,GPE,0.36718221,1.2766706,en,5.5,,-1,,,,,,,Wet Spell
+17,Pahang,Pahang,GPE,0.02562893,0.44842767,en,5.3,4301609-1,1733042,X,3.5,102.75,ASIA,Malaysia,SEA,Wet Spell
+18,Greece,Greece,GPE,0.04041781,0.64122329,en,5.2,,-1,,,,,,,Wet Spell
+19,Thailand,Thailand,GPE,-0.1017316,0.64757267,en,4.9,4078228-1,1605651,X,15.0,100.0,ASIA,Thailand,SEA,Wet Spell
+20,Terengganu,Terengganu,GPE,0.03510638,0.4143617,en,4.7,,-1,,,,,,,Wet Spell
+23,Padang Besar,Padang Besar,GPE,0.10811335,0.32078157,en,4.6,,-1,,,,,,,Wet Spell
+21,Gaza,Gaza,GPE,-0.23185661,1.02495059,en,4.6,,-1,,,,,,,Wet Spell
+22,Meghalaya,Meghalaya,GPE,-0.05706522,0.2509058,en,4.6,4281475-3,1263207,X,25.5,91.33333,ASIA,India,SAS,Wet Spell
+24,Queensland,Queensland,GPE,-0.00892857,1.08075397,en,4.5,4103475-2,2152274,X,-20.0,145.0,OCEANIA,Australia,NAU,Wet Spell
+25,Israel,Israel,GPE,-0.23627261,0.6119186,en,4.3,4027808-6,294640,X,31.5,34.75,EUROPE-AFRICA,Israel,MED,Wet Spell
+26,Pakistan,Pakistan,GPE,0.56342495,0.78118393,en,4.3,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Wet Spell
+27,Russia,Russia,GPE,0.3374677,0.92758398,en,4.3,,-1,,,,,,,Wet Spell
+28,Andhra Pradesh,Andhra Pradesh,GPE,0.22092803,1.00835227,en,4.0,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Wet Spell
+29,Colombo,Colombo,GPE,0.49750797,0.8870614,en,3.8,4010404-7,1248991,X,6.93194,79.84778,INDIAN,Sri Lanka,EIO,Wet Spell
+32,Sarawak,Sarawak,GPE,0.17867868,0.37687688,en,3.7,4051682-9,1733038,X,2.5,113.5,ASIA,Malaysia,SEA,Wet Spell
+33,England,England,GPE,-0.08918919,0.57297297,en,3.7,4014770-8,6269131,X,52.160449,-0.70312,EUROPE,United Kingdom,NEU,Wet Spell
+31,Dubai,Dubai,GPE,0.26137387,0.83434685,en,3.7,4204043-7,292224,X,25.0,55.333333,ASIA,United Arab Emirates,ARP,Wet Spell
+30,Mars,Mars,LOC,0.24314428,0.54303849,en,3.7,,-1,,,,,,,Wet Spell
+34,Puducherry,Puducherry,GPE,-0.04227273,0.90625541,en,3.5,16023115-2,1259425,X,11.933809,79.82979,ASIA,India,SAS,Wet Spell
+35,Allschwil,Allschwil,GPE,0.0,0.0,en,3.4,,-1,,,,,,,Wet Spell
+36,the United States,the United States,GPE,0.11948529,0.21078431,en,3.4,,-1,,,,,,,Wet Spell
+37,Hungary,Hungary,GPE,0.32703081,0.61554622,en,3.4,4078541-5,719819,X,47.0,20.0,EUROPE,Hungary,WCE,Wet Spell
+38,Los Angeles,Los Angeles,GPE,0.20707071,1.19191919,en,3.3,,-1,,,,,,,Wet Spell
+39,Punjab,Punjab,GPE,-0.20555556,1.20243056,en,3.2,,-1,,,,,,,Wet Spell
+40,Himachal,Himachal,GPE,0.14516129,0.93145161,en,3.1,,-1,,,,,,,Wet Spell
+43,Earth,Earth,LOC,-0.05609848,0.93161616,en,3.0,,-1,,,,,,,Wet Spell
+44,China,China,GPE,-0.02867063,1.23115079,en,3.0,4009937-4,1814991,X,35.0,105.0,ASIA,China,EAS,Wet Spell
+45,Mumbai,Mumbai,GPE,0.36322872,1.94764883,en,3.0,10013721-0,1275339,X,19.072777,72.8825,ASIA,India,SAS,Wet Spell
+42,Bangladesh,Bangladesh,GPE,-0.08888889,0.53333333,en,3.0,4130903-0,1210997,X,24.0,90.0,ASIA,Bangladesh,SAS,Wet Spell
+41,Dublin,Dublin,GPE,0.2,0.56666667,en,3.0,4013170-1,2964574,X,53.33306,-6.24889,EUROPE,Ireland,NEU,Wet Spell
+46,New York,New York,GPE,0.14334727,0.61522118,en,2.9,,-1,,,,,,,Wet Spell
+47,Bengal,Bengal,GPE,-0.24687951,1.23611111,en,2.8,,-1,,,,,,,Wet Spell
+48,Istanbul,Istanbul,GPE,-0.05257937,0.56547619,en,2.8,4027821-9,745044,X,41.013611,28.949444,EUROPE-AFRICA,Turkey,MED,Wet Spell
+49,Northeast Monsoon,Northeast Monsoon,LOC,0.03125,0.60565476,en,2.8,,-1,,,,,,,Wet Spell
+50,Guwahati,Guwahati,GPE,-0.03571429,0.39285714,en,2.8,4368296-0,1271476,X,26.18617,91.75095,ASIA,India,SAS,Wet Spell
+51,Padas River,Padas River,LOC,0.13839286,0.37946429,en,2.8,,-1,,,,,,,Wet Spell
+52,Pradesh,Pradesh,GPE,0.13392857,0.62946429,en,2.8,,-1,,,,,,,Wet Spell
+53,Orang Asli,Orang Asli,GPE,0.04017857,0.61755952,en,2.8,,-1,,,,,,,Wet Spell
+54,Songkhla,Songkhla,GPE,0.125,0.19642857,en,2.8,,-1,,,,,,,Wet Spell
+55,Beaufort,Beaufort,GPE,0.13839286,0.37946429,en,2.8,,-1,,,,,,,Wet Spell
+56,California,California,GPE,0.06652637,0.90611672,en,2.7,,-1,,,,,,,Wet Spell
+58,Kahilipara,Kahilipara,GPE,0.0,0.0,en,2.6,,-1,,,,,,,Wet Spell
+59,Rupnagar,Rupnagar,GPE,0.0,0.0,en,2.6,,-1,,,,,,,Wet Spell
+60,Texas,Texas,GPE,0.14615385,0.46923077,en,2.6,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Wet Spell
+61,KUALA LUMPUR,KUALA LUMPUR,GPE,0.0784188,0.34626068,en,2.6,,-1,,,,,,,Wet Spell
+57,Malaysia,Malaysia,GPE,0.12952603,0.46202409,en,2.6,4037203-0,1733045,X,2.5,112.5,ASIA,Malaysia,SEA,Wet Spell
+62,Asia,Asia,LOC,0.05966667,0.832,en,2.5,,-1,,,,,,,Wet Spell
+63,North Island,North Island,LOC,0.02666667,0.99666667,en,2.5,,-1,,,,,,,Wet Spell
+64,New Delhi,New Delhi,GPE,0.28099747,1.75888047,en,2.4,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Wet Spell
+65,Canada,Canada,GPE,0.19022817,0.5978836,en,2.4,4029456-0,6251999,X,60.108669,-113.642579,NORTH-AMERICA,Canada,NWN,Wet Spell
+66,Slovenia,Slovenia,GPE,-0.1656746,0.48611111,en,2.4,4055302-4,3190538,X,46.25,15.166669,EUROPE,Slovenia,WCE,Wet Spell
+69,Gujarat,Gujarat,GPE,0.14295125,0.61835749,en,2.3,4118450-6,1270770,X,23.0,72.0,ASIA,India,SAS,Wet Spell
+67,Europe,Europe,LOC,0.58913906,1.25818668,en,2.3,,-1,,,,,,,Wet Spell
+68,Kashmir,Kashmir,LOC,0.10671937,1.18181818,en,2.3,,-1,,,,,,,Wet Spell
+71,West Bengal,West Bengal,LOC,-0.13636364,1.31818182,en,2.2,4079196-8,1252881,X,24.0,88.0,ASIA,India,SAS,Wet Spell
+72,Corfu,Corfu,GPE,0.02651515,0.69318182,en,2.2,,-1,,,,,,,Wet Spell
+73,Bay of Plenty,Bay of Plenty,LOC,-0.15909091,0.83333333,en,2.2,,-1,,,,,,,Wet Spell
+74,Sumatra,Sumatra,GPE,-0.12121212,0.19318182,en,2.2,,-1,,,,,,,Wet Spell
+75,Ecuador,Ecuador,GPE,-0.01616162,0.46060606,en,2.2,4129321-6,3658394,X,-2.0,-77.5,SOUTH-AMERICA,Ecuador,NWS,Wet Spell
+76,Sweden,Sweden,GPE,0.11363636,0.15151515,en,2.2,4077258-5,2661886,X,62.0,15.0,EUROPE,Sweden,NEU,Wet Spell
+70,Philippines,Philippines,GPE,-0.0559573,0.94731405,en,2.2,4045771-0,1694008,X,13.0,122.0,ASIA,,SEA,Wet Spell
+78,Hyderabad,Hyderabad,GPE,0.03084416,0.56547619,en,2.1,,-1,,,,,,,Wet Spell
+79,the West Coast,the West Coast,LOC,0.1984127,0.88888889,en,2.1,,-1,,,,,,,Wet Spell
+77,Attica,Attica,GPE,-0.05329082,0.35981481,en,2.1,,-1,,,,,,,Wet Spell
+80,Mizoram,Mizoram,GPE,0.01666667,0.18333333,en,2.0,4282128-9,1262963,X,23.0,93.0,ASIA,India,SAS,Wet Spell
+81,Rochdale,Rochdale,GPE,-0.125,0.375,en,2.0,4050218-1,2639272,X,53.61766,-2.155199,EUROPE,United Kingdom,NEU,Wet Spell
+90,NEW DELHI,NEW DELHI,GPE,0.06551037,0.90213982,en,1.9,,-1,,,,,,,Wet Spell
+97,Southend,Southend,GPE,-0.27631579,0.40789474,en,1.9,,-1,,,,,,,Wet Spell
+96,Nairobi,Nairobi,GPE,-0.09221772,0.30139451,en,1.9,4041172-2,184745,X,-1.28333,36.81667,AFRICA,Kenya,SEAF,Wet Spell
+95,MTL,MTL,LOC,0.00657895,0.6995614,en,1.9,,-1,,,,,,,Wet Spell
+94,ISTANBUL,ISTANBUL,GPE,0.25073099,0.87719298,en,1.9,,-1,,,,,,,Wet Spell
+93,the Tasik Subang Dam,the Tasik Subang Dam,GPE,0.18421053,0.28947368,en,1.9,,-1,,,,,,,Wet Spell
+92,Puducherry coast,Puducherry coast,GPE,0.0,0.0,en,1.9,,-1,,,,,,,Wet Spell
+91,LOS ANGELES,LOS ANGELES,GPE,0.09473684,0.56842105,en,1.9,,-1,,,,,,,Wet Spell
+85,Wales,Wales,GPE,0.47368421,0.92105263,en,1.9,,-1,,,,,,,Wet Spell
+89,Jammu,Jammu,GPE,0.00199362,1.07535885,en,1.9,4387357-1,1269321,X,32.735689,74.86911,ASIA,India,WCA,Wet Spell
+87,UK,UK,GPE,-0.13596491,0.72807018,en,1.9,,-1,,,,,,,Wet Spell
+86,Argentina,Argentina,GPE,0.27836257,0.62604997,en,1.9,,-1,,,,,,,Wet Spell
+82,North Bengal,North Bengal,LOC,-0.18421053,0.91842105,en,1.9,,-1,,,,,,,Wet Spell
+84,the Soviet Union,the Soviet Union,GPE,0.98157895,1.35584795,en,1.9,,-1,,,,,,,Wet Spell
+83,Las Vegas,Las Vegas,GPE,0.73888889,1.61289208,en,1.9,,-1,,,,,,,Wet Spell
+88,Kenya,Kenya,GPE,0.09502924,0.43128655,en,1.9,4030236-2,192950,X,1.0,38.0,AFRICA,Kenya,SEAF,Wet Spell
+106,Shillong,Shillong,GPE,-0.16435185,0.4375,en,1.8,4329360-8,1256523,X,25.568919,91.883129,ASIA,India,SAS,Wet Spell
+114,this Northeast Monsoon,this Northeast Monsoon,LOC,0.03611111,0.39212963,en,1.8,,-1,,,,,,,Wet Spell
+113,Udu Dumbara,Udu Dumbara,GPE,-0.09027778,0.24305556,en,1.8,,-1,,,,,,,Wet Spell
+112,Kandy District,Kandy District,GPE,-0.09027778,0.24305556,en,1.8,,-1,,,,,,,Wet Spell
+111,Rochester,Rochester,GPE,0.07393378,0.50673401,en,1.8,,-1,,,,,,,Wet Spell
+110,the Hunnasgiriya area,the Hunnasgiriya area,LOC,-0.09027778,0.24305556,en,1.8,,-1,,,,,,,Wet Spell
+108,Cyprus,Cyprus,GPE,0.02430556,0.31597222,en,1.8,,-1,,,,,,,Wet Spell
+107,Shan State,Shan State,LOC,-0.13333333,0.57777778,en,1.8,,-1,,,,,,,Wet Spell
+109,Patna,Patna,GPE,-0.16435185,0.4375,en,1.8,4221553-5,1260086,X,25.602219,85.11936,ASIA,India,SAS,Wet Spell
+105,Joburg,Joburg,GPE,0.17592593,0.51851852,en,1.8,,-1,,,,,,,Wet Spell
+103,U.S.,U.S.,GPE,0.28828463,0.95102814,en,1.8,,-1,,,,,,,Wet Spell
+102,Switzerland,Switzerland,GPE,0.0,0.0,en,1.8,,-1,,,,,,,Wet Spell
+101,Bengaluru,Bengaluru,GPE,-0.05555556,0.33333333,en,1.8,4004431-2,1277333,X,12.97194,77.593689,ASIA,India,SAS,Wet Spell
+100,Mohali,Mohali,GPE,-0.00347222,0.13078704,en,1.8,,-1,,,,,,,Wet Spell
+99,the Kelani River basin,the Kelani River basin,LOC,0.05601852,0.3412037,en,1.8,,-1,,,,,,,Wet Spell
+104,Northeast,Northeast,LOC,0.21230159,0.53108466,en,1.8,,-1,,,,,,,Wet Spell
+98,Delhi-NCR,Delhi-NCR,GPE,-0.10884354,0.36054422,en,1.8,,-1,,,,,,,Wet Spell
+115,Delhi,Delhi,GPE,0.36470588,0.98823529,en,1.7,4011371-1,1273294,X,28.65381,77.22897,ASIA,India,SAS,Wet Spell
+116,Rajasthan,Rajasthan,GPE,0.47712418,1.24836601,en,1.7,4076502-7,1258899,X,26.0,74.0,ASIA,India,SAS,Wet Spell
+134,Southern Zambia,Southern Zambia,LOC,0.0,0.0,en,1.6,,-1,,,,,,,Wet Spell
+130,America,America,GPE,0.39950284,0.72620739,en,1.6,,-1,,,,,,,Wet Spell
+132,Western Australia,Western Australia,LOC,-0.0078125,0.57447917,en,1.6,,-1,,,,,,,Wet Spell
+133,Indonesias Sumatra,Indonesias Sumatra,GPE,0.18541667,0.95625,en,1.6,,-1,,,,,,,Wet Spell
+139,Guiana,Guiana,GPE,0.0,0.0,en,1.6,4072186-3,3378535,X,5.0,-59.0,SOUTH-AMERICA,Guyana,NSA,Wet Spell
+135,Mediterranean,Mediterranean,LOC,0.03125,0.40625,en,1.6,,-1,,,,,,,Wet Spell
+136,Southeast,Southeast,LOC,0.23524306,0.83246528,en,1.6,,-1,,,,,,,Wet Spell
+137,Miami,Miami,GPE,0.375,0.9375,en,1.6,,-1,,,,,,,Wet Spell
+138,Pune,Pune,GPE,0.16145833,0.29166667,en,1.6,16035299-X,1259229,X,18.519444,73.855277,ASIA,India,SAS,Wet Spell
+128,Auckland,Auckland,GPE,0.19270833,0.92708333,en,1.6,4086091-7,2193733,X,-36.866666,174.766666,OCEANIA,New Zealand,NZ,Wet Spell
+129,Lahore,Lahore,GPE,0.375,0.5625,en,1.6,4034107-0,1172451,X,31.54972,74.343609,ASIA,Pakistan,WCA,Wet Spell
+131,Houston,Houston,GPE,-0.0625,0.0625,en,1.6,,-1,,,,,,,Wet Spell
+127,Poland,Poland,GPE,0.08482143,0.25892857,en,1.6,,-1,,,,,,,Wet Spell
+126,Kiev,Kiev,GPE,0.12743506,0.27597403,en,1.6,4030522-3,703448,X,50.454722,30.523888,EUROPE,Ukraine,WCE,Wet Spell
+125,Gisborne,Gisborne,GPE,0.015625,0.75520833,en,1.6,4718057-2,2206854,X,-38.653329,178.004169,OCEANIA,New Zealand,NZ,Wet Spell
+124,East Texas,East Texas,LOC,0.0217803,0.32954545,en,1.6,,-1,,,,,,,Wet Spell
+123,West Indies,West Indies,GPE,0.15909091,0.51988636,en,1.6,,-1,,,,,,,Wet Spell
+122,the Bay of Bengal,the Bay of Bengal,LOC,-0.0164536,0.45513731,en,1.6,,-1,,,,,,,Wet Spell
+121,Cambodia,Cambodia,GPE,0.04261364,0.17329545,en,1.6,4029400-6,1831722,X,13.0,105.0,ASIA,Cambodia,SEA,Wet Spell
+120,Iceland,Iceland,GPE,0.140625,0.69791667,en,1.6,4027754-9,2629691,X,65.0,-18.0,POLAR,Iceland,GIC,Wet Spell
+119,Italy,Italy,GPE,-0.16145833,0.66666667,en,1.6,,-1,,,,,,,Wet Spell
+118,Taiwan,Taiwan,GPE,-0.59722222,0.80555556,en,1.6,4017875-4,1668284,X,24.0,121.0,ASIA,Taiwan,EAS,Wet Spell
+117,Andhra,Andhra,GPE,-0.00795455,0.25,en,1.6,4001934-2,1278629,X,16.0,79.0,ASIA,India,SAS,Wet Spell
+140,Karnataka,Karnataka,GPE,-0.06666667,0.16666667,en,1.5,4110022-0,1267701,X,13.5,76.0,ASIA,India,SAS,Wet Spell
+142,ROME,ROME,GPE,-0.19047619,0.26190476,en,1.4,,-1,,,,,,,Wet Spell
+141,the Pacific Northwest,the Pacific Northwest,LOC,0.22619048,0.61904762,en,1.4,,-1,,,,,,,Wet Spell
+186,Villupuram,Villupuram,GPE,-0.16153846,0.43846154,en,1.3,,-1,,,,,,,Wet Spell
+174,Wellington,Wellington,GPE,0.09032634,0.64189977,en,1.3,4119042-7,2179537,X,-41.286388,174.775555,OCEANIA,New Zealand,NZ,Wet Spell
+175,Rift Valley,Rift Valley,LOC,0.04807692,0.2724359,en,1.3,,-1,,,,,,,Wet Spell
+176,COLOMBO,COLOMBO,GPE,0.16729798,0.65506022,en,1.3,,-1,,,,,,,Wet Spell
+177,Peru,Peru,GPE,-0.02735043,0.77948718,en,1.3,4045312-1,3932488,X,-10.0,-76.0,SOUTH-AMERICA,Peru,NWS,Wet Spell
+178,the Gulf Coast,the Gulf Coast,LOC,0.31517094,0.8707265,en,1.3,,-1,,,,,,,Wet Spell
+179,Kigali,Kigali,GPE,-0.14102564,0.21794872,en,1.3,4495092-5,202061,X,-1.94995,30.058849,AFRICA,Rwanda,SEAF,Wet Spell
+180,Zakynthos,Zakynthos,GPE,-0.0294289,0.61645299,en,1.3,,-1,,,,,,,Wet Spell
+181,Odisha,Odisha,GPE,0.0298951,0.44749417,en,1.3,1319054684,1261029,X,20.5,84.416669,ASIA,India,SAS,Wet Spell
+182,South Australia,South Australia,GPE,-0.61538462,1.30769231,en,1.3,,-1,,,,,,,Wet Spell
+183,Goolwa Beach,Goolwa Beach,GPE,-0.61538462,1.30769231,en,1.3,,-1,,,,,,,Wet Spell
+184,Chengalpattu,Chengalpattu,GPE,-0.06538462,0.15,en,1.3,,-1,,,,,,,Wet Spell
+185,Thiruvallur,Thiruvallur,GPE,-0.06538462,0.15,en,1.3,,-1,,,,,,,Wet Spell
+193,Sumatra island,Sumatra island,LOC,-0.09230769,0.21538462,en,1.3,,-1,,,,,,,Wet Spell
+187,the Northern Territory,the Northern Territory,LOC,-0.12820513,0.52564103,en,1.3,,-1,,,,,,,Wet Spell
+188,Darjeeling,Darjeeling,GPE,-0.33076923,0.82692308,en,1.3,4011057-6,1273467,X,27.033329,88.26667,ASIA,India,TIB,Wet Spell
+189,Canberra,Canberra,GPE,0.25641026,0.55512821,en,1.3,4085133-3,2172517,X,-35.283459,149.12807,OCEANIA,Australia,SAU,Wet Spell
+190,Aitoloakarnania,Aitoloakarnania,GPE,0.15384615,0.46153846,en,1.3,,-1,,,,,,,Wet Spell
+191,Peninsular Malaysia,Peninsular Malaysia,GPE,0.06837607,0.83760684,en,1.3,,-1,,,,,,,Wet Spell
+192,Wicklow,Wicklow,GPE,0.0,0.19230769,en,1.3,,-1,,,,,,,Wet Spell
+194,Aceh,Aceh,GPE,0.0,0.0,en,1.3,,-1,,,,,,,Wet Spell
+195,Jakarta,Jakarta,GPE,0.16777865,0.45918367,en,1.3,4012546-4,1642911,X,-6.21462,106.845129,ASIA,Indonesia,SEA,Wet Spell
+196,Berlin,Berlin,GPE,0.1517094,0.36538462,en,1.3,4005728-8,2950157,X,52.5,13.416669,EUROPE,Germany,WCE,Wet Spell
+197,Oyam district,Oyam district,GPE,0.15384615,0.15384615,en,1.3,,-1,,,,,,,Wet Spell
+198,Jamaica,Jamaica,GPE,-0.15384615,0.38461538,en,1.3,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Wet Spell
+199,Uganda,Uganda,GPE,0.15384615,0.15384615,en,1.3,4061457-8,226074,X,2.0,33.0,AFRICA,Uganda,SEAF,Wet Spell
+172,Ladakh,Ladakh,GPE,-0.11538462,0.96153846,en,1.3,,-1,,,,,,,Wet Spell
+173,Tauranga,Tauranga,GPE,0.0,0.0,en,1.3,4379727-1,2208032,X,-37.686109,176.16667,OCEANIA,New Zealand,NZ,Wet Spell
+169,Bokurdak,Bokurdak,GPE,-0.07692308,0.45726496,en,1.3,,-1,,,,,,,Wet Spell
+171,Cairns,Cairns,GPE,-0.15384615,0.30769231,en,1.3,4376462-9,2172797,X,-16.92304,145.76625,OCEANIA,Australia,NAU,Wet Spell
+156,Twickenham,Twickenham,GPE,0.0,0.76923077,en,1.3,4128199-8,2635308,X,51.445399,-0.32968,EUROPE,United Kingdom,NEU,Wet Spell
+143,Chhattisgarh,Chhattisgarh,GPE,-0.06293706,0.32867133,en,1.3,4670233-7,1444364,X,21.5,82.0,ASIA,India,SAS,Wet Spell
+144,Wexford,Wexford,GPE,0.0,0.19230769,en,1.3,4405190-6,2960964,X,52.33417,-6.457499,EUROPE,,NEU,Wet Spell
+145,B.C.,B.C.,GPE,0.25641026,0.8525641,en,1.3,,-1,,,,,,,Wet Spell
+146,Gaza City,Gaza City,GPE,-0.34615385,0.57692308,en,1.3,,-1,,,,,,,Wet Spell
+147,Carlow,Carlow,GPE,0.0,0.19230769,en,1.3,4089031-4,2965768,X,52.840829,-6.92611,EUROPE,Ireland,NEU,Wet Spell
+148,Sirmaur,Sirmaur,GPE,0.23076923,0.53846154,en,1.3,4641185-9,1256072,X,24.83539,81.36605,ASIA,India,SAS,Wet Spell
+149,Kilkenny,Kilkenny,GPE,0.0,0.19230769,en,1.3,4265639-4,2963398,X,52.65417,-7.25222,EUROPE,Ireland,NEU,Wet Spell
+150,Northland,Northland,GPE,0.23717949,0.98717949,en,1.3,,-1,,,,,,,Wet Spell
+151,Uttar Pradesh,Uttar Pradesh,GPE,-0.13888889,0.58760684,en,1.3,,-1,,,,,,,Wet Spell
+152,South,South,LOC,-0.10683761,0.52991453,en,1.3,,-1,,,,,,,Wet Spell
+153,Galway,Galway,GPE,-0.04807692,0.14423077,en,1.3,4086664-6,2964180,X,53.27194,-9.04889,EUROPE,Ireland,NEU,Wet Spell
+154,Himachal Pradesh,Himachal Pradesh,GPE,-0.13461538,0.57692308,en,1.3,4240080-6,1270101,X,31.0,78.0,ASIA,India,TIB,Wet Spell
+155,the North Island,the North Island,LOC,-0.53846154,0.61538462,en,1.3,,-1,,,,,,,Wet Spell
+157,Nile,Nile,LOC,0.16317016,0.24475524,en,1.3,,-1,,,,,,,Wet Spell
+163,New South Wales,New South Wales,GPE,0.48951049,0.73426573,en,1.3,,-1,,,,,,,Wet Spell
+170,Laconia,Laconia,GPE,-0.0294289,0.61645299,en,1.3,,-1,,,,,,,Wet Spell
+168,the Mojave Desert,the Mojave Desert,LOC,-0.14038462,0.84230769,en,1.3,,-1,,,,,,,Wet Spell
+167,Valley,Valley,LOC,-0.14038462,0.84230769,en,1.3,,-1,,,,,,,Wet Spell
+166,Mexico City,Mexico City,GPE,-0.07252747,0.3021978,en,1.3,4039060-3,3530597,X,19.428333,-99.1275,CENTRAL-AMERICA,Mexico,NCA,Wet Spell
+165,Bay Area,Bay Area,LOC,0.121337,0.77838828,en,1.3,,-1,,,,,,,Wet Spell
+164,Yunnan Province,Yunnan Province,GPE,-0.38461538,1.53846154,en,1.3,,-1,,,,,,,Wet Spell
+162,Mexico,Mexico,GPE,0.02779272,0.51900663,en,1.3,,-1,,,,,,,Wet Spell
+161,the Red Planet,the Red Planet,LOC,-0.03554779,0.30244755,en,1.3,,-1,,,,,,,Wet Spell
+160,the Northeast Monsoon,the Northeast Monsoon,LOC,0.01057692,0.78076923,en,1.3,,-1,,,,,,,Wet Spell
+159,Nevada,Nevada,GPE,-0.14038462,0.84230769,en,1.3,4041996-4,5509151,X,39.25021,-116.751189,NORTH-AMERICA,United States,WNA,Wet Spell
+158,Slovakia,Slovakia,GPE,0.1043956,0.12637363,en,1.3,,-1,,,,,,,Wet Spell
+204,Denmark,Denmark,GPE,-0.27651515,1.06439394,en,1.2,4010877-6,2623032,X,56.0,10.0,EUROPE,Denmark,NEU,Wet Spell
+207,Campinas,Campinas,GPE,0.02777778,0.05555556,en,1.2,4264280-2,3467865,X,-22.905555,-47.060833,SOUTH-AMERICA,Brazil,SES,Wet Spell
+206,Kathmandu,Kathmandu,GPE,0.0,0.0,en,1.2,4030036-5,1283240,X,27.701689,85.320599,ASIA,Nepal,TIB,Wet Spell
+205,Metropolitan City’s,Metropolitan City’s,GPE,0.0,0.0,en,1.2,,-1,,,,,,,Wet Spell
+208,Melbourne,Melbourne,GPE,0.375,0.97916667,en,1.2,4038526-7,2158177,X,-37.814,144.96332,OCEANIA,Australia,SAU,Wet Spell
+203,Germany,Germany,GPE,0.42592593,0.47222222,en,1.2,,-1,,,,,,,Wet Spell
+202,Midlands,Midlands,GPE,0.25,0.5,en,1.2,,-1,,,,,,,Wet Spell
+200,Jharkhand,Jharkhand,GPE,-0.7962963,1.25925926,en,1.2,4364512-4,1444365,X,23.75,85.5,ASIA,India,SAS,Wet Spell
+201,Amritsar,Amritsar,GPE,0.0,0.52777778,en,1.2,4079760-0,1278710,X,31.63661,74.874759,ASIA,India,WCA,Wet Spell
+210,Sawai Madhopur,Sawai Madhopur,GPE,0.90909091,0.90909091,en,1.1,,-1,,,,,,,Wet Spell
+211,Plüschow,Plüschow,GPE,0.30808081,0.33333333,en,1.1,4360459-6,2853093,X,53.833329,11.266669,EUROPE,Germany,NEU,Wet Spell
+212,Duhai,Duhai,GPE,0.22727273,0.3030303,en,1.1,,-1,,,,,,,Wet Spell
+213,Moldova,Moldova,GPE,-0.11363636,0.34090909,en,1.1,4039967-9,617790,X,47.0,29.0,EUROPE,Moldova,WCE,Wet Spell
+214,Kolkata,Kolkata,GPE,-0.02892562,1.52479339,en,1.1,4029344-0,1275004,X,22.562629,88.363039,ASIA,India,SAS,Wet Spell
+215,Wyoming,Wyoming,GPE,0.81818182,1.13636364,en,1.1,4067130-6,5843591,X,43.399999,-107.5009,NORTH-AMERICA,United States,WNA,Wet Spell
+209,T2E,T2E,LOC,0.15151515,0.3030303,en,1.1,,-1,,,,,,,Wet Spell
+373,B.C.s north,B.C.s north,GPE,-0.1,0.375,en,1.0,,-1,,,,,,,Wet Spell
+399,West Arnhem Land,West Arnhem Land,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+383,Gulf,Gulf,LOC,-0.1,0.25,en,1.0,,-1,,,,,,,Wet Spell
+382,Portugal,Portugal,GPE,0.07777778,0.41111111,en,1.0,4046843-4,2264397,X,39.5,-8.0,EUROPE-AFRICA,Portugal,MED,Wet Spell
+381,Spain,Spain,GPE,0.07777778,0.41111111,en,1.0,4055964-6,2510769,X,40.0,-4.0,EUROPE-AFRICA,Spain,MED,Wet Spell
+380,Gwaii,Gwaii,GPE,0.43333333,0.73333333,en,1.0,,-1,,,,,,,Wet Spell
+376,North Coast,North Coast,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+379,Lakshadweep islands,Lakshadweep islands,LOC,0.08708333,0.59,en,1.0,,-1,,,,,,,Wet Spell
+378,Nicobar,Nicobar,GPE,0.08708333,0.59,en,1.0,,-1,,,,,,,Wet Spell
+377,Andaman,Andaman,LOC,0.08708333,0.59,en,1.0,,-1,,,,,,,Wet Spell
+384,Caribbean,Caribbean,LOC,-0.1,0.25,en,1.0,,-1,,,,,,,Wet Spell
+374,Typhoon Fung-wong,Typhoon Fung-wong,GPE,-0.8,1.0,en,1.0,,-1,,,,,,,Wet Spell
+375,Vancouver Island,Vancouver Island,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+389,Cyberjaya,Cyberjaya,GPE,-0.1,0.15,en,1.0,,-1,,,,,,,Wet Spell
+385,Atlantic,Atlantic,LOC,0.3,0.56666667,en,1.0,,-1,,,,,,,Wet Spell
+386,Weather Ireland,Weather Ireland,GPE,-0.1,0.25,en,1.0,,-1,,,,,,,Wet Spell
+387,india,india,GPE,-0.13333333,0.16666667,en,1.0,,-1,,,,,,,Wet Spell
+388,mumbai,mumbai,GPE,-0.13333333,0.16666667,en,1.0,,-1,,,,,,,Wet Spell
+390,Indias,Indias,GPE,-0.17777778,0.28888889,en,1.0,,-1,,,,,,,Wet Spell
+391,Dak Lak,Dak Lak,GPE,-0.25,0.25,en,1.0,,-1,,,,,,,Wet Spell
+392,DAK LAK,DAK LAK,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Wet Spell
+393,Devon,Devon,GPE,0.13333333,0.23333333,en,1.0,4070441-5,2651292,X,50.75,-3.75,EUROPE,United Kingdom,NEU,Wet Spell
+394,pe…,pe…,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+395,the Gaza Strip,the Gaza Strip,GPE,-0.4,0.75,en,1.0,,-1,,,,,,,Wet Spell
+396,chemtrails,chemtrails,GPE,0.0,0.725,en,1.0,,-1,,,,,,,Wet Spell
+397,Venezuela,Venezuela,GPE,0.0,0.725,en,1.0,4062512-6,3625428,X,8.0,-66.0,SOUTH-AMERICA,Venezuela,NSA,Wet Spell
+398,Trumpishness,Trumpishness,GPE,0.0,0.725,en,1.0,,-1,,,,,,,Wet Spell
+371,west,west,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+372,Waterford,Waterford,GPE,0.0,0.25,en,1.0,4471434-8,2960992,X,52.25833,-7.111939,EUROPE,Ireland,NEU,Wet Spell
+350,New Raipur,New Raipur,LOC,-0.00909091,0.43636364,en,1.0,,-1,,,,,,,Wet Spell
+370,Kan… Chennai,Kan… Chennai,GPE,-0.14625,0.475,en,1.0,,-1,,,,,,,Wet Spell
+354,Northern Territory,Northern Territory,LOC,-0.23333333,0.45,en,1.0,,-1,,,,,,,Wet Spell
+341,Western Sicily,Western Sicily,GPE,0.0,0.3125,en,1.0,,-1,,,,,,,Wet Spell
+342,the Stagnone lagoon reserve,the Stagnone lagoon reserve,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+343,Puduch,Puduch,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
+344,Southern India,Southern India,LOC,-0.04666667,0.32666667,en,1.0,,-1,,,,,,,Wet Spell
+345,Solan,Solan,GPE,0.3,0.7,en,1.0,4323123-8,1255850,X,30.908599,77.108729,ASIA,India,TIB,Wet Spell
+346,Karaikal,Karaikal,GPE,0.05454545,0.62272727,en,1.0,,-1,,,,,,,Wet Spell
+347,Kangra,Kangra,GPE,0.3,0.7,en,1.0,,-1,,,,,,,Wet Spell
+348,Bihar,Bihar,GPE,-0.025,0.475,en,1.0,4006563-7,1275715,X,25.75,85.75,ASIA,India,SAS,Wet Spell
+349,Telangana,Telangana,GPE,-0.025,0.475,en,1.0,,-1,,,,,,,Wet Spell
+401,somew,somew,GPE,0.2,0.35,en,1.0,,-1,,,,,,,Wet Spell
+351,Pennsylvania,Pennsylvania,GPE,-0.05,0.1,en,1.0,4045103-3,6254927,X,40.272449,-76.90567,NORTH-AMERICA,United States,ENA,Wet Spell
+352,Adriatic Sea,Adriatic Sea,LOC,-0.18333333,0.25,en,1.0,,-1,,,,,,,Wet Spell
+353,Nouvelle-Acadie,Nouvelle-Acadie,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+355,Thiruvarur,Thiruvarur,GPE,-0.085,0.195,en,1.0,,-1,,,,,,,Wet Spell
+369,GAZA CITY,GAZA CITY,GPE,-0.25,0.25,en,1.0,,-1,,,,,,,Wet Spell
+356,Bathurst,Bathurst,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+357,New Brunswick,New Brunswick,GPE,-0.12121212,0.68484848,en,1.0,,-1,,,,,,,Wet Spell
+358,Jacksonville,Jacksonville,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+359,Conway,Conway,GPE,0.13636364,0.45454545,en,1.0,,-1,,,,,,,Wet Spell
+360,South Africa’s,South Africa’s,GPE,0.3,0.4,en,1.0,,-1,,,,,,,Wet Spell
+361,Tamil Nadu’s,Tamil Nadu’s,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+362,Island,Island,LOC,0.01428571,0.39285714,en,1.0,4027754-9,2629691,X,65.0,-18.0,POLAR,Iceland,GIC,Wet Spell
+363,Cauvery,Cauvery,LOC,0.125,0.29166667,en,1.0,,-1,,,,,,,Wet Spell
+364,Central Europe,Central Europe,LOC,0.0,0.25,en,1.0,,-1,,,,,,,Wet Spell
+365,Lublin,Lublin,GPE,0.0,0.25,en,1.0,4036418-5,765876,X,51.25,22.566669,EUROPE,Poland,WCE,Wet Spell
+366,Cape Town,Cape Town,GPE,0.0625,0.5,en,1.0,4029615-5,3369157,X,-33.92584,18.42322,AFRICA,South Africa,WSAF,Wet Spell
+367,Tiwi Islands,Tiwi Islands,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+368,Ne,Ne,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Wet Spell
+400,Kalimpong,Kalimpong,GPE,-0.2,0.5,en,1.0,4346328-9,1268403,X,27.068339,88.46508,ASIA,India,TIB,Wet Spell
+423,N.Y.,N.Y.,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
+402,the southwest Bay,the southwest Bay,LOC,0.0,0.5,en,1.0,,-1,,,,,,,Wet Spell
+434,Kolonnawa,Kolonnawa,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
+436,Hat Yai,Hat Yai,GPE,0.0,0.0,en,1.0,4415782-4,1610780,X,7.008359,100.47668,ASIA,Thailand,SEA,Wet Spell
+437,ITALY,ITALY,GPE,0.05,0.5,en,1.0,,-1,,,,,,,Wet Spell
+438,CORTINA D'AMPEZZO,CORTINA D'AMPEZZO,GPE,0.05,0.5,en,1.0,,-1,,,,,,,Wet Spell
+439,San Siro,San Siro,GPE,0.125,0.66666667,en,1.0,,-1,,,,,,,Wet Spell
+440,Milan,Milan,GPE,0.125,0.66666667,en,1.0,4037100-1,3173435,X,45.464269,9.18951,EUROPE,Italy,WCE,Wet Spell
+441,Kedah,Kedah,GPE,0.0,0.0,en,1.0,4260409-6,1733048,X,6.0,100.666669,ASIA,Malaysia,SEA,Wet Spell
+442,Kimberley,Kimberley,GPE,-0.15,0.45,en,1.0,,-1,,,,,,,Wet Spell
+443,Pipeline,Pipeline,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+444,Thursda,Thursda,GPE,0.00111111,0.28638889,en,1.0,,-1,,,,,,,Wet Spell
+445,Suryakumar,Suryakumar,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Wet Spell
+446,us,us,GPE,0.6,0.9,en,1.0,,-1,,,,,,,Wet Spell
+447,Minas Gerais,Minas Gerais,GPE,-0.00625,0.31875,en,1.0,,-1,,,,,,,Wet Spell
+448,Selangor,Selangor,GPE,0.0,0.0,en,1.0,4461681-8,1733037,X,3.166669,101.5,ASIA,Malaysia,SEA,Wet Spell
+449,New Zealands,New Zealands,LOC,0.24954545,0.65681818,en,1.0,,-1,,,,,,,Wet Spell
+450,Washington,Washington,GPE,0.0,0.0,en,1.0,4118995-4,5815135,X,47.50012,-120.501469,NORTH-AMERICA,United States,WNA,Wet Spell
+451,Brussels,Brussels,GPE,0.0,0.0,en,1.0,4008460-7,2800866,X,50.850277,4.348611,EUROPE,Belgium,WCE,Wet Spell
+452,the Arabian Sea,the Arabian Sea,LOC,0.6,0.9,en,1.0,,-1,,,,,,,Wet Spell
+453,eastern coast,eastern coast,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+454,Aurangabad,Aurangabad,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+455,South-East,South-East,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+456,East England,East England,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+457,Harihurganj,Harihurganj,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+458,Palamu,Palamu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+459,preve,preve,GPE,-0.27777778,0.42222222,en,1.0,,-1,,,,,,,Wet Spell
+460,Homagama,Homagama,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
+461,Kaduwela,Kaduwela,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
+339,New York City,New York City,GPE,-0.03181818,0.47727273,en,1.0,4042011-5,5128581,X,40.714166,-74.00597,NORTH-AMERICA,United States,ENA,Wet Spell
+435,Quebec,Quebec,GPE,-0.05,0.2,en,1.0,,-1,,,,,,,Wet Spell
+433,Kelaniya,Kelaniya,GPE,0.0625,0.5,en,1.0,4339429-2,1240622,X,6.9553,79.921999,INDIAN,Sri Lanka,EIO,Wet Spell
+403,Ranchi,Ranchi,GPE,-0.05,0.1,en,1.0,4358136-5,1258526,X,23.35,85.33333,ASIA,India,SAS,Wet Spell
+432,Seethawaka,Seethawaka,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
+404,Churachandpur,Churachandpur,GPE,-0.4,0.0,en,1.0,,-1,,,,,,,Wet Spell
+405,Greecetoday,Greecetoday,GPE,-0.11860119,0.38849206,en,1.0,,-1,,,,,,,Wet Spell
+406,Manipur village,Manipur village,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+407,Garrison,Garrison,GPE,0.01818182,0.27727273,en,1.0,,-1,,,,,,,Wet Spell
+408,Hudson Valley Shakespeare,Hudson Valley Shakespeare,GPE,0.21666667,0.7,en,1.0,,-1,,,,,,,Wet Spell
+409,Hudson River,Hudson River,LOC,0.31818182,0.72727273,en,1.0,,-1,,,,,,,Wet Spell
+410,the Hudson Valley,the Hudson Valley,LOC,0.27878788,0.61818182,en,1.0,,-1,,,,,,,Wet Spell
+411,Christmas Island,Christmas Island,GPE,0.5,0.5,en,1.0,4219436-2,2078138,X,-10.5,105.666669,INDIAN,Christmas Island,SIO,Wet Spell
+412,Tasik Subang Dam,Tasik Subang Dam,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+413,Sri Lanka's,Sri Lanka's,GPE,-1.0,1.0,en,1.0,,-1,,,,,,,Wet Spell
+414,North Coastal Andhra Pradesh,North Coastal Andhra Pradesh,GPE,0.27777778,0.71111111,en,1.0,,-1,,,,,,,Wet Spell
+415,South Coastal Andhra Pradesh,South Coastal Andhra Pradesh,GPE,-0.23,0.575,en,1.0,,-1,,,,,,,Wet Spell
+416,New Delhi's,New Delhi's,GPE,0.11818182,0.41893939,en,1.0,,-1,,,,,,,Wet Spell
+417,Jalpaiguri,Jalpaiguri,GPE,-0.23,0.575,en,1.0,,-1,,,,,,,Wet Spell
+418,Chengalpet,Chengalpet,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+419,the Tamil Nadu,the Tamil Nadu,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+420,Tamil NaduPuducherry,Tamil NaduPuducherry,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+421,Longreads,Longreads,GPE,0.46666667,0.63333333,en,1.0,,-1,,,,,,,Wet Spell
+422,ROCHESTER,ROCHESTER,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
+424,pe… Chennai,pe… Chennai,GPE,-0.0625,0.3125,en,1.0,,-1,,,,,,,Wet Spell
+425,Latin America,Latin America,LOC,0.5,0.75,en,1.0,,-1,,,,,,,Wet Spell
+426,Western Greece,Western Greece,LOC,0.03363636,0.42857955,en,1.0,,-1,,,,,,,Wet Spell
+427,North Africa,North Africa,GPE,0.03363636,0.42857955,en,1.0,,-1,,,,,,,Wet Spell
+428,Asia Pacific,Asia Pacific,LOC,0.5,0.75,en,1.0,,-1,,,,,,,Wet Spell
+429,Negril,Negril,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+430,Sub-Saharan Africa,Sub-Saharan Africa,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+431,Dompe,Dompe,GPE,0.0625,0.5,en,1.0,,-1,,,,,,,Wet Spell
+340,France,France,GPE,0.0,0.5,en,1.0,,-1,,,,,,,Wet Spell
+231,et al,et al,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+338,Kanchipuram,Kanchipuram,GPE,-0.125,0.375,en,1.0,,-1,,,,,,,Wet Spell
+246,Annona squamosa,Annona squamosa,LOC,-0.25,1.0,en,1.0,,-1,,,,,,,Wet Spell
+248,Sabah,Sabah,GPE,0.04444444,0.54444444,en,1.0,4042495-9,1733039,X,5.5,117.0,ASIA,Malaysia,SEA,Wet Spell
+249,Ranthambore,Ranthambore,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+250,Indias east,Indias east,LOC,-0.02840909,0.3375,en,1.0,,-1,,,,,,,Wet Spell
+251,Southeast Asia,Southeast Asia,LOC,-0.2,0.4,en,1.0,,-1,,,,,,,Wet Spell
+252,Viet Nam,Viet Nam,GPE,0.25,0.375,en,1.0,,-1,,,,,,,Wet Spell
+253,Tamil Nadu city,Tamil Nadu city,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
+254,Cameroon,Cameroon,LOC,0.075,0.475,en,1.0,4029413-4,2233387,X,6.0,12.0,AFRICA,Cameroon,CAF,Wet Spell
+255,Kakinada,Kakinada,GPE,0.09318182,0.35,en,1.0,,-1,,,,,,,Wet Spell
+256,Kalingapatnam,Kalingapatnam,GPE,0.09318182,0.35,en,1.0,,-1,,,,,,,Wet Spell
+257,the southeast Bay,the southeast Bay,LOC,0.09318182,0.35,en,1.0,,-1,,,,,,,Wet Spell
+258,Kong,Kong,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+259,the Southern Ocean,the Southern Ocean,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+260,Evia - When,Evia - When,LOC,0.13227273,0.41257576,en,1.0,,-1,,,,,,,Wet Spell
+261,east,east,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+262,Americas,Americas,LOC,-1.0,1.0,en,1.0,,-1,,,,,,,Wet Spell
+263,West Bengals,West Bengals,LOC,-0.05,0.25,en,1.0,,-1,,,,,,,Wet Spell
+264,Mataur,Mataur,GPE,-0.00625,0.23541667,en,1.0,,-1,,,,,,,Wet Spell
+265,Southwest,Southwest,LOC,0.25714286,0.66428571,en,1.0,,-1,,,,,,,Wet Spell
+266,Bangkok,Bangkok,GPE,-0.25,0.4,en,1.0,4004432-4,1609350,X,13.75398,100.50144,ASIA,Thailand,SEA,Wet Spell
+267,Mali,Mali,LOC,-0.5,0.9,en,1.0,4074505-3,2453866,X,18.0,-2.0,AFRICA,Mali,SAH,Wet Spell
+268,Central Africa,Central Africa,GPE,0.055,0.485,en,1.0,,-1,,,,,,,Wet Spell
+269,Pacific Northwest,Pacific Northwest,LOC,0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
+270,Fari Islands,Fari Islands,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+271,the Miami Dolphins,the Miami Dolphins,LOC,0.5,0.9,en,1.0,,-1,,,,,,,Wet Spell
+272,Türkiye,Türkiye,GPE,0.5,1.0,en,1.0,4061163-2,298795,X,39.05901,34.911549,EUROPE-AFRICA,Turkey,MED,Wet Spell
+273,England/,England/,GPE,0.02,0.12,en,1.0,,-1,,,,,,,Wet Spell
+274,NZ,NZ,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+247,Peninsular M'sia,Peninsular M'sia,LOC,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
+245,Midwest,Midwest,LOC,0.15284091,0.55113636,en,1.0,,-1,,,,,,,Wet Spell
+276,London,London,GPE,-0.2,0.3,en,1.0,4074335-4,2643743,X,51.50853,-0.12574,EUROPE,United Kingdom,NEU,Wet Spell
+244,Maldives,Maldives,GPE,0.0,0.0,en,1.0,4037212-1,1282028,X,3.2,73.0,INDIAN,,EIO,Wet Spell
+216,Teichman,Teichman,GPE,0.14444444,0.57777778,en,1.0,,-1,,,,,,,Wet Spell
+217,Lubbock,Lubbock,GPE,0.13,0.47,en,1.0,,-1,,,,,,,Wet Spell
+218,Naples,Naples,GPE,-0.06666667,0.56666667,en,1.0,4041476-0,3172394,X,40.833329,14.25,EUROPE-AFRICA,Italy,MED,Wet Spell
+219,the Basin of Mexico,the Basin of Mexico,LOC,-0.09428571,0.39285714,en,1.0,,-1,,,,,,,Wet Spell
+220,Borneo,Borneo,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+221,Serbia,Serbia,GPE,0.1,0.4,en,1.0,4054598-2,6290252,X,44.818919,20.45998,EUROPE-AFRICA,Serbia,MED,Wet Spell
+222,Vojvodina,Vojvodina,GPE,0.1,0.4,en,1.0,4066811-3,784272,X,45.0,20.0,EUROPE,Serbia,WCE,Wet Spell
+223,earth,earth,LOC,0.3,0.53333333,en,1.0,,-1,,,,,,,Wet Spell
+224,maintai…,maintai…,GPE,0.14666667,0.74,en,1.0,,-1,,,,,,,Wet Spell
+225,Marin County's,Marin County's,GPE,0.0,0.06666667,en,1.0,,-1,,,,,,,Wet Spell
+226,Mount Vesuvius,Mount Vesuvius,LOC,0.33333333,1.0,en,1.0,,-1,,,,,,,Wet Spell
+227,K'tan,K'tan,GPE,0.0,0.1,en,1.0,,-1,,,,,,,Wet Spell
+228,Fiordland,Fiordland,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+229,East Africa,East Africa,GPE,0.15284091,0.55113636,en,1.0,,-1,,,,,,,Wet Spell
+230,Zeitoun,Zeitoun,GPE,-0.2,0.5,en,1.0,7593445-0,359477,X,29.147439,25.78396,AFRICA,Egypt,SAH,Wet Spell
+232,Turkmenistan,Turkmenistan,GPE,0.0,0.0,en,1.0,4061255-7,1218197,X,40.0,60.0,ASIA,Turkmenistan,WCA,Wet Spell
+233,the South Island,the South Island,LOC,0.0,0.35,en,1.0,,-1,,,,,,,Wet Spell
+234,the Karakum Desert,the Karakum Desert,LOC,-0.05,0.31111111,en,1.0,,-1,,,,,,,Wet Spell
+235,South Island,South Island,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Wet Spell
+236,East Coast,East Coast,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+237,West Country,West Country,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
+238,Bristol,Bristol,GPE,-0.06666667,0.6,en,1.0,4090130-0,2654675,X,51.45523,-2.596649,EUROPE,United Kingdom,NEU,Wet Spell
+239,Somerset,Somerset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
+240,Dorset,Dorset,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
+241,south Gloucestershire,south Gloucestershire,LOC,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
+242,Wiltshire,Wiltshire,GPE,-0.06666667,0.6,en,1.0,,-1,,,,,,,Wet Spell
+243,the Sahara Desert,the Sahara Desert,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Wet Spell
+275,Accra,Accra,GPE,0.0,0.0,en,1.0,4000338-3,2306104,X,5.55602,-0.1969,AFRICA,Ghana,WAF,Wet Spell
+277,The North Island,The North Island,LOC,0.5,0.5,en,1.0,,-1,,,,,,,Wet Spell
+337,Tirupati,Tirupati,GPE,-0.03333333,0.83333333,en,1.0,4361438-3,1254360,X,13.6355,79.419889,ASIA,India,SAS,Wet Spell
+308,STOCKHOLM,STOCKHOLM,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Wet Spell
+310,LAS VEGAS,LAS VEGAS,GPE,0.4375,0.9375,en,1.0,,-1,,,,,,,Wet Spell
+311,emirate,emirate,GPE,0.39375,0.79375,en,1.0,,-1,,,,,,,Wet Spell
+312,Sharjah,Sharjah,GPE,0.39375,0.79375,en,1.0,,-1,,,,,,,Wet Spell
+313,Adelaide,Adelaide,GPE,0.16666667,0.25,en,1.0,4079623-1,2078025,X,-34.92866,138.59863,OCEANIA,Australia,SAU,Wet Spell
+314,WEST CHILTINGTON,WEST CHILTINGTON,GPE,0.02,0.12,en,1.0,,-1,,,,,,,Wet Spell
+315,AMSTERDAM,AMSTERDAM,GPE,0.0,1.0,en,1.0,,-1,,,,,,,Wet Spell
+316,North India,North India,GPE,-0.175,0.75,en,1.0,,-1,,,,,,,Wet Spell
+317,Haryana,Haryana,GPE,-0.15555556,0.28888889,en,1.0,4239291-3,1270260,X,29.0,76.0,ASIA,India,SAS,Wet Spell
+318,dhaba,dhaba,GPE,-0.26666667,0.39166667,en,1.0,,-1,,,,,,,Wet Spell
+319,Hastings,Hastings,GPE,0.0,0.0,en,1.0,4023626-2,2647356,X,50.85519,0.57292,EUROPE,,NEU,Wet Spell
+320,El Nido,El Nido,GPE,0.27272727,1.0,en,1.0,,-1,,,,,,,Wet Spell
+321,Palawan,Palawan,GPE,0.47272727,1.4,en,1.0,,-1,,,,,,,Wet Spell
+322,CALIFORNIA,CALIFORNIA,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+323,Hawkes Bay,Hawkes Bay,LOC,0.08333333,0.40833333,en,1.0,,-1,,,,,,,Wet Spell
+324,South America,South America,LOC,-0.03333333,0.2,en,1.0,,-1,,,,,,,Wet Spell
+325,Lake Naivasha,Lake Naivasha,LOC,0.0625,0.35416667,en,1.0,,-1,,,,,,,Wet Spell
+326,Kenyas Rift Valley,Kenyas Rift Valley,LOC,0.0625,0.35416667,en,1.0,,-1,,,,,,,Wet Spell
+327,Zika,Zika,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+328,Sepang,Sepang,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+329,Qld,Qld,GPE,1.0,0.3,en,1.0,,-1,,,,,,,Wet Spell
+330,Southern Calif,Southern Calif,LOC,-0.17916667,0.46666667,en,1.0,,-1,,,,,,,Wet Spell
+331,the South Peninsula,the South Peninsula,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+332,Whakatāne,Whakatāne,GPE,-0.2,0.5,en,1.0,,-1,,,,,,,Wet Spell
+333,the Bay of Plenty,the Bay of Plenty,LOC,-0.05,0.45,en,1.0,,-1,,,,,,,Wet Spell
+334,Whakatne,Whakatne,GPE,-0.05,0.45,en,1.0,,-1,,,,,,,Wet Spell
+335,The South Island,The South Island,LOC,-0.1,0.4,en,1.0,,-1,,,,,,,Wet Spell
+336,Kallakurichi,Kallakurichi,GPE,-0.125,0.375,en,1.0,,-1,,,,,,,Wet Spell
+309,SWEDEN,SWEDEN,GPE,0.25,0.33333333,en,1.0,,-1,,,,,,,Wet Spell
+307,Christchurch,Christchurch,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+278,Rotorua,Rotorua,GPE,0.0,0.0,en,1.0,4238505-2,6241325,X,-38.138739,176.245159,OCEANIA,New Zealand,NZ,Wet Spell
+306,Cuddalore,Cuddalore,GPE,-0.125,0.375,en,1.0,4733701-1,1273802,X,11.74629,79.764359,ASIA,India,SAS,Wet Spell
+279,Jalandhar,Jalandhar,GPE,-0.3,0.29,en,1.0,,-1,,,,,,,Wet Spell
+280,Moscow,Moscow,GPE,-0.3,0.29,en,1.0,4074987-3,524901,X,55.752222,37.615555,EUROPE,Russia,WCE,Wet Spell
+281,Southern Hungary,Southern Hungary,LOC,0.1952381,0.36904762,en,1.0,,-1,,,,,,,Wet Spell
+282,KISKUNMAJSA,KISKUNMAJSA,GPE,0.1952381,0.36904762,en,1.0,,-1,,,,,,,Wet Spell
+283,Will Delhi,Will Delhi,GPE,-0.05,0.75,en,1.0,,-1,,,,,,,Wet Spell
+284,Noida,Noida,GPE,-0.05,0.75,en,1.0,7669301-6,7279746,X,28.579999,77.329999,ASIA,India,SAS,Wet Spell
+285,robotaxis,robotaxis,GPE,-0.2,0.3,en,1.0,,-1,,,,,,,Wet Spell
+286,Southern California for,Southern California for,LOC,0.06818182,0.22727273,en,1.0,,-1,,,,,,,Wet Spell
+287,Maharashtra,Maharashtra,GPE,-0.5,0.625,en,1.0,4037057-4,1264418,X,19.5,75.0,ASIA,India,SAS,Wet Spell
+288,Oktoberfest,Oktoberfest,GPE,0.47159091,0.47613636,en,1.0,,-1,,,,,,,Wet Spell
+289,Quito,Quito,GPE,0.0,0.0,en,1.0,4116883-5,3652462,X,-0.22985,-78.52495,SOUTH-AMERICA,Ecuador,NWS,Wet Spell
+290,Anadolu,Anadolu,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+291,Sunrisers East,Sunrisers East,LOC,0.33333333,0.66666667,en,1.0,,-1,,,,,,,Wet Spell
+292,Mashpi Lodge,Mashpi Lodge,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+293,Sri LankaHow,Sri LankaHow,GPE,0.13636364,0.5,en,1.0,,-1,,,,,,,Wet Spell
+294,Rwanda,Rwanda,GPE,0.0,0.0,en,1.0,4076910-0,49518,X,-2.0,30.0,AFRICA,Rwanda,SEAF,Wet Spell
+295,Premadasa Stadium,Premadasa Stadium,GPE,0.13636364,0.5,en,1.0,,-1,,,,,,,Wet Spell
+296,Musango village,Musango village,GPE,-0.18333333,0.28333333,en,1.0,,-1,,,,,,,Wet Spell
+297,San Rafael,San Rafael,GPE,0.04545455,0.48484848,en,1.0,,-1,,,,,,,Wet Spell
+298,the Bay Area's,the Bay Area's,LOC,0.04545455,0.48484848,en,1.0,,-1,,,,,,,Wet Spell
+299,Leptospira,Leptospira,LOC,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+300,São Paulo,São Paulo,GPE,0.0,0.0,en,1.0,4051667-2,3448439,X,-23.5475,-46.636111,SOUTH-AMERICA,Brazil,SES,Wet Spell
+301,Antarctica,Antarctica,LOC,0.375,0.41666667,en,1.0,,-1,,,,,,,Wet Spell
+302,RainPoin,RainPoin,GPE,0.0,0.13333333,en,1.0,,-1,,,,,,,Wet Spell
+303,Central Queensland,Central Queensland,LOC,0.25555556,0.43888889,en,1.0,,-1,,,,,,,Wet Spell
+304,TN,TN,GPE,0.08333333,0.25,en,1.0,,-1,,,,,,,Wet Spell
+305,Altadena,Altadena,GPE,0.0,0.0,en,1.0,,-1,,,,,,,Wet Spell
+462,Houthi Red Sea,Houthi Red Sea,LOC,0.025,0.275,en,1.0,,-1,,,,,,,Wet Spell
