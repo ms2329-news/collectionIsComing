@@ -1,226 +1,106 @@
 ,Unnamed: 0,phrase,label,sentiment,subjectivity,language,count,gnd,geonames,geotype,latitude,longitude,continent,country,ipcc,extreme
-0,Sturmflut,Sturmflut,LOC,-0.16949153,0.03766478,de,53.1,,-1,,,,,,,Storm Surge
-1,Deutschland,Deutschland,LOC,-0.21449275,0.02898551,de,34.5,4011882-4,2921044,X,51.5,10.5,EUROPE,Germany,WCE,Storm Surge
-2,Nordseeküste,Nordseeküste,LOC,-0.07936508,0.0,de,33.6,,-1,,,,,,,Storm Surge
-3,Elbe,Elbe,LOC,-0.08944954,0.18348624,de,21.8,,-1,,,,,,,Storm Surge
-4,Hamburg,Hamburg,LOC,-0.10321489,0.0,de,19.7,4023118-5,2911297,X,53.583329,10.0,EUROPE,Germany,NEU,Storm Surge
-5,Nordsee,Nordsee,LOC,-0.37113402,0.10309278,de,19.4,,-1,,,,,,,Storm Surge
-6,Ostsee,Ostsee,LOC,-0.11392405,0.0,de,15.8,,-1,,,,,,,Storm Surge
-7,Deutschlands,Deutschlands,LOC,-0.16091954,0.06896552,de,14.5,,-1,,,,,,,Storm Surge
-8,Flensburg,Flensburg,LOC,-0.12727273,0.0,de,11.0,4017506-6,2926271,X,54.784166,9.439444,EUROPE,Germany,NEU,Storm Surge
-9,Norwegen,Norwegen,LOC,-0.06363636,0.0,de,11.0,4042640-3,3144096,X,62.0,10.0,EUROPE,Norway,NEU,Storm Surge
-10,Niedersachsen,Niedersachsen,LOC,0.52380952,0.0,de,10.5,4042226-4,2862926,X,52.0,10.0,EUROPE,Germany,WCE,Storm Surge
-12,Norderney,Norderney,LOC,-0.07865169,0.11235955,de,8.9,4042519-8,2862041,X,53.708055,7.158055,EUROPE,Germany,NEU,Storm Surge
-11,Küste,Küste,LOC,0.07865169,0.4494382,de,8.9,,-1,,,,,,,Storm Surge
-13,…,…,LOC,0.0,0.0,de,8.1,,-1,,,,,,,Storm Surge
-14,Niederlanden,Niederlanden,LOC,0.0,0.0,de,7.0,,-1,,,,,,,Storm Surge
-15,Weser,Weser,LOC,-0.26428571,0.0,de,7.0,,-1,,,,,,,Storm Surge
-16,Ems,Ems,LOC,-0.26428571,0.0,de,7.0,4014614-5,2953507,X,50.335277,7.713611,EUROPE,Germany,WCE,Storm Surge
-17,Europas,Europas,LOC,-0.04285714,0.0,de,7.0,,-1,,,,,,,Storm Surge
-18,Schleswig-Holstein,Schleswig-Holstein,LOC,0.05555556,0.0,de,6.6,4052692-6,2838632,X,54.0,10.5,EUROPE,Germany,NEU,Storm Surge
-21,Nord-,Nord-,LOC,0.11666667,0.0,de,6.0,,-1,,,,,,,Storm Surge
-20,Ostseeküste,Ostseeküste,LOC,-0.35,0.0,de,6.0,,-1,,,,,,,Storm Surge
-19,Orkanböen,Orkanböen,LOC,-0.33333333,0.0,de,6.0,,-1,,,,,,,Storm Surge
-22,Sturmböen,Sturmböen,LOC,-0.05084746,0.0,de,5.9,,-1,,,,,,,Storm Surge
-23,Bahamas,Bahamas,LOC,-1.74545455,0.0,de,5.5,4069081-7,3572887,X,25.04082,-77.371219,NORTH-AMERICA,Bahamas,ENA,Storm Surge
-24,Sachsen,Sachsen,LOC,0.0,0.0,de,5.5,4051176-5,2842566,X,51.0,13.25,EUROPE,Germany,WCE,Storm Surge
-25,Sylt,Sylt,LOC,-0.06410256,0.0,de,5.2,,-1,,,,,,,Storm Surge
-26,Fischmarkt,Fischmarkt,LOC,-0.14,0.0,de,5.0,,-1,,,,,,,Storm Surge
-27,Großbritannien,Großbritannien,LOC,0.0,0.0,de,5.0,4022153-2,2635167,X,54.75844,-2.69531,EUROPE,United Kingdom,NEU,Storm Surge
-28,Bremen,Bremen,LOC,0.08163265,0.0,de,4.9,4008135-7,2944387,X,53.083329,8.83333,EUROPE,Germany,NEU,Storm Surge
-29,Sturmflut-Warnung,Sturmflut-Warnung,LOC,-0.15217391,0.0,de,4.6,,-1,,,,,,,Storm Surge
-30,Jamaika,Jamaika,LOC,-0.34146341,0.0,de,4.1,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Storm Surge
-31,Aidaperla,Aidaperla,LOC,-0.175,0.0,de,4.0,,-1,,,,,,,Storm Surge
-32,Ostseesturmflut,Ostseesturmflut,LOC,0.0,0.0,de,4.0,,-1,,,,,,,Storm Surge
-33,Wettertechnisch,Wettertechnisch,LOC,-0.37837838,0.0,de,3.7,,-1,,,,,,,Storm Surge
-34,Kuba,Kuba,LOC,-0.4,0.0,de,3.5,4033340-1,3562981,X,22.0,-79.5,CENTRAL-AMERICA,Cuba,CAR,Storm Surge
-35,Sturm,Sturm,LOC,0.72727273,0.0,de,3.3,,-1,,,,,,,Storm Surge
-43,Brocken,Brocken,LOC,0.46666667,0.0,de,3.0,,-1,,,,,,,Storm Surge
-42,Rostock,Rostock,LOC,0.0,0.0,de,3.0,4050610-1,2844588,X,54.0887,12.140489,EUROPE,Germany,NEU,Storm Surge
-41,Travemünde,Travemünde,LOC,0.0,0.0,de,3.0,4215928-3,2821480,X,53.962777,10.870833,EUROPE,Germany,NEU,Storm Surge
-40,Fährausfälle,Fährausfälle,LOC,-0.66666667,0.0,de,3.0,,-1,,,,,,,Storm Surge
-39,Inseln,Inseln,LOC,0.0,0.0,de,3.0,,-1,,,,,,,Storm Surge
-38,Europa,Europa,LOC,0.0,0.0,de,3.0,4015701-5,6255148,X,48.690959,9.14062,EUROPE,Germany,WCE,Storm Surge
-37,Frankreich,Frankreich,LOC,-0.33333333,0.0,de,3.0,4018145-5,3017382,X,46.0,2.0,EUROPE,France,WCE,Storm Surge
-36,Detlef,Detlef,LOC,0.46666667,0.0,de,3.0,,-1,,,,,,,Storm Surge
-44,Sturmtief,Sturmtief,LOC,0.24137931,0.0,de,2.9,,-1,,,,,,,Storm Surge
-45,niedersächsischen Küste,niedersächsischen Küste,LOC,-0.60714286,0.0,de,2.8,,-1,,,,,,,Storm Surge
-46,Kieler Bucht,Kieler Bucht,LOC,-0.25,0.0,de,2.8,,-1,,,,,,,Storm Surge
-47,Atlantik,Atlantik,LOC,-2.04,0.0,de,2.5,4003388-0,3373405,X,10.0,-25.0,ATLANTIC,,NAO,Storm Surge
-48,Schleswig-Holsteins,Schleswig-Holsteins,LOC,-0.60869565,0.0,de,2.3,,-1,,,,,,,Storm Surge
-49,Florida,Florida,LOC,-1.42857143,0.0,de,2.1,4017585-6,4155751,X,28.75054,-82.5001,NORTH-AMERICA,United States,ENA,Storm Surge
-67,St. Pauli,St. Pauli,LOC,-0.35,0.0,de,2.0,,-1,,,,,,,Storm Surge
-66,Kiel,Kiel,LOC,-0.35,0.0,de,2.0,4030481-4,2891122,X,54.321111,10.134722,EUROPE,Germany,NEU,Storm Surge
-65,Teile Süddeutschlands,Teile Süddeutschlands,LOC,0.35,0.0,de,2.0,,-1,,,,,,,Storm Surge
-64,Campingplatz,Campingplatz,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-63,Stromausfälle,Stromausfälle,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-62,Bundesamt,Bundesamt,LOC,-0.35,0.0,de,2.0,,-1,,,,,,,Storm Surge
-61,Hochwasser,Hochwasser,LOC,-1.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-60,Bäume,Bäume,LOC,0.7,0.0,de,2.0,,-1,,,,,,,Storm Surge
-59,Helgoland,Helgoland,LOC,0.0,0.0,de,2.0,4024291-2,3208547,X,54.181388,7.886388,EUROPE,Germany,NEU,Storm Surge
-58,Ostseeflut,Ostseeflut,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-56,Promenaden,Promenaden,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-55,Timmendorfer Strand,Timmendorfer Strand,LOC,0.0,0.0,de,2.0,4060184-5,2822160,X,54.0,10.783329,EUROPE,Germany,NEU,Storm Surge
-54,Millionen-Schäden,Millionen-Schäden,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-53,Häfen,Häfen,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-52,Ferienorten,Ferienorten,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-51,Kiel/Hamburg,Kiel/Hamburg,LOC,-0.16666667,0.0,de,2.0,,-1,,,,,,,Storm Surge
-50,Norddeutschland,Norddeutschland,LOC,-0.46666667,0.0,de,2.0,,-1,,,,,,,Storm Surge
-57,Nordsee Sturmflut,Nordsee Sturmflut,LOC,0.0,0.0,de,2.0,,-1,,,,,,,Storm Surge
-71,Bayern,Bayern,LOC,0.0,0.0,de,1.9,4005044-0,2951839,X,49.0,11.5,EUROPE,Germany,WCE,Storm Surge
-72,“,“,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Storm Surge
-68,lno,lno,LOC,-0.1754386,0.0,de,1.9,,-1,,,,,,,Storm Surge
-70,Landes,Landes,LOC,0.0,0.0,de,1.9,,-1,,,,,,,Storm Surge
-69,Joshua,Joshua,LOC,-0.36842105,0.0,de,1.9,,-1,,,,,,,Storm Surge
-73,Baden-Württemberg,Baden-Württemberg,LOC,0.0,0.0,de,1.8,4004176-1,2953481,X,48.5,9.0,EUROPE,Germany,WCE,Storm Surge
-74,Haiti,Haiti,LOC,-0.82352941,0.0,de,1.7,4022974-9,3723988,X,19.0,-72.416669,CENTRAL-AMERICA,Haiti,CAR,Storm Surge
-75,Karibik,Karibik,LOC,-1.17647059,0.0,de,1.7,,-1,,,,,,,Storm Surge
-76,Melissa,Melissa,LOC,-1.25,0.0,de,1.6,,-1,,,,,,,Storm Surge
-78,Land,Land,LOC,0.0,0.0,de,1.4,,-1,,,,,,,Storm Surge
-77,Jamaica,Jamaica,LOC,0.0,0.0,de,1.4,4028456-6,3489940,X,18.25,-77.5,CENTRAL-AMERICA,Jamaica,CAR,Storm Surge
-79,US-Präsident,US-Präsident,LOC,0.0,0.0,de,1.3,,-1,,,,,,,Storm Surge
-80,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,LOC,-0.53846154,0.0,de,1.3,4242861-0,2872567,X,53.5,12.5,EUROPE,Germany,WCE,Storm Surge
-81,Böen,Böen,LOC,-1.16666667,0.0,de,1.2,,-1,,,,,,,Storm Surge
-82,Philippinen,Philippinen,LOC,-0.58333333,0.0,de,1.2,4045771-0,1694008,X,13.0,122.0,ASIA,,SEA,Storm Surge
-83,Sturmtief Joshua,Sturmtief Joshua,LOC,-1.27272727,0.0,de,1.1,,-1,,,,,,,Storm Surge
-180,Bernd,Bernd,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-174,Unterwarnow,Unterwarnow,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-175,Fähranleger Dagebüll,Fähranleger Dagebüll,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-176,Sturmflut-Gefahr,Sturmflut-Gefahr,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-177,deutschen Küste,deutschen Küste,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-178,Langeneß,Langeneß,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-179,Sturmflutsaison,Sturmflutsaison,LOC,2.1,0.0,de,1.0,,-1,,,,,,,Storm Surge
-183,Kerr County,Kerr County,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-181,Hochwassern,Hochwassern,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-182,Sandverluste,Sandverluste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-172,Sperrwerk Greifswald,Sperrwerk Greifswald,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-184,Behördenang…,Behördenang…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-185,Sturmflut-Moment,Sturmflut-Moment,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-186,Frauke Brosius-Gersdorf,Frauke Brosius-Gersdorf,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-187,Dagebüll,Dagebüll,LOC,0.0,0.0,de,1.0,4104277-3,2939489,X,54.72928,8.700829,EUROPE,Germany,NEU,Storm Surge
-173,Warnemünde,Warnemünde,LOC,0.7,0.0,de,1.0,4079046-0,2814055,X,54.176699,12.08402,EUROPE,,NEU,Storm Surge
-170,Sperrwerk,Sperrwerk,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-171,Rügen,Rügen,LOC,-2.0,0.0,de,1.0,4050875-4,2843325,X,54.416666,13.4,EUROPE,Germany,NEU,Storm Surge
-162,Schönhagen,Schönhagen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-156,Zürcher Goldküste,Zürcher Goldküste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-157,Land“,Land“,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-158,Texas Sturmflut,Texas Sturmflut,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-159,Sturzflut,Sturzflut,LOC,-0.35,0.5,de,1.0,,-1,,,,,,,Storm Surge
-160,Texas,Texas,LOC,-0.35,0.5,de,1.0,4059594-8,4736286,X,31.25044,-99.250609,NORTH-AMERICA,United States,CNA,Storm Surge
-161,Hill Country,Hill Country,LOC,-0.35,0.5,de,1.0,,-1,,,,,,,Storm Surge
-163,Monaten,Monaten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-189,Irland,Irland,LOC,0.0,0.0,de,1.0,4027667-3,2963597,X,53.0,-8.0,EUROPE,Ireland,NEU,Storm Surge
-164,Harz,Harz,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-165,Große Halligflut,Große Halligflut,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-166,ru…,ru…,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-167,Hamburger Elbe,Hamburger Elbe,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-168,Rügens,Rügens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-169,Sturmflutwarnung,Sturmflutwarnung,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-188,Erliegen,Erliegen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-192,Strandkörben,Strandkörben,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-190,Dreierpack,Dreierpack,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-216,Orkanartige Böen,Orkanartige Böen,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-210,Hamburg-Wilhelmsburg,Hamburg-Wilhelmsburg,LOC,-1.0,0.0,de,1.0,4094661-7,2808747,X,53.506666,9.986944,EUROPE,Germany,NEU,Storm Surge
-211,Wohnungsbaupläne,Wohnungsbaupläne,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-212,Wilden Wald,Wilden Wald,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-213,Elbinsel,Elbinsel,LOC,-2.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-214,Wilden Waldes,Wilden Waldes,LOC,-2.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-215,Indien,Indien,LOC,0.0,1.0,de,1.0,4026722-2,1269750,X,20.0,77.0,ASIA,India,SAS,Storm Surge
-217,Himalaya-Raum,Himalaya-Raum,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-208,Widerstand,Widerstand,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-218,Bundesamtes für Seeschifffahrt und Hydrographie,Bundesamtes für Seeschifffahrt und Hydrographie,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-219,Sturmflut-Folgen,Sturmflut-Folgen,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-220,Westküste,Westküste,LOC,0.35,0.5,de,1.0,,-1,,,,,,,Storm Surge
-221,Insel La…,Insel La…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-222,Sturmböen durcheinandergewirbelt,Sturmböen durcheinandergewirbelt,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-223,Nordsee-Küste,Nordsee-Küste,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-209,Union,Union,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-207,Pakistan,Pakistan,LOC,0.0,1.0,de,1.0,4075812-6,1168579,X,30.0,70.0,ASIA,Pakistan,WCA,Storm Surge
-191,Sätzen,Sätzen,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-198,Unfälle,Unfälle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-193,Wangerooge,Wangerooge,LOC,0.0,0.0,de,1.0,4064559-9,2814266,X,53.79,7.899166,EUROPE,Germany,NEU,Storm Surge
-194,Einschränkun…,Einschränkun…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-195,Halunder Jet,Halunder Jet,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-154,Lustenau,Lustenau,LOC,1.0,0.0,de,1.0,4111437-1,2772173,X,47.42642,9.658509,EUROPE,,WCE,Storm Surge
-196,Berlin,Berlin,LOC,-0.23333333,0.0,de,1.0,4005728-8,2950157,X,52.5,13.416669,EUROPE,Germany,WCE,Storm Surge
-197,Republik,Republik,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-199,Regen,Regen,LOC,0.0,0.0,de,1.0,4048975-9,2849495,X,48.971666,13.128055,EUROPE,Germany,WCE,Storm Surge
-206,Nordsee-Fähren,Nordsee-Fähren,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-200,Südschwarzwald,Südschwarzwald,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-201,Verkehrsbehinderungen,Verkehrsbehinderungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-202,Sturmtief Bäume,Sturmtief Bäume,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-203,Elb-Pegel St. Pauli,Elb-Pegel St. Pauli,LOC,0.0,1.0,de,1.0,,-1,,,,,,,Storm Surge
-204,Nordfriesland,Nordfriesland,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-205,Halligen,Halligen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-155,Österreich,Österreich,LOC,-1.0,0.0,de,1.0,4043271-3,2782113,X,47.333329,13.33333,EUROPE,Austria,WCE,Storm Surge
-112,Live-Karten,Live-Karten,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-153,Clermont,Clermont,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-108,Borkum,Borkum,LOC,0.0,0.0,de,1.0,4007760-3,2946207,X,53.581111,6.691111,EUROPE,Germany,NEU,Storm Surge
-102,Gedser,Gedser,LOC,-0.7,0.0,de,1.0,4535355-4,2621551,X,54.576439,11.93004,EUROPE,,NEU,Storm Surge
-103,Norddeutschlands,Norddeutschlands,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-104,ostfriesischen Inseln,ostfriesischen Inseln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-105,Wasserstand,Wasserstand,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-106,Mecklenburg-Vorpommerns Küste,Mecklenburg-Vorpommerns Küste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-107,Schwarzwald,Schwarzwald,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-109,Nebel,Nebel,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-100,Backhaus,Backhaus,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-110,Meteorologischen Institu,Meteorologischen Institu,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-111,Freitagmorgen,Freitagmorgen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-113,Glätte-Unfälle,Glätte-Unfälle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-114,Lücke im Versicherungskonzept,Lücke im Versicherungskonzept,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-115,Stundenkilometern,Stundenkilometern,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-116,Jahrhundertsturm,Jahrhundertsturm,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-101,Meck…,Meck…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-99,Dauereinsatz,Dauereinsatz,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-152,Biel,Biel,LOC,1.0,0.0,de,1.0,4006509-1,2661513,X,47.136944,7.245833,EUROPE,Switzerland,WCE,Storm Surge
-90,Ostsee-Sturmflut,Ostsee-Sturmflut,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-84,Sachsen ++ Sturmflut-Alarm,Sachsen ++ Sturmflut-Alarm,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-85,meterhoch im Meer,meterhoch im Meer,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-86,A7,A7,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-87,Winter-Sturmflut,Winter-Sturmflut,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-88,Sachsen ++ Niedersachsen,Sachsen ++ Niedersachsen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-89,Deiche,Deiche,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-91,Emden,Emden,LOC,0.0,0.0,de,1.0,4014564-5,2930596,X,53.367449,7.207779,EUROPE,Germany,NEU,Storm Surge
-98,Schattenflotte,Schattenflotte,LOC,-1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-92,Kaikante,Kaikante,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-93,D…,D…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-94,Sturmtief Detlef,Sturmtief Detlef,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-95,Nordseestränden,Nordseestränden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-96,Gazastreifen,Gazastreifen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-97,Dänemark,Dänemark,LOC,-0.7,0.0,de,1.0,4010877-6,2623032,X,56.0,10.0,EUROPE,Denmark,NEU,Storm Surge
-117,Gazastreifens,Gazastreifens,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-118,Nordsee-Inseln,Nordsee-Inseln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-119,Überflutungen,Überflutungen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-144,Konsequenzen,Konsequenzen,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-138,Irawan,Irawan,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-139,Gaza,Gaza,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-140,Schnee,Schnee,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-141,d…,d…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-142,Hes…,Hes…,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-143,Nordseeinseln,Nordseeinseln,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-145,Sturmflut-Überlebenden,Sturmflut-Überlebenden,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-120,Landfall,Landfall,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-146,Bestehens,Bestehens,LOC,0.0,2.0,de,1.0,,-1,,,,,,,Storm Surge
-147,Baustelle,Baustelle,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-148,Internetportal,Internetportal,LOC,0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-149,Naturgefahrenportal,Naturgefahrenportal,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-150,Naturgefahren,Naturgefahren,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-151,Hooge,Hooge,LOC,-2.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-137,Nordmeer,Nordmeer,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-136,Tag,Tag,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-135,Wilhelmshaven/Husum,Wilhelmshaven/Husum,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-134,Wetter-Ausnahmezustand,Wetter-Ausnahmezustand,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-133,Bretagne,Bretagne,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-132,Ärmelkanal,Ärmelkanal,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-131,St. Pauli-Fischmarkt,St. Pauli-Fischmarkt,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-130,Sturmtief „Joshua“,Sturmtief „Joshua“,LOC,-0.7,0.0,de,1.0,,-1,,,,,,,Storm Surge
-129,Wilhelmshaven,Wilhelmshaven,LOC,-0.7,0.0,de,1.0,4066173-8,2808720,X,53.52998,8.112529,EUROPE,Germany,NEU,Storm Surge
-128,nordfriesischen Küste,nordfriesischen Küste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-127,Elbe Sturmflut-Niveau,Elbe Sturmflut-Niveau,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-126,ostfriesische Küste,ostfriesische Küste,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-125,Fischmarkt Wasser,Fischmarkt Wasser,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-124,Israels,Israels,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-123,Sturm-Alarm,Sturm-Alarm,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-122,Husum,Husum,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-121,Katastrophengebiet,Katastrophengebiet,LOC,0.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
-224,Sturm“,Sturm“,LOC,1.0,0.0,de,1.0,,-1,,,,,,,Storm Surge
+0,Mars,Mars,LOC,0.02542373,0.0,de,11.8,,6621751,T,-76.66667,161.95,POLAR,Antarctica,EAN,Thunderstorm
+1,Hessen,Hessen,LOC,0.0,0.0,de,9.1,4024729-6,2905330,A,50.55,9.0,EUROPE,Germany,WCE,Thunderstorm
+3,Rheinland-Pfalz,Rheinland-Pfalz,LOC,-0.08536585,0.0,de,8.2,4049795-1,2847618,A,49.66667,7.5,EUROPE,Germany,WCE,Thunderstorm
+2,Ibiza,Ibiza,LOC,-0.17073171,0.0,de,8.2,4026432-4,6299339,S,38.87286,1.37312,EUROPE-AFRICA,Spain,MED,Thunderstorm
+4,Saarland,Saarland,LOC,-0.08536585,0.0,de,8.2,4076919-7,2842635,A,49.40472,6.96083,EUROPE,Germany,WCE,Thunderstorm
+5,Formentera,Formentera,LOC,-0.19178082,0.0,de,7.3,4017869-9,2517690,T,38.69467,1.46919,EUROPE-AFRICA,Spain,MED,Thunderstorm
+6,Tourette,Tourette,LOC,0.05479452,0.1369863,de,7.3,4328062-6,3006197,P,43.38057,2.33399,EUROPE-AFRICA,France,MED,Thunderstorm
+7,Baden-Württemberg,Baden-Württemberg,LOC,0.02205882,0.0,de,6.8,4004176-1,2953481,A,48.5,9.0,EUROPE,Germany,WCE,Thunderstorm
+8,Deutschland,Deutschland,LOC,-0.02238806,0.0,de,6.7,4011882-4,2921044,A,51.5,10.5,EUROPE,Germany,WCE,Thunderstorm
+9,Berlin,Berlin,LOC,-0.43636364,0.54545455,de,5.5,4005728-8,2950159,P,52.52437,13.41053,EUROPE,Germany,WCE,Thunderstorm
+11,Sturmböen,Sturmböen,LOC,-0.15217391,0.0,de,4.6,,0,,,,,,,Thunderstorm
+10,Brandenburg,Brandenburg,LOC,-0.30434783,0.65217391,de,4.6,4007955-7,2945356,A,52.45905,13.01582,EUROPE,Germany,WCE,Thunderstorm
+13,Erde,Erde,LOC,0.67391304,0.0,de,4.6,1135962553,6295630,L,0.0,0.0,ATLANTIC,,EAO,Thunderstorm
+12,Bonn,Bonn,LOC,0.39130435,0.0,de,4.6,4007666-0,6296510,S,50.87894,7.12292,EUROPE,Germany,WCE,Thunderstorm
+15,Saturn,Saturn,LOC,0.83783784,0.0,de,3.7,,6624777,T,-66.13333,101.15,POLAR,Antarctica,EAN,Thunderstorm
+14,Jupiter,Jupiter,LOC,0.83783784,0.0,de,3.7,,4160610,P,26.93422,-80.09421,NORTH-AMERICA,United States,ENA,Thunderstorm
+16,…,…,LOC,0.0,0.0,de,3.0,,0,,,,,,,Thunderstorm
+17,Gewitter,Gewitter,LOC,0.0,0.0,de,2.8,,0,,,,,,,Thunderstorm
+20,Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.35714286,0.0,de,2.8,4036934-1,2874545,P,52.12773,11.62916,EUROPE,Germany,WCE,Thunderstorm
+19,Olympia,Olympia,LOC,-0.35714286,0.0,de,2.8,4271795-4,5805687,P,47.04491,-122.90169,NORTH-AMERICA,United States,WNA,Thunderstorm
+18,NRW,NRW,LOC,0.0,0.35714286,de,2.8,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
+21,Wien,Wien,LOC,0.23076923,0.0,de,2.6,4066009-6,2761369,P,48.20849,16.37208,EUROPE,Austria,WCE,Thunderstorm
+22,Deutschlands,Deutschlands,LOC,0.0,0.0,de,2.0,,0,,,,,,,Thunderstorm
+30,Youtube-Kanal,Youtube-Kanal,LOC,0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
+31,Youtube-Szene,Youtube-Szene,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+23,Bali,Bali,LOC,0.0,0.0,de,1.9,4004327-7,1650534,T,-8.33333,115.0,ASIA,Indonesia,SEA,Thunderstorm
+33,Instagram,Instagram,LOC,0.0,0.0,de,1.9,,12070367,S,40.63591,22.94217,EUROPE-AFRICA,Greece,MED,Thunderstorm
+34,Museum von Olympia,Museum von Olympia,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+29,Sturmböen fegen,Sturmböen fegen,LOC,-0.36842105,0.0,de,1.9,,0,,,,,,,Thunderstorm
+28,Potsdam,Potsdam,LOC,-0.52631579,0.0,de,1.9,4046948-7,2852458,P,52.39886,13.06566,EUROPE,Germany,WCE,Thunderstorm
+27,Gewitterwolken,Gewitterwolken,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+26,Offenbach,Offenbach,LOC,0.0,0.0,de,1.9,4043359-6,2857807,P,50.10061,8.76647,EUROPE,Germany,WCE,Thunderstorm
+25,Kaltfront,Kaltfront,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+24,Lübeck,Lübeck,LOC,-0.36842105,0.0,de,1.9,4036483-5,2875601,P,53.86893,10.68729,EUROPE,Germany,NEU,Thunderstorm
+32,Gewittern,Gewittern,LOC,0.0,0.0,de,1.9,,0,,,,,,,Thunderstorm
+35,Tramuntana-Gebirge,Tramuntana-Gebirge,LOC,0.0,0.0,de,1.8,,0,,,,,,,Thunderstorm
+36,Verkehrsministeriums,Verkehrsministeriums,LOC,0.0,0.0,de,1.8,,0,,,,,,,Thunderstorm
+37,CDU-Landeschef,CDU-Landeschef,LOC,-0.46666667,0.0,de,1.5,,0,,,,,,,Thunderstorm
+38,Syrien,Syrien,LOC,-0.5,0.0,de,1.4,4058794-0,163843,A,35.0,38.0,EUROPE-AFRICA,Syria,MED,Thunderstorm
+41,CSU-Chef,CSU-Chef,LOC,1.66666667,0.83333333,de,1.2,,0,,,,,,,Thunderstorm
+40,Union,Union,LOC,-0.58333333,0.0,de,1.2,,3584767,A,13.55,-87.9,CENTRAL-AMERICA,El Salvador,SCA,Thunderstorm
+39,Landtagswahl,Landtagswahl,LOC,0.58333333,0.0,de,1.2,,0,,,,,,,Thunderstorm
+42,Stuttgart,Stuttgart,LOC,0.0,0.0,de,1.1,4058282-6,2825297,P,48.78232,9.17702,EUROPE,Germany,WCE,Thunderstorm
+43,Rückführungen,Rückführungen,LOC,0.0,0.0,de,1.1,,0,,,,,,,Thunderstorm
+96,Mitteldeutschland,Mitteldeutschland,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+99,November-Modus,November-Modus,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+100,Wochenend-Wetter,Wochenend-Wetter,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+97,Bayern,Bayern,LOC,0.0,0.0,de,1.0,4005044-0,2951839,A,49.0,11.5,EUROPE,Germany,WCE,Thunderstorm
+98,Oberharz,Oberharz,LOC,0.0,0.0,de,1.0,4042923-4,2860465,T,51.83224,10.469,EUROPE,Germany,WCE,Thunderstorm
+102,Wetterkapriolen,Wetterkapriolen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+101,Theaterfestivals,Theaterfestivals,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+103,Landes,Landes,LOC,-0.7,0.0,de,1.0,,3007868,L,44.25,-1.0,EUROPE-AFRICA,France,MED,Thunderstorm
+44,Pityusen,Pityusen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+45,Gewitter-Gefahr,Gewitter-Gefahr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+46,aufgewirbe…,aufgewirbe…,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+47,Israel,Israel,LOC,0.0,0.0,de,1.0,4027808-6,294640,A,31.5,34.75,EUROPE-AFRICA,Israel,MED,Thunderstorm
+48,Klosterneuburg,Klosterneuburg,LOC,0.0,0.0,de,1.0,4031235-5,2773913,P,48.30521,16.32522,EUROPE,Austria,WCE,Thunderstorm
+49,Streaming-Partner,Streaming-Partner,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+50,Stunden in der Luft,Stunden in der Luft,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+51,Gaza,Gaza,LOC,0.0,0.0,de,1.0,4092680-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
+52,Gazastreifen,Gazastreifen,LOC,-0.5,0.5,de,1.0,4019325-1,281133,P,31.50161,34.46672,EUROPE-AFRICA,Palestinian Territory,MED,Thunderstorm
+53,Dax-Konzerns,Dax-Konzerns,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+54,Naturkatastrophen,Naturkatastrophen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+55,Knochen,Knochen,LOC,0.0,0.0,de,1.0,,2879904,T,50.6906,13.16666,EUROPE,Germany,WCE,Thunderstorm
+56,Jahresverlauf,Jahresverlauf,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+57,blitzarm,blitzarm,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+58,Erklärungen,Erklärungen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+59,Meteorologen,Meteorologen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+60,b…,b…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+61,Abendstunden Sturmböen,Abendstunden Sturmböen,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+62,Brandenburgs,Brandenburgs,LOC,-0.7,0.0,de,1.0,,8181624,S,52.36213,13.50168,EUROPE,Germany,WCE,Thunderstorm
+63,Umständen,Umständen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+64,Z…,Z…,LOC,0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+65,Skijäger-Kosmos,Skijäger-Kosmos,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+66,Schweigen,Schweigen,LOC,0.0,0.0,de,1.0,,2834579,T,51.4,10.81667,EUROPE,Germany,WCE,Thunderstorm
+67,Aufruhr,Aufruhr,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+68,Blitze,Blitze,LOC,0.0,0.0,de,1.0,,2948144,P,50.7569,7.48473,EUROPE,Germany,WCE,Thunderstorm
+69,Mallorca,Mallorca,LOC,0.0,0.0,de,1.0,4115833-7,2512989,P,39.56939,2.65024,EUROPE-AFRICA,Spain,MED,Thunderstorm
+70,YouTube-Kanal Gewitter,YouTube-Kanal Gewitter,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+71,Windböen,Windböen,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+72,Tornados,Tornados,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+73,lsw,lsw,LOC,0.0,0.0,de,1.0,,1214658,P,5.1801,97.1507,ASIA,Indonesia,SEA,Thunderstorm
+74,CDU-Chef,CDU-Chef,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+75,Äste,Äste,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+76,Böen,Böen,LOC,0.0,0.0,de,1.0,,3160910,P,59.75,8.78333,EUROPE,Norway,NEU,Thunderstorm
+77,Orkanartige Böen,Orkanartige Böen,LOC,-0.7,0.0,de,1.0,,0,,,,,,,Thunderstorm
+78,Freitagnachmittag,Freitagnachmittag,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+79,Flughafenstraße,Flughafenstraße,LOC,0.0,0.0,de,1.0,,10387153,S,47.1879,7.40601,EUROPE,Switzerland,WCE,Thunderstorm
+80,Harz,Harz,LOC,0.0,0.0,de,1.0,4023568-3,2909965,T,51.75619,10.63462,EUROPE,Germany,WCE,Thunderstorm
+81,Tirol,Tirol,LOC,0.0,0.0,de,1.0,4027096-8,2775220,P,47.26266,11.39454,EUROPE,Austria,WCE,Thunderstorm
+82,Wirtschaftskammer,Wirtschaftskammer,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+83,Stadtbild-Debatte,Stadtbild-Debatte,LOC,0.85,0.0,de,1.0,,0,,,,,,,Thunderstorm
+84,Schreihälse,Schreihälse,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+85,Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,0.0,0.0,de,1.0,4031483-2,2886242,P,50.93333,6.95,EUROPE,Germany,WCE,Thunderstorm
+86,lhe,lhe,LOC,0.0,0.0,de,1.0,4034107-0,1172451,P,31.558,74.35071,ASIA,Pakistan,WCA,Thunderstorm
+87,Klimawandels,Klimawandels,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+88,YouTube-Star,YouTube-Star,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+89,Bucht vom Purt de Sóller,Bucht vom Purt de Sóller,LOC,1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+90,Gewitter-im-Kopf,Gewitter-im-Kopf,LOC,-1.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
+91,Königswinter,Königswinter,LOC,-0.15,0.0,de,1.0,4031563-0,2885734,P,50.67734,7.19245,EUROPE,Germany,WCE,Thunderstorm
+92,Youtube,Youtube,LOC,0.7,0.0,de,1.0,,11789508,T,38.5173,-8.9055,EUROPE-AFRICA,Portugal,MED,Thunderstorm
+93,Peloponnes,Peloponnes,LOC,-1.0,0.0,de,1.0,4045064-8,255620,L,37.5,22.33333,EUROPE-AFRICA,Greece,MED,Thunderstorm
+94,Steiermark Gewitter,Steiermark Gewitter,LOC,-0.66666667,0.33333333,de,1.0,,0,,,,,,,Thunderstorm
+95,Puig Major,Puig Major,LOC,0.0,0.0,de,1.0,7847917-4,2513992,T,39.80768,2.7943,EUROPE-AFRICA,Spain,MED,Thunderstorm
+104,Donn…,Donn…,LOC,0.0,0.0,de,1.0,,0,,,,,,,Thunderstorm
