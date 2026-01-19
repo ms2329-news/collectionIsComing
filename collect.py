@@ -82,7 +82,7 @@ def loadExistingNews(currentMonth):
     if(not fileDate in collectedNews):
         if(os.path.isfile(DATA_PATH / 'csv' / fileDate)):
             df = pd.read_csv(DATA_PATH / 'csv' / fileDate, delimiter=',',index_col='index')
-            df = df.drop(columns="url").reset_index()
+            #df = df.drop(columns="url").reset_index()
             collectedNews[fileDate] = df.to_dict('index')
         else:
             collectedNews[fileDate] = {}
