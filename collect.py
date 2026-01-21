@@ -225,7 +225,7 @@ def translateData(data):
 allLocationsDF = pd.DataFrame()
 repos =  list(githubRepos.keys())     
 random.shuffle(repos)
-for repo in repos[0:10]:
+for repo in repos:
   #load sentiments_locations.csv
   locationsFile = "https://github.com/"+repo+"/blob/main/csv/sentiments_locations.csv?raw=true"
   locationsRequest = requests.get(locationsFile, headers={'Accept': 'text/plain'})
