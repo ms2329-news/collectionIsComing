@@ -1,9 +1,5 @@
 topic,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
  Gesundheitsdaten,0.0,1.0,0.0,1.0,1.0
-" bietet sich die… [+5117 chars]""",0.0,1.0,0.0,1.0,1.0
-" sollte wetterfest sein und auf den Straßen aufpassen. Was der Wetterdienst… [+2182 chars]""",0.0,1.0,0.0,1.0,1.0
- wann Kinder in NRW auf Distanz lernen dürfen. Eltern erklären,0.0,1.0,0.0,1.0,1.0
-" wie er und andere… [+122 chars]""",0.0,1.0,0.0,1.0,1.0
 """Crimen Scene: Last Harvest"": Somnia in pomo villam fracta. Charlotte Lindholm inquirit mortem soli agricolae temporalis in regione Altes Land pomi crescentis. Estne tanti sceleris thriller?",0.0,1.0,0.0,1.0,1.0
 """Monstra Musa"": Obscurae rutrum inclinatio ad ruinam. Creepy formosa: Hoc modo consequi potes autumnum, flecte quod arcanas tenebras componit et viriditatem vivam.",0.0,1.0,0.0,1.0,1.0
 """Scelus Scene"" ab Aquilone: ​​Furtwängler ""Scene Crimen"": Immaculatus in Veteri Regione. Novo in casu suo, ""Last Harvest,"" Charlotte Lindholm (Maria Furtwängler) coniurationem agriculturae communitatem investigat sicut classic Agatha Christie.",0.0,1.0,0.0,1.0,1.0
@@ -15,7 +11,7 @@ topic,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
 "73 Minuten Schockstarre: Der für mich beste Horrorfilm des Jahres ist dem Genre weit voraus. Wer Horror mal aus einer ganz anderen Perspektive erleben möchte, sollte Ende Oktober den kürzesten Film aus dem Kino-Programm wählen.",0.0,1.0,0.0,1.0,1.0
 "73 Minuten Schockstarre: Vom besten Horrorfilm des Jahres haben viele noch gar nichts gehört. Wer Horror mal aus einer ganz anderen Perspektive erleben möchte, sollte Ende Oktober den kürzesten Film aus dem Kino-Programm wählen.",0.0,1.0,0.0,1.0,1.0
 "Achtung!: Wer diese 3 Fehler jetzt macht, ruiniert seinen Garten im Winter. Auch wenn die Erntehochsaison sich dem Ende neigt, gibt es noch einiges zu tun in unserem Garten. Jetzt ist es vor allem an der Zeit, unsere Pflanzen vor Frost und Kälte zu schützen.",0.0,1.0,0.0,1.0,1.0
-Adaptation,0.041837462462462456,0.28217135071380356,0.06595345345345345,0.14541259417131674,148.0
+Adaptation,0.03149040606871932,0.30398876865587665,0.043551985720660415,0.12366734468301589,747.0
 Agriculture: Agricolae in Rheno-Palatinate metiuntur signanter fructus. Circa 28.400 talenta malorum et signanter cerasa quam anno superiore: Officium Statistical Officium refert messem fructus arboris eximie bonae in Rheno-Palatinate.,0.0,1.0,0.0,1.0,1.0
 Agriculture: Average cucurbita messis expectata est. Coloniae/Münster (lnw) - Utrum pulmentum vel ut spooky ornamentum Halloween: tempus cucurbita in pleno adductius est. In hoc cadit messis grossorum fructuum,0.0,1.0,0.0,1.0,1.0
 Agriculture: Chamber of Agriculture expectet pretium olus firmum. Rendsburg (lno) - The Schleswig-Holstein Chamber of Agriculture expectet pretium kale hoc tempore satis firmum esse. Hoc illud est quod loquens ait,0.0,1.0,0.0,1.0,1.0
@@ -33,7 +29,7 @@ Bilder der Woche: Blüten aus DNA reagieren wie lebende Organismen. Winzige Kris
 "Busy insects: Beekeepers prepare bees for winter. Kirchhain (lhe) - After an above-average honey harvest this year, beekeepers are preparing their bees for the cold season. «The peoples",0.0,1.0,0.0,1.0,1.0
 Cannabis legalization: Fere 100 cannabis culturae consociationes approbatae in North Rheno-Westphalia. Fere 100 cannabis fustibus nunc licite in North Rheno-Westphalia crescere permittuntur - sed consilium nondum in plus quam 70 applicationes signanter factum est. Saxa est via ad messem tuam.,0.0,1.0,0.0,1.0,1.0
 Castaneae: De virtute otiosorum autumni fructus. Castaneae iamdudum consideratae sunt panis pauperum. Hodie experiuntur saltationem. Quae castaneae eduntur et quomodo eis uti potes.,0.0,1.0,0.0,1.0,1.0
-Causes,0.007917989417989416,0.30882045960434734,0.07537037037037037,0.1625301914540532,405.0
+Causes,0.0015027408151309719,0.30740106011191143,0.06464435657098223,0.1575181851282374,1138.0
 "Cozy Games: Quis ego pet primum ?. COMMODUS lusus circa libros sunt, semisomnus cerebri vasti vel feles. Summa est tardus et sine accentus. Quatuor commendationes autumnales.",0.0,1.0,0.0,1.0,1.0
 "Cucurbita risotto cum castaneo puro oleo: Haec risotto tam varia est quam autumnus. Naturae color mutatur et risotto sectam sequitur. Nam semel, color non solum cucurbita debetur, sed imprimis chiliades guajillo Mexicanae.",0.0,1.0,0.0,1.0,1.0
 "Darkness and weather: From satchels to tires - that's what's important in traffic now. With the time change, it gets dark earlier and winter is getting closer. What should drivers, cyclists and pedestrians pay attention to in traffic?",0.0,1.0,0.0,1.0,1.0
@@ -42,7 +38,6 @@ Date notiones in hieme: Creative activities pro diebus frigidis. Quis dicit hiem
 Denim trends: Hae bracae populares nunc sunt. Ex casual ad pullus: jeans notabiliter in autumno cum suis frigidis secat et colores novos. Hi styli nunc trending.,0.0,1.0,0.0,1.0,1.0
 "Der FC Winterthur wirkt schon im Herbst wie der sichere Absteiger – warum sollte die Rettung erneut gelingen?. Der Klub hat im Mai sensationell den Ligaerhalt geschafft, jetzt ist er schon wieder in grosser Not. Vor dem Spiel in Basel wartet der FCW noch immer auf den ersten Sieg.",0.0,1.0,0.0,1.0,1.0
 "Dramatic rescue: Trapped mountaineers film snowstorm on Mount Everest. Heavy rain and snow hit the Everest region. Almost 1,000 people are stuck at 4,900 meters. Videos show the extreme weather on the highest mountain in the world.",0.0,1.0,0.0,1.0,1.0
-Ein Kanal in Glarus schafft Abhilfe für «durch Versumpfung ins Elend gestürzte Bewohner». Der Panoramazeichner und Politiker Hans Konrad Escher realisierte zusammen mit dem Ingenieur Johann Gottfried Tulla ein für das 19. Jahrhundert gewaltiges Bauunternehmen.,0.0,1.0,0.0,1.0,1.0
 "Erkältungen: Wie viele Atemwegsinfekte sind bei kleinen Kindern normal?. Im Herbst und Winter sind viele Kinder dauernd verrotzt, eine Hustenepisode geht in die nächste über. Wann muss man sich Sorgen machen? Ein Kinderarzt klärt auf.",0.0,1.0,0.0,1.0,1.0
 "Erntedank: Landeserntedankfest wird an der Ostsee gefeiert. Die Ernte ist eingebracht, jetzt wird gefeiert. Das Landeserntedankfest wird dieses Jahr in Wismar und auf Poel ausgerichtet. Worauf man sich freuen darf.",0.0,1.0,0.0,1.0,1.0
 Es gibt einen konkreten Plan - Neue Wechsel-Gerüchte um Bellingham. BVB: Neue Gerüchte um Winter-Wechsel von Jobe Bellingham,0.0,1.0,0.0,1.0,1.0
@@ -56,7 +51,7 @@ Gelsenkirchen - Mann (23) wehrt Raubüberfall im Park ab. In Gelsenkirchen wurde
 Gere elegantem retro trend nunc: Pons combinationum quem omnes amabunt in 2026. Orange obvium brunneum: color combinationis magnas partes aget in 2026. Sed inclinatio etiam dici potest pro autumno.,0.0,1.0,0.0,1.0,1.0
 "German vinitores: Vinum improvisum debilis messis est. Hoc anno, Germanica wineries minus significanter uvas quam expectatur colligent. Secundum Institutum Vinum Germanum, hoc maxime ob pluviam Septembri. sed promittit quale sit.",0.0,1.0,0.0,1.0,1.0
 "Guide: Five cars under 15,000 euros that are perfect for the winter. The cool autumn storms have passed and the first snow of the season has fallen. Blessed is anyone who has a car that is suitable for winter and doesn't have to deal with the weather.",0.0,1.0,0.0,1.0,1.0
-Hazard,0.0019483681264654694,0.2924844404466572,0.04684592693442251,0.1320557399303776,2938.0
+Hazard,0.001536988918028447,0.30881837791850925,0.05147478802310427,0.1398939732006384,8879.0
 "Herbstliche Basteltipps - Was Sie aus Kastanien und Blättern machen können. Wie können Sie sich den Herbst in das Haus holen? Lesen Sie hier, was Sie aus Kastanien und bunten Blättern alles machen können.",0.0,1.0,0.0,1.0,1.0
 "Herbststurm fegt über Deutschland - Regen und Sturmböen erwartet. Sturmböen, Regen und sinkende Temperaturen: Ein kräftiger Herbststurm fegt ab Donnerstag übers Land und sorgt für ungemütliches Wetter. Auch am Wochenende dürfte es kühl und nass werden - adé, goldener Herbst.",0.0,1.0,0.0,1.0,1.0
 "Herbststurm: Jetzt wird's ungemütlich: ""Joshua"" bringt Sturm und Regen. Offenbach - Sturm, Regen und niedrigere Temperaturen: Kurz vor dem Wochenende zeigt sich der Herbst in Deutschland von seiner ungemütlichen Seite. Das",0.0,1.0,0.0,1.0,1.0
@@ -65,13 +60,12 @@ Hieme asylum pro creepy crawlies: de aranearum noli trepidare! Araneae ad stater
 Hiems tempus: Quare tempus mutatum adhuc non est abolitum. Horologium iterum in novissima volutpat mense Octobri vertitur. Tempus mutatum est exitus vexator per multos cives Europaeos. Cur nihil mutatur?,0.0,1.0,0.0,1.0,1.0
 "Hochwasser wegen Sturm: Sturmtief: Campingplatz auf Norderney unter Wasser. Norderney - Das Sturmtief, das über den Norden Deutschlands hinweggefegt ist, hat auf der ostfriesischen Insel Norderney für Schäden gesorgt. Neben",0.0,1.0,0.0,1.0,1.0
 "Hokkaido and Co.: Pfalzmarkt: Challenging weather conditions for pumpkins. Hokkaido remains the pumpkin king, Halloween pumpkins are booming before the festival. You can find out here how the weather and low producer prices affect the harvest.",0.0,1.0,0.0,1.0,1.0
-Impacts,-0.00571612286890065,0.3161359546582482,0.055234420928865366,0.1353477435710134,756.0
+Impacts,-0.012141638469920286,0.31246896338311475,0.04998349614166555,0.13180452705008183,2491.0
 "In ""Dies Mundus Stuttering"": Associationis: Agere cum hominibus qui balbutiunt melius. Mogontiacum/Saarbrücken (lrs) - Secundum Oliver Winter e Consociatione publica Stuttering &",0.0,1.0,0.0,1.0,1.0
 "In insula Corsica ""Benjamin"" in insula Corsicae feriae Germanicae tempestatibus mortuus est. Germanus feriatus in insula Corsica Mediterraneo Gallico in Beniamin expugnatione mortuus est. XLV annos natus est cum uxore et duobus liberis in flumine lavabatur cum aqua gradu gravi ex ...",0.0,1.0,0.0,1.0,1.0
 In ludis Bavaricis Praemium - motus Dahlmeier momentum a nostris biathlon astris. Verisimile erit cum prioribus teammates quovis generi hac hieme current... Laura Dahlmeier (†31) erit...,0.0,1.0,0.0,1.0,1.0
 "Incipiamus: Secans tempus coepit - arbores recte secare. Sepes vernant, arbores valentes et aves canunt: hortus ius perfecto secatur - sed si autumno decretorio vitaris.",0.0,1.0,0.0,1.0,1.0
 Invasivas nutrias: Numerus nutrias occisorum in septentriones orientem ingentes crevit. Praedia ad feturam pellis inclusae solebant. Nutrias nunc rapide in solitudine diffundunt. Secundum societatem venationis haec non solum periculosum est ad diluvium praesidium.,0.0,1.0,0.0,1.0,1.0
-Is the frost bomb coming? - White Christmas is possible if.... The big question remains whether the frost bomb will ignite this time - or whether the winter will remain without frost and snow.,0.0,1.0,0.0,1.0,1.0
 Keine Bestäubung - 172 Bienen-Arten bedroht! Sorge um unsere Ernte. In Europa sind immer mehr Wildbienen und Schmetterlinge bedroht. Die Zahl bedrohter Arten hat sich in zehn Jahren verdoppelt.,0.0,1.0,0.0,1.0,1.0
 "Koalitionsausschuss beendet - Ergebnisse offen. Schwarz-Rot hat einen ""Herbst der Reformen"" angekündigt. Doch die Liste der Uneinigkeiten in der Koalition ist lang, die Stimmung schlecht. Ob der Koalitionsausschuss daran etwas ändern konnte, ist bisher offen.",0.0,1.0,0.0,1.0,1.0
 "Kälteschutz: Hundemantel für den Winter: So kommt Ihr Vierbeiner durch die kalte Jahreszeit. Ein Hundemantel schützt vor Kälte, Nässe und Wind – doch nicht jeder braucht ihn. Wann ein Mantel sinnvoll ist und welche Modelle besonders empfehlenswert...",0.0,1.0,0.0,1.0,1.0
@@ -81,11 +75,10 @@ Ludis hibernis: Feldberg cogitat tempus initium in fine Novembris. Todtnau (lsw)
 "Meal Prep für den Herbst: Einmal Herbst zum Mitnehmen, bitte!. Sie trauern dem Sommer hinterher? Kosten Sie doch lieber den Herbst in vollen Zügen aus! Wir haben eine Woche mit Lunchgerichten für Sie geplant – ganz ohne Reste.",0.0,1.0,0.0,1.0,1.0
 Mehr Qualität statt Masse - Erstes Skigebiet führt Besucherlimit ein. Madonna di Campiglio führt ab Winter 2025/26 Kapazitätsgrenzen ein und begrenzt Skipässe auf 14.000 Stück an besonders stark frequentierten Tagen.,0.0,1.0,0.0,1.0,1.0
 Minores baccae et imbres mense Septembri: messis vina minor quam aestimatur. Messis vini in Germania hoc anno humilior quam initio aestimatur. Vinum Germanum in Bodenheim Institutum Mercurii die Mercurii pronuntiavit totalem fructum sub octingentis miliones hectoliterorum proxime futurum exspectari.,0.0,1.0,0.0,1.0,1.0
-Mitigation,0.013443207586064727,0.3165733708954895,0.04287878787878788,0.12008106238082843,385.0
+Mitigation,0.009417470691980493,0.3250265540504427,0.03985717743887678,0.12137667515958185,1377.0
 Motorcycles: TÜV cursores periculi autumni in viis Thuringiae monet. Erfurt - TÜV Thuringia monet periculum auctum accidentium motorcyclistarum autumno. Multi bikers usi sunt fortasse apricis proximis diebus,0.0,1.0,0.0,1.0,1.0
 "Natura conservationis: Novum audio pretium Buchenwald Grumsin vertit in experientiam audientem. Schorfheide-Chorin (bb) - Fagorum vetus, soni novi: Itinere audio intentum est ut Grumsin Mundanus Heritagium Saltus in septentrionali Brandenburgico experientiam audiat.",0.0,1.0,0.0,1.0,1.0
 "New releases: shimmering synthesizers, melancholic party rap, German chansons. There will be great new music from Hamburg in autumn. Five recommendations from the ZEIT editorial team",0.0,1.0,0.0,1.0,1.0
-"Norimberg's defensionis bulla Gruber - capitanei? ""Admiratus sum ipse!"" Solus venit ad 1. FC Nürnberg ex tertia turma SC Verl in hieme. Sed iam Fabio Gruber (22) dux iam certae atque etiam...",0.0,1.0,0.0,1.0,1.0
 Novum Apple Vigilo: Hoc est ius Apple Vigilate pro vobis. Lacus tres vigilias novas hoc casu dimisit. Post tres septimanas patet probatio: optimum necessario est carissimum.,0.0,1.0,0.0,1.0,1.0
 "Nur für Gryffindors: Elbenwald verkauft gemütliches ""Harry Potter""-Strickkleid zum absoluten Zauberpreis. Der Herbst ruft – und mit ihm kommen gemütliche und wärmende Kleidungsstücke wie das „Harry Potter“-Strickkleid, das derzeit als Schnäppchen zu haben ist.",0.0,1.0,0.0,1.0,1.0
 "Omnes reatus! 12 pacto SUV hiemes igneas temptavit. AUTO BILD temptavit duodecim currentes hiemes summas pro pactis SUVs - ut per hiemem tuto in nive, glacie et umida condicione potiri possis!",0.0,1.0,0.0,1.0,1.0
@@ -115,6 +108,7 @@ Quaerere imaginem autumni: Tantum 3% cognosce quae arbor unica est. Semperne eti
 "Rasen schützen, Tieren helfen - Wohin mit dem ganzen Laub in meinem Garten?. Im Herbst gibt es viel zu tun im Garten. BILD erklärt, wann Sie Stauden schneiden, Schläuche leeren und warum das Laub unbedingt vom Rasen muss.",0.0,1.0,0.0,1.0,1.0
 Reed cicada: Quam cicada in Albis compescere. Hactenus imprimis laesum saccharo betae habet: calamus folium agricolae quaestio est. Minister foederalis agriculturae excogitat quomodo eos in regione exemplarium relegare possit.,0.0,1.0,0.0,1.0,1.0
 "Regimentsappell: Rekruten von Heimatschutzregiment legen Diensteid ab. Seit einem Jahr gibt es das Heimatschutzregiment 5 der Bundeswehr, dessen Stab im thüringischen Ohrdruf stationiert ist. Es soll vor allem kritische Infrastruktur schützen.",0.0,1.0,0.0,1.0,1.0
+Resilience,-0.011111111111111108,0.2010159381924911,0.05555555555555555,0.13608276348795434,6.0
 "Schneefall: Schnee in den Mittelgebirgen – Tauwetter folgt am Montag. Leipzig - In den Höhenlagen in Sachsen, Sachsen, Anhalt und Thüringen ist erneut etwas Schnee gefallen. Oberhalb von 800 Meter seien einige wenige",0.0,1.0,0.0,1.0,1.0
 "Schweizer Alpen-Gletscher schmelzen weiter in Rekordtempo. Die Gletscher in den Alpen schwinden im Rekordtempo. Schneemangel und Hitzewellen haben auch in diesem Jahr die Eisschmelze vorangetrieben, zeigt ein Bericht. Seit 2015 ist ein Viertel des ""ewigen Eises"" geschmolzen. Von Kathrin Hondl.",0.0,1.0,0.0,1.0,1.0
 Spanischer Reis mit Wildpilzen: Haben Sie auch so einen Reishunger?. Waldfrüchte statt Meeresfrüchte: Paella schmeckt im Herbst auch mit frischen Wildpilzen. Das Gericht gart in Hühnerbrühe und Weißwein und freut sich auf Manchego-Späne.,0.0,1.0,0.0,1.0,1.0
@@ -128,7 +122,6 @@ Tempestas in Germania: Post procellam venit pluvia et prima nix. Procella super 
 Tempestas: Malum autumni tempestas ineunte hebdomade. Hanover/Bremen (lni) - Novus hebdomade incipit nubilum et pluvium - ac tonitrua solitaria esse. Inter altum in Central Europa,0.0,1.0,0.0,1.0,1.0
 Tempestas: Nubila et tonitrua nubes longam volutpat in Hassia. Offenbach (lhe) - Homines in Hassia parandi sunt ad mutationem tempestatum per longum tempus volutpat. Ferias incipit magna,0.0,1.0,0.0,1.0,1.0
 Tempestas: Tempestas autumnalis mutabilis in NRW. Essen (lnw) - Mutabilis tempestas autumni in North Rheno-Westphalia in diebus proximis praevalebit. Nubes et ventus movebuntur in area usque ad novam hebdomadam,0.0,1.0,0.0,1.0,1.0
-Tempestas: Tempestas commercii vada sistit et statum Gratiarum solemnis disrupts. Ob procellae procellae Scandlinae omnia vecturae inter Rostock et Gedser cessaverunt. Ferries ad Hiddensee etiam cursus desiit. Festivitas publica messis postea in Wismar incepit.,0.0,1.0,0.0,1.0,1.0
 Tempestas: Tempestas per Germaniam - iniurias et cancellations porttitor. Hamburg - Tempestas trans Germaniam invasit et damnum in compluribus civitatibus foederatis fecit. Saltem duo homines erant,0.0,1.0,0.0,1.0,1.0
 "Tempestas: Tempestas pluvias et procellas Hassiae affert. Hic informationes invenies in argumento ""tempestatis"". Nunc legitur ""Tempestas profunditas pluvias et fortes procellas Hassiae"".",0.0,1.0,0.0,1.0,1.0
 Tempestas: Tempestas tristitia adfert ventum et pluviam in volutpat tempor. Offenbach - Amicissima tempestas autumni praeteritis diebus vale dicit in initio longi temporis volutpat. In die,0.0,1.0,0.0,1.0,1.0
@@ -164,8 +157,4 @@ Wetter: Gewitter und Sturmböen in Sachsen-Anhalt möglich. Magdeburg (sa) - In 
 "Wetterprognose: Herbstwetter in Hessen: Zum Wochenstart Regen und Gewitter. Zum Start in die neue Woche zeigt sich das Wetter in Hessen unbeständig: Regen, Wind und einzelne Gewitter bestimmen zunächst das Geschehen. Erst zur Wochenmitte wird es etwas ruhiger.",0.0,1.0,0.0,1.0,1.0
 "Wichtige Tipps - Brennholz falsch gelagert? Diese Tipps retten Ihren Kaminwinter. Wer im Winter gemütlich am Kamin sitzt, weiß: Nichts geht über knisterndes Feuer und den Duft von brennendem Holz. Doch damit das he...",0.0,1.0,0.0,1.0,1.0
 Zeitumstellung 2025 - Stellen wir diesen Samstag schon die Uhr zurück?. Im Herbst 2025 stellen wir die Uhren eine Stunde zurück zur Winterzeit. Wann das genau passiert und alle weiteren Infos lesen Sie hier.,0.0,1.0,0.0,1.0,1.0
-http://web.archive.org/web/20251005203326/https://www.kino-zeit.de/film-kritiken-trailer/dead-of-winter-eisige-stille-2025,0.0,1.0,0.0,1.0,1.0
-http://web.archive.org/web/20251013153113/https://www.china-gadgets.de/smart-home-gadgets-schimmelvorbeugung-herbst/,0.0,1.0,0.0,1.0,1.0
-http://web.archive.org/web/20251017154147/https://www.photoscala.de/2025/10/14/buchreview-zu-winterland-the-colors-of-snow-von-christophe-jacrot/,0.0,1.0,0.0,1.0,1.0
-http://web.archive.org/web/20251021175904/https://www.basicthinking.de/blog/2025/10/18/spinnen-roboter-haus/,0.0,1.0,0.0,1.0,1.0
 "Äpfel und Birnen erntereif: Städtische Obstbäume: Ernte ohne Erlaubnis meist möglich. Ernte ohne schlechtes Gewissen: In vielen Thüringer Städten dürfen Äpfel, Birnen & Co. einfach gepflückt werden. Worauf man trotzdem achten sollte und wo es sogar ausdrücklich erwünscht ist.",0.0,1.0,0.0,1.0,1.0
