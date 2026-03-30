@@ -11,7 +11,7 @@ topic,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
 "73 Minuten Schockstarre: Der für mich beste Horrorfilm des Jahres ist dem Genre weit voraus. Wer Horror mal aus einer ganz anderen Perspektive erleben möchte, sollte Ende Oktober den kürzesten Film aus dem Kino-Programm wählen.",0.0,1.0,0.0,1.0,1.0
 "73 Minuten Schockstarre: Vom besten Horrorfilm des Jahres haben viele noch gar nichts gehört. Wer Horror mal aus einer ganz anderen Perspektive erleben möchte, sollte Ende Oktober den kürzesten Film aus dem Kino-Programm wählen.",0.0,1.0,0.0,1.0,1.0
 "Achtung!: Wer diese 3 Fehler jetzt macht, ruiniert seinen Garten im Winter. Auch wenn die Erntehochsaison sich dem Ende neigt, gibt es noch einiges zu tun in unserem Garten. Jetzt ist es vor allem an der Zeit, unsere Pflanzen vor Frost und Kälte zu schützen.",0.0,1.0,0.0,1.0,1.0
-Adaptation,0.04128832692497288,0.3073153256533317,0.04433353051365474,0.12627746687513725,1127.0
+Adaptation,0.04189344905364322,0.3069693502774977,0.04409875453564774,0.12598349767828093,1133.0
 Agriculture: Agricolae in Rheno-Palatinate metiuntur signanter fructus. Circa 28.400 talenta malorum et signanter cerasa quam anno superiore: Officium Statistical Officium refert messem fructus arboris eximie bonae in Rheno-Palatinate.,0.0,1.0,0.0,1.0,1.0
 Agriculture: Average cucurbita messis expectata est. Coloniae/Münster (lnw) - Utrum pulmentum vel ut spooky ornamentum Halloween: tempus cucurbita in pleno adductius est. In hoc cadit messis grossorum fructuum,0.0,1.0,0.0,1.0,1.0
 Agriculture: Chamber of Agriculture expectet pretium olus firmum. Rendsburg (lno) - The Schleswig-Holstein Chamber of Agriculture expectet pretium kale hoc tempore satis firmum esse. Hoc illud est quod loquens ait,0.0,1.0,0.0,1.0,1.0
@@ -29,7 +29,7 @@ Bilder der Woche: Blüten aus DNA reagieren wie lebende Organismen. Winzige Kris
 "Busy insects: Beekeepers prepare bees for winter. Kirchhain (lhe) - After an above-average honey harvest this year, beekeepers are preparing their bees for the cold season. «The peoples",0.0,1.0,0.0,1.0,1.0
 Cannabis legalization: Fere 100 cannabis culturae consociationes approbatae in North Rheno-Westphalia. Fere 100 cannabis fustibus nunc licite in North Rheno-Westphalia crescere permittuntur - sed consilium nondum in plus quam 70 applicationes signanter factum est. Saxa est via ad messem tuam.,0.0,1.0,0.0,1.0,1.0
 Castaneae: De virtute otiosorum autumni fructus. Castaneae iamdudum consideratae sunt panis pauperum. Hodie experiuntur saltationem. Quae castaneae eduntur et quomodo eis uti potes.,0.0,1.0,0.0,1.0,1.0
-Causes,0.00042941324515955386,0.31119811289605886,0.05779190207156309,0.14577192625834065,1829.0
+Causes,0.00024792505406398687,0.31070898891666704,0.057638514928498766,0.1454583195696396,1857.0
 "Cozy Games: Quis ego pet primum ?. COMMODUS lusus circa libros sunt, semisomnus cerebri vasti vel feles. Summa est tardus et sine accentus. Quatuor commendationes autumnales.",0.0,1.0,0.0,1.0,1.0
 "Cucurbita risotto cum castaneo puro oleo: Haec risotto tam varia est quam autumnus. Naturae color mutatur et risotto sectam sequitur. Nam semel, color non solum cucurbita debetur, sed imprimis chiliades guajillo Mexicanae.",0.0,1.0,0.0,1.0,1.0
 "Darkness and weather: From satchels to tires - that's what's important in traffic now. With the time change, it gets dark earlier and winter is getting closer. What should drivers, cyclists and pedestrians pay attention to in traffic?",0.0,1.0,0.0,1.0,1.0
@@ -51,7 +51,7 @@ Gelsenkirchen - Mann (23) wehrt Raubüberfall im Park ab. In Gelsenkirchen wurde
 Gere elegantem retro trend nunc: Pons combinationum quem omnes amabunt in 2026. Orange obvium brunneum: color combinationis magnas partes aget in 2026. Sed inclinatio etiam dici potest pro autumno.,0.0,1.0,0.0,1.0,1.0
 "German vinitores: Vinum improvisum debilis messis est. Hoc anno, Germanica wineries minus significanter uvas quam expectatur colligent. Secundum Institutum Vinum Germanum, hoc maxime ob pluviam Septembri. sed promittit quale sit.",0.0,1.0,0.0,1.0,1.0
 "Guide: Five cars under 15,000 euros that are perfect for the winter. The cool autumn storms have passed and the first snow of the season has fallen. Blessed is anyone who has a car that is suitable for winter and doesn't have to deal with the weather.",0.0,1.0,0.0,1.0,1.0
-Hazard,0.00035657676750964817,0.3086747222180433,0.054519233775776624,0.14371464798809716,14214.0
+Hazard,0.00041848194327203183,0.3087240937225367,0.05449774092321452,0.14354407737923625,14411.0
 "Herbstliche Basteltipps - Was Sie aus Kastanien und Blättern machen können. Wie können Sie sich den Herbst in das Haus holen? Lesen Sie hier, was Sie aus Kastanien und bunten Blättern alles machen können.",0.0,1.0,0.0,1.0,1.0
 "Herbststurm fegt über Deutschland - Regen und Sturmböen erwartet. Sturmböen, Regen und sinkende Temperaturen: Ein kräftiger Herbststurm fegt ab Donnerstag übers Land und sorgt für ungemütliches Wetter. Auch am Wochenende dürfte es kühl und nass werden - adé, goldener Herbst.",0.0,1.0,0.0,1.0,1.0
 "Herbststurm: Jetzt wird's ungemütlich: ""Joshua"" bringt Sturm und Regen. Offenbach - Sturm, Regen und niedrigere Temperaturen: Kurz vor dem Wochenende zeigt sich der Herbst in Deutschland von seiner ungemütlichen Seite. Das",0.0,1.0,0.0,1.0,1.0
@@ -60,7 +60,7 @@ Hieme asylum pro creepy crawlies: de aranearum noli trepidare! Araneae ad stater
 Hiems tempus: Quare tempus mutatum adhuc non est abolitum. Horologium iterum in novissima volutpat mense Octobri vertitur. Tempus mutatum est exitus vexator per multos cives Europaeos. Cur nihil mutatur?,0.0,1.0,0.0,1.0,1.0
 "Hochwasser wegen Sturm: Sturmtief: Campingplatz auf Norderney unter Wasser. Norderney - Das Sturmtief, das über den Norden Deutschlands hinweggefegt ist, hat auf der ostfriesischen Insel Norderney für Schäden gesorgt. Neben",0.0,1.0,0.0,1.0,1.0
 "Hokkaido and Co.: Pfalzmarkt: Challenging weather conditions for pumpkins. Hokkaido remains the pumpkin king, Halloween pumpkins are booming before the festival. You can find out here how the weather and low producer prices affect the harvest.",0.0,1.0,0.0,1.0,1.0
-Impacts,-0.017861448297374124,0.31347864783286694,0.04989899788681964,0.13165491467445678,3613.0
+Impacts,-0.01768680732466741,0.31349840158925774,0.05007440067933895,0.1315425372012871,3645.0
 "In ""Dies Mundus Stuttering"": Associationis: Agere cum hominibus qui balbutiunt melius. Mogontiacum/Saarbrücken (lrs) - Secundum Oliver Winter e Consociatione publica Stuttering &",0.0,1.0,0.0,1.0,1.0
 "In insula Corsica ""Benjamin"" in insula Corsicae feriae Germanicae tempestatibus mortuus est. Germanus feriatus in insula Corsica Mediterraneo Gallico in Beniamin expugnatione mortuus est. XLV annos natus est cum uxore et duobus liberis in flumine lavabatur cum aqua gradu gravi ex ...",0.0,1.0,0.0,1.0,1.0
 In ludis Bavaricis Praemium - motus Dahlmeier momentum a nostris biathlon astris. Verisimile erit cum prioribus teammates quovis generi hac hieme current... Laura Dahlmeier (†31) erit...,0.0,1.0,0.0,1.0,1.0
@@ -75,7 +75,7 @@ Ludis hibernis: Feldberg cogitat tempus initium in fine Novembris. Todtnau (lsw)
 "Meal Prep für den Herbst: Einmal Herbst zum Mitnehmen, bitte!. Sie trauern dem Sommer hinterher? Kosten Sie doch lieber den Herbst in vollen Zügen aus! Wir haben eine Woche mit Lunchgerichten für Sie geplant – ganz ohne Reste.",0.0,1.0,0.0,1.0,1.0
 Mehr Qualität statt Masse - Erstes Skigebiet führt Besucherlimit ein. Madonna di Campiglio führt ab Winter 2025/26 Kapazitätsgrenzen ein und begrenzt Skipässe auf 14.000 Stück an besonders stark frequentierten Tagen.,0.0,1.0,0.0,1.0,1.0
 Minores baccae et imbres mense Septembri: messis vina minor quam aestimatur. Messis vini in Germania hoc anno humilior quam initio aestimatur. Vinum Germanum in Bodenheim Institutum Mercurii die Mercurii pronuntiavit totalem fructum sub octingentis miliones hectoliterorum proxime futurum exspectari.,0.0,1.0,0.0,1.0,1.0
-Mitigation,0.0073291013836699085,0.3186032840043634,0.04274662872378608,0.1294625891972504,2167.0
+Mitigation,0.009144462909859805,0.3185905029401567,0.04341101480129765,0.1301646168321912,2192.0
 Motorcycles: TÜV cursores periculi autumni in viis Thuringiae monet. Erfurt - TÜV Thuringia monet periculum auctum accidentium motorcyclistarum autumno. Multi bikers usi sunt fortasse apricis proximis diebus,0.0,1.0,0.0,1.0,1.0
 "Natura conservationis: Novum audio pretium Buchenwald Grumsin vertit in experientiam audientem. Schorfheide-Chorin (bb) - Fagorum vetus, soni novi: Itinere audio intentum est ut Grumsin Mundanus Heritagium Saltus in septentrionali Brandenburgico experientiam audiat.",0.0,1.0,0.0,1.0,1.0
 "New releases: shimmering synthesizers, melancholic party rap, German chansons. There will be great new music from Hamburg in autumn. Five recommendations from the ZEIT editorial team",0.0,1.0,0.0,1.0,1.0
