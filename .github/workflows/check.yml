@@ -21,9 +21,9 @@ jobs:
           # this is to fix GIT not liking owner of the checkout dir
           chown -R $(id -u):$(id -g) $PWD
 #      - name: install aiohttp
-#        run: (pip3 install aiohttp)
+#        run: (uv pip install aiohttp)
 #      - name: install asyncio
-#        run: (pip3 install asyncio)
+#        run: (uv pip install asyncio)
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: cp mysecrets.py
@@ -35,7 +35,7 @@ jobs:
             NEWSAPI_KEY:  ${{ secrets.NEWSAPI_KEY }}
             RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
             GEONAMES_KEY: ${{ secrets.GEONAMES_KEY }}            
-        run: (python3 check_api.py)
+        run: (uv run python check_api.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:

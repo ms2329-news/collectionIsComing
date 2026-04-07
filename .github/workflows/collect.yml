@@ -30,17 +30,17 @@ jobs:
 #        with:
 #          ref: master
       - name: install aiohttp
-        run: (pip3 install aiohttp)
+        run: (uv pip install aiohttp)
       - name: install asyncio
-        run: (pip3 install asyncio)
+        run: (uv pip install asyncio)
       - name: install deep-translator
-        run: (pip3 install deep-translator)    
+        run: (uv pip install deep-translator)    
       - name: cd /cre/python/
         run: (cd /cre/python/)
       - name: cp mysecrets.py
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run collect
-        run: (python3 collect.py)
+        run: (uv run python collect.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
         with:
