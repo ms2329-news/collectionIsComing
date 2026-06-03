@@ -38,7 +38,7 @@ extremeColors = {'unknown':'#ffffff', 'Thunderstorm':'#53785a', 'Storm':'#222222
                  'Snow Avalanche':'#deddd5', 'Wildfire':'#fa0007', 'Fog':'#535271', 'Snow&Ice':'#dedde5', 'Flood':'#030ba1', 'Drought':'#572c03', 'Tropical Cyclone':'#4f7fbf', 'Volcano':'#b83202', 'Earthquake':'#870047'  
                }
 
-topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF00', 'Causes':'#00FFFF', 'Impacts':'#FFFF00', 'Hazard':'#FF0000', 'Resilience':'#FF00FF'}
+topicColors = {'unknown':'#000000', 'Adaptation':'#0000FF', 'Mitigation':'#00FF00', 'Causes':'#00FFFF', 'Impacts':'#FFFF00', 'Hazard':'#FF0000', 'Resilience':'#FF00FF', 'Vulnerability':'#000000'}
 
 
 def getNewsFiles():
